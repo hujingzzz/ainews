@@ -6,7 +6,7 @@ resume_site:
 description: Focus on cutting-edge developments in the global AI field, covering popular AI news such as corporate updates, product launches, and policy interpretations.
 github_username: 
 github: 
-plugins: [jekyll-paginate, jekyll-simple-search]
+plugins: [jekyll-paginate]
 permalink: /:year-:month-:day-:title
 paginate: 12
 paginate_path: "/page/:num/"
@@ -20,7 +20,3 @@ comments :
     repo : 
     owner : 
     admin : 
-simple_search:
-  path:   /search.html
-  input_id: search-input
-  search_type: json

@@ -3,8 +3,8 @@ layout: default
 ---
 
 <div class="main-content index-page clearfix">
-    <div class="post-lists">
-        <div class="post-lists-body">
+    <div class="post-lists" id="post-lists">
+        <div class="post-lists-body" id="post-lists-body">
             {% for post in paginator.posts %}
             <div class="post-list-item">
                 <div class="post-list-item-container">
@@ -34,7 +34,6 @@ layout: default
         </div>
     </div>
 
-
     {% if paginator.total_pages > 1 %}
     <div class="lists-navigator clearfix">
         <ol class="page-navigator">
@@ -55,3 +54,48 @@ layout: default
     {% endif %}
 
 </div>
+
+<!-- 搜索JS逻辑 -->
+<script>
+(function() {
+  let posts = [];
+  let originHtml = document.getElementById('post-lists-body').innerHTML;
+  fetch('/search.json')
+    .then(res => res.json())
+    .then(data => { posts = data; });
+
+  document.getElementById('search-input').addEventListener('input', function(e) {
+    const kw = e.target.value.trim().toLowerCase();
+    const body = document.getElementById('post-lists-body');
+    if (!kw) {
+      body.innerHTML = originHtml;
+      return;
+    }
+    const filtered = posts.filter(post =>
+      post.title.toLowerCase().includes(kw) ||
+      post.content.toLowerCase().includes(kw)
+    );
+    if (filtered.length === 0) {
+      body.innerHTML = '<div style="text-align:center;color:#888;">没有找到相关内容</div>';
+      return;
+    }
+    body.innerHTML = filtered.map(post => `
+      <div class="post-list-item">
+        <div class="post-list-item-container">
+          <div class="item-thumb bg-deepgrey" style="background-image:url('/style/image/thumbnail.png');"></div>
+          <a href="${post.url}">
+            <div class="item-desc">
+              <p>${post.content}</p>
+            </div>
+          </a>
+          <div class="item-slant reverse-slant bg-deepgrey"></div>
+          <div class="item-slant"></div>
+          <div class="item-label">
+            <div class="item-title"><a href="${post.url}">${post.title}</a><br />${post.date}</div>
+          </div>
+        </div>
+      </div>
+    `).join('');
+  });
+})();
+</script>
