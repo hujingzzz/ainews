@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meta与Oakley合作推出的Meta HSTN智能运动眼镜 续航更强 适合各种极限运动
+title: Meta and Oakley are working on the Meta HSTN smart motion glasses, which are more robust and suitable for all kinds of extremes.
 date: 2025-06-26 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/meta-oakley-meta-hstn_1.jpg
@@ -9,85 +9,70 @@ icon: book
 * content
 {:toc}
 
-**Meta与Oakley合作推出的Oakley Meta HSTN**智能运动眼镜，将**先进的人工智能（AI）技术**与**运动眼镜**的设计相结合，旨在为运动员和运动爱好者提供全新的体验。
-这款产品结合了Oakley的标志性运动设计、先进的光学技术和Meta的人工智能（AI）功能，融合了**AI助手**、**高清摄像**、**音频播放**和**运动数据分析**等多种功能，帮助运动员更好地理解自己的表现并提升训练效果。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality720pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-### **核心功能和特点**：
-1. **AI助手集成**：
+**Oakley Meta HSTN** smart sports glasses, launched by Meta in collaboration with Oakley, which combines** advanced artificial intelligence technology (AI)** with** sports glasses** design and aims to provide new experiences for athletes and sports fans. This product combines Oakley's iconic motor design, advanced optical technology and Meta's artificial intelligence (AI) functions, integrating **AI assistants**,** high-quality cameras**,** audio play** and** campaign data analysis** to help athletes better understand their performance and improve their training effectiveness.
 
-- **Meta AI**：眼镜内置了Meta的AI助手，运动员可以通过语音命令与眼镜互动。比如，玩高尔夫时，你可以说：“嘿，Meta，今天的风速如何？”AI会告诉你风速的变化，帮助你做出更好的击球决策。
+## ** Core functions and characteristics** 1. **Auxiliary integration**:
 
-- **记录视频**：你还可以通过语音命令轻松录制视频，例如说：“嘿，Meta，拍个视频。”这样，你可以轻松记录自己的运动精彩时刻。
+- **Meta AI**: The glasses are embedded with Meta's assistant, and athletes can interact with them by voice commands. For example, when you play golf, you can say, "Hey, Meta, how's the wind going today?" AI will tell you how the wind speed changes and help you make better shot decisions.
 
-- **语音控制**：内置Meta AI，支持免提语音指令，用户可通过“Hey Meta”唤醒，执行以下操作：
-查询实时信息，如天气、风速、浪况或比赛规则（对运动员尤其有用）。
+- ** Record video**: You can also make video easily by voice command, for example, "Hey, Meta, take a video." So you can easily record your sports moments.
 
-- 发送消息或拨打电话（支持WhatsApp、Messenger等）。
+- **Voice control**: the built-in Meta AI supports the silent voice command, and users can wake up by “Hey Meta” and perform the following operations:
 
-- 拍摄照片/视频或直播到社交平台。
+- Sending messages or calling (support for WhatsApp, Messenge, etc.).
 
-- 提供实时翻译（支持多语言，适合旅行或国际赛事）。
+- Photographs/videos or live broadcasts to social platforms.
 
-- 视觉描述功能：为视力障碍用户描述周围环境，如物体、颜色或文字。
+- Provision of real-time translation (support for multilingualism, suitable for travel or international events).
 
-**局限性**：AI功能依赖云端连接，需稳定的Wi-Fi或移动数据网络。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay2. **高清摄像与音频播放**：
+- Visual description function: a description of the surrounding environment for users with visual impairments, such as objects, colours or text.
 
-- **3K 高清摄像头**：内置的摄像头可以拍摄 **3K 超高清** 视频，记录你在运动中的每一个精彩瞬间，然后通过眼镜与朋友分享。
+** Limitations**: AI functions rely on cloud connections and require a stable Wi-Fi or mobile data network.
 
-- **开放式耳机扬声器**：
-**设计**：采用开放式耳机技术，集成于镜腿，通过定向音频提供音乐、播客或通话体验，同时保持对环境的感知（对户外运动者至关重要）。
+- **3K high-quality camera**: built-in cameras can shoot **3K super-high-quality** videos documenting every great moment of your motion and sharing them with your friends through glasses.
 
-- **音质**：支持高保真音频，适合运动中的低音增强或清晰通话。
+- ** Open earphone speaker**: ** Design**: Open headphone technology, integrated into mirror legs, providing music, podcast or call experience through targeted audio, while maintaining environmental awareness (essential for outdoor sportsmen).
 
-- **五麦克风阵列：**优化语音交互、视频录制和通话音质，具备降噪能力，适合嘈杂环境（如户外运动或城市通勤）。确保Meta AI准确识别语音指令，视频录制时捕捉清晰的环境音或对话。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-3. **强大视觉体验**：
+- ** Audio**: Supports high-fibre audio, suitable for lower-sounding or clear communication in motion.
 
-- **PRIZM™ Lens 技术**：这款眼镜配有Oakley独有的 **PRIZM™ 镜片技术**，可以增强色彩对比度和视觉清晰度。特别是在不同光线或天气条件下，这种技术可以帮助你看到更多的细节，反应更快。例如，球场上的小细节或在滑雪时的冰面反射。
-![](https://assets-v2.circle.so/kh9r8ueqbloocw6gyqcxaij32nw9)
-- **12MP超广角摄像头**
-**分辨率**：支持高达3K（2880x1620）视频录制，显著优于Ray-Ban Meta的1080p（1920x1080）。
+- ** Five micro arrays: ** Optimizing voice interaction, video recording and voice recording, with noise-reducing capabilities appropriate to the noise environment (e.g. outdoor exercise or urban commute). Ensure that Meta AI accurately recognizes voice commands and captures clear environmental sound or conversation during video recording.
 
-- **视频时长**：单次录制最长3分钟，适合捕捉运动中的关键时刻，如滑雪、冲浪或跑步。
+3. ** Strong visual experience**:
 
-- **照片与视频管理**：通过Meta View应用，用户可将拍摄内容直接传输到智能手机，快速编辑并分享至社交平台（如Instagram、WhatsApp、Facebook）。
+- **PrizMTM Lens technology**: This glasses is equipped with a unique Oakley **PrizMTM mirror technology** that enhances colour contrast and visual clarity. Especially in light or weather conditions, this technology helps you see more details and reacts more quickly. For example, small details on the field or ice reflections during skiing.[3] (https://assets-v2.circle.so/kh9r8ueqbrocw6gyqxaij32nw9) - **12MP ultra-wide corner camera ** ** Resolution**: Support up to 3K (2880x1620) video recording, significantly better than Ray-Ban Meta's 1080p (1920x1080).
 
-- **应用场景**：运动员可记录第一视角（POV）视频，日常用户可拍摄生活片段或用于无障碍功能（如为视力障碍者描述环境）。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-4. **运动专用设计**：
+- ** Video duration**: A single recording of up to three minutes is appropriate to capture critical moments in motion, such as skiing, surfing or running.
 
-- **防水设计**：眼镜具有 **IPX4 防水等级**，意味着它可以在雨天或者流汗时使用，适合各种极限运动。
+- ** Photo and video management**: Through MetaView applications, users can transmit the film directly to smartphones, quickly edit and share it on social platforms (e.g. Instagram, WhatsApp, Facebook).
 
-- **舒适佩戴**：Oakley结合人体工学设计，确保眼镜佩戴舒适，不会影响运动表现。
+- **Application scene**: Athletes can record first-view (POV) videos, and daily users can film segments of their lives or use them for accessibility (e.g. description of the environment for persons with visual impairments).
 
-- **触控与按键操作**
-**触控面板**：镜腿侧面支持滑动和点击操作，用于调节音量、播放/暂停媒体或激活AI助手。
+4. ** Sport design**:
 
-- **物理按钮**：用于快速启动拍摄或切换功能，适合运动中快速操作。
+- **Waterproof design**: Glasses have **IPX4 waterproofing levels**, which means that they can be used during rainy days or sweating and are suitable for various extremes of motion.
 
-- **直观设计**：触控和按键结合，减少学习成本，适合高强度运动场景。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality720pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-5. **长效电池和快速充电**：
+- ** Comfort wear**: Oakley combines body engineering design to ensure that glasses are comfortable and do not affect sports performance.
 
-- **8小时使用时间**：一次充电可支持连续使用 **8小时**，即便是长时间的运动也能满足需求。
+- **Touch and key operations** **Touch panel**: mirror leg side supports slide and click operations to regulate volume, play/suspension media or activate an AI assistant.
 
-- **19小时待机**：即使不使用时，眼镜的待机时间也可达到 **19小时**。
+- **Physics button**: for quick start shoot or switch functions suitable for fast action in motion.
 
-- **快速充电**：充电20分钟就能充至 **50%**，这样你可以快速恢复电量，继续使用。
-![](https://assets-v2.circle.so/cbth9m9igksjexm52zp68555ml98)
+- **Intuitive design**: Tact control and keying combined to reduce learning costs and fit for high-intensity sports scenes.
 
-### 🛒 **产品销售与定价**：
+5. **Long-acting batteries and fast charge**:
 
-- **限量版** Oakley Meta HSTN 将于 **7月11日** 开始预售，售价为 **499美元**。
+- ** 8 hours **: One charge can support continuous use ** 8 hours ** and even long sports can meet demand.
 
-- 普通版本的起售价为 **399美元**，稍后会在美国、加拿大、欧洲等多个地区发售。
-![](https://assets-v2.circle.so/284jjjzhzwpssrifjbe4qvov2z1h)
-**与Ray-Ban Meta的区别**：
+- **19-hour waiting period**: even if not used, glasses can be held for **19 hours**.
 
-- 更高分辨率摄像头（3K vs 1080p）、更长电池续航（8小时 vs 4小时）、更大容量充电盒（48小时 vs 36小时）。
+- **Quick charge**: charge **50% in 20 minutes so that you can quickly recover the power and continue to use it.[1] (https://assets-v2.circle.so/cbth9m9igksjexm52zp6855ml98)
 
-- 更运动化的设计，定位于性能和耐用性。
-![](https://assets-v2.circle.so/r0needq8cxji3bgenfp9aq8zq2m4)
-官网：https://www.meta.com/ai-glasses/oakley-meta-hstn/
-See more
+# #  ** Product sales and pricing**:
+
+- ** Restricted version** Oakley Meta HSTN will be ready for sale on ** 11 July** at a price of **499 United States dollars**.
+
+- The start-up price for the generic version is **$399**, which will be available later in several regions, such as the United States, Canada, and Europe.[1] (https://assets-v2.circle.so/284jjjzhwpssrifjbe4qvov2z1h)** difference from Ray-Ban Meta**:
+
+- Higher resolution cameras (3K vs 1080p), longer batteries (8 hours vs 4 hours), larger capacity charge boxes (48 hours vs 36 hours).
+
+- More mobile design, positioned for performance and durability.[1] (https://assets-v2.Circle.so/r0needq8cxji3bgenfp9aq8zq2m4) Network of officials: https://www.meta.com/ai-glasses/oakley-meta-hstn/

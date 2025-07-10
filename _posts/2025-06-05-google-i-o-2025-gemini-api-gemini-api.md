@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google I/O 2025 大会Gemini API 更新大汇总 一文了解Gemini API 都做了哪些更新升级
+title: Google I/O 2025 General Assembly Gemini API Update Large Summary
 date: 2025-06-05 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-i-o-2025-gemini-api-gemini-api_1.jpg
@@ -9,209 +9,166 @@ icon: image
 * content
 {:toc}
 
-Google 在 I/O 2025 上发布了对 **Gemini API 和 Google AI Studio** 的一系列重要更新，涵盖模型能力扩展、音频与视频输入支持、思维过程可视化、浏览器自动化控制等新功能。
-这些更新显著提升了开发者在构建文本、图像、音频、视频、多模态代理方面的能力。
-**Gemini API** 已逐步发展为一个完整的多模态智能平台，适用于从代码生成到音频对话、从网页信息提取到浏览器操作控制的广泛场景。允许开发者调用其最先进的文本、图像、音频和视频模型。此次更新聚焦于以下方面：
-**新模型与语音能力升级**
-**实时音乐生成**
-**多模态输入增强（视频理解等）**
-**开发工具与API结构更新（如思维摘要、浏览器控制、异步函数调用）**
-**为开发者提供更高效、经济的模型访问方式（如批处理 API）**
-![](https://assets-v2.circle.so/kv57tyr4qmzos3g0w0zuwddvnt3o)
-## 模型更新与能力拓展
+Google published on I/O 2025 a series of important updates to **Gemini API and Google AI Studio** covering model capability extensions, audio and video input support, visualization of the thinking process, and browser automation controls. These updates significantly enhanced the ability of developers to build text, images, audio, video, multi-model agents. ** Gemini API** has gradually evolved into a complete multi-model smart platform for extensive scenarios from code generation to audio dialogue, from web-based information extraction to browser operation control. ** Allow developers to access their most advanced text, image, audio and video models (e.g. batch processing API). This update focuses on the following areas: **New models and voice capability upgrades** ** Real-time music generation** ** Multi-model input enhancement (video understanding, etc.)** and tools for updating the API architecture (e.g. synthesis, browser control, atrot function) ** More efficient, economic model access (e.g.g. batch API) ** https://s.cits.circ.kv.v.v.v.v.v.v.v.v.v.op.v.v.v.v.v.
 
-### 🧠 1. Gemini 2.5 Flash Preview 新模型
+# # 1. Gemini 2.5 Flash Preview new model
 
-- **版本标识：** gemini-2.5-flash-preview-05-20
+- ** Version identification:** Gemini-2.5-flash-preview-05-20
 
-- **性能改进：** 在逻辑推理、代码生成、长上下文处理方面超过前代。
+- ** Performance improvement:** More than the previous generation in logical reasoning, code generation, long context treatment.
 
-- **评测成绩：** 在 LMarena 榜单中排名第二，仅次于 Gemini 2.5 Pro。
+- **Assessment of achievement:** ranked second in LMarena list, after Gemini 2.5 Pro.
 
-- **效率提升：** 评估显示 token 使用效率提高了 **22%**。
+- ** Efficiency gains:** The assessment shows an increase in efficiency in the use of token **22%**.
 
-### 🔊 2. Gemini 2.5 Pro & Flash TTS（文本转语音）
+##  2. Gemini 2.5 Pro & Flash TTS (text to voice)
 
-- **支持语言：** 超过 **24种语言**。
+- ** Support languages: ** More than **24 languages**
 
-- **支持类型：** 单一发声人、多发声人（multi-speaker），支持**情绪、语气控制**。
+- ** Type of support: ** Single voicer, multi-sounder (multi-speaker), support** Emotional, verbal control**
 
-- **应用场景：** 创建拟人化AI角色、多轮语音对话代理、音频内容创作等。
+- **Application scene:** Creation of artificial AI roles, multi-wheel voice dialogue agents, audio content creation, etc.
 
-### 🗣️ 3. Gemini 2.5 Flash 原生语音对话模型
+3. Gemini 2.5 Flash Native Voice Dialogue Model
 
-- **功能特性：**
-提供30种不同声音风格
+- ** Feature:** Provides 30 different sound styles
 
-- 自动识别背景与说话者区分
+- The distinction between automatic background recognition and speaking.
 
-- 响应用户语调/情绪变化
+- Responding to user tone/emotional changes
 
-- 使用“思考模型”进行复杂逻辑处理
+- The use of “thinking models” for complex logical processing
 
-**适用场景：**
+**Application scenario:**
 
-- 呼叫中心智能代理
+- Call the center smart agent.
 
-- 多角色语音故事
+- Multi-role voice story.
 
-- 带语气的个性语音助手
+- A voice-like voice assistant.
 
-### 🎵 4. Lyria RealTime：实时音乐生成
+# 4. Lyria RealTime: Real-time music generation
 
-- **工作原理：** 通过 WebSocket 建立实时流式连接，模型持续生成音乐片段。
+- ** Rationale:** Create real-time current connections through WebSocket, and the model continues to generate music segments.
 
-- **控制方式：** 文本提示控制生成风格与节奏。
+- ** Control method: ** Texttip control generation style and rhythm.
 
-- **应用示例：** Google AI Studio 中的 PromptDJ-MIDI 示例应用。
+- **Application example: **PromptDJ-MIDI example application in Google AI Studio.
 
-### 🧮 5. Gemini 2.5 Pro Deep Think（深度思维模式）
+# # 5. Gemini 2.5 Pro Deep Think
 
-- **用途：** 实验性功能，用于处理**复杂数学与编程问题**。
+- **Use: ** Experimental function to handle ** complex mathematical and programming problems**
 
-- **表现：** 推理链更长，精度更高，适用于高级代码生成和逻辑求解。
+- ** Performance:** Longer and more accurate reasoning chain applicable to advanced code generation and logical resolution.
 
-### 💡 6. Gemma 3n（轻量多模态模型）
+# 6. Gemma 3n (light multimodule model)
 
-- **部署平台：** 适用于手机、笔记本、平板等边缘设备。
+- ** Deployment platform:** for peripheral devices such as mobile phones, notebooks, tablets, etc.
 
-- **支持模态：** 文本 + 音频 + 图像。
+- **Supported model: ** Text + Audio + Image.
 
-- **技术架构：**
-**PLE参数缓存**：按层缓存减少推理负担。
+- **Technical architecture: ** **PLE parameters cache**: layer-based cache reduces the burden of reasoning.
 
-- **MatFormer架构**：降低计算与内存开销。
+- **MatFormer architecture**: reduced calculation and memory costs.
 
-## API 功能增强与开发者工具
+# API functionality enhancement and developer tool
 
-### 🧠 1. 思维摘要（Thought Summaries）
+# # 1. Thought Summers
 
-- **用途：** 提取模型在推理时的中间想法（chain-of-thought），帮助开发者理解模型思维路径。
+- **Use:** extract model in the middle of reasoning (chain-of-thought) to help developers understand the path of model thinking.
 
-- **展示方式：**
-标题分类
+- ** Presentation: ** Title Categorization
 
-- 工具调用链展示
+- Tool call chain display.
 
-- 与最终回答并列展示
+- Along with the final answer.
 
-**代码示例（Python）：**
-from google import genai
-from google.genai import types
-client = genai.Client(api_key="GOOGLE_API_KEY")
-prompt = "What is the sum of the first 50 prime numbers?"
-response = client.models.generate_content(
-model="gemini-2.5-flash-preview-05-20",
-contents=prompt,
-config=types.GenerateContentConfig(
-thinking_config=types.ThinkingConfig(
-thinking_budget=1024,
-include_thoughts=True
-)
-)
-)
-for part in response.candidates[0].content.parts:
-if part.thought:
-print("Thought summary:\n", part.text)
-else:
-print("Answer:\n", part.text)
+** Example of code (Python): ** from Google import genai import types cliet = genai.client (api_key="GOGLE_API_KEY") prompt = "What is the sum of the first 50 prime numbers?" respons.generate_content.
 
-### ⚖️ 2. 思考预算（Thinking Budgets）
+# # # 2. Thinking Budgets
 
-- **功能：** 控制模型在生成内容时“思考”的深度，以平衡准确率、延迟与成本。
+- **Function:** Controls the depth of the “thinking” model when generating content to balance accuracy, delay and cost.
 
-- **应用：** 可限制 token 使用量，适用于低延迟场景。
+- **Application:** Token usage can be limited and applied to low-delay scenarios.
 
-### 🔗 3. URL Context 工具
+#3. URL Context tool
 
-- **说明：** 模型可从指定网页自动获取相关上下文信息。
+- **Note:** Models can automatically access relevant context information from the designated web page.
 
-- **组合使用：** 可与 Google Search grounding 工具协同使用，增强研究型代理能力。
+- **Portfolio: ** Available in conjunction with GoogleSearch grouping tool to enhance research proxy capacity.
 
-- **使用方式：**
+- ** Usage: **
 
-tools = [
-Tool(url_context=types.UrlContext),
-Tool(google_search=types.GoogleSearch)
-]
-response = client.models.generate_content(
-model="gemini-2.5-flash-preview-05-20",
-contents="Give me a 3-day schedule based on YOUR_URL...",
-config=GenerateContentConfig(tools=tools)
-)
+[Tool (url_content=types. UrlContext), Tool (google_search=types.GoogleSearch)] response = client.models.generate_content (model="gemini-2.5-flash-preview-05-20", contents="Give me a 3-day schedule based on YOUR_URL...", config=GenerateContConfig (tools=tools)
 
-### 🌐 4. 浏览器自动化控制（Project Mariner）
+##4. Browser Automation Control (Project Mariner)
 
-- **功能：** 控制浏览器行为，如点击按钮、滚动页面、填表等。
+- **Function: ** Controls browser behaviour, e.g. click buttons, scroll pages, fill out forms, etc.
 
-- **部署方式：** 可一键在 Cloud Run 部署浏览器代理。
+- ** Method of deployment:** One key to deploy browser agent in Cloud Run.
 
-- **合作企业：** UiPath、Browserbase、Automation Anywhere 等已参与早测。
+- ** Cooperating enterprises:** UiPath, Browserbase, Automation Anywhere etc. have been involved in early detection.
 
-### 📼 5. 视频理解更新
+# #  5. Video understanding update
 
-- **输入支持：** YouTube 视频链接、直接上传视频。
+- **Input support:** YouTube video link, direct upload video.
 
-- **支持功能：**
-视频总结、分析、翻译
+- **Support function:** Video summary, analysis, translation
 
-- 视频裁剪（提取片段分析）
+- Video clipping (extract snippet analysis)
 
-- 可变帧率（0.1 ~ 60 FPS）支持游戏/体育等高帧内容
+- Variable Frame Rate (0.1 ~ 60 FPS) supports high frame content such as games/sports
 
-- 分辨率控制：720p / 480p / 360p
+- Resolution control: 720p / 480p / 360p
 
-### ⚙️ 6. 异步函数调用（Async Function Calling）
+## 6. Asynchronous function calls (Async Action Calling)
 
-- **新特性：** 在 Live API 中实现异步调用，不阻塞对话主流程。
+- **New feature: ** To achieve an aneurysm in Live API, without blocking the main dialogue process.
 
-- **设置方式：** 在函数定义中将 behavior 字段设为 NON_BLOCKING。
+- **Setting method: ** Sets the behavior field as NN_BLOCKING in the function definition.
 
-### 🧾 7. 批处理 API（Batch API）
+##  7. Batch API (Batch API)
 
-- **功能：** 支持将多个请求批量发送，最长24小时返回结果。
+- **Function: ** Supports multiple batches to return results up to 24 hours.
 
-- **优势：**
-成本为交互API的一半
+- **Success:** Cost half of the interactive API
 
-- 提供更高速率限制
+- Provide a higher rate limit
 
-**适用场景：** 大规模分析、批量文档处理、离线评估等。
+**Application scenario: ** Large-scale analysis, bulk document processing, offline assessment, etc.
 
-## 总的来说：
+# Overall:
 
-### ✅ Gemini API 的新能力使其成为一个：
+# #  Gemini API's new capabilities make it one:
 
-- 真正多模态的统一接口
+- Real multi-model unified interface.
 
-- 适用于轻量到重载各种设备
+- For light to heavy loads of equipment
 
-- 涵盖音频、视频、图像、网页、文本等复杂交互场景
+- A complex interactive scene covering audio, video, images, web pages, text, etc.
 
-- 支持更透明可控的模型输出与思维调试
+- Support for more transparent and controlled model output and mind manipulation
 
-**开发者可以：**
+** Developer can:**
 
-- 快速原型测试
+- Fast prototype test.
 
-- 构建可商用的智能代理
+- Build commercial smart agents
 
-- 集成语音、视频、图像等输入输出
+- Integrated voice, video, image, etc. input output
 
-- 使用工具调度和自动化控制接口创建智能工作流
+- Create smart workflows using tool scheduling and automated control interfaces
 
-### 🧩 推荐场景：
+# # # recommended scene:
 
-- 构建语音对话机器人
+- To build a voice talk robot.
 
-- 开发视频内容摘要工具
+- Development of a video content summary tool
 
-- 音乐生成创作应用
+- Music generation creative applications
 
-- 浏览器自动化测试工具
+- Browser Automation Test Tool
 
-- 研究型 AI 信息代理
+- Research type AI Information Agent
 
-原文：https://developers.googleblog.com/en/gemini-api-io-updates/
-📚 查看开发者文档以获取更多示例代码与API指南：https://ai.google.dev
-See more
+Original: https://developmenters.googleblog.com/en/gemini-api-io-updates/  View the developers document to get more example codes and API guidelines: https://ai.google.dev

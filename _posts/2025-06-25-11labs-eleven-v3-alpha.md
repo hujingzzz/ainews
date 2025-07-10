@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 11Labs 推出 Eleven v3（Alpha 版） —— 有史以来表现力最强的文本转语音模型 “不仅会说话，还能演戏”
+title: 11Labs Launched Eleven v3 (Alpha Version) - The most powerful text-to-speech model ever: "Not only speak, but act."
 date: 2025-06-25 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/11labs-eleven-v3-alpha_1.jpg
@@ -9,79 +9,64 @@ icon: link
 * content
 {:toc}
 
-* content
-{:toc}
-ElevenLabs 推出了全新一代文本转语音模型 **Eleven v3（Alpha 版）**，这是目前表现力最强的 TTS 模型之一，支持 70 多种语言、多个角色间的自然对话，以及通过 [sad]、[whispers]、[laughs] 等音频标签精准控制语音情绪与非语言表达。
-与旧版本相比，v3 拥有更强的文本理解能力，可以模拟真实对话中的中断、情感变化与语气调整。这使得它非常适合用于视频创作、有声书制作和媒体工具开发。
-**特点**：
+* current {:toc} ElevenLabs has launched a new generation of text-to-language models **Eleven v3 (Alpha version)**, which is one of the most powerful TTS models at present, supporting a natural dialogue between more than 70 languages, multiple actors, and controlling voice and non-verbal expression through the precision of audio labels such as [sad], [whospers], [lughs]. v3 has a stronger text-reading capability that simulates interruptions, emotional changes and tone adjustments in real conversations. This makes it very suitable for video creation, audio book production and media tool development. ** Features: **
 
-- 支持 **70+ 语言**
+- Support **70+ Language**
 
-- 支持 **多角色对话**
+- Support ** Multi-Role Dialogue**
 
-- 支持**音频标签**（如 [sad]、[laughs]、[whispers] 等）来控制情绪和表现力
+- Support** audio tags** (e.g. [sad], [lughs], [whisters] etc.) to control emotions and performance
 
-- v3 是研究预览版，需要更高水平的提示工程，但生成效果非常出色
+-V3 is a research preview, requiring a higher level of alert work, but it's very good at generating it.
 
-- 新架构对文本理解更深，可实现更具表现力的语音
+- The new architecture has a deeper understanding of the text and allows for a more expressive voice
 
-- 可模拟现实对话中的**情感、打断、语气变化**
+- Simulation of emotions, interruptions, tone changes in the reality dialogue**
 
-- 即将开放 API 接口，支持创作者和开发者
+- I'm about to open the API interface to support creators and developers
 
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-## 🌟 V3主要升级亮点一览
+#  V3 main upgrade highlights
 
-### ✅ 1. **情绪+指令+音效 → 更拟真**
-v3 支持全新「**音频标签（audio tags）**」，开发者或创作者可以控制语音的：
+## 1. ** Emotion + Command + Sound  More True** v3 Supports the new '**audio tags'**, where developers or creators can control voice:
 
-- 情绪（愤怒、高兴、紧张、冷静等）
+- Emotions. (Anger, happy, nervous, calm, etc.)
 
-- 强调与语调走向
+- Emphasis and tone.
 
-- 暂停、语速、音效混合（如“笑声”、“尖叫”）
+- Pauses, speeds, mixes of sound (e.g. laughter, screams)
 
-🌈 例子：你可以生成一段内容，从「小声嘟囔」过渡到「歇斯底里大笑」，再加入背景音效，让听者沉浸其中。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-### ✅ 2. **多角色、交叉打断对话能力**
+Example: You can generate a piece that moves from a "low voice" to a "hysteric laugh" and adds a background sound that allows the listener to immerse in it.
 
-- 支持 **两个及以上角色**进行自然互动；
+# 2. ** Multi-player, cross-interruptment of dialogue**
 
-- 支持**同步语境和情绪匹配**；
+- Support for natural interactions ** two or more roles**;
 
-- 对话中可设置打断、抢话、幽默过场等；
+- Support for **synchronous context and emotional matching**;
 
-- 模拟真实人类对话场景，比以往任何版本更流畅自然。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
+- Interruption, talk-making, humor, etc., can be set up in the dialogue;
 
-### ✅ 3. **语言覆盖：70+ 语言支持**
-相较于 v2 的 29 种语言，**v3 现支持超过 70 种语言**，覆盖：
+- Simulation of real human dialogue scenes that are more fluid than any previous version.
 
-- 所有主流语言（英文、中文、法语、西班牙语、阿拉伯语等）
+## 3. ** Language coverage: 70+ Language support** 29 languages compared to v2, **v3 currently supports more than 70 languages**, over:
 
-- 地区小语种（僧伽罗语、吉尔吉斯语、乌尔都语等）
+- All mainstream languages (English, Chinese, French, Spanish, Arabic, etc.)
 
-🎯 用途： 非英文播客、全球配音、本地化音频内容生成。
-![](https://assets-v2.circle.so/oip0q3rh4t0m30zen48zsw7btzj4)
-### ✅ 4. **文本到对话（Text to Dialogue）新模式**
-这是 v3 中最强大的能力之一：
+- Small regional languages (Sanjaro, Kyrgyz, Urdu, etc.)
 
-- 通过普通文本，自动将不同角色、语气、音色编织成「对话音频」；
+Use: Non-English podcasts, global sounding, localised audio content generation.[3] (https://assets-v2.Circle.so/oip0q3rh4t0m30zen48zsw7btzj4) ## 4. ** Text to Dialogue New Mode** This is one of the most powerful capabilities of v3:
 
-- 不需要逐句标记角色或语气，系统会自动判断；
+- Automatically woven different roles, tone and sound into "dialogue audio" through plain text;
 
-- 生成的对话极具表现力与连贯性，适用于音频剧、游戏对白、广告创作等。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
+- Without the need to mark the role or tone of each sentence, the system will automatically judge;
 
-## v2 与 v3 对比
-![](https://assets-v2.circle.so/o6z3wxmbhc7u7e8ysxwhy9bzkn24)
-### **支持哪些标签？**
+- The dialogue generated is extremely active and consistent and applies to audio dramas, game dialogue, advertising, etc.
 
-- 情绪类：[ANGRY], [LAUGHS], [WHISPERS]
+# v2 compared to v3![] (https://assets-v2.Circle. so/ o6z3wxmbc7u7e8ysxwhy9bzkn24) ##** Which labels are supported?**
 
-- 动作类：[SHOUTING], [SIGHING]
+- Emotions: [ANGRY], [LAUGHS], [WHISPERS]
 
-- 音效类：[EVIL LAUGH], [GIGGLE]详细标签参考：Prompting Guide 🔗
+- Action class: [SHUTING], [SIGHING]
 
-官方介绍：https://elevenlabs.io/v3
-See more
+- Sound class: [EVIL LAUGH], [GIGGLE] Label detail: Promising Guide
+
+Official presentation: https://elevenlabs.io/v3

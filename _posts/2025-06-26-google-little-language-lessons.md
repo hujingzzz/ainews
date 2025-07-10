@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google 推出 “Little Language Lessons”（小小语言课程）让人们随时随地用日常场景进行语言练习
+title: Google introduces "Little Language Lessons" (Little Language Course) to enable people to practice their language at any time or place on a daily basis.
 date: 2025-06-26 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-little-language-lessons_1.jpg
@@ -9,200 +9,121 @@ icon: web
 * content
 {:toc}
 
-Google 推出的 “Little Language Lessons”（小小语言课程）是一组微型语言学习实验，旨在利用生成式 AI，让人们**随时随地用日常场景进行语言练习**。
-这不是一套传统的语言学习工具，而是一个围绕“**即时生活场景学习**”设计的交互式体验，鼓励用户：
+Google's “Little Language Lessons” is a group of micro-linguistic learning experiments designed to use generation AI to enable people ** to practice their language at any time or place using daily scenes** This is not a traditional language learning tool, but an interactive experience designed around “**Immediate life scenes**” to encourage users:
 
-- 利用日常机会“顺手学”
+- Take advantage of day-to-day opportunities to “student”
 
-- 形成高频、微小但持续的学习习惯
+- Development of high-frequency, small but continuous learning habits
 
-- 将语言学习“融入生活”而非“局限于课堂”
+- “Integration” of language learning rather than “only in the classroom”
 
-访问：labs.google/lll
+Visit: Labs.google/lll
 
-## 技术基础：基于 Gemini 2.0 模型构建
-所有功能都建立在 Google 自家的 **Gemini 2.0 大语言模型** 上，具备理解语境、生成自然对话、多模态处理等先进能力。
-借助 Gemini，Google 能构建出**更智能、互动性强、语境感知能力好的语言工具**，提升使用者的参与感和学习效率。
+# Technological basis: All functions are built on Google’s own **Gemini 2.0 large language model** with advanced abilities to understand context, generate natural dialogue, multi-model processing, etc. With Gemini, Google can build ** more intelligent, interactive, and contextually sensitive language tools** to enhance user participation and learning efficiency.
 
-## 🛠 三大 AI 语言学习实验工具详解
+# Three ALI language learning experimental tools to explain
 
-### 1️⃣ Tiny Lesson – 情境化短课程
-**功能**：针对特定生活场景（如“去咖啡店”、“乘地铁”、“点外卖”）提供小段词汇、实用句子、简单语法点。
-**特点**：
+#1 Tiny Lesson - Situational Short Course ** Function **: Provision of small phrases, practical sentences, simple grammatical points for specific life scenarios (e.g. “Go to a coffee shop”, “Travel”, “Standout”). ** Features **:
 
-- 简洁明快，一次只学一个小主题
+- It's simple and quick. Just one little theme at a time.
 
-- 强调应用场景，立即上手
+- Focus on the application scene. Let's do it now.
 
-- 有助于**形成语言反应习惯**
-![](https://assets-v2.circle.so/5fn7myjc6chx2anx7ljz8kjjgchl)
+- Helps to create a language reaction habit**![] (https://assets-v2.circle.so/5fn7myjc6chx2anx7ljz8kjgchl)
 
-### 2️⃣ Slang Hang – 学习地道口语和俚语
-**功能**：生成**真实语境下的模拟对话**，帮你掌握俚语和口语表达，比如：“That’s lit!”、“I’m down for it.”
-**特点**：
+#2 Slang Hang — Learning tunnel spoken and slang ** Function**: Generating ** Simulation dialogue in real contexts**, helping you to master slang and oral expression, such as: “Th's lit!”, “I'm down for it.” ** Features**:
 
-- 模拟原生英语会话语气和节奏
+- Simulate the original English-language tone and rhythm.
 
-- 学习非教科书式的表达方式
+- Studying non-textual expressions
 
-- 提升听力和自然表达能力
-![](https://assets-v2.circle.so/pzy38vx15qrl2myfzvfudbvoy165)
+- Elevation of hearing and natural expression capacity![] (https://assets-v2.circle.so/ pzy38vx15qrl2myfzvfudbvoy165)
 
-### 3️⃣ Word Cam – 用相机识词工具
-**功能**：打开手机摄像头，对准物品，系统会即时识别并提供该物品的外语名称与相关用法。
-**举例**：
+#3 Word Cam - Use camera word tool ** Function **: Open cell phone camera and point to the object and the system will immediately identify and provide the foreign language name and related usage of the item. ** Example: **
 
-- 拍“香蕉”→ 出现 banana、相关短语、可用语句
+- "Bananas." There's a banana, a phrase, a phrase.
 
-- 实现 **实物 + AI + 单词学习** 的即时闭环
+- Realization of ** in-kind + AI + word learning**
 
-**特点**：
+** Features**:
 
-- 实时互动，边看边学
+- Real-time interaction, reading and learning.
 
-- 适合视觉学习者
+- Fits for visual learners.
 
-- 强化单词记忆与生活关联
-![](https://assets-v2.circle.so/1rnfngicjw2xtckccdc6zf7mfkfz)
+- Strengthen word memory and life association![] (https://assets-v2.Circle. so/1rnfngicjw2xtckccdc6zf7mfkfz)
 
-## 🎯 理念亮点：补充传统学习，不是替代
-Google 明确表示，“Little Language Lessons”不是用来替代课本或系统学习的，而是：
+# Ideas: Supplementing traditional learning, not replacing Google, makes it clear that “Little Language Lessons” is not a substitute for textbooks or systems, but rather:
 
-- **补充正式课程**
+- ** Supplementary official course**
 
-- **鼓励兴趣驱动型学习**
+- ** Encouragement of interest-driven learning**
 
-- **降低学习门槛与心理压力**
+- ** Lower learning threshold and stress**
 
-- 帮助用户在碎片时间保持“语言沉浸感”
+- Helping users to keep "Language Absorption" in debris time
 
-## 🌱 教育意义与应用场景
-这类 AI 微学习工具非常适合：
+# The significance of education and the application of this kind of AI micro-learning tool is very appropriate:
 
-- 忙碌没空上课的上班族
+- A busy class worker.
 
-- 想把学习融入生活的兴趣学习者
+- An interested learner who wants to integrate learning into life.
 
-- 想练“生活用语”和“听力口语”的初学者
+- beginners who want to practice the terms of life and the words of hearing.
 
-- 想提高母语以外第二语言日常实用能力的用户
+- Users who want to improve the day-to-day functionality of a second language other than their mother tongue
 
-尤其适合“**非强制式学习**”或“**兴趣驱动型学习者**”。
+Particularly suitable for “** non-compulsory learning**” or “** interest-driven learners**”.
 
-## ✅ 总结一句话：
-Little Language Lessons 通过 Gemini AI 将语言学习变得更轻量、更有趣、更贴近日常，为“每次点咖啡、发短信、拍照”都变成学习机会提供了可能。
-![](https://assets-v2.circle.so/5y3gszjpj0jvsoegr8emo5frkgy6)
-## 🧠 Little Language Lessons 是怎么做出来的？
-一套基于 Gemini 模型的个性化语言学习实验系统
-**🧭 项目初衷：让语言学习像学编程一样“有上下文、能实践”**
-作者 Aaron Wade 是一名开发者兼语言爱好者。他观察到，学习编程往往从“写一个可运行的小项目”开始，而语言学习却常常从脱离语境的教材出发。他想改变这一点：**让语言学习变得“有上下文”、“即时可用”、“生活驱动”**。于是和一组同事一起，基于 Google 的 Gemini API 开始了这项实验。
+# # #Little Language Lessons # # #LittleLanguage Lessons # # # #LittleLittle Language Lessons # # # how to make language learning lighter, more interesting, more up-to-date by Gemini AI # # # # #LittleLittleLanguage Lessons # # # # a personalized language learning experimental system based on the Gemini model ** The original purpose of the project: ** To make language learning as a learning program ** Aaron Wade is a developer and a linguistic lover. He observes that learning programming often starts from “writing an operational small project” and that language learning often starts from a speech-based material.
 
-## 三个实验，三个方向
+# Three experiments, three directions
 
-### 1️⃣ **Tiny Lesson：在你需要的场景中学语言**
-学习语言中最令人沮丧的一件事是：你身处某个场景，需要一个词或一句话，而你还没学到它。
-这正是 Tiny Lesson 的出发点。你描述一个场景——比如“问路”或“护照丢了”——系统就会根据该语境，提供有用的词汇、短语和语法提示。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality720pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay**做法：**
-用户输入一个场景（如“问路”或“丢了护照”），系统就能输出该场景下的**关键词汇、常用短语和语法要点**。
-**技术实现：**
+##1 **Tiny Lesson: One of the most frustrating things about learning language in the secondary school language you need is that you're in a situation where you need a word or a sentence, and you haven't learned it. That's the point of departure for Tiny Lesson. You describe a scene — for example, "Isk the Road" or "lost Passport" — and the system will provide useful vocabulary, phrases and syntax tips based on that context.** Practice:** Users enter a scene (e.g., "Isk the Path" or "lost the Passport") and the system will be able to export **key vocabulary, common phrases and syntax points of the scene.** Technical realization:**
 
-- 使用 **Gemini API + JSON 输出结构**
+- Use **Gemini API+JSON output structure**
 
-- 将提示词（prompt）设定为：“你是双语教师，请为学生定制这个场景下的词汇表”
+- Set the word "prompt" to read: "You're a bilingual teacher, customize the vocabulary of the scene for the students."
 
-你是一名 {目标语言} 家教，精通 {目标语言} 和 {源语言}，擅长根据学生的语言使用目标定制教学内容。
-You are a(n) {target language} tutor who is bilingual in {target language} and
-{source language} and an expert at crafting educational content that is
-custom-tailored to students' language usage goals.
-- 在这个 prompt 以及之后的所有 prompt 中，我们都利用了 Gemini 提供 结构化 JSON 输出 的能力，定义我们希望的输出结果如下：
+You are a (n) {target language} tuctor who is bilingual in {target language} and {source language} and an expert at crafting educational content that is certain-tailored to students' languages' language us goals. - In this program and all subsequent projects, we have used Gemini's ability to provide structured JSON output, defining the following output:
 
-针对给定的使用情境，生成一个包含两个键的 JSON 对象："vocabulary" 和 "phrases"。
-"vocabulary" 的值应为一个对象数组，每个对象包含三个键："term"（词语）、"transliteration"（音译）、"translation"（翻译）。
-"term" 的值应为该场景下最常用的 {目标语言} 词汇。
-如果该语言本身使用拉丁字母，则 "transliteration" 应为空字符串。否则应为该词的音译。
-"translation" 的值为该词的 {源语言} 翻译。
-...
-- 结构包括：
-vocabulary：词汇 + 拼音/音译 + 翻译
+For a given use scenario, create a JSON object with two keys: "vocabulary" and "phrases". The value for "vocabulary" should be a set of objects, each with three keys: "term", "translation" and "translation" (translation). The value for "term" should be the most commonly used {target language} vocabulary in the scene. If the language itself uses the Latin alphabet, the "translation" should be an empty string. Otherwise, the word should be translated. The value for "translation" should be the {source language} translation of the word. ... - Structure includes: vocabulary: + spelling/ translation + translation.
 
-- phrases：常用句子
+-phrases: Common sentences.
 
-- grammarTips：语法建议（另一个 prompt）
+- GrammarTips: Syntax Proposal (another proposal)
 
-总体来说，每一课内容由两次 Gemini API 调用生成：一次生成词汇与短语，另一次生成相关语法要点。
-在每个 prompt 的结尾，会嵌入用户指定的语境内容，如下：
-输入场景（INPUT usage context）: {用户输入}
-### 2️⃣ **Slang Hang：像本地人一样说话**
-**做法：**
-生成一个现实生活场景下的**地道对话**，如朋友见面、街边闲聊、同事在地铁遇见等，逐句展开学习俚语和表达习惯。
-当你语言学习进展顺利，能够对话、表达、交流自如时，你会突然意识到：你听起来……太刻板了。太正式、太僵硬。
-设计了 Slang Hang 来解决这个问题。
-它的理念很简单：生成一个真实的母语者对话场景，用户通过阅读对话来学习表达。你可以逐句展开对话，同时系统会解释不熟悉的表达方式。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality720pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlaySlang Hang 的 prompt 前言如下：
-**技术实现：**
+In general, each lesson is generated by two Gemini API calls: a vocabulary and phrase is generated, and a related syntax is generated. At the end of each prompt it is embedded in the user-defined context content, as follows: {User input}##2 **Slang Hang: speaking like a local person** ** Practice:** Generates a tunnel dialogue in a real-life setting**, such as meeting friends, chatting on the streets, meeting colleagues on the subway, etc., learning words and expressing habits in a single sentence. When your language learning goes well, you can talk, express, and communicate, you suddenly realize that you sound too rigid. Too formal, too rigid.
 
-- 设置提示词角色为“懂语言又懂文化的剧作家”
+- Set up the role of "Language and Culture Writers"
 
-- 使用 Gemini API 一次生成整个对话结构（JSON 格式），包含：
-对话背景介绍（context）
+- Use Gemini API to generate the entire dialogue structure (JSON format), including: dialogue background (context)
 
-- 逐轮对话内容（speaker, message, notes）
+- Sessional dialogue (speaker, message, notes)
 
-支持点击术语解释、翻译及翻转学习
-使用 Google Cloud Translation API 实现双语支持
-Slang Hang 的 prompt 前言如下：
-你是一位编剧，精通 {源语言} 和 {目标语言}，擅长撰写引人入胜的对话。你也是一位语言学家，熟悉影响自然口语的文化细节。
-You are a screenwriter who is bilingual in {source language} and
-{target language} and an expert and crafting captivating dialogues.
-You are also a linguist and highly attuned to the cultural nuances that
-shape natural speech.虽然用户一次只能看到一句对话，但包括场景设定、完整对话、术语解释等所有内容，都是通过一次 Gemini API 调用生成的。我们定义的 JSON 输出结构如下：
-生成一个短场景，包含两个使用 {目标语言} 交流的对话者。返回的 JSON 对象应包含两个键："context" 和 "dialogue"。
-"context"：用 {源语言} 编写的一小段文字，描述场景、对话者身份与关系。
-"dialogue"：为对话内容的数组，每个对象包含："speaker"（说话者）、"gender"（性别）、"message"（句子内容）、"notes"（解释说明）
-...对话内容为目标语言，用户可点击翻译成母语（此功能通过 Cloud Translation API 实现）。
-这个实验的一个亮点是“生成式故事性”——每个场景都不重复，可能是：小贩与顾客聊天、地铁上两名同事偶遇，或多年未见的老友在宠物展上重逢。
-**挑战与限制：**
-当然，它也存在一些准确性问题：有时会误用或虚构俚语。毕竟大语言模型仍不完美，建议用户交叉验证术语来源。
+You are a linguist who is bilingual in {source language} and {target language} and an expert and crafting captivating dialogues. You are {sources a linguist} and you are also a linguist who is familiar with the cultural details that affect the natural spoken language. You are a scremen who is bilingual in {source language} and {target langage} and an expert and clafting captiva captiva diagues.
 
-### 3️⃣ **Word Cam：用镜头扫物学词汇**
-有时你只是想知道眼前这个东西用目标语言怎么说。你可能会说 “window（窗户）”，但你知道 “窗台” 或 “百叶窗” 怎么说吗？
-Word Cam 会把你的摄像头变成一个即时词汇助手。拍照后，Gemini 会检测图像中的物体，用目标语言标注出来，并提供更多描述性词汇。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality720pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay**做法：**
-打开手机摄像头，拍下物体，系统就会识别其中物品并给出它们的**外语名称、翻译、用法句子**。
-**技术实现：**
+##3 **Word Cam: A lens sweep vocabulary** Sometimes you just want to know what the target language is for this thing. You might say "window" but do you know what "window" or "brow window" means? Word Cam turns your camera into an instant vocabulary assistant. After taking pictures, Gemini will detect the object in the image, mark it in the target language and provide more descriptive vocabulary.** Practice: ** Open the cell phone camera, shoot the object, the system will identify the item and give it ** foreign language names, translations, use the phrases**. ** Technical realization: **
 
-- 使用 Gemini 的视觉能力进行**目标识别**（物体检测）
+- Target identification** (object detection) using Gemini's visual ability
 
-- 提示词结构包括：
-对图像中所有物体标注名称、翻译、坐标位置
+- The letter structure includes: name, translation, coordinates of all objects in the image
 
-- 再对用户点击的某一物体生成“描述词汇 + 示例句子 + 翻译”
+- Generate "Description Vocabulary + Example Sentence + Translation" for an object that the user clicks on
 
-该实验依赖 Gemini 的视觉功能来做目标检测。我们将图片发送给模型，请求其识别出图像中各个物体的边界坐标：
-请分析图片中的物体，返回的 JSON 对象应包含一个键 "objects"。
-"objects" 的值为一个对象数组，每个对象包括四个键："name"（名称）、"transliteration"（音译）、"translation"（翻译）、"coordinates"（坐标）。
-"coordinates" 为整数数组，代表边界框坐标 [ymin, xmin, ymax, xmax]
-...用户选择一个物体后，我们会把其图像裁剪并再次发送给 Gemini，生成该物体的详细描述词汇：
-请根据图像中指定物体，生成描述词汇。返回的 JSON 对象应包含一个键 "descriptors"。
-"descriptors" 为一个对象数组，每个对象包括："descriptor"（描述词）、"transliteration"（音译）、"translation"（翻译）、"exampleSentence"（例句）、"exampleSentenceTransliteration"（例句音译）、"exampleSentenceTranslation"（例句翻译）
-...
-## 🔊 其他功能集成
-三各实验产品都加入了语音播放功能，帮助用户听到目标语言的自然发音
+The experiment relies on Gemini's visual features for target testing. We send the images to the model and ask it to identify the boundary coordinates of the objects in the images: "coordinates" is the number of objects in the image, and the returned JSON object should contain a key "objects". The value of "objects" is a group of objects, each of which consists of four keys: "name" (name), "transliteration" (translation), "coordinates" (coordinates) is the coordinates of the objects in the image, representing the border frame coordinates [ymin, xmin, ymax, xmax]. The user selects an object and sends it back to Gemini, producing a detailed description of the object: "name" (name), "translation" based on the image, "translation of the words of the JSON), "scripts" (scripts of the objects), "scriptorts" (sets of the objects), "scriples of the objects" (s of the words), "usestellations), "s.
 
-- **语音朗读**：这个功能通过 Cloud Text-to-Speech API 实现，覆盖主流语言，但对小语种支持较弱。地区口音的匹配度也还有限，有时会和用户选择的方言不一致。
+- ** Voice Speak**: This function is achieved through Claude Text-to-Speech API, covering mainstream languages, but less supportive of small languages. Regional accents are also limited and sometimes inconsistent with the dialects chosen by the user.
 
-- **注意事项**：
-部分语言口音有限制（方言覆盖不足）
+- **Note**: Certain language accents are limited (dial language coverage is inadequate)
 
-- 某些少数语言缺乏高质量声音模型
+- Lack of high-quality sound models in some minority languages
 
-## 🔮 项目意义与未来展望
-这组实验展示了**AI 在个性化语言学习中的新可能**：
+# The project meaning and future outlook, the experiment shows **AI's new possibilities in personal language learning**:
 
-- 能基于“用户所在的语境”进行即时生成内容
+- The ability to generate content instantaneously based on the "situation of the user"
 
-- 有助于形成“碎片化 + 生活化”的学习路径
+- A learning path that helps to form "fragmentation + living"
 
-- 可应用于学习初期、中期阶段，尤其适合增强**实际表达能力**
+- Can be applied in the early and medium learning stages, especially for enhancing the ability to express themselves in practice**
 
-See more

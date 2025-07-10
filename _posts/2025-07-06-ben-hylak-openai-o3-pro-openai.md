@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ben Hylak对OpenAI 最新 o3 pro模型的的独家评测 OpenAI 正走在“垂直强化学习”路径
+title: Ben Hylak's unique evaluation of OpenAI's latest o3pro model OpenAI's walking the path of "Intensive Learning Vertically"
 date: 2025-07-06 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/ben-hylak-openai-o3-pro-openai_1.jpg
@@ -9,195 +9,140 @@ icon: code
 * content
 {:toc}
 
-Ben Hylak对OpenAI 最新 o3 pro模型的的独家评测
+Ben Hylak's unique assessment of OpenAI's latest o3pro model
 
-## o3 Pro 的定位：任务级超级推理助手
+Positioning # o3Pro: Task-level SuperRisk Assistant
 
-- **任务导向模型（Task-specific models）**：
-和日常聊天型模型（如 GPT-3.5、GPT-4o）不同；
+- **Task-specific models**: different from routine chat models (e.g. GPT-3.5, GPT-4o);
 
-- o3 Pro 被设计为：
-✅ 面向复杂任务、深度分析✅ 高度理性、冷静、非对话型✅ 更像一个“执行型分析官”或“战略规划师”
+- o3 Pro is designed as:  for complex tasks, deep analysis, highly rational, calm, non-dialogued, more like an "executor analyst" or "strategist"
 
-## 评测方式：与传统 benchmark 无法评估的能力
-**作者评测策略：**
+# Evaluation method: with traditional benchmark unable to assess ** Author's assessment strategy:**
 
-- 不用对话测试；
+- Non-dialogue testing;
 
-- 构建“真实业务场景”+“完整上下文”；
+- Build a “real business scene” + a “complete context”;
 
-- 观察其**解决复杂任务的能力和具体执行建议输出质量**。
+- Observe its** ability to address complex tasks and the quality of output of specific implementation recommendations**.
 
-### 🌟 评测示例：公司战略规划任务
+# # assessment example: corporate strategic planning mission
 
-- 作者将公司 Raindrop 的：
-所有规划会议记录；
+- Author of Rainrop: all planning meeting records;
 
-- 长期/短期目标；
+- Long-term/short-term objectives;
 
-- 语音备忘录；
+- Voice memorandum;
 
-- 团队历史内容
+- Team history.
 
-统一喂给 o3 Pro，提出：“请给出下一阶段业务战略计划”。
-**输出结果：**
+Unified feed to o3 Pro, proposing: “Please give the next phase of the business strategic plan.” ** Output: **
 
-- o3 Pro 给出了：
-精确的目标指标（target metrics）；
+- o3 Pro gives: precise target indicators (target metrics);
 
-- 明确时间线（timelines）；
+- A clear time line (timelines);
 
-- 严格优先级（prioritization）；
+- Strict priority (priority);
 
-- 建议删除的项目（cut list）；
+- Items proposed for deletion (cut list);
 
-输出质量之高，**促使团队改变了战略方向**。
+The high quality of the output** prompted the team to change its strategic direction**.
 
-## o3 Pro 的关键优势总结
-**1. 🧠 智力水平极高，但需要**“喂饱上下文”**才显现**
+# o3 Pro's summary of key strengths **1.  High level of intelligence, but need to ** Feed context **
 
-- 不适合用简短 prompt 测试；
+- Is not suitable for short prompt tests;
 
-- 需要“大量背景+明确目标”才能发挥性能；
+- The need for “many background + clear objectives” for performance;
 
-- 未必适合 casual 聊天。
+- Not necessarily for casual chats.
 
-**2. 🧩 极强的环境感知与工具交互能力**
+**2. Strong environmental perception and tool interaction**
 
-- 能判断**自己是否需要调用外部工具**；
+- Be able to judge whether ** or not external tools are required**;
 
-- 不会编造访问不到的信息，而是明确提示需要“你告诉它”；
+- Not to fabricate unaccessible information, but to give a clear indication of the need for “you tell it”;
 
-- 非常擅长调度工作、使用外部函数、API、数据库等资源。
+- Very good at dispatching, using external functions, API, database, etc.
 
-**3. 🔄 系统提示与上下文极度重要**
+**3.  System alerts and context are extremely important**
 
-- **system prompt** 对其行为影响深远；
+- **system prompt** has far-reaching implications for their conduct;
 
-- 比如“你是一名产品经理”vs“你是一位安全专家”，将产生截然不同的风格与策略。
+- For example, "You're a product manager" vs. "You're a safety expert" will produce a very different style and strategy.
 
-**4. ⚠️ 潜在弱点：低上下文时容易过度分析**
+**4. Potential weaknesses: easy to over-analyse in low context**
 
-- 给出不充分的上下文会导致“思维过重”，容易陷入推理死胡同；
+- Inadequate contextualization can lead to “excessive thinking” and can easily fall into the dead end of reasoning;
 
-- 对“直接行动型”任务（如 SQL 查询）可能不如基础模型灵活。
+- “Direct action type” tasks (e.g. SQL queries) may not be as flexible as basic models.
 
-## 模型对比：与同类模型的不同
-![](https://assets-v2.circle.so/k0oefebl4utvowv1p19jp80dmyid)
-## OpenAI 正在走的“垂直强化学习”路径
+# Model comparison: different from the same model! [] (https://assets-v2.Circle.so/ k0oefebl4utvowv1p19jp80dmyid) #OpenAI is walking the path of "enhanced learning"
 
-- OpenAI 不仅教模型“如何调用工具”，还教它“何时调用工具”；
+- OpenAI not only teaches the model "How to Call Tools" but also "When to Call Tools";
 
-- 推进 LLM 像人类一样判断工具使用时机，是**通用人工智能的关键路线之一**；
+- The advancement of LLM, which is one of the key routes for determining the timing of the use of tools, as is the case with humans,** common artificial intelligence;
 
-- o3 Pro 是这一策略的产物。
+- O3 Pro is the product of this strategy.
 
-## 使用建议与最佳实践（Prompt Engineering）
+# Use of Recommendations and Best Practices
 
-### ✅ 使用提示建议：
-**给足上下文（context is king）**：
+# Use the hint to suggest: **Context is king**:
 
-- 相关文档、目标、角色描述都应写入提示；
+- Relevant documents, targets, role descriptions should be included in the reminder;
 
-- 可类比“喂给 cookie monster 饼干”。
+- Like, " Feed cookies to cookie biscuits."
 
-**明确目标**：
+** Clear objectives**:
 
-- 不要说“帮我写点内容”，而要说“基于以下数据，写一份三阶段产品上线策略”。
+- Do not say "let me write something" but say "let me write a three-phase product online strategy based on the following data".
 
-**强化系统提示**：
+**Enhanced system hint**:
 
-- 系统提示中的角色设定、任务说明对模型的“行为风格”影响极大。
+- Role setting in system alerts and mission statements have a significant impact on the model's “behavior style”.
 
-## 总结一句话
-**o3 Pro 并不是你“聊天”的朋友，它是你公司里那个不会说废话的高级战略分析师。**
-以下是文章 **《God is hungry for Context: First thoughts on o3 pro》** 的**全文中文翻译**：
+# Summing up **O3Pro is not your "chat" friend, he's your company's top-level strategic analyst with no bullshit.** The following is the full Chinese translation** of the article ** God is hungry for Context: First thoughts on o3 pro**:
 
-## 上帝渴望上下文：对 o3 Pro 的初印象
-作者：Ben Hylak
-正如“泄露”所说，OpenAI 今天将 o3 的定价下调了 **80%**（从每百万 token 的 $10/$40 降至 $2/$8 —— 与 GPT-4.1 持平！！），为 **o3-pro** 的推出铺平道路（$20/$80）。这支持了一个未经证实的社区理论，即“pro”变体是基础模型的 10 倍调用，并采用多数投票机制（该机制在 OpenAI 的论文和我们的《Chai》节目中都有提到）。
-o3-pro 在人类测试中以 **64% 胜率**击败 o3，并在 4 项可靠性基准测试中略胜一筹。但正如 Sam Altman 所指出的，实际体验在你用“不同方式”测试它时才会真正显现……
-过去一周我获得了 o3 pro 的早期使用权。以下是我的一些（早期）想法：
-![](https://assets-v2.circle.so/1ttcuzssoggjxr9qk0pf55qlhis8)
-### 这是任务特定模型的时代。
-一方面，我们有像 GPT-3.5 Sonnet 和 GPT-4o 这样的“普通”模型 —— 像朋友一样交谈、帮助我们写作、回答日常问题。
-另一方面，我们有那些庞大、缓慢、昂贵、智商爆表的推理模型，它们专精于深度分析、一次性解决复杂问题，以及探索纯智能的边界。
-如果你关注我在 X（原推特），你会知道我与 o 系列推理模型的“历程”。我对 o1/o1-pro 的第一印象非常负面。但随着我咬牙坚持下去，受到他人好评的驱动，我意识到：**我其实用错了方法。**
-我写下了所有感想，被 @sama 怼了，还被 @gdb 转发引用。
+## # God yearned for context: ** The opening impression for o3-Pro** ($20/$80). This supports an unverified community theory, the pro-transformation is the 10 times the underlying model, as stated by the leak, that OpenAI today revised the pricing of O3 **80% (from $10/$40 per million token to $2/$8 - equal to GPT-4!) **O3-Pro**, paving the way for the roll-out of O3-Pro** ($20/$80). **Ben Hylak, which supports an unverified community theory, the pro-transformation is the 10 times the basic model, and uses most voting mechanisms (the mechanism is mentioned in OpenAI and in our Chai programme) **3-Pro-ince of human testing **64% to beat o3, and slightly beat 4 business benchmark tests ($20/$80).
 
-### 我发现的关键是：**不要和它“聊天”**。
-要把它当作一个**报告生成器**：
-给它足够的上下文，明确目标，然后让它自己输出结果。
-这就是我现在使用 o3 的方式。
-但这也引出了评估 o3 pro 的难题。
+# The key I found was: **Don't "talk" to it. To use it as a **report generator**: give it enough context, define the target, then let it produce the results. That's how I'm using the o3. But it also raises the problem of assessing the o3 pro.
 
-### 它更聪明，真的聪明得多。
-但如果你不给它足够的上下文，它的强大之处就不会显现。
-我没法问它一个简单的问题就被震撼到。
-然后我换了种方法。
-我和我的联合创始人 Alexis 花时间整理了我们在 Raindrop 的所有过往规划会议记录、目标，甚至是语音备忘录，然后让 o3-pro 拿这些信息来制定一个计划。
-我们被震撼了。它生成了我一直希望 LLM 能输出的那种**具体的计划与分析** —— 包括目标指标、时间表、优先事项，以及明确指出哪些该舍弃。
-o3 给我们的计划是“合理的”。
-但 o3 Pro 给出的计划不仅具体，而且**根植于我们自身的背景**，以至于它**真正改变了我们对未来的思考方式**。
+I and my co-founder, Alexis, spent time collating all our past planning minutes, targets, and even voice memos in Rainrop, and then allowing O3-Pro to take this information to work out a plan. We were shocked. It generated the kind of concrete plan and analysis that I've always wanted LLM to export ** -- including target indicators, timetables, priorities, and clearly indicating which ones we've lost.
 
-### 这很难通过评测来体现。
-试用 o3 Pro 让我意识到，如今的模型在“孤立状态”下表现已非常强，我们已经没有“简单测试”能完全评估它们。
-真正的挑战是：**将它们融入社会**。
-就像一个 IQ 很高的 12 岁孩子去上大学。聪明归聪明，但如果无法适应社会，也不是一个好员工。
+The real challenge is to ** integrate them into society**. Like a very high 12-year-old IQ to go to college. Smart is smart, but not a good employee if you can't adapt to society.
 
-### 如今的“融入”主要依靠工具调用：
+# Today's "integration" depends mainly on tools:
 
-- 模型与人类、外部数据、其他 AI 协作的能力；
+- The ability of models to collaborate with humans, external data, and other AIs;
 
-- 它是一个优秀的“思想者”，但还需要成长为一个优秀的“执行者”。
+- It is an excellent “thinker”, but it also needs to grow into an excellent “executor”.
 
-o3 Pro 在这方面真的跃进了：
+O3 Pro really jumped into this:
 
-- 明显更擅长理解自身所处环境；
+- Be demonstrably better able to understand the environment in which they live;
 
-- 能准确表达自己拥有哪些工具；
+- Accurate expression of the tools available to them;
 
-- 知道何时询问外部世界的信息（而不是假装知道）；
+- Knowing when to ask for information from the outside world (rather than pretending to know);
 
-- 能选择合适的工具来完成任务。
+- Can choose the right tools to do the job.
 
-### o3 pro（左） vs o3（右）：
-左边的 o3 pro 显然在理解自己所处环境方面更强。
-![](https://assets-v2.circle.so/q9mcuubsttrmvot607cpygfvk3er)
-### 从早期使用来看：
-如果你不给它足够上下文，它会有**过度思考**的倾向。
-它擅长分析、擅长借助工具做事，但**不太擅长直接动手做事**。
-我认为它是一个出色的“编排者”。
-比如，有些 ClickHouse SQL 问题，o3 做得比 o3 Pro 更好。
-结果可能因人而异。
-![](https://assets-v2.circle.so/fwq5yja3sl3sj14n236vqk7pxelg)
-### o3 Pro 与 Opus、Gemini 2.5 Pro 的区别：
+##O3 pro (left) vs. o3 (right): The o3pro on the left is clearly stronger in understanding its environment.[https://assets-v2.circle.so/q9mkubstrvot607cpygfk3er] ## from early use: If you don't give it enough context, it has a tendency to ** overthink**. It is good at analysing, working with tools, but ** not very good at doing it directly**. I think it is an excellent “organizer.” For example, some ClickHouse SQL problems, o3 do better than o3 Pro. The results may vary from person to person. [https://assets-v2.circle.so/fwq5yja3sl3sj14n236vk7pxeg) ####o3
 
-- Claude Opus 看起来“很强”，但从未让我看到它“强”的证据；
+- Claude Opus looked "very strong," but never showed me evidence of it.
 
-- o3 Pro 的输出更好，**完全是另一种维度的表现**。
+- O3 Pro's output is better,** it's a completely different dimension**.
 
-### OpenAI 正在深入推进“垂直强化学习”路径（如 Deep Research、Codex）：
-不仅教模型如何使用工具，更教它**何时使用工具**。
+##OpenAI is deeply advancing the path of vertically reinforced learning (e.g. Deep Research, Codex): teaching not only how to use tools, but also when to use tools**.
 
-### 如何提示推理模型并没有变：
-我的 o1 提示指南至今仍然适用。
-上下文就是一切 —— 它就像给 Cookie Monster 喂饼干。
-这是一种启动 LLM 记忆的方式，而且是有目标的，让它更有效。
-系统提示（system prompt）也极为重要。
-模型现在已经非常“可塑”，所以那些能教会模型其环境和目标的“提示框架”（harnesses）影响巨大。
-正是这种“提示框架” —— 模型 + 工具 + 记忆 + 方法 —— 才让 AI 产品“好用”。
-例如 Cursor 就是这种机制让它“大多数时间都能工作”。
+## How to suggest the reasoning model has not changed: My o1 reminder guide is still valid. The context is everything – it's like feeding cookies to Cookie Monster. It's a way to start the LLM memory, and it's targeted, making it more effective.
 
-### 其他零碎观察：
+# Other fragmentary observations:
 
-- 系统提示对模型行为的影响非常大（是积极的变化）；
+- The impact of system alerts on model behaviour is significant (positive change);
 
-- o3 Pro 和 o3 相比，差异明显；
+- significant differences between o3 Pro and o3;
 
-- 和 Claude、Gemini 相比更是天壤之别；
+- The difference between Claude and Gemini;
 
-- OpenAI 的“工具增强推理”战略确实已经走在前面。
+- OpenAI's “tool-enhanced reasoning” strategy is indeed ahead.
 
-原文：https://www.latent.space/p/o3-pro
-See more
+Original language: https://www.latet.space/p/o3-pro

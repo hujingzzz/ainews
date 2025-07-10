@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mistral AI 推出其首个专注推理的开源模型 Magistral Flash Answers 模式下 推理速度比竞争对手快10倍
+title: Mistral AI launched its first open-source model focused on reasoning, Magistral Flash Answers, 10 times faster than the competitor.
 date: 2025-06-22 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/mistral-ai-magistral-flash-answers-10_1.jpg
@@ -9,87 +9,62 @@ icon: game
 * content
 {:toc}
 
-Mistral AI 宣布推出其首个专注推理的语言模型 **Magistral**，旨在解决当前主流 LLM 在以下方面的不足：
+Mistral AI announced the launch of its first linguistic model focused on reasoning **Magistral** aimed at addressing the shortcomings of the current mainstream LLM in the following areas:
 
-- **缺乏领域知识深度**，在专业任务（如金融建模、法律分析）中表现不佳。
+- ** Lack of depth of knowledge in the field** and poor performance in professional tasks (e.g. financial modelling, legal analysis).
 
-- **推理不透明**，用户难以追踪模型得出结论的逻辑。
+- ** The reasoning is not transparent** and it is difficult for users to track the logic of the model ' s conclusions.
 
-- **多语言推理能力薄弱**，尤其在非英语语言中表现不一致。
+- ** Weak multilingual reasoning**, especially in non-English languages.
 
-- **缺乏链式思维支持（Chain-of-thought, CoT）**，使复杂问题难以解决。
+- ** Lack of chain-based thinking support (Chain-of-thought, COT)** which makes complex issues difficult to solve.
 
-Magistral 试图构建一个“**能像人类一样思考**”的 AI——具有结构化、可验证、逐步推理的能力，同时支持多语言使用。
-![](https://assets-v2.circle.so/1ktkb1h1bolve7kykg6lziw7jov1)**模型版本**
+Magistral seeks to construct an AI that “** can think like humans**” - with the ability to be structured, verifiable, step-by-step, while supporting multilingual use.[1] (https://assets-v2.Circle.so/1ktkb1h1bolve7kykg6lziw7jov1)** model version**
 
-- **Magistral Small**：24B 参数的开源版本（Apache 2.0协议），可在 Hugging Face 上下载。
+- Open source version of the **Magistral Small**:24B parameter (Apache 2.0 protocol), which can be downloaded on Hugging Face.
 
-- **Magistral Medium**：功能更强大的企业版本，可通过 Le Chat、La Plateforme API、Amazon SageMaker 访问，未来将上线 IBM WatsonX、Azure AI 和 Google Cloud。
-![](https://assets-v2.circle.so/d9isxzj5h8mg9stwlq2byyztu1hv)
-多数投票（majority voting @64）是通过多个生成版本得出最一致答案，表示在多样性与一致性之间平衡的能力。
-Medium 模型达到 **90%** 的准确率，接近顶级闭源模型 GPT-4 Turbo 的水平，尤其在专业任务中表现突出。
-![](https://assets-v2.circle.so/n8dfxejaje6qu3aic4d6o4fkane9)
-- 在**复杂逻辑任务、跨领域问答、可解释推理**方面非常突出；
+- **Magistral Media**: The more powerful version of the enterprise, through Le Chat, La Plateforme API, Amazon SageMaker @64, will be available in the future to provide the most consistent answer through multiple generation versions, indicating the ability to balance diversity and consistency.[] (https://assets-v2.circle.so/d9isxzj5mj5mh9stwlq2byyztu1hv) The Medium model has reached an accuracy of **90%, close to the top closed source model GPT-4 Turbo, particularly in professional tasks. ** [https://assets-v2.circle.so/n8xdje6quac4d4käfne] - a highly interactive, inter-interpreciated, inter-interpretive mandate;**
 
-- 在**专业场景（法律、科技、学术）**中已具备实用性；
+- Operationalization in ** professional scenes (law, science and technology, academia)**;
 
-- 在同体量开源模型（20B～30B）中是**推理能力最强的一批**。
+- In the congener open source model (20B-30B) ** is the one with the strongest reasoning**.
 
-## 核心技术与架构亮点
-**1. 🧩 Chain-of-Thought 原生支持**
-Magistral 原生支持链式思维（CoT），并能**自动生成可解释的思维链条**。这对于复杂任务（如法律推理、系统规划）尤其关键。
-**推理优化设计（Reasoning-Oriented）**
+# Core technology and architecture bright spots **1.  Chain-of-Thought Native Support** Magistral Original Support Chain Thinking (CoT) and can **auto generate interpretible links of thinking**. This is particularly critical for complex tasks (e.g. legal reasoning, system planning). ** Logic optimization design **
 
-- 模型专门针对“多步骤逻辑推理”进行了微调。
+- The model has been fine-tuned specifically for “multistep logical reasoning”.
 
-- 支持“内在思考路径（inner monologue）”生成，可呈现完整的推理轨迹。
+- Support for the creation of the Inner Thinking Path (inner Monologue), which presents a complete reasoning trajectory.
 
-- 输出格式采用 <think>...</think> 来区分草稿与总结，提高可解释性。
+- The output format is <think>... </think> to distinguish between drafts and summaries and to improve interpretability.
 
-**2. 🌍 多语言高保真推理**
-模型具备多语言推理能力，特别优化了以下语言：
+**2. Multilingual high-level reasoning** Models have multi-language reasoning skills, in particular optimizing the following languages:
 
-- 英语、法语、德语、西班牙语、意大利语
+English, French, German, Spanish, Italian
 
-- 阿拉伯语、俄语、简体中文
+- Arabic, Russian, Chinese.
 
-→ 关键点：不仅支持多语言输入/输出，而且**推理链条也能在目标语言中自然生成**。
-**3. ⚡ Flash Answers + Think Mode（仅限企业版）**
-通过“Le Chat”平台，Magistral Medium 可开启：
+Key points: Not only is multi-language input/output supported, but ** the chain of reasoning can also be naturally generated in the target language**. **3.  Flash Answers + Tink Mode (business version only)** via the "Le Chat" platform, which is open by Magistral Medium:
 
-- **Flash Answers**：10 倍于主流竞品（如 ChatGPT）的推理速度。
+- **Flash Answers**: 10 times the speed of reasoning in mainstream competitions (e.g. ChatGPT).
 
-- **Think Mode**：优化多轮推理响应时间与效率。
+- **Think Mode**: Optimizing multi-round reasoning response time and efficiency.
 
-- 🧠 实际表现：
-在结构化任务（例如决策树推理、逻辑证明、代码规划）中几乎“秒出”结果；
+- Actual performance: almost “seconds” of results in structured tasks (e.g. decision tree reasoning, logical proof, code planning);
 
-- 同时保持了准确率与逻辑严谨性。
+- At the same time, accuracy and logic were maintained.
 
-**4. 🔍 推理透明性与可追溯性**
-每一个生成结果都附带清晰的“思考轨迹”，可以追踪、审计。特别适合监管行业（法律、金融、医疗等）。
+**4. Transparency in reasoning and traceability** Each production is accompanied by a clear “thinking trajectory” that can be tracked and audited.
 
-## 开源、可本地部署
+# Open source, locally deployable
 
-- 模型已开源，支持商业用途。
+- Models have been opened up to support commercial uses.
 
-- 量化后可运行在单张 RTX 4090 或 MacBook M2（32GB）上。
+- Quantified to run on single RTX 4090 or MacBook M2(32GB).
 
-- 提供多个平台支持，包括：
-vLLM（推荐）
+- Provide multiple platform support, including: vLLLM (recommended)
 
-- llama.cpp 版本（GGUF）
+- llama.cpp version (GGUF)
 
-- 支持 lmstudio、ollama、unsloth、Axolotl 等工具链
+- Support tools such as mstudio, llama, unsloth, Axolotl
 
-** Chat 模板（推荐使用）**
-使用默认的系统提示词（system prompt）可获得最佳推理效果：
-[SYSTEM_PROMPT]
-你应该先展示思考过程（inner monologue），再给出一个清晰的答案总结。
-你的回答必须使用与用户相同的语言。
-请使用 Markdown 格式输出。
-## 应用推荐场景
-![](https://assets-v2.circle.so/sfrhxje1qvzfh4rdqcxk11zeym1k)官方介绍：https://mistral.ai/news/magistral
-模型下载：https://huggingface.co/mistralai/Magistral-Small-2506
-在线体验：https://chat.mistral.ai/chat
-See more
+** Chat template (recommended)** Use of default system hints (system-v2.curcle.so/sfrhxje1qvzfh4rdqxk11zeym1k, official introduction: https://mistral.ai/news/magistral model download: https://huggingface.co/mistral-Small-2506

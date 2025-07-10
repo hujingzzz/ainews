@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenAI 宣布推出两大核心功能 将企业或者你的内部知识与 ChatGPT 深度融合
+title: OpenAI announces the introduction of two core functions that integrate the business or your in-house knowledge with ChatGPT in depth.
 date: 2025-06-26 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/openai-chatgpt_1.jpg
@@ -9,147 +9,124 @@ icon: design
 * content
 {:toc}
 
-OpenAI 宣布推出两大核心功能，助力企业用户将组织内部知识与 ChatGPT 深度融合：
-**Connectors（连接器）**：将企业内部知识源（如GitHub、Dropbox、SharePoint等）连接至 ChatGPT，实现私域知识的智能检索与分析。
-**Record Mode（记录模式）**：自动记录、转录、摘要会议内容，让口头交流变为可查询的结构化知识。
-通过全新的**连接器系统**，用户可以让 ChatGPT 接入如 Outlook、Google Drive、Gmail 等关键工具，并在权限范围内获取实时上下文信息。对于企业级用户，还支持接入 SharePoint、Dropbox、Box 等服务。
-![](https://assets-v2.circle.so/9efqgovr4x9va0afak6j3jtkenj7)
-- **ChatGPT 增强了与第三方应用的连接能力**，可直接获取实时上下文内容。
+OpenAI announced the introduction of two core functions, enabling enterprise users to integrate in-house knowledge with ChatGPT depth: **Connectors (Connectors)**: Connecting enterprise internal knowledge sources (e.g. GitHub, Dropbox, SharePoint, etc.) to ChatGPT for intelligent retrieval and analysis of private domain knowledge. **Record Mode (record mode)**: Automatic recording, transcription, summary of meeting content, turning oral communication into searchable structured knowledge.** Through an entirely new ** Connector system, users have access to key tools such as Outlook, Google Drive, Gmail, etc., and to real-time background information within the limits of their competence. ** Supports access to SharePoint, Dropbox, Box, etc., to services such as softwares-v2.circle.so/9efqq4väkj6kj.
 
-- 所有连接器都**遵循现有用户权限**，不会越权访问数据。
+- All connectors** follow existing user privileges** and do not overstep access data.
 
-- 新功能分阶段开放，权限和适用用户有所不同。
+- The new functionality is opened in stages, with different privileges and applications for users.
 
-- 大多数连接器主要用于深度研究功能。
-![](https://assets-v2.circle.so/mcjr3gqoo5l7z9kq73byte6l2ytp)
+- Most connectors are mainly used for depth research functions.[] (https://assets-v2.circle.so/mcjr3gqoo5l7z9kq73byte6l2ytp)
 
-## 🔌 Connectors 功能详解
+# Connectors
 
-### ✅ 功能介绍
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # I want to know # # # # #
 
-- **目标**：让 ChatGPT 不仅能搜索网络公开内容，还能访问公司内部工具，如：CRM、会议记录、内部文件等。
+- **Target**: To enable ChatGPT not only to search for web-based public content, but also to access in-house tools such as CRM, minutes of meetings, internal documents, etc.
 
-- **特点**：
-权限继承：仅检索用户本身已授权的内容。
+- ** Features**: Succession of powers: access only to the content authorized by the user itself.
 
-- 跨平台支持：支持 Outlook、SharePoint、Teams、Dropbox、Google Drive、Box（Beta）等。
+- Cross-platform support: support for Outlook, SharePoint, Teams, Dropbox, Google Drive, Box (Beta), etc.
 
-- 高效智能检索：实现复杂跨系统语义搜索与多源交叉引用。
+- Efficient intelligent retrieval: achieving complex cross-system semantic search and multi-source cross-references.
 
-**🚀 演示案例：AGI Corp（虚构公司）**
+** Presentation case: AGI Corp**
 
-- 目标：为“Animal GPT”（一款动物叫声翻译模型）进行 Q3 产品规划。
+- Target: Q3 product planning for "Anmal GPT" (an animal voice translation model).
 
-- 操作流程：
-通过“Deep Research”入口，接入 HubSpot、Outlook、Teams 等系统。
+- Operating processes: access to the WebSpot, Outlook, Teams, etc. through the Deep Research portal.
 
-- 提问：“Q3中哪些潜在的分销合作伙伴最符合公司战略？”
+Question: “What potential distribution partners in Q3 are most in line with corporate strategies?”
 
-- Deep Research 自动分析潜在交易的成交可能性、预计收入、相关讨论内容等，生成汇总表格并附带原始引用来源。
+- Deep Research automatically analyses the likelihood of dealing with potential transactions, projected revenues, related discussions, etc., and generates matrices with original references.
 
-### 💼 日常工作流集成
-除了大型分析，用户还能在 ChatGPT 中快速处理日常任务：
+# #
 
-- **查询产品策略和营收数据**：“ChatGPT，告诉我 Q2 的市场与产品战略，以及哪些功能带来最多营收？”
+- ** Query product strategy and collection data**: “ChhatGPT, tell me about Q2 market and product strategy, and which functions lead to maximum harvest?”
 
-- **自动识别数据源**，例如查找“Bark to Text V2”的用户活跃趋势图，ChatGPT 自动调用已有企业数据生成可视化。
+- **Automated identification of data sources**, e.g., searching for a user-active trend map of “Bark to Text V2”, ChhatGPT automatically calls existing enterprise data generation to visualize.
 
-- **聚合用户反馈**：快速查找并总结 Dropbox 中关于宠物主人的访谈，提炼痛点和 ROI 排名建议，生成符合内部模板的 Q3 产品文档。
+- **Aggregation user feedback**: Quickly locate and summarize Dropbox interviews with pet owners, refine pain points and ROI ranking recommendations, and generate Q3 product documents that match the internal template.
 
-### ✅ **主要连接器**
+# #  ** Main connector**
 
-- **用户类型**：
-ChatGPT **Plus 用户**
+- ** User type**: ChatGPT**Plus User**
 
-- ChatGPT **Pro 用户**
+- ChatGPT**Pro User**
 
-- ChatGPT **Team、Enterprise、Edu 用户**
+- ChatGPT**Team, Enterprise, Edu**
 
-- ❌ 不适用于：**欧洲经济区（EEA）、瑞士、英国用户**
+- Does not apply to:** European Economic Area (EEA), Switzerland, British users**
 
-**支持的服务**：
+**Services supported**:
 
-- Outlook
+Outlook.
 
-- Microsoft Teams
+- Microsoft Teams.
 
-- Google Drive
+- Google Drive.
 
-- Gmail
+- Gmail.
 
-- Linear
+- Linear.
 
-- 更多即将添加的服务
+- More services to be added
 
-📦 **额外连接器**（仅限 Team、Enterprise、Edu 用户）：
+Additional connector** (Team, Enterprise, Edu only):
 
-- SharePoint
+- SharePoint.
 
-- Dropbox
+- Dropbox.
 
-- Box
-![](https://assets-v2.circle.so/dqkpdkve13zutnoo86r4vbi7k0p0)
+- Box! [] (https://assets-v2.circle.so/dqkpdkve13zutnoo86r4vbi7k0p0)
 
-## 
+# I'll be right back #
 
-## 🎙️ **录音模式（Record Mode）功能上线**
-录音模式的推出，也让 ChatGPT 在会议场景中变成智能记录员，从录音中自动整理信息并生成后续任务或代码，进一步拓宽了它在工作场景中的实用性。
+#  **The introduction of the Record Mode on-line** has also allowed ChatGPT to become an intelligent recorder in the meeting scene, automatically organizing information from the recording and generating a follow-up task or code, further broadening its usefulness in the work scene.
 
-- 可录制会议、头脑风暴或语音笔记
+- Recording meetings, brainstorms or voice notes
 
-- ChatGPT 会自动执行以下操作：
-语音转文字
+- ChatGPT will do the following thing automatically:
 
-- 提取关键要点
+- extraction of key points
 
-- 自动生成后续行动项、计划或代码
+- Automatically generate follow-up items, plans or codes
 
-目前仅限 macOS 上的 Team 用户
-**即将推广到**：Plus、Pro、Enterprise、Edu 用户
-![](https://assets-v2.circle.so/1hpppttypekok0qfdmq0vu554mwd)
-### ✅ 核心功能
+Currently only Team users on MacOS ** are about to be extended to **: Plus, Pro, Enterprise, Edu users![] (https://assets-v2.Circle. so/1hppttekok0qfdmq0vu554mwd) ## core function
 
-- **自动转录 + 结构化摘要**：
-记录会议全过程，生成要点摘要、行动项、并标记发言时间戳。
+- **Auto-reproduced + Structured Summary**: Recording the proceedings, generating summary of points, action items, and marking of speaking times.
 
-- 可跳转到对应音频片段，便于复查与二次引用。
+- May jump to the corresponding audio segment to facilitate review and recitation.
 
-**知识整合搜索**：
+** Knowledge integration search**:
 
-- 用户可以直接问：“上次 Q3 规划会议提到的技术限制是什么？”
+- Users can ask directly: "What are the technical constraints mentioned at the last Q3 planning meeting? "
 
-- ChatGPT 自动检索语音摘要与文字资料，并高亮来源。
+- ChatGPT automatically retrieves voice summaries and text information and highlights the source.
 
-**会议内容转化为产出**：
+** Conference content translated into outputs**:
 
-- 自动生成管理层更新报告、规划文档等。
+- Automatically generate updated management reports, planning documents, etc.
 
-### 🎯 应用场景
+♪ ♪ ♪ ♪ apply the scene ♪
 
-- 减少手动记笔记的负担；
+- Reducing the burden of manual notes;
 
-- 会后无需反复追问或回忆内容；
+- There is no need to repeat questions or recall the contents after the meeting;
 
-- 更高效地复用语音会议中的知识与决策。
+- More efficient reuse of knowledge and decision-making in voice conferences.
 
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-## 🛠️ **支持 MCP功能**
-此外，通过 Model Context Protocol（MCP），管理员可将 ChatGPT 与自定义系统集成，打造适合本企业的 AI 辅助工作流。
-支持将 ChatGPT 连接企业内部系统（仅限 Pro、Team、Enterprise 和 Edu 计划的管理员配置）。
-这使 ChatGPT 不仅能查找信息，还能结合企业数据进行思考与行动。
+# ** Supports the MPCP function** In addition, through Model Context Protocol (MCP), the administrator can integrate ChatGPT with a custom-defined system to create an AI-assisted workflow suitable for the enterprise. Support the linking of ChatGPT to the enterprise internal system (pro, Team, Enterprise and Edu administrator configurations only). This allows ChatGPT not only to search information, but also to think and act in conjunction with enterprise data.
 
-- 功能处于 beta 测试阶段
+- The function is in the beta test stage.
 
-- **MCP** 允许管理员将企业内部系统、专有工具或应用集成进 ChatGPT。
+- **MCP** Allows managers to integrate enterprise internal systems, proprietary tools or applications into ChatGPT.
 
-- 可以将自有数据与网页搜索、官方连接器整合，让 AI 实现：
-数据检索
+- Allows integration of own data with web search, official connector to AI achieve: data retrieval
 
-- 上下文理解
+- It's in context.
 
-- 自动决策与行动
+- Automatic decision-making and action
 
-适用用户：**Pro 用户、Team、Enterprise、Edu 管理员**
+Applied users: **Pro Users, Team, Enterprise, Edu Administrator**
 
-### 发布会视频
-See more
+# Release the meeting video #

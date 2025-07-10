@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Luma Labs 发布 Modify Video：可任意修改视频里面的任何对象 一次拍摄，无限变换
+title: Luma Labs Modefy Video: Any object in the video can be changed at any time, infinity
 date: 2025-06-02 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/luma-labs-modify-video_1.jpg
@@ -9,131 +9,106 @@ icon: image
 * content
 {:toc}
 
-在传统视频制作流程中，如果想要更改场景（比如从白天改成夜晚，或从办公室改成幻想世界），往往需要重新拍摄、重新渲染，甚至换一整套工具。这不仅成本高、耗时久，还限制了创作者的想象力。
-Luma Labs 提出的核心理念是：**在不破坏原始表演、动作、镜头和角色的前提下，允许用户对视频中的世界进行全面重构**。这个新工具名为 **“Modify Video”**，它让你可以保留一个镜头中真正重要的东西（比如角色的动作和面部表情），同时重新设计场景、风格、材质甚至角色的本体。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-## 主要功能详解
+In traditional video production processes, changing the scene (e.g. from day to night, or from office to fantasy world) often requires reshooting, rewrite, or even change a whole set of tools. Not only is it costly, time-consuming, but it also limits the imagination of the creators.
 
-### 1. 🎭 动作捕捉 + 驱动新角色（Motion & Puppeteering）
+# The main function is detailed
 
-- 自动从原始视频中提取 **全身动作、面部表情和唇型同步信息**；
+##1.  Action capture + Driver New Role
 
-- 然后，这些“动作数据”可以被用于驱动新的角色或物体——无论是CG角色、道具还是摄影机运动；
+- Automatically extracting information from the original video ** all body movements, facial expressions and lip synchronisation**;
 
-- 举例：可以将一位演员的表演“转移”到一个怪物身上，或让一张桌子按照舞蹈节奏移动。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
+- These “action data” can then be used to drive new characters or objects — be they CG characters, props or cameras;
 
-### 2. 🌆 世界/风格替换（Restyle & World Swap）
+- For example, an actor could be “transferred” to a monster or a table could move along a dance rhythm.
 
-- 不改变人物和动作，但可以**完全改变场景外观与材质**；
 
-- 例如：
-将车库改为宇宙飞船；
 
-- 将日景变为夜景；
 
-- 将卡通风格变为电影级真实感；
 
-所有变化都建立在对原始结构的理解上，避免画面失真或时空错乱。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-### 3. 🧩 局部元素修改（Isolated Edits）
+##2. #WorldSwap
 
-- 可以**只修改视频中的某个元素**，而不破坏其他部分；
+- Do not change the person and the movement, but can ** completely change the appearance and material quality of the scene**;
 
-- 比如：
-更改角色的服装颜色；
+- For example: change the garage to a spaceship;
 
-- 替换面部特征（例如换演员的脸）；
+- Turning the sun into the night vision;
 
-- 在天空中添加飞行物（如UFO）；
+- To transform the carpenter into a film-grade sense of truth;
 
-关键在于：**不需要绿幕、不需要逐帧追踪**，修改自然融入场景。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-## 三、使用方式与创作自由度
+All changes are based on an understanding of the original structure, avoiding distortion of the image or confusion of time.
 
-### **三种预设风格**
-“Modify Video” 提供了三种不同的转换预设模式，让用户能够根据需要灵活调整视频的创作自由度。这些模式分别是：
-![](https://assets-v2.circle.so/9rshz3lgfan0b28h3j1v71bea2fo)**Adhere（贴合模式）**这个模式在保持原始视频结构的基础上进行最小的修改，主要针对场景的**风格和纹理**进行调整。例如，你可以改变视频中的背景颜色或纹理，但人物的动作、表情和镜头角度基本保持不变。这个模式非常适合那些需要在后期修复或保持一致性的项目，比如在多个镜头之间保持视觉风格的一致性。
-**Flex（灵活模式）**该模式在保留关键元素（如人物动作、面部表情等）的同时，允许更多的创意调整。这是一个平衡的模式，可以在保持输入忠实度的同时进行创造性重构。例如，你可以将原始场景稍微改变成另一个风格，或者对人物的服装、道具等进行替换，适用于需要在多个创意方案之间快速切换的情况，比如为客户提供不同风格的快速预览。
-**Reimagine（重构模式）**这是最具创造力的模式，允许你完全重新设计场景或角色，甚至能将人物转变为非人类形态（例如怪物或幻想生物）。这个模式优先考虑**创意自由**，适合那些需要大胆重构的项目，如艺术创作、概念短片或特殊效果制作。在这个模式下，你可以完全改变一个场景或角色的外观，创造出富有想象力且超现实的效果。
+##3.  Local element modification (Issolated Edits)
 
-### **创作自由度：如何选择适合的模式**
-根据项目的不同需求，创作者可以选择不同的模式来调整视频内容。对于需要保留原始素材的情况，**Adhere** 模式是理想选择，因为它专注于对原视频进行细致的风格微调。
-对于一些需要兼顾创意与现实感的项目，**Flex** 模式能够在维持动作真实性的同时，进行适度的创意重构。
-而对于那些富有挑战性且要求高度创意的项目，**Reimagine** 模式则能够实现从根本上的视觉重构，完全释放创作者的想象力。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-## 与其他工具相比的优势
-与传统的“提示词生成视频”或静态滤镜不同，Modify Video 的关键在于**时序理解和动作保留**：
+- May ** modify only one element of the video** without destroying other parts;
 
-- 使用了高级信号（如姿态、表情、结构）来区分哪些元素应保留，哪些可以被重新设计；
+- For example, changing the dress color of the role;
 
-- **视频级的高保真控制**，不仅看一帧，而是理解整个片段；
+- Replacing facial features (e.g. changing the face of an actor);
 
-- **输出结果更一致**，尤其在面部、身体动作、时间连续性上；
+- Adding flying objects to the sky (e.g. UFO);
 
-- 官方测试显示，Modify Video 在视觉保真度与动作一致性方面优于 Runway 的 V2V 工具。
-![](https://assets-v2.circle.so/0udra1xvnlkugw713tcinmo57c23)![](https://assets-v2.circle.so/frdre9bymerfb91mxldyudm668li)
+The key is that:** there is no need for green curtains, no need for framework-by-frame tracking** to modify the natural integration landscape.
 
-## 如何使用
-Modify Video 已集成在 **Luma Dream Machine: Ray 2** 中，适用于最长 **10 秒的视频片段**。
-操作流程非常简洁：
-上传一段视频；
-选择一种转换预设（Adhere / Flex / Reimagine）；
-决定是否提供首帧图像或视觉风格提示；
-如果有提示词：描述你想要的视频变化（越具体越好）
-选择“修改强度”：决定画面变化程度
-工具自动生成多个版本，供你快速选择或再加工。
-适用场景包括但不限于：
+# III. Usage and freedom of creation
 
-- 概念测试（Previs）；
+##** ** Three preset styles** “Modify Video” provides three different preset models that allow users to adapt the creative freedom of the video flexibly to the needs. For example: [https://assets-v2.circle.so/9rshz3lgfan0b28h3j1v71bea2fo)** The model provides minimal modifications based on the original video structure, mainly to the ** style and texture of the scene. For example, you can change the background colour or texture of the video, but the movement, watch and lens angle of the person remains essentially the same. This model is well suited to projects that require restoration or consistency at a later stage, such as the visual style of multiple lenses.** **Flex (flexible model) the model allows for more creative adjustments while preserving the key elements (e.g. the style of the person, or the image of the image of the image, or even the image of the image of the image of the person, can be used as a medium or medium of the idea.
 
-- 提案/风格样片；
+##**The freedom of creation: how to choose the appropriate model** The creator can choose different models to adjust video content depending on the project’s different needs. For those cases where raw material needs to be retained, the **Adhere** model is ideal because it focuses on fine-tuning the original video.
 
-- 快速修改的最终成片交付。
+# The advantage over other tools is that, unlike the traditional "tips generate video" or static filters, the key to Modify Video is **time sequence understanding and motion retention**:
 
-### 🧠 写提示词的技巧（Prompt 怎么写效果才好）
-Modify Video 的效果很大程度取决于你输入的“描述词”，就像你在和一个 AI 剧组沟通：
+- Advanced signals (e.g. postures, emoticons, structures) are used to distinguish between elements that should be retained and those that can be redesigned;
 
-- **要正面描述，不要用“不要”表达**；
+- ** Video-level high-security control**, not just looking at a frame, but understanding the entire footage;
 
-- 描述清楚你想看到什么，而不是回避什么；
+- ** Results of output are more consistent**, especially with regard to face, body movement, time continuity;
 
-- 像写剧本或镜头语言一样，画面感越强越好。
+- Official tests show that Modify Video is better than Runway 's V2V tool for visual authenticity and action consistency.[] [https://assets-v2.circle.so/0udra1xvnlkugw713tcinmo57c23] [https://assets-v2.circle.so/frdre9bymerfb91mxldyudm668]
 
-**示例：**
+# How to use Modify Video has been integrated in **Luma Dream Machine: Ray 2** for video clips of up to **10 seconds. The operating process is very simple: upload a video; select a conversion preset (Adhere / Flex / Reimagine); decide whether to provide a first image or visual style hint; If there is a hint: describe the video changes you want (the more specific the better) Select the “modify intensity”: determine the extent of the image changes The tool automatically generates multiple versions for your quick selection or reprocessing.
 
-- 换衣服：“一个穿着蓝色礼服的女性” → AI 会自动将原人物换装；
+- Concept testing (Previs);
 
-- 换场景：“一条布满霓虹灯和飞行汽车的赛博朋克街道”；
+- Proposals/synthetic samples;
 
-- 加特效：“紫色魔法火焰从她手中旋转而出”；
+- Quick-changed final piece delivery.
 
-- 换道具：“用一把光剑替代棍子，光效闪耀”。
+# # The technique of writing hints (Prompt how to write effects) The effect of Modify Video depends to a large extent on the "descript" you typed, just like you're communicating with an AI group:
 
-### 🎥 拍视频前的建议
+- ** To describe it positively and not to use the word “no”**;
 
-- 视频尽量稳定（不要剧烈抖动）；
+- Describe what you want to see, not avoid it;
 
-- 背景干净简洁越好（比如白墙或空地）；
+- Like writing a script or a camera language, the stronger the picture is.
 
-- 短视频效果最好（建议 5-10 秒）；
+** Example:**
 
-- 视频清晰度高，结果更出色。
+- Change of clothes: "A woman in a blue dress"  AI will automatically change the original person;
 
-### 🚫 有哪些限制？
+- Change of scene: “A Saberbunk street full of neon lights and flying cars”;
 
-- 每次上传的素材不能超过 **10 秒**；
+- Gat effect: "The purple magic flame spins out of her hand."
 
-- 模糊或低分辨率素材效果会打折扣；
+- Alternatives: “Place a light sword instead of a stick, bright light”.
 
-- 如果画面中有**很多快速移动物体**，可能会不够稳定；
+# # The advice before you shoot the video #
 
-- 建议将长视频拆成多个片段来处理。
+- The video should be as stable as possible (don't be violent);
 
-网址：https://dream-machine.lumalabs.ai/ 
-上手指南：https://lumalabs.ai/learning-hub/how-to-use-modify-video
-See more
+- A clean and concise background as best possible (e.g. white walls or open areas);
+
+- The short video is the best (recommendations 5-10 seconds);
+
+- The video's clear and the results are even better.
+
+What's the limit?
+
+- No more than **10 seconds per upload**;
+
+- Differing or low-resolution material effects;
+
+- If there are ** many fast-moving objects in the picture, ** it may not be stable enough;
+
+- It is proposed that long videos be broken into multiple segments.
+
+Website: https://dream-machine.lumalabs.ai/Guideline: https://lumalabs.ai/learning-hub/how-to-use-modify-video

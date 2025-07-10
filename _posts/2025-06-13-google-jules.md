@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google 推出可自主执行任务的编程智能体：Jules 云端运行 能独立执行完整开发任务
+title: Google Launchs an autonomous programming smart body: Jules Cloud Run can independently perform a full development task
 date: 2025-06-13 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-jules_1.jpg
@@ -9,96 +9,87 @@ icon: image
 * content
 {:toc}
 
-在传统“代码助手”逐渐饱和的背景下，Google 正式推出;**Jules** ,定位为“一位真正能独立工作的虚拟编程搭档”，而非简单的代码自动补全工具。
-Jules 不只是给你建议，而是**独立执行完整开发任务**，代表着“agentic development（代理式开发）”正式走出实验室，迈向实用化。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-## Jules 是什么？
-**Jules 是一个异步、自主的 AI 编程智能体**，可接入你的真实代码仓库，**在云端独立环境中运行**以下任务：
+Against the background of the progressive saturation of the traditional Code Assistant, Google is officially launched; **Jules**, which is positioned as a “virtual programming partner who can really work independently,” rather than a simple code auto-filling tool. Jules is not just a recommendation, but an independent complete development task**, representing the official exit from the laboratory of “agent development” towards practicality.
 
-- 自动生成测试用例
+# Jules what? **Jules is an anesthetic, autonomous AI programming intelligence** with access to your real code warehouse,** running in a cloudy independent environment ** the following tasks:
 
-- 修复代码缺陷（bugs）
+- Auto-generated test cases
 
-- 升级依赖版本（如 Node.js）
+- Fix code defects (bugs)
 
-- 构建新功能模块
+- Upgrade dependent version (e.g. Node.js)
 
-- 提供语音变更日志（audio changelog）
+- Build new functional modules
 
-## Jules 的六大关键特性
-![](https://assets-v2.circle.so/me9jkesuw292h6fo3mgi3boqfoim)00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-### 1. ✅ **真实代码库处理能力**
+- Provide audio changelog
 
-- **区别于沙盒工具**，Jules 可接入现有真实项目，读取全局上下文，跨文件/模块理解架构、依赖与逻辑结构；
+#Jules' six key properties![] (https://assets-v2.circle.so/me9jkesuw292h6fo3mgi3boqfoim) ##1.  Real code repository processing capacity**
 
-- 能准确地对现有工程做出结构性调整，例如模块重构或版本迁移。
+- ** Unlike sandbox tools**, Jules has access to existing real projects, read the global context, cross-document/module architecture, dependency and logical structure;
 
-### 2. 🔄 **并发任务执行（Parallel Execution）**
+- The ability to make precise structural adjustments to existing works, such as module re-engineering or version migration.
 
-- 所有任务在 Google Cloud VM 上运行；
+##2. **ParlExécution**
 
-- 支持**并行执行多个请求**，大幅加速多任务处理，适用于 CI/CD、重构等重负载流程。
-![](https://assets-v2.circle.so/wyoul0oxk38phzwo7tln0tvkbq17)
+- All tasks run on Google Cloud VM;
 
-### 3. 🔍 **可视化工作流**
+- Support** parallel execution of multiple requests**, substantially accelerating multitask processing, applicable to the CI/CD, re-engineering load process etc.[] [] (https://assets-v2.circle.so/wooul0oxk38phzwo7tln0tvkbq17)
 
-- 执行前，Jules 会向开发者呈现其计划（计划逻辑 + 修改理由）；
+#3.  ** Visualized workflow**
 
-- 用户可先评估其操作动机，确保不会被“黑箱决策”影响代码质量。
-![](https://assets-v2.circle.so/hjmf5woud54chstuxif1p9wv06zi)
+- Prior to implementation, Jules will present the developers with his plan (the logic of the plan + the reason for the change);
 
-### 4. 🔗 **GitHub 无缝集成**
+- Users can first assess their operational motives to ensure that they are not affected by “black box decisions” affecting code quality.[1] (https://assets-v2.circle.so/hjmf5woud54chstuxif1p9wv06zi)
 
-- Jules 内嵌于 GitHub 工作流中，无需单独平台登录或额外配置；
+## 4.  **GitHub seamlessly**
 
-- 能直接针对 PR、commit、issue 等上下文触发 AI 助理操作。
-![](https://assets-v2.circle.so/l9j3dj9gv4izrm8fo8g9h3v77bwi)
+- Jules is embedded in the GitHub workflow and does not require platform login or additional configuration;
 
-### 5. 🎛️ **可控性强（User Steerability）**
+- can trigger AI assistant operations directly against the context of PR, committee, issue etc. .[] (https://assets-v2.Circle.so/ l9j3dj9gv4izrm8fo8g9h3v77bwi)
 
-- 开发者可**在前中后阶段**自由调整 AI 的执行内容、方式或结果；
+#5. **User Steelability**
 
-- 保证代码主导权始终掌握在人类手中，满足团队合规/审查等需求。
-![](https://assets-v2.circle.so/ddagzgzbt9lt41kawg49uk3xundt)
+- Developers may ** freely adjust the content, modalities or results of the implementation of AI in the pre-medium and post-stages**;
 
-### 6. 🔊 **语音摘要功能（Audio Summaries）**
+- Ensure that the ownership of the code remains in human hands and meets the needs of team compliance/review, etc.[1] (https://assets-v2.circle.so/ddagzgzbt9lt41kawg49uk3xundt)
 
-- 将代码提交历史转为**语音 changelog**；
+#6.  **Audio Summeries**
 
-- 适合项目回顾、团队同步、语音播报等多场景使用。
+- Conversion of code submission history to **voicechangelog**;
 
-## 工作机制与核心能力
+- Fits for multiple scenarios such as project review, team synchronization, voice broadcast, etc.
 
-### 🧠 **理解上下文、智能行动**
+# Working mechanisms and core competencies
 
-- 克隆你的代码仓库到 Google Cloud 安全虚拟机（VM）；
+# #  understand context, smart action**
 
-- 获取项目的完整上下文，而非基于单文件或 sandbox；
+- Cloning your code warehouse to Google Cloud security virtual machine (VM);
 
-- 理解代码结构与意图，推理并执行更改。
+- Retrieving the complete context of the project, not on the basis of a single document or sandbox;
 
-### 🔁 **异步运行**
+- Understanding the structure and intent of the code, reasoning and implementing changes.
 
-- 你不需要一直盯着它工作；
+# # # # # run # # run # # run # # run # # by # # # by # # # by # # by # # by # # by # # by # # by # # by # # by # # by # by # # by # by # by # # by # by # # by # # by # by # # by # by # by #
 
-- Jules 在后台并发执行任务，完毕后提供**修改计划、理由与差异（diff）说明**。
+- You don't have to keep an eye on it;
 
-### 🔐 **数据隐私保护**
+- Jules is on the backstage and is on mission and, upon completion, provides a description** of the plan, justification and discrepancy (diff)**.
 
-- 所有操作默认私有；
+# #  ** Data privacy protection**
 
-- 不会将私有代码用于模型训练；
+- Default private ownership of all operations;
 
-- 数据完全隔离于 VM 内运行环境。
+- Private codes will not be used for model training;
 
-## **现已全球开放公测**（Gemini 模型可用国家）；
+- The data is completely isolated from the VM operating environment.
 
-- 无需等待名单，免费试用（存在使用上限）；
+# ** Global Open Commons** (Gemini model available country);
 
-- 后续将引入付费机制；
+- Free trial without waiting for a list (with a ceiling on use);
 
-- 使用文档地址：https://jules.google/docs/usage-limits/
+- Follow-up will introduce payment mechanisms;
 
-- 访问：jules.google
+- Use of document address: https://jules.google/docs/useage-mits/
 
-See more
+- Visit: Jules.google
+

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google发布 Gemma 3n：新一代轻量级多模态 AI 模型 响应速度提升约 1.5 倍 2GB内存手机即可运行
+title: Google Gemma 3n: A new generation of lightweight multimoderated AI models with a response speed increase of about 1.5 times 2GB memory cell phones running.
 date: 2025-06-15 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-gemma-3n-ai-1-5-2gb_1.jpg
@@ -9,150 +9,120 @@ icon: link
 * content
 {:toc}
 
-**Gemma 3n** （“n”意指 Nano 或 Next-gen）是 Google 推出的最新轻量级开源 AI 模型，旨在实现“**设备本地运行（on-device）+ 多模态感知 + 高效率低延迟**”三大目标。
-它是继 Gemma 3 系列（支持桌面/云端推理）后的**首个为移动设备优化的模型架构预览版**，同时也构成了下一代 **Gemini Nano 系列模型** 的技术基础。
+**Gemma 3n** ("n" means Nano or Next-gen) is the latest lightweight open source AI model launched by Google, which aims to achieve the three objectives of "**on-device+ multi-module perception + low-efficiency delay**" and is the first prototype of a model architecture to optimize mobile devices** following the Gemma 3 series (support to desktop/coated reasoning)** and also forms the technical basis of the next generation **Gemini Nano series model**.
 
-- 参数规模：5B 和 8B（分别为50亿和80亿参数）
+- Parameters size: 5B and 8B (5 billion and 8 billion parameters, respectively)
 
-- 支持模态：文本、图像、音频（语音识别与翻译）、视频（即将开放）
+- Support of patterns: text, images, audio (voice recognition and translation), video (to be opened)
 
-![](https://assets-v2.circle.so/hnczcohntm5qbb9qlgsrlcbwgcln)
-## 核心亮点功能（兼顾性能、效率与隐私）
+~ (https://assets-v2.circle.so/hnczcohntm5qbb9qlgslbwgln) # Core Point Function (compatibility of performance, efficiency and privacy)
 
-### ✅ 1. 极致轻量与快速响应
+# # 1. Extremely light and quick response
 
-- **响应速度提升约 1.5 倍**（对比 Gemma 3 4B），在高端 Android 手机上能实现<500ms 的首字延迟。
+- **The response speed is about 1.5 times higher ** (cf. Gemma 3 4B) to achieve a <500ms delay in the first word on the high end Android mobile phone.
 
-- 得益于 DeepMind 创新的 **Per-Layer Embeddings（PLE）** 技术，内存占用被大幅降低；
-虽然模型参数为：
-5B（50亿） 和 8B（80亿）；
+**Per-Layer Embeddings (PLE)**, which benefited from Deepmind innovation, has been significantly reduced in memory occupancy; although the model parameters are: 5B (5 billion) and 8B (8 billion);
 
-实际运行时所需内存仅为：
+The memory required at the time of actual operation is only:
 
-- **~2GB（5B模型）**
+- **~2GB (5B model)**
 
-- **~3GB（8B模型）**
+- **~3GB (8B model)**
 
-这意味着：**中端 Android 手机也可运行大模型推理**，无需云端支持。
-适配 Qualcomm、MediaTek、Samsung 等移动硬件平台。
+This means that:** middle-end Android mobile phones can also run large model reasoning** without cloud support. Fit to mobile hardware platforms such as Qualcomm, MediaTek, Samsung, etc.
 
-### ⚙️ 2. 动态可调模型结构（Mix'n'Match 架构）
-“**Mix’n’Match**” 架构让 5B 模型能自动切换成内嵌的 2B 子模型；
+##2. Dynamic modifiable model structure (Mix'n'Match architecture) "**Mix'n'Match**" structure allows the 5B model to automatically switch to an embedded 2B submodel;
 
-- 模型结构内嵌了一个嵌套式子模型（2B 活跃内存模型嵌于 4B 主模型中），开发者可**动态调节精度与推理速度**，适应不同的使用场景；
+- The model structure embedded an embedded submodel (2B active memory model embedded in the 4B master model), which the developer can ** dynamic adjustment accuracy and reasoning speed** and adapt to different use scenarios;
 
-- 可根据设备能力或用户需求动态切换精度与速度之间的平衡；
+- A balance between accuracy and speed, depending on the capacity of the equipment or the user's needs;
 
-- 这种架构可实现“一个模型覆盖多个场景”
+- Such a structure would achieve "one model covering multiple scenarios"
 
-- 能耗控制表现优秀，特别适合电池敏感型设备（手机、眼镜、耳机、边缘设备）。
+- Excellent performance in energy consumption and control, especially for battery-sensitive equipment (cell phones, glasses, headphones, peripherals).
 
-### 🛡️ 3. 完全本地运行，隐私优先
+# # 3. Full local operation, privacy priority
 
-- 无需联网即可运行推理任务；
+- The operation of the reasoned task without the need for networking;
 
-- 所有数据在设备上处理，不上传云端，保障用户隐私；
+- All data are processed on the equipment, not on the cloud, and the privacy of users is guaranteed;
 
-- 适用于手机、笔记本、边缘设备等。
+- For mobile phones, notebooks, peripherals, etc.
 
-## 多模态能力增强
-Gemma 3n 是目前 Google 最先进的**移动端多模态开源模型之一**，其支持范围包括：
-![](https://assets-v2.circle.so/cpksy3sc0xplnt493agu9jpuq523)
-## 模型用途：打造下一代“随身智能体验”
-📱 预期应用场景
-![](https://assets-v2.circle.so/g7c93o6x5jnbec10e85xlig94a8f)
-## 性能如何
-📊**自然语言任务**
-Google 称其模型在 Chatbot Arena 排行中表现“高居前列”，在用户偏好评分中：
+## Multi-modular capacity enhancement Gemma 3n is one of the most advanced currently available ** mobile multi-module open source models in Google**, supported by: [x] [https://assets-v2.circle.so/cpksy3sc0xplnt493agu9jpuq523] #model uses: building the next generation of “aside-intelligent experiences”  expected application scenes![] (https://assets-v2.circle.so/g7c93o6x5jnbec10e85xlig94a8f) #how the sex can **the natural language task ** Google described its model as “high ahead” in the Chatbot Arena row, in the user preference:
 
-- 可媲美主流开源模型如 **Mistral 7B、Phi-3、LLaMA 3**；
+- Comparable to mainstream open source models such as **Mistral 7B, Phi-3, LLama 3**;
 
-- 在中英双语任务中表现稳定，尤其是在处理**多轮对话、长文本生成、逻辑问答**方面。
+- To demonstrate stability in the bilingual Chinese and English missions, particularly in dealing with the multi-round dialogue**, the production of long texts, and the logical question-and-answer**.
 
-🌐 多语种能力表现：
+(a) Multilingual performance:
 
-- 在多语言 benchmark（如 **WMT24++**, ChrF）中得分 **50.1%**；
+- Scores in multilingual benchmark (e.g. **WT24+**, ChrF) **50.1%**;
 
-- 在 **日语、德语、韩语、法语、西班牙语** 等语种任务上表现尤佳；
+- Special performance in the ** Japanese, German, Korean, French, Spanish** tasks;
 
-- 这说明它在国际市场适应性方面优于许多西方主导的模型。
+- This suggests that it is superior to many Western-led models in terms of the adaptability of international markets.
 
-![](https://assets-v2.circle.so/q3gqwbs882gpmx3zb9py5cjm05n7)**与同类模型对比**
-![](https://assets-v2.circle.so/m7wgcgosr55t605rfggtwzbn1x93)
-## 核心技术详解
-Gemma 3n 的关键技术亮点之一是**显著降低运行时内存占用**，通过以下三种方式实现：
+#one of the key technology bright spots for the elaboration of the Gemma 3n with ** significant reduction of memory occupancy during operation** is achieved in three ways:
 
-### 1️⃣ Per-Layer Embedding（PLE）
+#1 Per-Layer Embedding (PLE)
 
-- **是什么**：一种由 Google DeepMind 提出的新型嵌入策略；
+- ** What**: a new embedded strategy proposed by Google Deepmind;
 
-- **作用**：每一层使用独立的低维嵌入向量来代替全模型共享 embedding 表；
+- ** Activation**: Each layer uses an independent low-dimensional embedding vector instead of a full model sharing of embedding tables;
 
-- **优势**：
-减少内存复制；
+- **Success**: Reduction of memory replication;
 
-- 更好地压缩表示空间；
+- Better compression of the expression space;
 
-- 支持按需加载（lazy loading）；
+- Support for loading on demand (lazy load);
 
-**效果**：使 5B / 8B 参数模型的动态运行内存分别降低到 **约 2GB / 3GB**；
+**Efficacy**: Reduce the dynamic running memory of the 5B/ 8B parameter model to **approximately 2GB/ 3GB**;
 
-- 类似于将大模型“伪装”成一个 2B 或 4B 的轻量级版本运行。
+- Runs a lightweight version similar to a 2B or 4B " disguise " of the large model.
 
-### 2️⃣ Key-Value Cache Sharing（KVC Sharing）
+#2Key-Value Cache Sharing (KVC Sharing)
 
-- **是什么**：Transformer 模型在推理时需存储注意力机制的中间结果（Key 和 Value）；
+- ** What**: Transformer models need to store intermediate results of attention mechanisms in their reasoning (Key and Value);
 
-- **作用**：多个层或步骤共享这部分缓存，减少重复计算和内存冗余；
+- ** Activation**: multiple layers or steps to share this cache, reducing double counting and memory redundancy;
 
-- **优势**：
-降低推理内存开销；
+- **Success**: Reduction of the intellectual memory expense;
 
-- 加快序列生成速度，提升多轮交互体验。
+- Speed up sequence generation and increase multiple rounds of interactive experience.
 
-### 3️⃣ Advanced Activation Quantization（AAQ）
+#3 Advanced Activation Quality (AAQ)
 
-- **是什么**：对中间激活值进行量化（例如从 float32 降为 int8 或 int4）；
+- ** What**: Quantify intermediate activation values (e.g. from float32 to int8 or infourth);
 
-- **作用**：大幅降低模型的计算量与内存带宽需求；
+- ** Activation**: Significant reduction of model computing and memory bandwidth requirements;
 
-- **优势**：
-保持模型精度的同时减小体积；
+- **Success**: Keeping models accurate while reducing size;
 
-- 支持模型在移动芯片（Qualcomm、MediaTek）上高效运行；
+- Supporting the efficient operation of models on mobile chips (Qualcomm, MediaTek);
 
-- 与 PLE、KVC 联合使用，可进一步压缩至移动设备可接受的水平。
+- In conjunction with PLE, KVC, further compressed to acceptable levels of mobile equipment.
 
-### 混合架构设计：Mix’n’Match 机制
-**🧩 “一套模型，多种能力”**
-Gemma 3n 内部通过 **MatFormer 训练策略** 实现了一种嵌套子模型机制：
-模型结构功能说明主模型（如 4B）具备高精度推理能力子模型（如 2B）性能轻量、响应快速动态切换根据任务复杂度、设备资源自动选择运行路径子模型继承子模型权重由主模型共享，避免重复部署
-这种结构具备以下优势：
+## Mixed architecture design: Mix'n'Match mechanism ** “A set of models, multiple capabilities”** Gemma 3n internalized through the **MatFormer training strategy** achieved an embedded submodel mechanism: model structure function exemplifies that the main model (e.g. 4B) has a high-precision reasoning submodel (e.g. 2B) performance light, response rapid dynamic switching based on task complexity, automatic selection of the operational path sub-models' weights for equipment resources are shared by the main model, avoiding duplication of deployment, and this structure has the following advantages:
 
-- 开发者无需部署多个模型版本；
+- Developers do not need to deploy multiple model versions;
 
-- 可在运行时动态调节质量与延迟之间的权衡（如：导航助手 vs 语义翻译）；
+- The trade-off between dynamic reconciliation quality and delay at running (e.g. navigational assistant vs semantic translation);
 
-- 提高能耗控制能力，适配高低端设备。
+- Improve energy consumption control capabilities and adapt to high-end low-end equipment.
 
-![](https://assets-v2.circle.so/feusty2yr9s1s7qcz5dzvsw6tmy9)
-## 怎么使用 Gemma 3n？
-Google 已开放两个方式，适合不同人群：
-方式一：**AI Studio（网页版）**
+# How to use Gemma 3n? Google is open in two ways for different groups: Mode 1: **AI Studio (web version)**
 
-- 不用安装，直接在浏览器中体验模型的文本理解与生成；
+- Without installation, to experience text interpretation and generation of the model directly in the browser;
 
-- 适合产品经理、开发者预览模型效果。
+- Fit for product managers, developers to preview model effects.
 
-👉 地址：Google AI Studio（需要 Google 账号）
-方式二：**Google AI Edge****（本地开发工具）**
+Address: Google AI Studio (google account required) Mode II: **Google AI Edge**** (local development tool)**
 
-- 适合开发者想把模型集成进 APP、本地系统、硬件设备；
+- Fit for developers to integrate models into APPs, local systems, hardware equipment;
 
-- 提供 SDK、文档、代码示例，支持文本和图像模型部署；
+- Provide SDK, documents, code examples to support the deployment of text and image models;
 
-- 支持 Android、Chrome、嵌入式设备等。
+- Support for Android, Chrome, embedded equipment, etc.
 
-### 详细介绍：
-官方介绍：https://developers.googleblog.com/en/introducing-gemma-3n/
-See more
+## Detailed presentation: Official presentation: https://developments.googleblog.com/en/introduction-gemma-3n/

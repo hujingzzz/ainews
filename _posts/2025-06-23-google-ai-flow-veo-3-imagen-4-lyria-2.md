@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google发布AI 电影创作平台 Flow、全新视频模型Veo 3、图像模型Imagen 4和音乐模型Lyria 2
+title: GoogleAI Film Creation Platform Blow, Video Model Veo 3, Image Model Imagen 4 and Music Model Lyria 2
 date: 2025-06-23 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-ai-flow-veo-3-imagen-4-lyria-2_1.jpg
@@ -9,152 +9,120 @@ icon: link
 * content
 {:toc}
 
-面对快速变化的创意工具生态，Google 在 2025 年 I/O 大会宣布了一整套新一代生成式媒体模型与创作工具，涵盖视频、图像、音乐和内容溯源等多个维度。
-Google 推出了 **Flow** —— 个由 Google 内部最先进的 AI 模型（包括 Veo、Imagen 和 Gemini）驱动的 **AI 电影创作平台**，帮助创作者用自然语言就能生成电影片段，无需高超特效或动画技术。
-它并非只是又一个视频生成工具，而是一个与电影创作者共创、专为叙事与电影工业构建的完整创作系统。Flow 的推出意味着，从想法到电影级画面的转化，将比以往任何时候都更加迅速、自由和高效。
-它的特点不仅在于能“生成图像”，而在于它能**理解故事的逻辑、镜头语言的语法，以及视觉风格的延续性**，这些特性构成了它与普通 AI 视频生成工具的本质差异。
-你只需描述想要的场景，Flow 就能生成像电影一样的画面，还能控制镜头、剪辑场景、统一角色等。
-现已面向 Google AI Pro 和 Ultra 计划的订阅者开放。
-访问：flow.google
+Faced with a rapidly changing creative tool ecology, Google announced in 2025 a new generation of creative media models and tools covering multiple dimensions of video, image, music, and content traceability. Google launched **Flow** – the most advanced AI model (including Veo, Imagen and Gemini) driven by ideas to film-level images **, which helps creators to generate film segments in natural languages without the need for super-effects or animation technology. It is not just another video production tool, but rather a complete creation system created by film creators, dedicated to narratives and the film industry. The launch of Flow means that the transformation of ideas from film-level images will be faster, freer and more efficient than ever before. It is not only a “image generation” but it will be able to produce film segments in natural languages, the language of the lens, and the continuity of visual styles**, which constitute the essence of the AI video production tool.
 
-### 背后三大 AI 引擎：协同驱动创作流程
-![](https://assets-v2.circle.so/zoyb4vh5btje8htfxh4qmps7rikf)这些模型形成协同网络，让 Flow 能实现如下核心能力：
+## Behind three AI engines: Synergy-driven creative processes![] (https://assets-v2.circle.so/zoyb4vh5btje8htfxh4qmps7rikf) These models form a synergic network that allows Flow to achieve the following core competencies:
 
-- 用文字描述生成角色与场景；
+- Generate roles and scenes with text descriptions;
 
-- 支持角色在不同镜头中的一致性；
+- Support for the consistency of roles in different lenses;
 
-- 控制镜头移动、光影与视角；
+- Controlling the movement of the camera, the light and the perspective;
 
-- 场景之间可连续过渡，支持“剪辑”概念；
+- A continuous transition between scenes, supporting the concept of “cut-off”;
 
-- 多次生成内容可整合为一个完整短片结构。
+- Multiple generation of content can be integrated into a complete short film structure.
 
-无缝过渡
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay相机控制
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay影院级品质
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-## 关键功能：不仅是生成，而是导演工具箱
-Flow 提供的不仅仅是图像与视频生成，还包含了大量针对创意制作流程的功能模块：
+A seamless transition, camera control, cinema level quality.
 
-### 1. **Camera Controls（镜头控制）**
-允许用户手动指定镜头的角度、轨迹和运动方式，比如“近景推镜”、“缓慢横移”等，实现具有导演感的镜头语言。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-### 2. **SceneBuilder（场景构建器）**
-可以扩展现有镜头，或者在场景之间建立自然的过渡，如揭示更多信息、变换视角等。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-### 3. **Asset Management（资产管理）**
-集中管理已生成的“ingredients”（角色、背景、物件），并可重复使用它们，维持风格统一。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-### 4. **Flow TV（案例学习平台）**
-平台上集成了大量基于 Flow 生成的短片作品，附带详细提示词和制作方法，便于学习与模仿。
+# Critical function: Not just to generate, but to direct the toolbox Flow provides not only image and video generation, but also a large number of functional modules for creative production processes:
 
-### **Flow案例展示**
-Google 在 Flow 开发过程中邀请了多位具有前瞻意识的导演与艺术家参与合作，下面是其中三位的案例：
-🔹 Dave Clark
-获奖导演，代表作《Battalion》《NinjaPunk》均尝试融合 AI 技术，其新片《Freelancers》由 Flow 与其他 AI 工具协助完成，讲述失散兄弟间的成长与冒险。
-🔹 Henry Daubrez
-数字艺术家，使用 Flow 制作新片《Electric Pink》，延续他对孤独与情感连接的探索。
-🔹 Junie Lau
-多领域创作者，正制作《Dear Stranger》——关于祖母与孙女跨越多重平行宇宙的诗意叙事作品，聚焦数字身份与情感的延伸。
-这些案例不仅展示了 Flow 的技术能力，更反映出 AI 已深入参与到叙事逻辑、情感建构乃至艺术美学的多个层面。
+##1. **Camera Controls** Allows users to manually specify the angles, tracks and modes of motion of the lens, such as “near-viewing mirrors”, “slow-crossing”, etc., to achieve the language of the film with a sense of direction.
 
-## 📺 Veo 3 发布 Veo 2 能力更新
-Google DeepMind 正式发布了其迄今为止最先进的视频生成模型——**Veo 3**。与前一代 Veo 2 相比，Veo 3 不仅在图像质量、物理一致性、提示词遵循性等方面实现质的飞跃，还引入了包括音频在内的新创作维度，标志着生成式视频技术迈入“电影级创作”时代。
+##2. **SceneBuilder** can expand the existing lens or create a natural transition between the scenes, such as revealing more information, changing perspectives, etc.
 
-### Veo 3eo 3 的核心能力
-1. 4K**高清输出与真实感增强**
+##3. **Asset Management (Asset Management)** centralizes the generation of “ingredients” (roles, background, objects) and can be reused to maintain a uniform style.
 
-- 支持 **原生 4K 分辨率输出**，达到近似专业摄影机的视觉细节；
+##4. **Flow TV (Case Learning Platform)** The platform has incorporated a large number of short film-based productions with detailed instructions and production methods to facilitate learning and imitation.
 
-- 在运动物理、光照逻辑、材质质感等方面实现了对现实世界规则的高保真模拟；
+##** The **Flow case shows ** Many forward-thinking directors and artists were invited to work with artists in the development of the Flow, three of them:  Dave Clark award-winning director, representing the multi-field creators of Battalion NinjaPunk, who tried to integrate AI technology, and his new film Freelancers, which was completed with the help of Flow and other AI tools to tell about the growth and adventure of separated brothers.  Henry Daubrez digital artist, who used the Flow to produce a new film, Electric Pink, to continue his exploration of isolation and emotional connection. Juniie Lau, a multi-field creator, who is producing a book called "Dear Strangler" – a poem about grandmother and granddaughter crossing multiple parallel universes, with a focus on digital identity and emotional outreach.
 
-- 场景间的物体一致性、透视准确性大幅提高，生成画面可无缝嵌入真实拍摄片段。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-2. **更强的提示词理解能力**
+#Veo 3 Launching Veo 2 Capability Update Google Deepmind officially publishes its most advanced video production model to date - **Veo 3**. Compared to the previous generation of Veo 2, Veo 3 not only achieved qualitative leaps in image quality, physical consistency, reference compliance, etc., but also introduced new creative dimensions, including audio, to mark the entry of production video technology into the era of film-grade creation.
 
-- 相较于 Veo 2，Veo 3 显著提升了**prompt adherence（提示遵循性）**；
+#Veo 3eo 3 Core Capability 1.4K** High Quality Output and Realization**
 
-- 支持更复杂的自然语言描述，包括镜头运动、情绪基调、构图细节；
+- Support **origin 4K resolution output** to achieve visual details of approximating professional cameras;
 
-- 允许用户用通俗语言表达专业导演指令（如“清晨，海边，手持镜头感，渐变色光”）；
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-3. **创作控制能力提升**
+- A high level of authenticity of the rules of the real world has been achieved in terms of exercise physics, light logic, material quality and so on;
 
-- 支持镜头间**连贯动作过渡**，保持角色与背景逻辑一致；
+- Significant improvements in object consistency and visual accuracy between scenes, which generate images that are seamlessly embedded in real footage.
 
-- 可构建复杂场景结构（如多人互动、动态叙事节奏）；
+2. ** Stronger hint understanding**
 
-- 融合 **音频生成功能**（Veo 3 独有），首次将“环境音、对白”等**音频生成**能力引入视频模型中，支持生成环境声与对白，对应不同场景情绪氛围；
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
+- A significant increase in the number of applications in comparison to Veo 2, Veo 3**prompt compliance**;
 
-### Veo 2 的能力更新（相较初版）
-尽管焦点转向 Veo 3，Veo 2 仍进行了能力升级，尤其是在以下方面：
+- Support for more complex descriptions of natural languages, including shot motion, emotional tone, drawing details;
 
-- 引入了新的“控制模块”（Control Modules），允许用户对生成内容的风格与细节进行更精准控制；
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-- 改善了场景连贯性及长时序镜头质量；
+- Allowing users to express their professional director's instructions in popular language (e.g., “in the morning, seaside, hand-held camera, faded light”);
 
-- 保持角色的一致性：通过为 Veo 提供角色的参考图像，确保角色在视频的不同场景中保持其外观。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-- 更好地与平台（如 Flow）集成，用于实战创作流程。
+3. **Creation control upgrade**
 
-### Veo 目前已整合至 Google Labs 的 **Flow 平台**
-服务于电影人、创意团队、广告制作人等角色。典型应用场景包括：
+- Support for coherent action transitions between lenses**, with roles aligned with background logic;
 
-- **短片预演与镜头规划**（Storyboarding & Previsualization）；
+- The ability to construct complex scenario structures (e.g. multi-person interaction, dynamic narrative rhythm);
 
-- **虚拟场景搭建与角色动作模拟**；
+- Integration ** Audio Generation function** (Veo 3 unique), introducing for the first time into a video model the ability to produce audio ** such as “environmental sound, dialogue” ** to support the generation of environmental sound and dialogue and to match different scenes with emotional atmospheres;
 
-- **影视剧概念片段制作**；
 
-- **交互式叙事视频生成（如游戏场景动画）**。
 
-Veo 3详细介绍：https://deepmind.google/models/veo/
+#Veo2 Capabilities Update (as compared to the first edition) has been upgraded despite the shift in focus to Veo 3, Veo 2, particularly in the following areas:
 
-## 🖼️ **Imagen 4：图像生成的速度与质量新高峰**
-**关键词：2K分辨率 + 多风格 + 排版能力提升**
+- The introduction of a new Control Module (Control Modeles), which allows users to exercise more precise control over the style and detail of the content generated;
 
-- **图像质量**：比 Imagen 3 提升显著，能精准生成如水滴、动物毛发、织物纹理等细节；
+- Improved scene consistency and the quality of long-time sequence lenses;
 
-- **风格多样性**：支持现实主义与抽象风格、不同长宽比（适配打印、社媒、演示）；
+- Keeping the role consistent: by providing role reference images for Veo, ensure that the role remains visible in the different scenes of the video.
 
-- **文本排版能力提升**：首次强化“拼写与排版”，适合用于卡片、海报、漫画等含文字视觉创作；
+- Better integration with platforms (e.g.,low) for operational creative processes.
 
-- **使用平台**：Gemini App、Whisk、Workspace 套件（Docs、Slides、Vids）及 Vertex AI；
+##Veo is now integrated into Google Labs' **Flow platform** serving the role of filmman, creative team, advertising producer, etc.
 
-- **即将推出**：Imagen 4 flash，生成速度为 Imagen 3 的 10 倍。
-![](https://assets-v2.circle.so/mv0pughh5kp4dz2v0jnctvlyfc8z)![](https://assets-v2.circle.so/xgisuk7nhixyt80rr3ti3532bcm6)![](https://assets-v2.circle.so/woi3hfw9e1elr2h3k1rl0q68zueo)![](https://assets-v2.circle.so/buhal37tsv9wbnqo95wiqefnlgbn)
+- ** Short film preview and shot planning** (Storyboarding & Previsualization);
 
-## 🎵 **Lyria 2：实时音乐生成与控制**
-**Lyria 2** 是 Google DeepMind 最新发布的 **音乐生成模型**，目标是生成**高保真、专业级别音频**，涵盖多种音乐风格、结构复杂的乐曲以及创作工具应用场景。
+- ** Virtual setup and role action simulation**;
 
-### 1. 🎧 **高保真音频输出**
+- **The production of the concept film**;
 
-- 可生成具备**录音棚质量**的音频内容；
+- ** Interactive narrative video generation (e.g. game scene animation)**
 
-- 支持各种乐器、声部组合，甚至模拟真实演奏技巧；
+Veo 3 for details: https://deepmind.google/models/veo/
 
-- 音频质量足以用于正式发行、演出背景或专业混音场景。
+# Imogen 4: New peak in speed and quality of image generation** ** keyword: 2K resolution + multi style + layout capability increase**
 
-### 2. 🎼 **多体裁、多风格支持**
+- ** Image mass**: significantly higher than Imagen 3 to produce precise details such as droplets, animal hair, fabric texture, etc.;
 
-- Lyria 可覆盖从电子、古典到嘻哈、爵士等多种音乐风格；
+- ** Style diversity**: support for realism versus abstract style, different width ratio (print fit, social media, demonstration);
 
-- 在处理**复杂节奏结构与和声编配**时表现出强一致性；
+- ** Text layout enhancement**: for the first time, “Scryption and layout” has been enhanced and is suitable for visual writing in words such as cards, posters, cartoons, etc.;
 
-- 支持跨风格融合创作，例如“爵士元素的电子乐”或“配有非洲打击乐的管弦作品”。
+- ** Use of platforms**: Gemini App, Whisk, Workspace (Docs, Slides, Vids) and Vertex AI;
 
-### 3. 🎹 **为创作者设计的生成流程**
+- ** To be launched**: Imogen 4 flash, generating 10 times the rate of Imagen 3 ![] (https://assets-v2.circle.so/mv0pugh5kp4dz2vjnctvlyfc8z) [] (https://assets-v2.circle.so/xgisuk7nhixyt803t3532bcm6][https://assets-v2.circle.so/ii3hfw9e1 elr2h3k1rl0q68ueo] [https://assets-v2.circle.so/buhal37tsv9wbnqq6nlgbn)
 
-- 已集成至 Google 的 **Music AI Sandbox** 工具中，面向作曲人、音乐制作人和词曲创作者；
+#  ** Lyria 2: Real-time music generation and control** ** Lyria 2** is the most recent release of Google Deepmind ** Music generation model** with the objective of generating ** high-security, professional-level audio**, covering a variety of musical styles, structured music songs and creative tool applications.
 
-- 支持互动生成与控制（通过 MusicFX DJ 或 Lyria RealTime API）；
+# 1.  ** high-level audio output**
 
-- 可用于**歌曲草稿创作、配乐创意探索、现场演奏生成**等多种场景。
+- Generates audio content with ** studio quality**;
 
-**可用平台**：YouTube Shorts、Vertex AI、AI Studio API。
-Lyria 2 详细介绍：https://deepmind.google/models/lyria/
-See more
+- Support for instruments, combinations of vocals and even simulations of real performance techniques;
+
+- Sound quality sufficient for official distribution, background of performance or professional mix.
+
+##2.  Multi-structured, multi-style support**
+
+- Lyria can cover a variety of musical styles ranging from electronics, classical to hip-hop, jazz, etc.;
+
+- Strong consistency in dealing with the complex rhythm structure and sound formulation**;
+
+- Support for cross-style integration, such as “jazz element electronic music” or “songworks with African strike music”.
+
+##3.  ** Generating process designed for creators**
+
+- In the **Music AI Sandbox** tool integrated into Google, for composers, music producers and songwriters;
+
+- Support interactive generation and control (through MusicFX DJ or Lyria RealTime API);
+
+- A variety of scenes can be used to create ** draft songs, explore creative music and play live**.
+
+** Available platforms**: YouTube Shorts, Vertex AI, AI Studio API. Lyria 2 Detailed presentation: https://deepmind.google/models/lyria/

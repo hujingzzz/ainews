@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google发布 “基因理解AI”：AlphaGenome 专门用来预测 DNA 中变异对基因调控的影响
+title: Google “Genetic Understanding AI”: AlphaGenome specifically used to predict the effects of mutations in DNA on genetic regulation.
 date: 2025-06-13 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-ai-alphagenome-dna_1.jpg
@@ -9,123 +9,109 @@ icon: book
 * content
 {:toc}
 
-我们知道：
+We know:
 
-- 人类的 DNA 就像一个巨大的说明书。
+- The human DNA is like a huge statement.
 
-- 其中有些地方“编码”蛋白质，但其实 **98% 是“非编码区域”**，这些区域负责控制基因何时、在什么细胞中表达。
+- Some of these are “coded” proteins, but in fact **98% are “non-coded areas”** which are responsible for controlling when and in what cells the genes are expressed.
 
-- 这些区域的功能难以预测，小小的变异可能对健康有很大影响（比如某些癌症或罕见病）。
+- The functions of these regions are difficult to predict, and small variations can have a significant impact on health (e.g. certain cancers or rare diseases).
 
-AlphaGenome 是一种新型 AI 模型，旨在更准确、全面地预测单个 DNA 变异对基因调控过程的影响，尤其关注非编码区（占基因组98%）的调控功能。
-**它能更精准地揭示这些非编码区域的功能和它们在不同细胞中的表现，以及变异可能带来的后果。**
-![](https://assets-v2.circle.so/k10qs8x4lxf6x4905802yz2cq8eb)你可以想象它像一个 “基因调控雷达”，能扫描百万级别的DNA序列，告诉你：
+AlphaGenome is a new AI model that aims to predict more accurately and comprehensively the effects of individual DNA variations on genetic regulation processes, with particular attention to the regulatory functions of non-coded areas (98 per cent of the genome). ** It provides a more accurate picture of the functions of these non-coded areas and their performance in different cells, as well as the possible consequences of variations. ** [!] (https://assets-v2.circle.so/k10qs8x4lxf6x4905802yz2cq8eb) You can imagine it as a “genetic control radar” that scans millions of DNA sequences and you can tell:
 
-- 某个突变会不会让一个癌症基因被意外激活？
+- Does a mutation cause an accidental activation of a cancer gene?
 
-- 哪个剪接点可能被破坏，导致基因“拼错”？
+- Which clipping point could be destroyed, leading to a genetic "wrong"?
 
-- 哪段序列适合“定制”用在神经细胞里使用？
+- Which sequence is suitable for "customization" for use in neurocells?
 
-与以往模型相比，AlphaGenome 在 DNA 序列长度、预测分辨率和多模态建模能力上实现了重大突破。它构建了一个统一框架，可用于研究基因表达、剪接、蛋白结合位点等调控机制。
+AlphaGenome has made a major breakthrough in DNA sequence length, predictive resolution, and multi-model modelling capabilities compared to previous models. It has built a unified framework that can be used to study regulatory mechanisms such as genetic expression, cutting, protein combinations, etc.
 
-## 它能做什么？
-AlphaGenome 可以：
+# What can it do?
 
-### ✅ 1. 输入超长 DNA 序列
+# #  1. Enter super-long DNA sequence
 
-- 可分析 **长达100万个碱基（DNA字母）** 的序列 —— 比以往模型处理得更远、更全面。
+- Analysable ** sequences of 1 million bases (DNA letters)** -- more remote and comprehensive than previous models.
 
-### ✅ 2. 预测数千个调控特性
-包括：
+2. Predict thousands of regulatory properties, including:
 
-- 哪些位置可能是基因起点或终点；
+- Which locations may be genetic starting or endpoints;
 
-- 哪些区域会参与 RNA 剪接（重要生物过程）；
+- Which areas would be involved in RNA clippings (significant biological processes);
 
-- 哪些 DNA 区域对某些蛋白质有吸引力；
+- Which DNA areas are attractive to certain proteins;
 
-- 不同细胞类型中 RNA 表达的活跃程度。
+- The extent to which RNA expressions are active in different cell types.
 
-### ✅ 3. 快速评估变异影响
+3. Rapid assessment of the effects of variability
 
-- 比较突变前后的序列预测结果；
+- Comparison of sequence predictions before and after mutation;
 
-- 能判断这个变异可能会不会导致疾病、影响基因表达或破坏调控功能。
+- The ability to determine that this variation may not cause disease, affect genetic expression or disrupt the regulatory function.
 
-### ✅ 4. 覆盖剪接突变预测
+# 4. Overwrite clipping mutation predictions
 
-- 这是一个重要突破，尤其在理解 **罕见遗传病** 中非常有用，比如脊髓性肌萎缩症等。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
+- It's an important breakthrough, especially in understanding ** rare genetic diseases**, like spinal muscle atrophy, etc.
 
-## 技术原理：它是怎么实现的？
-**技术架构**
+# Technology: How did it happen? ** Technology architecture**
 
-- **卷积层**：检测短序列模式（如DNA的motif）
+- **roll layer**: detection of short-sequence patterns (e.g. motif of DNA)
 
-- **Transformer**：在超长序列中建立全局信息流动
+- **Transformer**: Create global information flows in super-long sequences
 
-- **高效训练**：使用TPU集群，仅需4小时，计算资源为前作Enformer的一半
+- ** Efficient training**: Using TPU clusters, it takes only 4 hours to calculate half of the resources from the previous Enformer
 
-AlphaGenome 采用了多个 AI 领域的先进技术：
-![](https://assets-v2.circle.so/xo0mz5avlik88bsflzzrp6m3jrin)**模型表现与验证**
+AlphaGenome uses advanced technology in several AI fields: !"[] (https://assets-v2.circle.so/xo0mz5avlik88bsflzzrp6m3jrin)** model performance and validation**
 
-- 在24个DNA序列预测任务中，**AlphaGenome超越当前最优模型22项**；
+- Of the 24 DNA sequence prediction missions,** AlphaGenome exceeded the current optimal model by 22**;
 
-- 在26个变异效应预测任务中，**匹配或超过现有最佳模型24项**；
+- Of the 26 variant prediction missions, ** matches or exceeds 24 of the best available models**;
 
-- 为首个可统一建模所有预测模态的模型；
+- A model for the first single model for all predictive models;
 
-- 支持 **API调用**，为科学家提供跨模态一体化预测能力。
-![](https://assets-v2.circle.so/sapyrb9qm11yjqrlsww123wduz2b)
+- Support **API call** to provide scientists with the ability to predict trans-modular integration.[1] (https://assets-v2.circle.so/sapyrb9qm11yjrlsw123wduz2b)
 
-## 实际应用场景
-AlphaGenome 并不是一个只停留在理论层面的工具，它具备很强的应用价值：
+# The practical application scene AlphaGenome is not a tool that stays at the theoretical level and has a strong application value:
 
-### 🔬 1. 疾病机制研究
+1. Research on disease mechanisms
 
-- 可用于揭示哪些突变会影响基因表达，从而可能导致癌症或罕见遗传病。
+- May be used to reveal which mutations affect genetic expression and may lead to cancer or rare genetic diseases.
 
-- 官方展示：预测出 T-ALL 白血病患者中的特定突变会激活 TAL1 癌基因，模拟已知机制。
+- Official display: predicts that specific mutations in T-ALL leukemia will activate the TAL1 cancer gene and simulate the known mechanisms.
 
-### 🧫 2. 合成生物学
+# #  2. Synthetic biology
 
-- 帮助设计具有特定功能的 DNA 元件（如只在神经细胞中启动的启动子）。
+- Help design DNA components with specific functions (e.g. starters only in neurocells).
 
-### 🧠 3. 基因功能图谱构建
+# #  3. Gene function mapping
 
-- 协助科学家系统性地绘制不同细胞中基因调控机制全图。
+- Assisting scientists in systematically mapping genetic control mechanisms in different cells.
 
-## 为什么它是突破性的？
-它解决了多个关键限制：
-![](https://assets-v2.circle.so/9jncqcluw5uuxrvcp2zjawyeit10)AlphaGenome 在 24 个预测任务中有 22 个超越当前最佳模型，在变异效应预测上也表现突出。
+# Why is it a breakthrough? It addresses several key constraints: [https://assets-v2.circle.so/9jncqcluw5uuxrvcp2zjawyeit10] AlphaGenome out of 24 predictions, 22 are above the current best models and feature prominently in variant predictions.
 
-## 局限与未来发展
-尽管进步明显，但 AlphaGenome 并非“万能”：
+# Limitations and future development, although progress is clear, AlphaGenome is not "one size":
 
-- 📏 对于 **超远距离调控**（>100kb）仍有难度；
+- Still difficult for **super-distance regulation** (> 100kb);
 
-- 🧫 某些 **组织特异性预测能力** 仍在改进；
+- Certain ** tissue-specific forecasting capabilities** are still improving;
 
-- ❌ 不适用于**个人临床基因预测**；
+-  does not apply to individual clinical genetic predictions**;
 
-- 🌱 复杂表型（如环境或多基因互作）仍需结合其他工具分析。
+- Complex forms (e.g. environmental or multigenic interactions) still need to be analysed in conjunction with other tools.
 
-未来，DeepMind 计划扩大训练数据、支持更多物种和功能模态，并逐步开放完整模型。
-目前，**AlphaGenome 通过 API 提供给全球科研人员非商业用途使用**。研究者可以：
+In the future, Deepmind plans to expand training data, support more species and functional models, and gradually open up complete models. Currently, **AlphaGenome provides non-commercial uses to scientists worldwide via API**. Researchers can:
 
-- 在不同生物学项目中测试变异；
+- Testing of variations in different biological projects;
 
-- 快速提出并验证机制假设；
+- Rapid presentation and validation of mechanism assumptions;
 
-- 构建属于自己的下游模型或任务；
+- Build their own downstream models or tasks;
 
-官方介绍：https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/ 
+Official presentation: https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-gender/
 
-- **Read our preprint**
+- ** Read our preprint**
 
 - **Use the AlphaGenome API**
 
 - **Join the community forum**
 
-See more

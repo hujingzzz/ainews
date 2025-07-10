@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google Project Mariner：通过自然语言快速调度一个或多个 AI 智能代理，在浏览器环境中模拟人类完成执行复杂的任务
+title: Google Project Mariner: Rapidly dispatch one or more AI smart agents through natural languages to simulate human performance of complex tasks in the browser environment
 date: 2025-06-23 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-project-mariner-ai_1.jpg
@@ -9,51 +9,38 @@ icon: web
 * content
 {:toc}
 
-Project Mariner 是 DeepMind 针对未来 AI 自动化工作流推出的原型项目，它通过自然语言控制多个智能体在虚拟浏览器中同时执行任务。
-✅ **核心目标**
-该系统旨在让用户通过自然语言指令，快速调度一个或多个 AI 智能代理，在浏览器环境中模拟人类完成执行复杂的任务。
-Mariner 名字的寓意来自于“航海者”，象征 AI 能够在信息的“海洋”中自主导航与执行任务。
-✅ **任务类型**
+Project Mariner is a prototype project launched by Deepmind for the future AI automated workflow, which controls multiple intelligent bodies in virtual browsers through natural languages. ** Core objective** The system is designed to enable users to quickly deploy one or more AI smart agents to perform complex tasks in the browser environment. ** The Mariner name comes from the term “navigate” and symbolizes that AI is able to navigate and perform functions autonomously in the “ocean” of information. ** Job type**
 
-- 信息检索（搜索、比对、筛选）
+- Information retrieval (search, match, filter)
 
-- 网页交互（点击、表单填写、滚动、复制等）
+- Interactive web pages (clicks, forms, scrolling, copying, etc.)
 
-- 数据录入与整合（如从多个网页抓取结构化信息）
+- Data entry and integration (e.g., extracting structured information from multiple pages)
 
-- 多任务调度（并发处理多个窗口或标签页）
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
+- Multitask schedule (and send multiple windows or tabs)
 
-## 系统能力与工作方式
+# System capabilities and working methods
 
-### 1. **语言驱动控制**
-用户使用自然语言描述任务，系统将其转化为可执行的计划。例如：
-“请帮我查找三家2023年提供AI课程的大学网站，并整理出课程名称、学费和官网链接。”
-系统无需用户逐步指导，而是**自主理解任务结构并规划执行流程**。
-![](https://assets-v2.circle.so/iidzbbb2btziubmdr1xu0kp7ajk7)
-### 2. **虚拟浏览器操作环境**
+## 1. **Language-driven control** Users use natural language descriptions of tasks, which the system converts to implementable plans. For example: “Please help me find three university websites that offered AI courses in 2023 and collate course names, tuition fees and web links.” The system does not need step-by-step guidance from users, but** has an autonomous understanding of the mission structure and planning of the implementation process**.  (https://assets-v2.circle.so/iiidzbbb2btziubmdr1xu0kp7ajk7). ##2. ** Virtual browser operating environment**
 
-- 所有任务操作均通过模拟真实用户行为在虚拟浏览器中完成；
+- All task operations are carried out in virtual browsers by simulation of real user behaviour;
 
-- 智能体可进行 DOM 操作，如点击、输入、拖动、导航、提交表单等；
+- Smart bodies can perform DOM operations such as clicking, input, drag, navigation, submission of forms, etc.;
 
-- 浏览器运行在沙箱中，支持任务隔离与并发运行。
+- The browser runs in the sandbox and supports the task segregation and distribution.
 
-### 3. **多任务并行调度**
-Project Mariner 能够**并行执行多个子任务**（multi-agent concurrent execution）：
+##3. **Multi-task Parallel Scheduler**Project Mariner is able to **Multi-agent concurrent task**:
 
-- 每个任务在独立浏览器实例中运行；
+- Each task runs in the case of an independent browser;
 
-- 控制模块协调任务执行顺序、数据共享与进度跟踪；
+- Control modules to coordinate task implementation sequences, data sharing and progress tracking;
 
-- 可动态生成、终止或调整任务代理的行为。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
+- May dynamically generate, terminate or adjust the conduct of the agent of the mission.
 
-### **4.增强学习与任务反馈机制**
+##4 **4. Enhanced learning and task feedback mechanisms**
 
-- 系统支持从用户反馈中进行学习。
+- The system supports learning from user feedback.
 
-- 引入奖励信号与回报机制优化任务执行策略。
+- Introduction of incentive signals and reward mechanisms to optimize mission implementation strategies.
 
-详细了解：https://deepmind.google/models/project-mariner
-See more
+Further information: https://deepmind.google/models/project-mariner

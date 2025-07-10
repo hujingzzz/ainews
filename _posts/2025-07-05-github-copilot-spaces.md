@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GitHub 推出新功能 Copilot Spaces 允许开发者集中管理项目的所有信息
+title: GitHub introduces new functionality Copilot Spaches allows developers to centralize all information on the project
 date: 2025-07-05 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/github-copilot-spaces_1.jpg
@@ -9,76 +9,62 @@ icon: image
 * content
 {:toc}
 
-GitHub 推出新功能 **Copilot Spaces**，增强 Copilot 对项目上下文的理解能力。该功能允许开发者**集中管理项目上下文**，从而让 GitHub Copilot 提供更**相关、智能的代码建议与辅助**。
-工程团队常面临一个根本问题：**知识碎片化**。代码、文档、设计说明、开发决策等信息分散在多个地方（或存在团队成员脑中），让开发者难以快速上手一个项目或高效协作。
-**Copilot Spaces 正是为解决这个问题而设计**。它通过**构建上下文中心（context hub）**，让 GitHub Copilot 对项目有更深入、系统的理解，从而提供更加精准、相关的建议和辅助。
-![](https://assets-v2.circle.so/lhncn2wqo6nz8ddzla0w7xo9wwaa)
-## 核心功能
+GitHub introduces a new feature **Copilot Spaches**, which enhances Copilot’s ability to understand the context of the project. This function allows developers** to centralize the context of the project**, thereby allowing GitHub Copilot to provide more **relevant and intelligent code advice and support**. The engineering team often faces a fundamental problem:** knowledge fragmentation**. Information such as code, document, design description, development decision-making is spread over multiple locations (or in the brain of team members) to make it difficult for developers to quickly access a project or collaborate efficiently. **Copilot Spaches is designed to address this problem**. It provides more precise, relevant advice and support through ** construction of the context centre (context hub)**, allowing GitHub Copilot to have a deeper, systematic understanding of the project, thus providing more precise, relevant advice and support. # Core function[s] (https://assets-v2.circle.so/lhnqn2nz6ndzdzddz7x5wa).
 
-### 1. **语境感知：让 Copilot 理解“你在做什么”**
-Copilot Spaces 允许你将以下内容聚合在一个“Space”中：
+## 1. ** Contextual perception: let Copilot understand "What are you doing"** Copilot Spaces allows you to merge the following into a "Space":
 
-- 源代码（可直接绑定 GitHub 仓库）
+- Source code (directly binding GitHub repository)
 
-- 项目文档、说明书、设计规范（specs）
+- Project documents, instructions, design specifications (specs)
 
-- 备注、指南或 FAQ
+- Remarks, guidance or FAQ
 
-- 自定义指令（custom Copilot instructions）
+- Custom Commands
 
-![](https://assets-v2.circle.so/2pbmx4i7bw384a4i9utmo5v44o28)这样，Copilot 不再“孤立地猜测”，而是像一个对项目了如指掌的内部开发者，能回答：
+In this way (https://assets-v2.circle.so/2pbmx4i7bw384a4i9utmo5v44o28), Copilot is no longer “simple guessing” but, like an in-house developer who knows everything about the project, can answer:
 
-- 这个模块是做什么的？
+- What does this module do?
 
-- 为什么用这种架构？
+- Why do you use this structure?
 
-- 有没有示例代码？
+- Is there an example code?
 
-- 是否遵循某种最佳实践？
+- Is some kind of best practice followed?
 
-### 2. **组织共享：团队级知识复用加速器**
-你可以为整个组织创建一个或多个 Copilot Space：
+##2. **Organization sharing: Team-level knowledge recovery accelerator** You can create one or more Copilot Spaces for the whole organization:
 
-- 同事加入后立即获得统一的上下文，不再“从零开始了解代码库”
+- Immediately upon joining, colleagues are given a unified context and no longer “be aware of the code library from scratch”
 
-- 支持快速 onboarding、知识继承、跨部门协作
+- Support rapid onboarding, knowledge inheritance, cross-sectoral collaboration
 
-- 比文档库更结构化，比 README 更智能
+- More structured than a document library, more intelligent than README
 
-这让 Copilot 不只是个人助手，而是整个团队的“语境化 AI 协作者”。
+This leaves Copilot not just as a personal assistant, but as a team's “situation AI collaborators”.
 
-### 3. **自动同步：无需手动维护代码副本**
-你无需复制粘贴文件，只需**绑定仓库**，Copilot Space 就能自动：
+##3. **Automated synchronization: No manual maintenance of code copy** You do not need to copy paste files, but only bind the warehouse**, Copilot Space can automatically:
 
-- 获取最新版本的代码和文档
+- Get the latest version of the code and document
 
-- 随项目更新自动同步（实时反映修改）
+- Autosync with project updates (real time to reflect changes)
 
-- 保持对当前状态的准确理解
+- Keep an accurate understanding of the current state
 
-这确保 Copilot 始终以“最新、真实”的项目为依据回答问题。
-![](https://assets-v2.circle.so/f5xvhuhqyj5irlrn0s91rk5wqsii)
-## 💰 计费与权限说明
+This ensures that Copilot always responds to questions on the basis of “up-to-date, real” projects. # (https://assets-v2.Circle.so/f5xvhuhqyj5irlrn0s91irrk5wqsii)
 
-- **上线时间**：6月4日起全面开放
+- **Online**: Full opening since 4 June
 
-- **谁能使用**：
-所有 Copilot 用户均可访问 Spaces
+- **Who can use**: All Copilot users have access to Spaches
 
-- 企业用户需由组织管理员启用此功能
+- Business users need to use this function by the organizational administrator
 
-**计费规则**：
+** Costing rules**:
 
-- 付费用户（Pro, Pro+, Business, Enterprise）：
-使用“高级模型”（premium）时每次对话记一次 premium 消耗
+- Pay user (Pro, Pro+, Business, Enterprise): one dialogue per dialogue when using "premium"
 
-- 使用基础模型则不计费
+- The use of the base model is free of charge.
 
-免费用户：
+Free user:
 
-- 月度最多可用 50 次（含 Copilot Chat）
+- Up to 50 times a month (including Copilot Chat)
 
-高峰期可能会触发速率限制
-立即访问 github.com/copilot/spaces 试用 Copilot Spaces。这是早期预览版。
-Copilot Spaces 文档
-See more
+The peak period may trigger speed limits Access to github.com/ copilot/spaces to experiment with Copilot Spaces. This is an early preview version. Copilot Spaces document

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google 发布 Search Live 语音搜索 可以通过语音直接与搜索引擎对话 进行连续搜索
+title: GoogleSearch Live voice search can be done by talking directly to the search engine.
 date: 2025-07-08 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-search-live_1.jpg
@@ -9,77 +9,58 @@ icon: chat
 * content
 {:toc}
 
-Google 正式发布 **Search Live**，这是一种全新的**语音搜索体验模式**。
-**Search Live** 整合了生成式AI技术（Gemini 模型）和传统搜索引擎的能力，让你可以像对话一样与搜索引擎交互。
-相比传统“输入关键词→看搜索结果”，Search Live 允许你用**语音提问、听语音回答，并连续提问跟进**，整个过程像是在与一个“智能助手”实时交流。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay目前在美国地区的 Android 与 iOS 用户中以“AI Mode实验”形式推出。
+Google officially released **Search Live**, a brand-new ** voice search experience model**. **Search Live** integrates the capabilities of the Geneini technology and the traditional search engine so that you can interact with the search engine like a conversation.
 
-## 核心功能包括：
+# Core functions include:
 
-- 与 Google Search 进行**自然、流畅的语音对话**；
+- A natural, fluid voice conversation with GoogleSearch**;
 
-- 可在移动、打包、做家务等多任务场景下无缝使用；
+- It can be used seamlessly in multitasking contexts, such as moving, packing and household chores;
 
-- 支持一问一答式持续追问；
+- Support for continuous follow-up on a question-to-answer basis;
 
-- 同时**呈现相关网页链接**供进一步浏览；
+- Presenting links to relevant web pages** for further browsing;
 
-![](https://assets-v2.circle.so/77qt7jogrlw97j8aqfwy71gndqei)
-### 🔍 示例场景：现实中怎么用？
-**📦 打包行李时**：“我该怎么收纳亚麻裙才能不皱？”→ AI直接语音回应，并给出网页链接。
-**🍳 做饭时**：“我现在冰箱只有西红柿和鸡蛋，有什么快速做法？”→ 一边下厨一边听建议，还能看食谱网页。
-**🚗 开车途中**：“今天芝加哥有什么活动？”→ 无需看手机即可语音获取建议。
+[https://assets-v2.circle.so/77qt7jogrlw97j8aqfwy71gdqei] ##  How does it work in reality? **  When packing bags **: “How do I get a linen dress to be unwrinkled?”  AI direct voice response with a web link. ** ** ** “What's the quickest way to do now that I have tomatoes and eggs in the fridge?”  On the way to the kitchen, I can also read the recipe page. ** ** ** On the way to the car ** “What's going on in Chicago today?”  Can you get advice without a phone?
 
-### 🔮 即将支持的功能
-Google 计划在未来几个月内进一步升级 Search Live 模式，加入 **视觉识别能力**：
-📷 用户可以通过摄像头“展示”自己看到的事物，Google 将结合语音输入和视觉画面做出响应。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay这将使搜索体验进入“多模态交互”阶段，不只是你问、AI答，而是 **“你说+你看，AI一起理解”**。
+##The functions that go on to support Google plan to further upgrade the Seech Live mode in the coming months, adding ** Visual recognition**:  Users can “show” what they see by the camera, and Google will respond by combining voice input with visual images. This will bring the search experience into the “multimodel interaction” phase, not just your question, AI's answer, but ** “You say + you see, AI understands”**.
 
-## 📱 如何使用？
-打开 Google App；
-点击新的 **“Live”图标**；
-直接开口提问，例如：“怎么防止亚麻裙在旅行箱里皱掉？”；
-接收 AI 音频回复（可续问：“如果还是皱了怎么办？”）；
-查看文字稿或继续打字提问；
-在“AI Mode历史记录”中随时回顾对话；
+Open Google App; click on the new **Live icon**; ask direct questions, such as: “How to prevent the frewment of the frenzy in the travel box?”; receive an AI audio response (continuing question: “What if it wrinkles?”); view the text or continue typing questions; and look back at the dialogue in the “AI Mode History”;
 
-## 🎙️ 背后技术：Gemini + Search系统整合
-✅ 基于 Gemini 的语音生成模型
+# Back technology: Gemini+Search integration # # Gemini based voice generation model
 
-- 理解上下文、生成高质量语音回复；
+- Understanding the context and generating high-quality voice responses;
 
-- 回答具备自然语言流畅性与逻辑完整性；
+- A natural language fluidity and logical integrity of the answer;
 
-✅ 搜索引擎系统支撑信息来源
+Search engine system supports the source of information
 
-- 所有回答依托 Google 搜索数据库及网页生态；
+- All responses based on Google search databases and web ecology;
 
-- 提供**真实可查**的信息链接而非仅限AI主观表达；
+- Provision of information links** that are genuinely accessible** and not limited to the subjective expression of AI only;
 
-✅ “Query Fan-out”技术
+“Query Fan-out” technology
 
-- 为一个提问生成多个查询方向，提供更丰富的网页内容结果；
+- Generate multiple query directions for one question and provide a richer web content result;
 
-- 用户不仅“得到答案”，还能“扩展认知”；
+- Users not only get answers but also “expand awareness”;
 
-## 🧭 对用户体验与行业的意义
-**🚀 从关键词搜索 → 实时对话交互**
+# The meaning of user experience and industry # # search from keywords # real-time dialogue **
 
-- Search 不再是冷冰冰的查询框，而是一种“伴随式助理体验”；
+-Search is no longer an ice-cold query box, but a "accompanied assistant experience";
 
-- AI 能在更复杂、更模糊的语境中回应并提出建议。
+- AI can respond and make recommendations in a more complex and vague context.
 
-**📚 信息访问门槛更低**
+** Lower threshold for access to information**
 
-- 适合忙碌、手部无法操作设备的情境；
+- Fits for busy situations in which equipment cannot be operated by hand;
 
-- 弱化用户对关键词构造技巧的依赖，更自然地与搜索系统交流。
+- Reduced user reliance on keyword tectonic techniques and more natural interaction with search systems.
 
-**🧱 对信息可信度的保障**
+** The assurance of the credibility of the information**
 
-- 与一些纯AI聊天系统不同，Search Live依旧依托网页资源给出明确可验证来源；
+- Unlike some purely AI chat systems, Search Live continues to rely on web resources to provide clear and verifiable sources;
 
-- 实现“生成式AI+真实网络”的混合型交互体验。
+- To achieve a mixed interactive experience of the Generated AI+ Real Network.
 
-尝试：https://labs.google.com/search/experiment/22 （需要切换到美国IP）
-See more
+Try: https://labs.google.com/search/Experiment/22 (need to switch to US IP)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DeepSeek 发布DeepSeek R1-0528：代码能力和写作能力显著提升、推理能力更深层次 同时修复了一些问题
+title: DeepSeek DeepSeek R1-0528: Significant improvements in code capabilities and writing skills, deeper reasoning capabilities and repair of some problems
 date: 2025-07-09 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/deepseek-deepseek-r1-0528_1.jpg
@@ -9,116 +9,82 @@ icon: book
 * content
 {:toc}
 
-DeepSeek 发布**DeepSeek R1-0528更新，**昨晚向微信技术群体通报此次更新为“**小规模试验性升级**”，并已开放测试。
+DeepSeek released **DeepSeek R1-0528 update,** which was communicated last night to the WeT community as “** small pilot upgrade**” and was open for testing.
 
-## **DeepSeek R1-0528 更新亮点**
+# **DeepSeek R1-0528 Update bright spots**
 
-### 1. 深度思考能力大幅提升
-DeepSeek-R1-0528 仍然使用 2024 年 12 月所发布的 DeepSeek V3 Base 模型作为基座，但在后训练过程中投入了更多算力，显著提升了模型的思维深度与推理能力。
-更新后的 R1 模型在数学、编程与通用逻辑等多个基准测评中取得了当前国内所有模型中首屈一指的优异成绩，并且在整体表现上已接近其他国际顶尖模型，如 o3 与 Gemini-2.5-Pro。
-![](https://assets-v2.circle.so/vuglp8rxg0u64wag0atpvqle7cbo)
-- **技术背景**：虽然仍基于 DeepSeek V3 Base，但本次通过增强后训练过程中的算力资源投入，实现了模型在**推理链条中的显著增强**。
+## 1. Deeper thinking skills have increased significantly, with the DeepSeek-R1-0528 model still using as a base the DeepSeek V3 Base model released in December 2024, but more arithmetic has been invested in the subsequent training process, significantly increasing the depth of thinking and reasoning of the model. The updated R1 model has achieved the highest achievement of all current models in the country in a number of baseline assessments, such as mathematics, programming and universal logic, and is still approaching other top international models, such as o3 and Gemini-2.5-Pro.[] (https://assets-v2.circle.so/vuglp8xg0u64wag0atvqle7cbo) - **technical background: although still based on DeepSeek V3 Base, the model has been significantly enhanced in the reasoning chain** through the use of resource inputs in the course of this enhanced training.
 
-- **AIME 2025 测评结果**：
-旧版准确率：70%
+- **AIME 2025 Results of the evaluation**: Accuracy of the old version: 70%
 
-- 新版准确率：**87.5%**
+- Accuracy of new editions: **87.5%**
 
-**Token 使用对比**（每题）：
+**Token uses comparison** (per question):
 
-- 旧版：12K
+- Old edition: 12K
 
-- 新版：23K👉 表明新版能“更慢更深地思考”，模拟人类详细推理路径。
+- New edition: 23K shows that the new edition is capable of “slower and deeper thinking” and simulates the path of detailed human reasoning.
 
-### 2. 思维链蒸馏至中等规模模型
-通过蒸馏 DeepSeek-R1-0528 的思维链后训练 Qwen3-8B Base，得到了 DeepSeek-R1-0528-Qwen3-8B。该 8B 模型在数学测试 AIME 2024 中仅次于 DeepSeek-R1-0528，超越 Qwen3-8B （+10.0%），与 Qwen3-235B 相当。**我们相信，DeepSeek-R1-0528 的思维链对于学术界推理模型的研究和工业界针对小模型的开发都将具有重要意义。**
+##2. Thinking chain distillation to medium scale models train Qwen3-8B Base after distillation by DeepSeek-R1-0528, obtained by DeepSeek-R1-0528-Qwen3-8B. The 8B model is second only to the AIME 2024 test by DeepSeek-R1-0528 and exceeds Qwen3-8B (+10.0%) and is comparable to Qwen3-235B.** We believe that DeepSeek-R1-0528 is important for the study of academic reasoning models and for the development of small models by industry.**
 
-- 基于 R1-0528 蒸馏出 **Qwen3-8B Base 版本**。
+- Based on R1-0528 Distillation **Qwen3-8B Base **.
 
-- 新模型在 AIME 2024 中性能优于 Qwen3-8B，接近 Qwen3-235B。
+- The new model is better than Qwen3-8B in AIME 2024, close to Qwen3-235B.
 
-- 表明蒸馏后的“思维链”具备极高学术与工业价值。
-![](https://assets-v2.circle.so/4cexjbe4m88sxtx2f6vvsuy500ix)
+- Demonstrate the high academic and industrial value of the distilled “think chain”.[] (https://assets-v2.circle.so/4cexjbe4m88sxtx2f6vvsuy500ix)
 
-### 3.写作能力增强
+#3. Increased ability to write
 
-- 对生成性写作能力做了微调优化。
+- Production capacity has been fine-tuned and optimized.
 
-- 支持结构更完整、风格更贴近人类的长文本输出。
+- Support long text output that is more structured and more closely aligned with humans.
 
-- 尤其针对**议论文、小说、散文等复杂文体**输出能力有实质增强。
-![](https://assets-v2.circle.so/6mzro4d69k59nldzrm3ifow3qg3s)
+- Substantive enhancement of output capacity, especially for complex literatures, such as ** paper papers, novels, essays.[1] (https://assets-v2.circle.so/6mzro4d69k59nldzrm3ifow3qg3s)
 
-### 4.误差控制与“幻觉率”下降
+## 4. Error control and hallucination rate drop
 
-- **幻觉优化目标**：减少模型输出中“无中生有”的内容。
+- **Imagination optimization goal**: Reduce the “none-in-kind” content of model output.
 
-- **适用场景**：
-改写润色
+- **Application scene**: rewrite lubricant
 
-- 阅读理解
+- Read and understand.
 
-- 摘要总结
+- Summary
 
-**性能提升数据**：
+** Performance enhancement data**:
 
-- 幻觉率降低：**约45%~50%**
+- Reduced hallucination rate: **approximately 45 ~ 50 %**
 
-- 输出更加可信，信息一致性提升
+- More credible output and improved consistency of information
 
-### 5.工具调用与代码能力增强
+# # 5. Tool calls and code enhancement
 
-- 新版支持 **Function Calling** 与 **JsonOutput**。
+- The new version supports **Function Calling** and **Json Output**.
 
-- **Tau-Bench评估成绩**：
-Airline: 53.5%
+- **Tau-Bench assessment of achievement**: Airline: 53.5%
 
 - Retail: 63.9%
 
-- 水平接近 OpenAI o1-high，但略逊于 o3-high、Claude 4 Sonnet。
+- Horizontally close to OpenAI o1-high, but slightly lower than O3-high, Claude 4 Sonnet.
 
-![](https://assets-v2.circle.so/e1l6gsyx43pif5lhj3zgsj4dvc0w)**前端代码生成能力提升**，并提升在“角色扮演”等多轮对话复杂任务中的表现。
-![](https://assets-v2.circle.so/bxpxjz9ciei6lh55cubt38kevpxp)
-### 6️⃣ 🛠 **问题修复与优化**
+(https://assets-v2.circle.so/e1l6gsyx43pif5lhj3zgsj4dvc0w)** front-end code generation capability upgrades** and upscaling in complex multi-cycle dialogue tasks such as role-playing.  (https://assets-v2.circle.so/bxpxjz9ciei6lh55cubt38kevpxp) ###6 ** problems repair and optimization**
 
-- 修复早期 R1 模型的常见问题：
-**重复回答**问题
+- Rehabilitate frequently asked questions from early R1 models: ** Repeated answer**
 
-- **格式混乱**
+- ** The format is out of order**
 
-- **语言混用（中英夹杂）**
+- ** Language mix (CEF)**
 
-输出更规范，**适合专业场景使用**。
+Output is more standardized and ** suitable for use in professional settings**.
 
-### 多任务能力优化表现
-![](https://assets-v2.circle.so/gtq5ems4nbbww7f0el57rexhbefe)
-- **Benchmark 评测**：在由 UC Berkeley、MIT 和 Cornell 开发的 **LiveCodeBench** 代码生成评测中：
-R1-0528 的推理能力与 **OpenAI 的 o3**等前沿模型性能相当，略低于**o4 mini**，尤其在数学、编程和复杂推理任务上表现出色。
+## Multiple Mission Capability Optimization Performance![] (https://assets-v2.Circle.so/gtq5ems4nbbw7f0el57rexhbefe) - **Benchmark evaluation**: In the evaluation of **LiveCodeBnch** code generation developed by UC Berkeley, MIT and Cornell: R1-0528 is comparable to front-line models such as **OpenAI **, slightly less than **o4 mini**, especially in mathematics, programming and complex reasoning tasks.
 
-- **优于 xAI 的 Grok 3 mini 和阿里巴巴的 Qwen 3**。
+- ** Grok 3 Mini and Qwen 3** of Alibababa better than xAI.
 
-推理行为更深思熟虑，链式推理（Chain-of-Thought, CoT）结构更清晰，输出格式更自然。
-该成绩进一步增强了 DeepSeek 在中美 AI 技术竞争中的影响力。
-![](https://assets-v2.circle.so/io4j1766fe2nu4razu7azekgbtz0)DeepSeek已将 R1-0528 上传至 Hugging Face，但尚未发布公开说明或模型描述。
+DeepSeek’s influence in China’s AI technology competition has been further enhanced.[3] (https://assets-v2.circle.so/io4j1766fe2nu4zu7azekbtz0) DeepSeek has uploaded R1-0528 to Hugging Face, but has not yet published a public description or model description.
 
-## **API 更新****​**
-API 已同步更新，接口与调用方式保持不变。新版 R1 API 仍支持查看模型思考过程，同时还增加了 Function Calling 和 JsonOutput 的支持。
-我们对新版 R1 API 中 max_tokens 参数的含义做了调整：现在 max_tokens用于限制模型单次输出的总长度（包括思考过程），默认为 32K，最大为 64K。请 API 用户及时调整 max_tokens 参数以防输出被提前截断。
-R1 模型的使用方法详见 API 指南：https://api-docs.deepseek.com/zh-cn/guides/reasoning_model。
-本次 R1 更新后，官方网站、小程序、App 端和 API 中的模型上下文长度仍为 64K。如果用户对更长的上下文长度有需求，可以通过其他第三方平台调用上下文长度为 128K 的开源版本 R1-0528 模型。
+# **API update*** ** API has been synchronized and interfaces and calls have remained unchanged. The new version R1 API still supports viewing the model thinking process, with additional support being given to the Fund Action Calling and JsonOutput. We have adjusted the meaning of the parameters for max_tokens in the new version R1 API: now max_tokens are used to limit the total length of a single output of the model (including the reflection process) by default to 32K, with a maximum of 64K. Requests API users to adjust the max_tokens parameters in time to prevent early interruption of the output.
 
-## **模型开源****​**
-DeepSeek-R1-0528 与之前的 DeepSeek-R1 使用同样的 base 模型，仅改进了后训练方法。私有化部署时只需要更新 checkpoint 和 tokenizer_config.json（tool calls 相关变动）。模型参数为 685B（其中 14B 为 MTP 层），开源版本上下文长度为 128K（网页端、App 和 API 提供 64K 上下文）。
-DeepSeek-R1-0528 模型权重下载请参考：
-**Model Scope:** https://modelscope.cn/models/deepseek-ai/DeepSeek-R1-0528
-**Huggingface:** https://huggingface.co/deepseek-ai/DeepSeek-R1-0528
-与旧版本的 DeepSeek-R1 保持一致，此次我们的开源仓库（包括模型权重）仍然统一采用 MIT License，并允许用户利用模型输出、通过模型蒸馏等方式训练其他模型。
+##** Model Open Source*** ** DeepSeek-R1-0528 Using the same base model as the previous DeepSeek-R1 model, only post-training methods have been improved. For privatization deployments, only updated checkpoint and tokenizer_config.json (toool calls) model parameters are 685B (of which 14B is the MTP layer), opening text with 128K (webends, App and API provide 64K above). DeepSeek-R1-0528 model weight downloads are required to be consulted: **ModelScope:** https://modelscope.cn/models/deepseek-ai/DeepSeek-RepSeek-Reek-Reek-R-R-0528 **Hugingface: **https://huggingface.co/deepseek-ai/DeepSeek-Re1-0528, using the old version of Sep-Se-Se-Se-Se-Surb, using the existing version of the model, including the new version of the software, using the new version of the map, using the software.
 
-## **最新调用Deepseek-R1-0528 API 的网站**
-1、Openrouter 地址：https://openrouter.ai
-2. GMI tutt: https://inference-engine.gmicloud.ai
-3. Novita tutt: https://novita.ai
-4. Nebius tbtit: https://studio.nebius.com
-5. Inference toti: https://inference.net 
-官方介绍：https://api-docs.deepseek.com/zh-cn/news/news250528
-See more
+# ** Recent call to the Web site Deepseek-R1-0528 API**1, Openrooter address: https://openrooter.ai 2. GMI tutt: https://inference-engine.gmicloud.ai 3. Novita tutt: https://novita.ai 4. Nebius tbtit: https://studio.nebius.com 5. Inference toti: https://inference.net Official Presentation: https://api-docs.deepseek.com/zh-cn/news/news2528

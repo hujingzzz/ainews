@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google 推出面向学生和教育工作者的新 Gemini 工具：Gemini for Education
+title: Google Launch a new Gemini tool for students and educators: Gemini for Education
 date: 2025-07-09 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-gemini-gemini-for-education_1.jpg
@@ -9,113 +9,90 @@ icon: chat
 * content
 {:toc}
 
- Google 推出面向学生和教育工作者的新 Gemini 工具：**Gemini for Education** ，这是一款 **专门为教育而设计的人工智能助手**。
-它基于 Google 最新的 **Gemini 2.5 Pro 模型 + LearnLM（学习型大模型）**，专注于教育领域的理解力、生成力与互动能力。
-可以帮助老师、学生和学校工作人员更高效地工作和学习。
-它是 **免费的**，只要学校使用 Google 的教育工具套件（Google Workspace for Education）就可以用。
+Google launched a new Gemini tool for students and educators: **Gemini for Education**, an artificial intelligence assistant ** designed specifically for education**, which is based on Google's latest **Gemini 2.5 Pro model + LearnLM (a large learning model)** and focuses on understanding, generating and interacting in the field of education.
 
-- 超过 30 种新的 AI 教学工具
+- More than 30 new AI teaching tools
 
-- 支持 **40+ 种语言**、覆盖 **230+ 个国家地区**
+- Support **40+ languages**, coverage **230+ national areas**
 
-- 教育版对任何年龄用户开放（未成年人使用有专属模式）
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
+- Educational editions are open to users of any age (predominant mode of use by minors)
 
-## 📚 它能做什么？
-**✅ 对老师有用的功能：**
-![](https://assets-v2.circle.so/q5appj1elksvfz3hbvruswj8d26r)**快速写教学计划**：几分钟就能生成课程计划，不用从头写。
-**个性化教学内容**：比如给不同水平的学生生成不一样的教材。
-**自动出试卷和作业**：还能自动给出答案。
-**找教学灵感**：你可以问它“如何让数学课更有趣”，它会给你建议。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality720pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-- **如果你购买了 Gemini 教育版的付费功能（Google AI Pro），你会获得更多强大的 AI 工具**。
+## What does it do? ** [**] (https://assets-v2.Circle.so/q5appj1elsvfz3hbvruswj8d26r)** Quick-writing pedagogy**: a curriculum can be generated in a few minutes without having to start writing. ** Personalized pedagogic content**: for example, different teaching materials for students at different levels. ** Automatic test papers and exercises**: also automatic answers. ** Finding teaching inspiration**: “How to make math classes more interesting”, it will advise you.
 
-- 教师可以：
-用 Veo 3（Google 的 AI 视频生成工具）快速创建 8 秒短视频，适合做宣传片或课程介绍。
+- ** If you buy the Google AI Pro for Gemini, you'll get more powerful AI tools**.
 
-- 在 Google Forms（表单）中使用 Gemini AI 快速出题、做调查。
+- Teachers can: create 8 seconds of short videos quickly using Veo 3 (AI video generation tool for Google) suitable for promotional films or course presentations.
 
-- 把 Word、PPT 或 PDF 一键转成表单。
+- Use Gemini AI for quick questions and surveys in Google Form.
 
-- 自动汇总表单的填写结果，节省时间。
-![](https://assets-v2.circle.so/5v0gkf7hi4zgyuhkuvzphxhu7nxe)
-**✅ 对学生有用的功能：**
-![](https://assets-v2.circle.so/tbrg8bz1j58lu2i90yfupcpta26j)写作、复习、查资料：帮你写作文、做学习笔记、整理考试重点。
-把学习资料变成语音播客：可以一边走路一边听，像听播客一样。
-语音聊天学知识：像聊天一样问问题、讲解难题。
-Gemini Canvas 可自动生成测验和视觉化解释。
-可接收教师分配的 Gems 及 NotebookLM 内容。
-新增视频概览功能，把学习材料转化为讲解视频。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-## 高级功能
+- Convert a Word, PPT or PDF key into a form.
 
-### ✅ [Gems] 自定义 AI 助手
+[https://assets-v2.circle.so/5v0gkf7h4zhyuhzphxhu7nxe] ** function useful to students: **![] (https://assets-v2.circle.so/tbrg8bz1j58lu2i90yfupcpta26j) Writing, re-reading, reviewing information: writing, taking notes, and organizing examination priorities for you. Turning learning materials into speech podcasts: can be heard while walking, like listeners.
 
-- 用户可创建**具特定知识领域的个性化 Gemini 实体**
+# Advanced functionality
 
-- 也可使用 Google 预置的教育类“Gem”
+# [Gems] Custom AI Assistant
 
-### ✅ [Canvas] AI 协作空间
+- Users can create ** personalized Gemini entities with specific areas of knowledge**
 
-- 在 Canvas 中与 Gemini 实时编写/生成：
-小测验
+- Also use Google pre-positioned educational category “Gem”
 
-- 学习指南
+# [Canvas] AI Collaboration Space
 
-- 时间线
+- Written/generated in real time with Gemini in Canvas: quiz
 
-- 代码片段
+- Study guide
 
-- 可视化原型等
+- Timeline.
 
-### ✅ [Deep Research] 深度研究报告
+- Snippets.
 
-- 输入问题，自动生成含参考资料与引用文献的研究报告
+- Visualize prototypes, etc.
 
-### ✅ [Audio Overviews] 文件变播客
+# #  [eep Research] In-depth study
 
-- 将研究报告等内容自动转为语音播客，随时收听
+- Input questions, automatically generating studies with references and references
 
-### ✅ [Gemini Live] 实时语音交互
+# #  [Audio Overviews] File change podcast
 
-- 用 Gemini 演练演讲、解释难题、复述概念
+- Automatically convert content such as studies to voice podcasts and listen to them at any time.
 
-- 可共享屏幕或镜头，获得具体反馈
+# #  [Gemini Live] Real-time voice interaction
 
-## 🔐 数据与安全保障
+- Use Gemini for lectures, explaining dilemmas, recapitulating concepts.
 
-- **数据不用于训练 AI**
+- Can share screens or lenses and get specific feedback
 
-- **无人工查看用户内容**
+# Data and security
 
-- **内置青少年保护机制（<18 岁）**
-限制某些功能
+- ** Data not used for training AI**
 
-- 强化 AI 素养教育材料
+- ** No manual view of user content**
 
-**基于企业级安全标准**，与 Gmail、Docs 等 Google 教育工具共用一套隐私体系
+- ** Incorporated juvenile protection mechanisms (< 18 years)** Restricted certain functions
 
-## 💸 费用说明
+- Enhanced AI Quality Education Materials
 
-- **基础版 Gemini for Education：免费**，包含在所有 Google Workspace 教育版本中
+** Based on enterprise-level safety standards**, sharing a privacy system with Google educational tools such as Gmail, Docs and others
 
-- **Google AI Pro for Education（付费增强版）：**
-将 Gemini 功能集成进 Gmail、Docs 等 Workspace 工具
+# Cost description
 
-- 提供更大模型调用权限
+- ** Base edition Gemini for Education: ** Free, included in all Google Workspace educational versions
 
-- 深度研究报告生成次数增多
+- **Google AI Pro for Payment Enhancement:** Integration of Gemini functions into the Workspace tool for Gmail, Docs etc.
 
-- 提供 NotebookLM 等 AI 工具访问权
+- Provide greater model access
 
-## 🏫 管理功能支持
-管理员可以：
+- Increased number of in-depth studies generated
 
-- 启用/关闭 Gemini 功能
+- Provide access to NotebookLM and other AI tools
 
-- 审查对话内容（通过 Vault）
+#  Management support administrator can:
 
-- 查看用户使用活跃度、识别重度使用者或低活跃用户
+- Enable/close Gemini functionality
 
-访问：https://edu.google.com/ai/gemini-for-education/
-See more
+- Review of the content of the dialogue (through Vault)
+
+- View user activity, identify severe user or low active user
+
+Visit: https://edu.google.com/ai/gemini-for-education/

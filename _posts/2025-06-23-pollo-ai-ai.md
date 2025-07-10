@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pollo AI：一站式 AI 图像与视频生成平台 集合了全球最前沿的图像和视频模型
+title: Pollo AI: One-Stop AI Image and Video Generation Platform brings together the most advanced images and video models around the world.
 date: 2025-06-23 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/pollo-ai-ai_1.jpg
@@ -9,87 +9,72 @@ icon: note
 * content
 {:toc}
 
-**Pollo AI** 是一个**一站式 AI 图像与视频生成平台**，它整合了全球最前沿的 AI 模型（包括 Google Veo 3、Kling、Runway、Luma、Stable Diffusion、DALL·E 等），为用户提供从“文字转视频”到“图像风格化”、“动画生成”、“角色一致性控制”等多种能力。
+**Pollo AI** is a **one-stop AI image and video generation platform** which integrates the most advanced models of AI globally (including Google Veo 3, Kling, Runway, Luma, Stable Diffusion, DALL E, etc.) and provides users with a variety of capabilities ranging from “text-to-video” to “image style”, “immolation generation”, “role coherence control”.
 
-- 在这里可以一次性的使用所有的 AI 图片和视频大模型(包括Veo 3, Flux Kontext, GPT 4o-image)，
+- All AI images and video large models (including Veo 3, Flux Kontext, GPT 4o-image) can be used here once and for all.
 
-- 将生图和生视频工作流串起来了
+- We've got the raw map and the raw video stream.
 
--  生成的图片和视频还支持 AI 编辑
+The images and videos generated also support AI editing
 
-- 有无限画布，把AI 图片的生成+编辑+画布集合在一起
-![](https://assets-v2.circle.so/5fit6knlg31jzz4ds9stmn0z1wda)
-![](https://assets-v2.circle.so/lo65ommq4hn6wi3xpfn7pmk9d8jb)![](https://assets-v2.circle.so/2nacyx3jvz7smfkqz7kd8s2wjrel)
+- Unlimited canvassing of AI images + editor + canvassing! [https://assets-v2.circle. so/5fit6knlg31jzz4ds9stmmn0z1wda] [] [https://assets-v2.circle.so/lo65ommq4hn6wi3xpfn7ppmkk9d8jb] [https://assets-v2.circle.so/2nacyx3jvz7sfkqz7kz7kd8s2wjrel]
 
-## 🚀 主要功能特点
+#  Main functional characteristics
 
-### 🎥 强大的视频生成能力
+# # The power of video generation #
 
-- **文字转视频**：输入一段文字，快速生成语义贴合、风格鲜明的视频；
+- ** Text-to-Video**: Enter a text to quickly generate semantic, high-stylish video;
 
-- **图像转视频**：上传一张图，让静态画面动起来；
+- ** Image-to-video**: upload a map to move the static image;
 
-- **视频转风格视频**：把现实视频变成赛博朋克、迪士尼、宫崎骏等风格；
+- **Video-style video**: turning reality video into Cyberbank, Disney, Miyazaki, etc.;
 
-- **角色一致性视频**：保持人物形象、动作、风格不变，制作连续镜头。
+- **The role-convergence video**: Keeping the image, movement, style of the person constant and producing continuous footage.
 
-### 🖼 灵活的图像生成能力
+# #  flexible image-generation capacity
 
-- **文字生成图像**：通过 prompt 创作细节丰富、构图合理的 AI 图片；
+- ** Text-generated images**: creation of detailed and well-structured AI images by prompt;
 
-- **图转图风格转换**：让照片变油画、照片换衣服、重绘不同风格；
+- ** Script style conversion**: oiling of photographs, changing of photographs, rewriting of different styles;
 
-- **图像增强、去背景**：图像修复、美化、细节提升一步到位。
+- ** Image enhancement, background **: image restoration, beautification, detail upgrade one step at a time.
 
-### 🎨 海量趣味特效模板
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # and # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # I # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
-- **AI 拥抱、亲吻、变肌肉男、性别互换、光剑战斗**等百余款模板，一键生成搞笑或情感视频；
+- **AI over 100 templates for hugging, kissing, muscular men, sex swaps, sword fights**, one key to generate funny or emotional videos;
 
-- 非常适合社交媒体创作、短视频平台内容创作者快速引流。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality480pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menuSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay00:00UnmuteMuteSettingsCaptionsDisabledQuality480pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menuSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay00:00UnmuteMuteSettingsCaptionsDisabledQuality480pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menuSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-00:00UnmuteMuteSettingsCaptionsDisabledQuality480pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menuSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay00:00UnmuteMuteSettingsCaptionsDisabledQuality480pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menuSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay00:00UnmuteMuteSettingsCaptionsDisabledQuality480pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menuSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay00:00UnmuteMuteSettingsCaptionsDisabledQuality480pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menuSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay00:00UnmuteMuteSettingsCaptionsDisabledQuality480pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menuSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
+- It is well suited to the rapid flow of social media and short video platform content creators.
 
-## 支持 API 接入与商业应用
-Pollo AI 还推出了一个 **API 平台** ，汇聚了全球领先图像与视频生成模型的统一接口系统，允许开发者、内容平台、AI 工具集成商通过一个 API 接入包括 **Google Veo 3**、**Kling AI**、**Runway**、**DALL·E**、**Stable Diffusion** 等多款行业主流模型，支持灵活调用、低成本部署。
-![](https://assets-v2.circle.so/no9pnatlpkx17cobqwgia4o10uud)
-- 提供统一 API 平台，支持企业将多模型能力快速接入产品或平台；
+# Support for API access and commercial applications Pollo AI also launched a **API platform**, which brings together a unified interface system for global leading image and video generation models, allowing developers, content platforms, AI tool integrators to access through an API, including **Google Veo 3**,**Kling AI**,**Runway**,**DALL E**,**Stable Diffusion**, to support flexible deployment and low-cost deployment. [https://assets-v2.circle.so/no9pnatlpkx17cobqwgia4o10ud] - to provide a unified API platform to support enterprises to fast-track multi-model capabilities into products or platforms;
 
-- 相比 Fal.ai 和 Replicate，Pollo 提供更灵活的定价与更全面的模型支持。
+- More flexible pricing and more comprehensive model support than Fal.ai and Replicate, Pollo.
 
-- 支持的视频模型
-![](https://assets-v2.circle.so/pjf735sh1udjrhg79acs0ujr60k5)
-- 图像生成模型支持：
-**DALL·E**、**Imagen**、**Stable Diffusion**、**Ideogram**、**Recraft**、**FLUX 系列** 等；
+- Supported video model![] (https://assets-v2.Circle.so/pjf735sh1udjrhg79acs0ujr60k5) - Image generation model support: **DALL.E**,**Imogen**,**StableDiffusion**,**Ideogram**,**Recraft**,**FLUX series**, etc.;
 
-- 支持文本转图、图像增强、风格化、重绘、图转图等操作。
+- Support for text-shifting, image-enhanced, styled, redrawn, drawings, etc.
 
-### 💡 Pollo API 接入优势
-**✅ 一站接入**
+# # Pollo API access advantage # # one stop access**
 
-- 所有模型统一 API 接口调用，极大降低集成成本；
+- All model API interface calls, significantly reducing integration costs;
 
-- **无需为不同模型单独建立连接或认证流程**。
+- ** No separate connection or certification process is required for different models**
 
-**✅ 成本低**
+** Low cost**
 
-- 与 Fal.ai、Replicate 等平台相比，Pollo API **价格更低，模型更多，使用更灵活**。
+- Pollo API ** lower prices, more models and more flexible use than platforms such as Fal.ai and Replicate**.
 
-**✅ 开发者友好**
+** Developer friendly**
 
-- 提供详细文档、测试工具；
+- Provision of detailed documentation, testing tools;
 
-- 支持从入门级开发者到企业级系统集成者。
+- Support for the integration of enterprise-level systems from entry-level developers to enterprise-level ones.
 
-### 💰 价格体系（API Credit）
-![](https://assets-v2.circle.so/uxis95kybr1709ur16zpiul2j0im)每个模型的调用消耗 credit 不同，例如 Kling 1.6 生成 5s 视频仅需约 3.5 credits（约 $0.21），**显著低于同行价格**。
-![](https://assets-v2.circle.so/6bcgnn0p8kvx93pt211pw0eak8gt)Pollo AI 还是少数**获得 Google Cloud 合作授权的平台**，提供 Veo 3 模型 API 调用。Veo 3 可实现：
+## Price system (API Credit)![https://assets-v2.circle.so/uxis95kybr1709ur16zpiul2j0im] Differences in the use of credit per model, e.g. Kling 1.6 generation 5s video only about 3.5 credits (approximately $0.21),** significantly lower than peer prices**. [https://assets-v2.circle.so/6bcgnn0p8kvx93pt21pw0eak8gt) Pollo AI or a few ** platforms authorized to cooperate with Google Cloud**, providing Veo 3 models API calls.
 
-- 视频中加入人物对话、同步音效；
+- Inclusion of personal dialogue and synchronized sound in the video;
 
-- 更自然流畅的镜头与表演；
+- A more natural flow of lenses and performances;
 
-- 更高分辨率与语义贴合。
+- Higher resolution and semantic alignment.
 
-官网：pollo.ai
-API接口：https://pollo.ai/api-platform
-See more
+Network: pollo.ai API interface: https://pollo.ai/api-platform

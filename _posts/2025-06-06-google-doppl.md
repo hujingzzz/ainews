@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google推出了一款名为 Doppl 的新试衣应用 上传照片或截图可虚拟试穿任意服装 还能让你动起来
+title: Google has launched a new pilot app called Doppler.
 date: 2025-06-06 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-doppl_1.jpg
@@ -9,61 +9,50 @@ icon: design
 * content
 {:toc}
 
-Google Labs 推出了一款名为 **Doppl** 的新应用，旨在帮助用户通过上传照片或截图，虚拟试穿任意服装，并更好地探索和表达个人风格。
-你只要拍张照片，或者把你在社交媒体上看到的一件衣服截图下来，上传到 Doppl，它就会自动把这件衣服“穿”到一个动画版的你身上，甚至还能动起来，就像你在镜子前走动一样，看看衣服上身的效果。
-它的主要特点：
+Google Labs has launched a new application called **Doppl**, designed to help users to upload photos or screens, virtual dress-testing, and better explore and express their personal style. You just take a picture, or a screenshot of a dress you saw in the social media, upload it to Dopl, and it automatically “wear” this dress to you in an animated version, and even move, as you walk in front of the mirror, looking at the effects of the top of the dress.
 
-- **试穿任何衣服**：看到喜欢的穿搭，拍照或截图就能试。
+- ** Try any clothes**: See what you like, take a picture or a screenshot.
 
-- **生成动态视频**：不只是照片，还能像短视频一样展示穿着效果。
+- ** Generate dynamic video**: not just photos, but also wear effects like short videos.
 
-- **支持保存和分享**：满意的造型可以直接保存或发给朋友看。
+- ** Supports conservation and sharing**: Satisfactory models can be saved directly or sent to friends.
 
-- **目前仅在美国可用**，支持 iOS 和 Android。
+- ** Currently available only in the United States**, supporting iOS and Android.
 
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-### Doppl 能做什么？
-**随时试穿**：你在社交媒体上看到好看的穿搭，或者在街上发现某人衣服很有风格，只要你拍个照或截个图，就可以上传到 Doppl，立刻试穿看看是否适合你。
-![](https://assets-v2.circle.so/4tjlf3vvqk77u07immaxg452so6a)**生成动画效果**：Doppl 不仅展示静态图片，还能通过 AI 技术把穿搭效果做成短视频，让你看到衣服在身体移动时的动态质感，比如布料摆动、整体轮廓变化等。
-![](https://assets-v2.circle.so/qvub5fq5idpozy9wnwcnigi6tier)**记录与分享你的风格**：如果你试穿出一个满意的造型，可以保存下来，或者直接分享给朋友参考。
-![](https://assets-v2.circle.so/6htv7je2cle6jbk9fgh1xpqf1ck4)
-### 它跟之前的虚拟试衣有何不同？
-Google 在 2024 年就已经在 Google Shopping 中上线了虚拟试衣功能，不过当时的特点是只能试穿商家提供的产品，而且是静态图像。现在的 Doppl 属于进一步升级版，它引入了几个重要变化：
+##Doppl What can you do?**According to the social media, **: Doppl not only displays static images, but also finds someone's clothes in the street, so you can upload them to Doppl as long as you take a picture or a screenshot.[!] (https://assets-v2.circle.so/4tjlf3vvqk77u07immaxg452so6a)** It produces animated effects: Doppl not only displays static images, but also uses AI technology to make short videos that allow you to see the dynamic nature of clothes as they move in your body, e.g. clothing, overall layout changes, etc.) [https://assets-v2.circle.so/qub5idplgx6s] It's #4x2x4x2xs of #4x4x4x4xs.
 
-- **不限品牌或平台**：任何来源的衣服照片都可以试穿，不再受限于电商平台本身。
+- ** Unlimited brands or platforms**: photos of clothing from any source can be tested and are no longer limited to the electric platform itself.
 
-- **从静态图像变成动态呈现**：AI 会生成动画版本的你，让试衣体验更真实。
+- ** From static images to dynamic representation**: AI will generate animated versions of you, making the test clothes more real.
 
-- **强调风格探索和个人表达**：不仅服务于“买衣服”，而是引导用户了解自己喜欢什么、适合什么。
+- ** Emphasis on style exploration and personal expression**: Not only does it serve to “buy clothes”, but it guides users to what they like and what they fit.
 
-### 有什么不足或需要注意的地方？
-目前 Doppl 还处于实验阶段，所以也存在一些局限：
+Doppler is still in the experimental phase, so there are some limitations:
 
-- **拟真度有限**：有时衣服显示出来的材质、版型或者颜色不一定和实际相符，特别是在光线、肤色、身体姿态较复杂的情况下。
+- ** Limited degree of authenticity**: Sometimes the material, layout or colours of the clothes are not necessarily and actually matched, especially in light, colour, and physical postures that are more complex.
 
-- **数据隐私问题**：虽然没有明确说明，但上传个人照片用于 AI 模型分析和生成，多少会涉及一些隐私问题，特别是脸部和身体图像的使用。
+- ** Data privacy**: Although not specified, uploading personal photographs for AI model analysis and generation may involve a number of privacy issues, in particular the use of face and body images.
 
-- **地区限制**：目前仅在美国上线，其他国家尚未开放。
+- **Regular restrictions**: Currently only in the United States and not yet in other countries.
 
-**🚫 当前不支持的类型**
+**  Type not currently supported**
 
-- 鞋子、内衣、泳装、饰品
+- Shoes, lingerie, swimsuits, accessories.
 
-- 宗教或传统民族服饰、角色扮演服装等复杂或文化敏感性服饰
+- Complex or culturally sensitive clothing such as religious or traditional ethnic dress, role-playing clothing, etc.
 
-- 透视装或违反 AI 内容政策的服装
+- Visual dress or clothing that violates the AI content policy
 
-- Doppl 会自动补全缺失部位，比如你只上传了上衣，它可能会自动添加裤子和鞋子以构成完整造型
+- Doppler will automatically fill the missing parts, like you uploaded the top, and it may automatically add pants and shoes to make a complete shape.
 
-### 它可以用在哪些场景？
+# What scenes can it use?
 
-- **线上购物前的搭配验证**：减少因不合适而退货的可能。
+- ** pre-shopping match certification**: reduced likelihood of return due to inappropriateness.
 
-- **获取穿搭灵感**：让用户敢于尝试更多不同风格，快速判断什么适合自己。
+- ** Get in touch with inspiration**: Makes users dare to try more different styles and quickly judge what suits themselves.
 
-- **内容创作或时尚分享**：对于内容创作者来说，可以更高效地展示服装效果。
+- ** Content creation or fashion sharing**: For content creators, dress effects can be shown more efficiently.
 
-- **辅助造型决策**：约会、拍照、旅行之前可以用 Doppl 先搭配出几套造型来选择。
+- **Auxiliary decision-making**: Dates, photographs, travels can be selected using Doppl's first set of models.
 
-![](https://assets-v2.circle.so/4f0as19nyxocffnf35vsi1bnva9b)Doppl 现已在美国的 iOS 和 Android 平台上线。
-See more
+Dopl (https://assets-v2.Circle.so/4f0as19nyxocfffff35vsi1bnva9b) is now online on iOS and Android platforms in the United States.

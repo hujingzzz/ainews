@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google 发布了一种全新的 AI 编码代理：AlphaEvolve 它可以自己写代码、自己评估测试、然后自己自我改进
+title: Google has an AI coding agent: AlphaEvolve, it can write the code itself, evaluate the test itself, and then improve itself.
 date: 2025-06-05 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-ai-alphaevolve_1.jpg
@@ -9,153 +9,130 @@ icon: book
 * content
 {:toc}
 
-Google DeepMind发布了一种全新的 AI 编码代理：AlphaEvolve，它可以自动优化算法并进行科学发现
-**AlphaEvolve** 的核心定位是：
-**一个基于大语言模型（LLMs）+ 进化算法 + 自动评估器的通用算法发现与优化平台。**
-它不仅能写代码，还能自动评估这些代码的表现，然后根据评估结果调整策略、迭代生成更好的方案。这一过程本质上是**模拟“算法自然进化”**。
+Google Deepmind published a brand-new AI coding agent: AlphaEvolve, which can automatically optimize algorithms and make scientific discoveries ** AlphaEvolve** core positioning is: **A generic algorithm based on the large language model (LLMs)+ Evolution algorithms + AutoAssessorts to Discover and Optimize Platforms.** It not only writes codes, it automatically evaluates their performance, then adjusts strategies and produces better programs based on the results of the assessment. The process is essentially ** Simulation of the “natural evolution of algorithms”**.
 
-### 它厉害在哪里？
+# Where is it?
 
-- 不需要人类一步步写优化方案，它**自己想改法、自己测试、自己改进**。
+- There is no need for a human step-by-step optimisation programme, which** wants to adapt, test itself, improve itself**.
 
-- 比其他AI更强的是，它可以修改**整段程序**，不是只改一两个小函数。
+- More than any other AI, it can modify the whole program**, not just one or two functions.
 
-- 它能学会在不同问题下用不同策略，比如复杂问题用搜索算法，结构化问题用构造法。
+- It learns to use different strategies under different issues, such as search algorithms for complex issues and tectonics for structural problems.
 
-- 成果已经**真实投入Google大规模生产使用**，不是实验室玩具。
+- The results have been ** genuinely invested in Google ' s mass production and use**, not laboratory toys.
 
-可以理解为它是一个超级“AI程序员”，它能：
+It can be understood that it is a super "AI programmer" that can:
 
-- 自动写代码解决复杂问题；
+- Automatically write codes to solve complex problems;
 
-- 自己测试自己的代码；
+- Test their own codes;
 
-- 如果效果不好，自动改进并尝试新方法；
+- Automatically improve and try new methods if they do not work well;
 
-- 最终像“进化论”一样，筛选出最优秀的算法方案。
+- Eventually, like the theory of evolution, the best algorithms were screened.
 
-它已经被用在：
+It has been used in:
 
-- 提高谷歌数据中心效率；
+- Improving the efficiency of Google data centres;
 
-- 加速AI模型训练；
+- Accelerated AI model training;
 
-- 帮助数学家解决难题；
+- Helping mathematicians to solve their problems;
 
-- 甚至给芯片设计师提供Verilog代码建议！
+- And even provide the chip designer with Verilog code advice!
 
-**举个例子！**
-它解决了一个50多年没人改进的问题——如何最有效地做“4×4矩阵乘法”。旧方法需要49次乘法，它发现了只用48次的新方法！
+** To give you an example!** It solved a problem that nobody had improved for more than 50 years -- how best to do the "4x4 Matrix Multiply." The old method took 49 times, and it found a new way to use only 48 times!
 
-## AlphaEvolve 与以往 AI 系统的根本区别
-![](https://assets-v2.circle.so/h2nns3bbkqxbdlgsr905q3mgz5xy)**通用性**： 
+# AlphaEvolve is fundamentally different from the previous AI system![] (https://assets-v2.Circle.so/h2nns3bbkqbldlgsr 905q3mgz5xy)** General**:
 
-- 与 DeepMind 之前的 AlphaFold（专为蛋白质折叠）或 AlphaTensor（专为矩阵乘法）不同，AlphaEvolve 是通用 AI，可应用于任何可表达为代码且可自动评估的问题。
+Unlike AlphaFold before DeepMind (for protein folding) or AlphaTensor (for matrix multiplying), AlphaEvolve is common AI and can be applied to any problem that can be expressed as code and can be evaluated automatically.
 
-- 其“搜索算法而非直接搜索解”的方法使其适用于广泛领域，从数学到系统优化。
+- Its method of “search algorithms rather than direct search solutions” makes it applicable to a wide range of areas, from mathematics to system optimization.
 
-## 工作机制详解
-AlphaEvolve 不是简单地依靠单一语言模型完成任务，而是一个**多组件、多阶段联动系统**，包含以下核心模块：
-![](https://assets-v2.circle.so/qtvapq4duz6hexbd36utghclgpbi)
-### 系统结构
-AlphaEvolve 的整体流程由多个模块组成，彼此协同构建了一个 **进化式自动算法设计系统**：
-**1. 输入阶段**
-用户提供：
+# The working mechanism details that AlphaEvolve does not simply work on a single language model, but is a **multi-component, multi-phased network system** with the following core modules: [!] (https://assets-v2.Circle.so/qtvapq4duz6hexbd36utghlgpbi) ###System AlphaEvolve's overall process is composed of multiple modules, and a **Evoltic Automated Algnostic Design System is constructed in concert with one another**: **1. Input phase**
 
-- 初始程序代码；
+- Initial program code;
 
-- 需要优化的问题定义；
+- Definition of issues that need to be optimized;
 
-- 自动化评估函数（如代码性能、输出正确性等）。
+- Automation evaluation functions (e.g. code performance, output correctness, etc.).
 
-**2. 核心模块构成**
-🧩 Prompt Sampler（提示构建器）
+**2. Core module composition** Prompt Sampler (tip builder)
 
-- 组合历史优秀方案 + 问题上下文，构建复杂 prompt；
+- Combining historical excellence + questions, building complex prompt;
 
-- 支持人类提供的背景知识、公式、代码片段等；
+- Supporting the background knowledge, formulae, snippets, etc. provided by humans;
 
-- 还能生成“元提示”（meta-prompts）来优化生成质量。
+- It can also generate meta-prompts to optimize the quality of the generation.
 
-🤖 LLM Ensemble（LLM集成）
+LLM Ensemble
 
-- 使用 Gemini Flash 快速生成大量候选程序；
+- Use Gemini Flash to rapidly generate a large number of candidates;
 
-- 使用 Gemini Pro 深度优化关键建议；
+- Optimizing key recommendations using Gemini Pro depth;
 
-- 共同驱动“进化”过程，提出多样化代码修改建议。
+- To jointly drive the process of “evolving” by proposing changes in the diversity code.
 
-🧪 Evaluators（自动评估器）
+Evaluators (Automated assessor)
 
-- 自动运行并评估每个程序在任务中的表现；
+- Automation and evaluation of the performance of each procedure in the context of the mission;
 
-- 支持多指标优化、级联评估、并行分布式执行；
+- Support for multi-indicator optimization, cascade assessment and parallel distribution;
 
-- 可附加 LLM 辅助判断（如程序可读性、简洁性等）。
+- Appendable LLM support judgements (e.g. program readability, brevity, etc.).
 
-📦 Program Database（程序数据库）
+Program Database (Professional Database)
 
-- 储存历史方案、评估分数、修改记录；
+- Storage of historical programmes, evaluation scores, modification of records;
 
-- 用于构造新一代 Prompt，实现类似“遗传记忆”的演化。
+- For the construction of a new generation of Prompt, to evolve like “genetic memory”.
 
-### **进化算法（Evolutionary Loop）**
-AlphaEvolve 的核心是 **LLM驱动的“进化式搜索”**：
+## **Evolutionary Loop** AlphaEvolve at its core is **Evolutionary Search driven by LLM**:
 
-- 选择一个“父程序”，从数据库中提取其最优结构；
+- Selecting a “father program” to extract its optimal structure from the database;
 
-- 通过 Prompt 构建当前任务和上下文；
+- Build the current task and context through Prompt;
 
-- LLM 生成新的代码差异（diff）；
+- LLM generates new code differences (diff);
 
-- 应用差异形成“子程序”；
+- Application of differences to form a "subprogram";
 
-- 用评估器跑结果、打分；
+- Run results and score with an evaluator;
 
-- 如果子程序优于父程序，入库，下一轮进化继续。
+- If the sub-procedure is superior to the parent procedure, enter the library and the next round of evolution continues.
 
-这一过程不仅演化代码，还可以演化 prompt 本身、评价指标等，实现高度自适应的搜索优化。
+This process not only evolves the code, but also evolves the prompt itself, evaluates the indicators, etc., to optimize the search for a high degree of self-adaptation.
 
-- 将表现最好的代码片段“保留下来”，用于下一轮生成的输入；
+- To “retain” the best-performing segments of the code for the next round of input generation;
 
-- 系统也会引入“变异”——对已有代码进行小幅调整尝试新解；
+- The system would also introduce a “variant” — a small attempt to adapt the existing code to a new solution;
 
-- 这一过程会不断迭代优化，直至产生最优解或新颖有效的算法。
+- This process will continue to be optimized over time until the best or novel and effective algorithms are produced.
 
-## 已落地的应用与成果
-AlphaEvolve 已不只是研究原型，而是已经**部署在真实生产系统中并产生了明显成效**。几个关键应用场景如下：
+# Landed applications and results AlphaEvolve is not just studying prototypes, but has ** deployed in real production systems and produced significant results**. Several key application scenarios are as follows:
 
-### ✅ 数据中心调度优化（Google Borg 系统）
+# # Data centre dispatch optimization (Google Borg system)
 
-- 为 Google 的 Borg 集群管理系统设计了一种调度启发式算法，已投入使用超一年，**可持续回收约 0.7% 的计算资源**
+- Designed a dispatch inspiration algorithm for the Google Borg cluster management system, which has been in use for more than a year,** sustainable recovery of approximately 0.7 per cent of the computational resources**
 
-- 解决了“搁浅资源”问题（例如内存耗尽但 CPU 仍可用）。
+- The problem of “grounding resources” has been resolved (e.g. depleted memory but CPU is still available).
 
-- 生成的代码简单且人类可读，便于工程师调试和部署。
-![](https://assets-v2.circle.so/j9nc9a8ewjzqd1miq145xkjb0817)
+- Generated code that is simple and human-readable to allow engineers to debug and deploy.[] (https://assets-v2.Circle.so/j9nc9a8ewjzqd1miq145xkjb0817)
 
-### ✅ AI 芯片设计协同（Verilog级别）
+# AI Chip Design Synergy (Verilog Level)
 
-- 对 Google TPU 中的某个矩阵乘法电路进行了 Verilog 级别的重写，去除冗余位，保持功能正确性；
+- Rewrite the Verilog level of a matrix Multiplication Circuit in Google TPU, remove redundancies and maintain functional correctness;
 
-- 这一建议已被采纳进入未来一代芯片设计流程中，显著节省面积与能耗。
-![](https://assets-v2.circle.so/t1b7kmis84mjantvb6ttego7lzz8)
+- This proposal has been adopted into the future generation chip design process, resulting in significant savings in area and energy consumption.[1] (https://assets-v2.circle.so/t1b7kmis84mjantvb6ttego7lzz8).
 
-### ✅ AI 模型训练加速（包括 Gemini 自身）
+# AI model training acceleration (including Gemini itself)
 
-- 优化了 Gemini 模型训练中的矩阵乘法内核，加速 23%，整体训练时间缩短 1%，在 Google 的计算规模下节省了大量能源和资源。
+- Optimizing matrix kernels in Gemini model training, accelerating 23 per cent, reducing overall training time by 1 per cent, and saving a lot of energy and resources on the scale of Google calculations.
 
-- 对 FlashAttention 内核的低级 GPU 指令进行重构，速度提升达 **32.5%**。
+- Reconstructed low-level GPU command of the FlashAttention core with a speed increase of **32.5%**.
 
-### ✅ 数学与算法发现
+# # Mathematics and algorithms found #
 
-- 在 50 个数学问题（涵盖几何、组合数学等领域）的测试中，AlphaEvolve 在 75% 的情况下重现了已知最优解，在 20% 的情况下发现了优于已有解的新解。
-![](https://assets-v2.circle.so/xatol7vw96fyyyo3u9phpuf852we)
-- **接触球数问题**：在 11 维空间中，将接触球数（非重叠单位球体可同时接触中心球体的数量）的下界从 592 提高到 593，打破了现有记录（上界为 868）。
-![](https://assets-v2.circle.so/3qlxo3a8gljxk5ujnhnibwt6n3rp)
-- **矩阵乘法**：发现了比 1969 年 Strassen 算法更高效的 4×4 复数矩阵乘法算法，减少了标量乘法次数，提升了计算效率。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
+- In 50 mathematical questions (covering geometry, combination mathematics, etc.), AlphaEvolve recreated the best solution known in 75% of cases and found a new solution better than the one already solved in 20% of cases.[!] (https://assets-v2.circle.so/xatol7vw96yyo3u9puff852we) - ** Exposure to ball **: In 11 dimensions, the lower limit of exposure (the number of non-overlapping units of spheres that can simultaneously reach the central sphere) was raised from 592 to 593, breaking the existing record (868 above) [https://assets-v2.circle.so/3qlxo3a8gljxk5ujnnnnbwt6np) - ** matrix application**: discovery of the more efficient 4x4 calculation method of Strassen 1969, reduced the number of numerical efficiency.
 
-官方介绍：https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/ 
-技术报告
-See more
+Official presentation: https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algoriths/technical report

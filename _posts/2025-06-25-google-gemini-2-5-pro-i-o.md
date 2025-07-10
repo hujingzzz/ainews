@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google 发布了 Gemini 2.5 Pro（I/O 预览版）提升了编码等相关能力，尤其在前端开发方面
+title: Google upgraded relevant capabilities such as code for Gemini 2.5 Pro (I/ O preview), especially in front-end development
 date: 2025-06-25 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-gemini-2-5-pro-i-o_1.jpg
@@ -9,98 +9,89 @@ icon: note
 * content
 {:toc}
 
-Google 发布了 **Gemini 2.5 Pro（I/O 预览版）**，这是一版专为即将到来的 Google I/O 大会提前发布的模型更新，重点提升了编码相关能力，尤其在前端开发、UI构建、函数调用、视频理解结合代码生成等方面。
+Google released **Gemini 2.5 Pro (I/ O preview)**, a model update for the forthcoming Google I/O Congress, which was issued in advance and focused on upgrading coding-related capabilities, particularly in the areas of front-end development, UI construction, function calls, video understanding of integration code generation.
 
-## 主要更新：
+# Main updates:
 
-- **代码能力显著提升**
-更好地支持函数调用、模块重构、逻辑判断
+- ** Significant enhancement of code capability** Better support function calls, module re-engineering, logical judgement
 
-- 具备“类资深开发者”的架构理解力
+- Structured understanding of “senior developers”
 
-**前端与 UI 开发能力升级**
+** Frontend and UI development capability upgrade**
 
-- 排名 WebDev Arena 第一
+- WebDev Arena, number one.
 
-- 自动生成美观、结构清晰的网页组件（含 CSS、响应式布局）
+- Auto-generated beauty and well-structured web components (including CSS, responsive layout)
 
-- 能识别设计样式并保持风格一致性
+- To recognize design styles and keep them consistent
 
-**视频理解 + 代码生成融合**
+** Video understanding + code generation integration**
 
-- 视频内容 → 交互式应用（基于 YouTube 内容）
+- Video content  Interactive application (based on YouTube content)
 
-- 多模态 AI 能力增强（VideoMME 评分 84.8%）
+- Multimodular AI Capability Enhancement (VideoMME 84.8%)
 
-**构思到应用落地速度更快**
+** Designed to apply faster landing speed**
 
-- 从简单提示快速生成具 UI + 动效的可用 App
+- Available App for quick-generated UI+ action from simple hints
 
-- 示例项目：Dictation Starter App
+- Example: Dietation Starter App
 
-**开发体验优化**
+**Experience optimization**
 
-- 错误率降低、函数触发率提升
+- Reduction in error rate, increase in function trigger rate
 
-- 与旧版接口兼容、价格不变、无缝升级
+- Compatibility with the old version interface, constant price, seamless upgrade
 
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-## 详细升级介绍
+# Detailed upgrades
 
-### 1. 🚀 **代码能力升级**
+# 1.  ** Code upgrade**
 
-- 更强的代码生成与重构能力：
-在涉及复杂后端重构任务的评测中，**首次成功通过 Cognition 的高级开发者评测用例**，展示出“类资深开发者”水平的抽象与结构选择能力；
+- Greater code generation and re-engineering capacity: in an evaluation involving complex backend re-engineering tasks,** for the first time, the ability to select abstractly and structurally at the level of “senior developers” was successfully demonstrated through an advanced developer assessment for Cognition**;
 
-- 适用于复杂业务逻辑调整、模块化设计、API重写等任务。
+- For complex business logic adjustments, modular design, API rewriting, etc.
 
-更可靠的函数调用能力（Function Calling）：
+More reliable function call capability (Function Calling):
 
-- **错误率下降，触发率提升**，开发者可以更流畅地构建基于多步骤函数组合的“Agentic Workflow”；
+- ** Error rate drops, trigger rate increases** and developers can more easily construct a "Agentic Workflow" based on a combination of multi-step functions;
 
-- Gemini API 接入的开发者无需迁移，系统自动切换到新版。
-![](https://assets-v2.circle.so/stwflwumgauuv5eg4mt3yjmvu57o)
+- Developers of Gemini API access do not need to migrate and the system automatically switch to the new version.[1] (https://assets-v2.circle.so/stwlwumgauuv5eg4mt3yjmvu57o)
 
-### 2. 🧑‍💻 **前端开发支持全面增强**
-Gemini 2.5 Pro 在前端开发领域已跃居 **WebDev Arena 排名第一**（衡量人类偏好度的排行榜）。
-![](https://assets-v2.circle.so/0k7vhicgwgv2nwefdl3g8e644ctg)可用于以下典型任务：
+##2.  ** Front-end development support for overall enhancement** Gemini 2.5 Pro has jumped to the top of **WebDev Arena first ** (the ranking for measuring human preferences).[] [https://assets-v2.circle.so/0k7vhicgwgv2nwefdl3g8e644ctg) can be used for the following typical tasks:
 
-- 将设计图转为实际网页组件（HTML + CSS + JS）；
+- Conversion of the design to the actual web component (HTML + CSS + JS);
 
-- 快速生成 UI 组件并自动适配现有样式；
+- Rapid generation of UI components and automatic adaptation to existing styles;
 
-- 理解按钮交互、字体、边距、动画等视觉元素，并还原成高质量网页；
+- Understanding the visual elements of button interactions, fonts, margins, animations, etc., and restoring them to high-quality web pages;
 
-- 模仿现有应用风格实现新功能（如将视频播放器嵌入现有网页）。
+- Imitation of existing applications to achieve new functions (e.g. embedding video players in existing web pages).
 
-🎯 示例：在 Gemini 95 Starter App 中，开发者只需描述“想要增加一个样式统一的视频播放器”，Gemini 就能自动读取已有设计风格并生成可用组件。
+Example: In Gemini 95 Starter App, the developers simply describe " want to add a uniform video player", and Gemini can read the existing design style automatically and generate usable components.
 
-### 3. 🎥 **视频+代码：多模态能力进一步融合**
+##3.  Video+code: further integration of multi-model capabilities**
 
-- 在 VideoMME 基准上得分高达 **84.8%**，是目前领先的“视频理解大模型”之一；
+- A high score on the VideoMME benchmark of **84.8 per cent**, which is one of the leading “large models of video understanding” at present;
 
-- 可基于一段 YouTube 视频，**自动生成交互式学习 App**，包括内容提取、界面构建与逻辑生成；
+- An interactive learning application may be generated automatically on the basis of a YouTube video**, including content extraction, interface construction and logical generation;
 
-- 代表 AI 正从“语言驱动代码”进化为“视频驱动产品”的多模态阶段。
+- On behalf of AI, it has evolved from a language-driven code to a multi-model phase of a video-driven product.
 
-📌 示例：Google AI Studio 的 Video to Learning App 演示了这种新能力。
+Example: Video to Learing App of Google AI Studio demonstrates this new capability.
 
-### 4. ✨ **“从构思到产品”的开发流程加速**
-借助 Gemini 2.5 Pro，开发者能快速将一个产品想法实现为具备完整功能与视觉质量的 App。
-示例产品：“Dictation Starter App”：
+##4. ** Development process acceleration from conception to product** With Gemini 2.5 Pro, developers can quickly realize a product idea as an App with complete functionality and visual quality. Example product: "Dictation Starter App":
 
-- 自动生成**麦克风动画、响应式布局、按钮悬停特效**；
+- Auto-generated** microphone animations, responsive layouts, button suspension effects**;
 
-- 不仅满足功能需求，视觉表现也高度专业；
+- A high degree of professionalism in visual performance, not only in meeting functional needs;
 
-- 表明模型具备基础审美感知与产品意识。
+- Demonstrate the basic aesthetic perception and product awareness of the model.
 
-现在你可以通过 Google AI Studio 中的 Gemini API 选择 Gemini 2.5 Pro（05-06） 进行构建应用，企业客户可以使用 Vertex AI 构建。
+Now you can use Gemini API in Google AI Studio to select Gemini 2.5 Pro (05-06) to build with Vertex AI.
 
-- 目前 Gemini 2.5 Pro 预览版以与旧版（03-25）**相同的价格开放使用**；
+- The current Gemini 2.5 Pro preview is open for use at the same price as the old version (03-25)**;
 
-- 系统已默认将接口指向新版（05-06），开发者无需额外迁移；
+- The system has implicitly pointed the interface to the new version (05-06) and the developers do not need to migrate;
 
-- 模型卡已同步更新，记录各项升级细节。
+- Model cards have been updated in a synchronized manner to record the details of the upgrades.
 
-See more

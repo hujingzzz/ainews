@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gemini 现在可以在 Gmail 中使用了 可以帮你自动总结长邮件、生成邮件回复建议和草稿
+title: Gemini can now be used in Gmail to help you automatically summarize long mails, generate recommendations and drafts for e-mail responses.
 date: 2025-06-13 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/gemini-gmail_1.jpg
@@ -9,83 +9,56 @@ icon: image
 * content
 {:toc}
 
-Gemini 现在可以在 Gmail 中使用了。
-**你可以在 Gmail 中用 Gemini 做这些事：**
+Gemini can now be used in Gmail. ** You can use Gemini in Gmail for these things:**
 
-- 自动**总结长邮件**，快速看重点；
+- Automatic** summary of long e-mail**, quick focus;
 
-- 帮你**生成邮件回复建议**；
+- Helping you to generate recommendations for e-mail responses**;
 
-- 根据你的指令**写邮件草稿**；
+- Write draft mail** in accordance with your instructions;
 
-- 从你的 Gmail 或 Google 云端硬盘里**找资料**；
+- From your Gmail or Google cloud hard drive**;
 
-- 直接**查看日历活动**，甚至创建日程。
+- Direct** view calendar activities**, or even create a calendar.
 
-![](https://assets-v2.circle.so/uzllrt0sl6hvatdoj80heurgi84i)
+(https://assets-v2.circle.so/uzllrt0sl6hvatdoj80heurgi84i)
 
-## 🚀使用方式（电脑端）：
-登录 Gmail。
-右上角点击 **“向 Gemini 提问”图标**（通常是星状图标或机器人图标）。
-在右侧的 Gemini 面板中，可以：
+#  Usage (computer end): Login Gmail. Click at the upper right corner ** Question to Gemini icon** (usually asterisk icons or robotic icons). In the right-hand Gemini panel, you can:
 
-- 选择系统推荐的提示语（如“帮我写一封客户回复邮件”）
+- Select the system 's recommended tip (e.g., "Help me write a client back to the mail")
 
-- 自行输入你想让 Gemini 帮忙处理的任务（如“总结这封邮件”）
+- Enter the task you want Gemini to help with.
 
-等待 Gemini 自动生成响应或建议。
-可选择“复制建议”插入邮件或另作他用。
-![](https://assets-v2.circle.so/qv28gv4uekduahaxbecplfed81ml)
-## 📱 在 Android 手机上使用 Gmail 中的 Gemini：
+Waiting for Gemini to automatically generate a response or advice. The option is to "copy the recommendation" insert the mail or otherwise. [!] (https://assets-v2.Circle.so/ qv28gv4uekduahaxpecpled81ml) # using Gemini from Gmail on Android's mobile phone:
 
-### ✅ 步骤说明：
-**打开 Gmail App**
-在你的 Android 手机或平板上，打开 Gmail 应用。
-**点击右上角的 Gemini 图标**
-在搜索栏旁边会有一个 Gemini 的图标（类似一个星星或小助手图标），点它。
-**使用 Gemini 面板（底部出现）**
-在屏幕下方会弹出 Gemini 面板，你可以：
+## Step note: ** Open Gmail App** on your Android mobile phone or tablet, open Gmail application. ** Click on the Gemini icon on the upper right corner** and there will be a Gemini icon next to the search bar (like a star or small assistant icon) and point it. ** Use Gemini panel (below)** to pop the Gemini panel under the screen, you can:
 
-- 点一个**系统推荐的提示语**（例如：“总结这封邮件”、“写个回复”）。
+- Point a hint recommended by the system** (e.g., “summation of the message”, “writing a response”).
 
-- 也可以自己**输入你想让它做的事**，例如“请帮我写一封辞职邮件”。
+- You can also type yourself ** what you want it to do ** e.g., "Please write me a resignation e-mail."
 
-**（可选）清除历史记录**
-如果你不想保留和 Gemini 的聊天记录，可以点右上角的“清除历史”。
-![](https://assets-v2.circle.so/rzhtyoni0c4dylhqaivfjueu4i4s)
-### ⚠️ 温馨提示：
+** (optional) Clear historical records** If you don't want to keep chat records with Gemini, you can click "Clean history" at the top right corner.[1] (https://assets-v2.circle.so/rzhtyoni0c4dylhqaivjueu4s) ##
 
-- **你的历史记录不会保存**：
-如果你关闭 Gmail App 或重启手机，之前和 Gemini 的对话就会被清除。
+- ** Your historical records will not be kept**: if you turn off Gmail App or restart your cell phone, the conversation with Gemini will be cleared.
 
-**建议提前复制重要内容**：
+** It is recommended that important elements be reproduced in advance**:
 
-- 如果 Gemini 给了你一个很好的建议，请**先复制到邮件里或备忘录里**，以免丢失。
+- If Gemini gives you a good advice, please ** copy it in the mail or in the memo ** in case it's lost.
 
-## 🍎 在 iPhone 或 iPad 上使用 Gmail 中的 Gemini：
+#  Gemini in Gmail on iPhone or iPad:
 
-### 📲 操作步骤：
-**打开 Gmail 应用**
-在你的 iPhone 或 iPad 上，打开 Gmail App。
-**点击右上角的 Gemini 图标**
-搜索框旁边有个 Gemini 图标，点进去。
-**底部会出现 Gemini 面板**在这个面板里你可以：
+##  Operational step: ** Open Gmail application** on your iPhone or iPad, open Gmail App. ** Click the Gemini icon on the top right corner** with a Gemini icon next to the search box, point in. ** There will be a Gemini panel at the bottom** in this panel where you can:
 
-- 选择一个系统**推荐的提示语**（比如“帮我写封感谢信”）。
+- Select a system** recommended tip** (e.g., “Help me write a letter of thanks”).
 
-- 或者在下方的**输入框里输入你自己的提示**（例如“总结一下我和客户的对话”）。
+- Or enter your own hint** in the ** input box below (e.g., “Summary my conversation with the client”).
 
-**（可选）清除历史记录**
-想清除 Gemini 的使用记录？点右上角的“清除历史”。
-![](https://assets-v2.circle.so/j5uuzzdc45ivpvzmhrj7coog6sy0)
-### ⚠️ 注意事项：
+** (optional) Clear history** Wants to clear Gemini's log of use? ## # at the top right corner of #[!] (https://assets-v2.circle.so/j5uuzzdc45ivpvzmhrj7coog6sy0):
 
-- **对话历史不会保存**：
-如果你关闭 Gmail App 或重新打开，它会**清除你和 Gemini 的聊天内容**。
+- ** Dialogue history will not save **: If you close Gmail App or reopen it, it will **clean up your chat with Gemini**.
 
-**小贴士**：
+**Pictim**:
 
-- 如果你觉得 Gemini 给的建议不错，**先复制到你的邮件正文里**，否则关闭 App 后内容会丢失。
+- If you think Gemini's offer is good, ** copy it in your mail text** or close App before it's lost.
 
-官方帮助文档：https://support.google.com/mail/answer/14355636
-See more
+Official help documentation: https://support.google.com/mail/answer/14355636

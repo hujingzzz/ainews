@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google推出 全新的 Gemini 2.5 Flash-Lite模型 支持 Gemini 2.5 全功能能力 速度更快 更便宜
+title: Gemini 2.5 Flash-Lite model launched by Google supports Gemini 2.5 full functional capability faster and cheaper
 date: 2025-06-10 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-gemini-2-5-flash-lite-gemini-2-5_1.jpg
@@ -9,124 +9,104 @@ icon: web
 * content
 {:toc}
 
-**Google 正式发布 Gemini 2.5 Flash 和 Pro 模型，**现在任何开发者都可以使用这两个模型来构建、扩展可投入生产的 AI 应用。
+**Google officially publishes Gemini 2.5 Flash and Pro models,** which can now be used by any developer to construct and expand the AI applications that can be put into production.
 
-- **同时推出新模型 Gemini 2.5** **Flash-Lite （预览版）**：
-这是 Gemini 2.5 系列中响应最快、成本最低的模型。
+- **In parallel with the launch of the new model Gemini 2.5** ** Flash-Lite**: This is the most responsive and least costly model in the Gemini 2.5 series.
 
-- 特别适用于需要低延迟和高效率响应的实际应用场景。
+- Particularly applicable to practical applications where low-delayed and efficient responses are required.
 
-## 🧬 三款模型对比概览
-![](https://assets-v2.circle.so/atma49ws12l6nf8imj9whcz7ix1d)
-## 🔍 Gemini 2.5 Flash-Lite 的详细特点
+# A comparative overview of the three-point model![] (https://assets-v2.Circle.so/ atma49ws12l6nf8imj9whcz7ix1d) #Gemini 2.5 Flash-Lite
 
-### ✅ 1. 成本效率最高，速度最快
+1. The most cost-effective and fastest.
 
-- 相较Pro模型，其**推理速度更快，成本更低**。
+- Compared to the Pro model,** the reasoning is faster and less costly**.
 
-- 比 2.0 Flash-Lite 和 2.0 Flash **延迟更低**，推理速度更快；
+- Lower than 2.0 Flash-Lite and 2.0 Flash ** Delay** and faster reasoning;
 
-- 每次调用的成本显著降低，适合部署在大规模系统或用户场景中。如 AI客服、搜索摘要生成、多轮对话等。
+- The cost of each call is significantly reduced and suitable for deployment in large-scale systems or user scenarios.
 
-- 为 **边缘设备、移动终端、微服务系统** 提供轻量解决方案。
+- Light solutions for ** edge devices, mobile terminals, microservices**.
 
-### ✅ 2. 在基础任务上的质量提升
-Flash-Lite 在多个标准测试上超过了旧版：
+#2. Quality upgrades to base tasks, Flash-Lite, surpasses the old version on multiple standard tests:
 
-- **代码生成**
+- ** Code generation**
 
-- **数学/逻辑推理**
+- **Mathematic/logical reasoning**
 
-- **科学理解任务**
+- **The scientific understanding mission**
 
-- **文本/图像多模态输入解析**
+- ** Text/image multi-model input parsing**
 
-相比于 2.0 Flash-Lite，其表现更均衡、更全面。
+The performance is more balanced and comprehensive than 2.0 Flash-Lite.
 
-### ✅ 3. 支持 Gemini 2.5 全功能能力
-包括：
-1. **可控思考机制（Controllable Thinking）**
-Gemini 2.5 Flash 是首批支持 “思考预算” 的模型之一：
+##3. Support for Gemini 2.5 full functional capabilities including: 1. **Controlable Thinking** Gemini 2.5 Flash is one of the first models to support the "thinking budget":
 
-- 用户可以设置推理的计算预算（如Token数），在响应速度与准确性之间灵活权衡。
+- Users can set a reasoned calculation budget (e.g. the Token number) with a flexible trade-off between response speed and accuracy.
 
-- 模型在处理复杂任务（如数学题、代码生成）时可使用更多前向传递步骤以提升准确率。
+- Models can use more forward transmission steps to improve accuracy when dealing with complex tasks (e.g. mathematical questions, code generation).
 
-2. **多模态处理**
-尽管不是Pro版，但它依然具备完整的原生多模态支持：
+2. ** Multi-module treatment** Although not pro-version, it still has complete primary multi-module support:
 
-- 输入类型包括：文本、图像、音频、视频。
+- Type of input includes: text, image, audio, video.
 
-- 能处理 **小时级视频内容**、结构化图像（如图表、UI界面）与语音。
+- Capable of processing **hour video content**, structured images (e.g. graphs, UI interfaces) and voice.
 
-- 支持从视频中提取事件、识别场景、生成应用或摘要等任务。
+- Support the task of extracting events, identifying scenes, generating applications or summaries from videos.
 
-3. **工具使用能力（Tool-use）**：如调用 Google 搜索、代码运行等操作，并拥有 **百万 token 的上下文窗口**，与 Gemini 2.5 Flash 和 Pro 同等级别。
+3. **Tool-use**: for example, to call Google search, code run, etc., and have **million token context window**, the same level as Gemini 2.5 Flash and Pro.
 
-## ✅ 4. **性能比较**：
+#  4. ** Performance comparison**:
 
-- 与旧版 2.0 Flash-Lite 和 Flash 相比，2.5 Flash-Lite 在响应速度、推理质量上全面领先。
+2.5 Flash-Lite is a full leader in response speed, reasoning quality compared to the old version 2.0 Flash-Lite and Flash.
 
-- 在编码、数学、科学、推理和多模态等基准测试中均取得更高分数。
+- Obtaining higher scores in baseline tests such as coding, mathematics, science, reasoning and multimodules.
 
-- 延迟更低、成本更低，是目前最具性价比的模型之一。
-![](https://assets-v2.circle.so/g0nd23e7nkk8vko6lmr29s1iha75)![](https://assets-v2.circle.so/juibapguef7s0olejpqasr0b7mwm)
+- Delays are lower and cost lower, being one of the best value for money models at present.[] (https://assets-v2.circle.so/g0nd23e7nkk8vko6mr29s1iha75) [https://assets-v2.circle.so/juibapguef7s0olejpqasr0b7mwmmm)
 
-### 「**谁家AI模型最划算**」
-![](https://assets-v2.circle.so/j7dkgvtyqrbuor6rf72elormfwrk)
-- **Gemini 2.5 系列显著提升了性价比上限**，将帕累托前沿整体推向右上角。
+## "** Whose model AI is the most cost-effective **"! [https://assets-v2.circle.so/j7dkvtyqrbuor6rf72elormfwrk) - **Gemini 2.5 series significantly increased the upper limit of value for money** by moving Pareto as a whole to the upper right corner.
 
-- **Flash-Lite 是目前“最划算的模型之一”**，尤其适合预算敏感但仍需强模型能力的应用。
+- **Flash-Lite is currently one of the most cost-effective models**, especially for budget-sensitive applications that still require strong modelling capacity.
 
-- **“思考能力（Thinking）+长上下文+多模态”** 是Google Gemini系列能力领先的根本。
+- ** “Thinking” + Long context + multi-model”** is fundamental to the leadership of the Google Gemini series.
 
-**📊 怎么看这张图？**
+♪ How do you look at this picture? ♪
 
-- **纵轴（越高越好）**：模型有多聪明、能干，比如理解能力、写代码、看视频等表现。
+- **Honger axis (up as high as possible): ** How smart and competent models are, for example, in terms of their ability to understand, write codes, watch videos, etc.
 
-- **横轴（越右越便宜）**：用这个AI模型一次得花多少钱（处理100万个单词的成本）。
+- ** Transverse (advanced by right): ** How much it costs to use this AI model at a time (cost of processing 1 million words).
 
-✅ **左上角**：聪明但贵✅ **右上角**：聪明又便宜！👉这就是最好的组合
-图上那条**蓝色曲线**就是：📈 **“目前世界上最划算的模型”连成的一条线**，也叫“最优前沿（Pareto Frontier）”。
-🟦 Gemini 2.5 Pro
+** Top left **: Smart but expensive ** Top right**: Smart and cheap!  This is the best combination ** Blue Curve ** This is:  A line associated with “The world's most cost-effective model” ** also known as “Pareto Frontier”  Gemini 2.5 Pro
 
-- Google家目前**最强的AI大脑**，聪明到爆表。
+- Googles now ** the strongest AI brain**, smart as a watch.
 
-- 比如能看3小时视频、会写网页应用、能一口气读《哈利波特全集》。
+- For example, you can read three hours of video, you can write web applications, you can read Harry Potter at once.
 
-- 缺点是：贵！适合科研、重度开发用。
+- Weaknesses: Precious! Suitable for scientific research and heavy development.
 
-🟦 Gemini 2.5 Flash
+Gemini 2.5 Flash
 
-- 小一点的模型，**聪明程度跟GPT-4o差不多，但更便宜**。
+- Smaller models,** smarter than GPT-4o, but cheaper**.
 
-- 平衡好：又快、又便宜、又能思考，适合做聊天机器人、客服、搜索问答系统。
+- Balanced: fast, cheap and reflective, suitable for chat robots, customer service, search and question systems.
 
-🟦 Gemini 2.5 Flash-Lite（新发布！）
+Gemini 2.5 Flash-Lite (new release!)
 
-- 超高性价比的“快刀小AI”：成本特别低，但还是挺聪明！
+- Super-high-priced "Quick Knife Little AI": especially low-cost, but still smart!
 
-- 比如你有成千上万的客户要同时用AI回答问题，它就非常适合。
+- For example, if you have thousands of customers who have to answer questions with AI at the same time, it's perfect.
 
-- 是图中“右上角”的代表：**越右越便宜，越上越聪明，刚好处在最优点上。**
+- It is represented by the “top right corner” in the figure:** the cheaper the right, the smarter the higher and the better the better.**
 
-![](https://assets-v2.circle.so/9c1icq6gsx7nuzwv1d7ceadibspj)这张图显示的是：
-各家 AI 模型 **“输出速度”** 的对比——也就是**生成文字的速度有多快**
-![](https://assets-v2.circle.so/xyurg9n8yctml17mtmrf6bb9qrau)
-### **应用案例演示**：
+!" (https://assets-v2.circle.so/9c1icq6gsx7nuzwv1d7ceadibspj) This graph shows: a comparison of the AI models ** "output speed"** -- that is, ** how fast text is generated** [] (https://assets-v2.circle.so/xyurg9n8yctml17mtmrf6bb9qrau) #**Application demonstration**:
 
-- 一个研究原型：用户上传大型 PDF 文件后，Flash-Lite 模型可实时将其转换为交互式 Web 应用，便于理解和总结复杂内容。
+- A research prototype: After the user uploads large PDF files, the Flash-Lite model can be converted into an interactive Web application in real time to facilitate understanding and synthesizing complex content.
 
-- 示例强调了模型在处理复杂结构化信息方面的强大能力。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
+- The example highlights the strong capacity of the model in dealing with complex structured information.
 
-## **如何使用**：
+# ** How to use **:
 
-- 所有 2.5 Flash 和 Pro 模型可在以下平台使用：
-Google AI Studio
+- All 2.5 Flash and Pro models can be used on the following platforms: Google AI Studio
 
-- Google Cloud Vertex AI
+- Google Cloud Vertex.
 
-适合企业和研究人员快速部署 AI 工具和服务。
-技术报告：https://storage.googleapis.com/deepmind-media/gemini/gemini_v2_5_report.pdf
-See more
+A. Tools and services suitable for rapid deployment by business and researchers. Technical report: https://storage.googleapis.com/deepmind-media/gemini/gemini_v2_5_report.pdf

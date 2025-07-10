@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Supermemory Infinite Chat：AI“超级记忆外挂” 可以让AI拥有“无限记忆”能力
+title: Supermemory Infinite Chat: AI "SuperMemory Hanging" can give AI the ability to "infinite memory"
 date: 2025-06-21 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/supermemory-infinite-chat-ai-ai_1.jpg
@@ -9,107 +9,90 @@ icon: book
 * content
 {:toc}
 
-聊天机器人（如ChatGPT、Claude等）有个很大的限制——它们能“记住”的内容有限，因为模型的上下文窗口（token限制）是有上限的，常见的比如 8k、32k、甚至 128k tokens。
-一旦超过这个长度，前面说过的话就会被截断、丢失，导致：
+Chat robots (such as ChatGPT, Claude, etc.) have a very limited limitation - they can “remember” limited content because the context window of the model (token limit) is capped, often like 8k, 32k, or even 128k tokens. Once this length is exceeded, what is said is cut off and lost, leading to:
 
-- 聊天断层，前后逻辑不连贯
+- Chat faults. Logical incoherence.
 
-- 用户体验下降，机器人反应“健忘”
+- User experience is declining. Robot reaction is "forgetting."
 
-![](https://assets-v2.circle.so/vplpxb7gbqtpxx5l83tpup7139vn)**Supermemory **为了解决这个问题， 推出 **Infinite Chat API**，可扩展任何模型的上下文长度。它可以让你的聊天应用“拥有长期记忆”，而且无需重写任何应用逻辑。
-它作为一个智能代理（proxy）透明地集成在现有的LLM（大语言模型） API前端，无需更改应用逻辑即可支持超长对话。
+** (https://assets-v2.circle.so/vplpxb7gbqtpx5l83tpup7139vn)**In order to solve this problem, **Infinite Chat API** can expand the context length of any model. It allows your chatting to be “long-term memory” without rewriting any application logic.
 
-- 声称可 **节省 90% token 和成本**，同时还能提升模型性能。
+- claims that ** saves 90% token and costs**, while also enhancing model performance.
 
-- 使用极其简便：**只需一行代码切换**，立即可用。
+- Very simple to use:** just one line of code to switch**, immediately available.
 
-- Infinite Chat API 通过在 **应用与 LLM 之间作为透明代理**，只传输生成良好响应所需的必要上下文，从而避免大模型在上下文过长时性能下降（如20K tokens以上）。
+- Infinite Chat API, by acting as a transparent agent between ** application and LLM**, transmits only the necessary context necessary to generate a good response, thus avoiding a decline in the performance of large models over a long period of time in the context (e.g. 20K tokens and above).
 
-- 成本结构：
-免费开始使用
+- Cost structure: Started free of charge
 
-- 每月固定费用 $20
+- A fixed monthly fee of $20.
 
-- 每个线程前 20k token 免费，之后 $1/百万 token
+- 20k token per thread free, after $1 million token
 
-**它就像是一个“超级记忆外挂”：**
+** It's like a supermemory hanger:**
 
-- 自动管理和压缩对话内容
+- Automation and compression of dialogue content
 
-- 动态取出有用的旧内容做上下文补充
+- Dynamic extraction of useful old content to supplement context
 
-- 几乎不增加延迟
+- There's hardly any delay.
 
-- 能节省大量Token开销
+- It saves a lot of Token's expenses.
 
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-## 它的核心是什么？——智能代理 + 记忆系统
-Supermemory 以“代理层”的方式嵌入在你现有的 OpenAI API 调用前面，做了三件事：
+# What's the core of it? — smart agent + memory system Supermemory embedded in the "agent layer" in front of your current OpenAI API call and did three things:
 
-### 1. **透明代理（Transparent Proxy）**
-你原来请求 OpenAI 的接口，现在只要把 URL 换成 Supermemory 的地址，它会中转你的请求给 LLM（大语言模型），对你的业务代码没有入侵式修改。
+#1. **The interface you originally requested for OpenAI is now replaced by the URL for Supermemory, which will transit your request to LLM (large-language model), with no invasive changes to your code.
 
-### 2. **智能分段与检索（Chunking + Smart Retrieval）**
+##2. **Intelligent parting and retrieval (Chunking + Smart Retrieval)**
 
-- 它会把长对话“拆成块”，并用自家的算法保持这些块语义连贯
+- It'll break down the long dialogue into pieces and keep these synonyms consistent with its home-grown algorithms.
 
-- 当需要继续对话时，它会自动从历史记录中提取最相关的上下文片段，而不是靠你一股脑地发送整个历史
+- When it is necessary to continue the dialogue, it automatically extracts the most relevant contextual fragments from historical records, rather than sending the entire history with your head.
 
-### 3. **Token 自动管理**
+#3 **Token Automanager**
 
-- 它能根据上下文智能控制 token 使用，防止成本失控
+- It controls token according to context to prevent the cost from running out of control.
 
-- 同时避免请求失败或内容被截断的情况
+- To avoid, at the same time, the failure of the request or the interruption of the content.
 
-## 实际使用方式
-非常简单。以 OpenAI 的接口为例，只要：
-到 Supermemory Console 获取 API Key
-把你的请求 URL 换成：https://api.supermemory.ai/v3/https://api.openai.com/v1
-在请求头里加入 x-api-key，填你的 Supermemory API Key
-支持多种语言客户端，官方文档提供 TypeScript 和 Python 示例。
+# The actual use is very simple. Take OpenAI interfaces, for example, if: go to Supermory Console to get API Key and replace your request with: https://api.submemory.ai/v3/https://api.openai.com/v1 to add x-api-key to the request, fill in your Supermory API Key to support multi-language clients, and the official files provide examples of TypeScript and Python.
 
-## 性能与费用——实用又不贵
+# Performance and cost -- practical and not expensive
 
-### ✅ 性能优势
+# # # # # # # # # performance advantage #
 
-- **无限上下文**：突破 OpenAI 等模型的 token 限制，可处理任意长度对话
+- **Infinite context**: Breaking through token limits in models like OpenAI, which can handle any length of dialogue
 
-- **节省成本**：因为只提取有用信息，可减少最高 70% 的 token 使用
+- ** Cost savings**: as only useful information can be extracted, the use of up to 70% token can be reduced
 
-- **几乎零延迟**：作为代理转发，请求速度基本不变
+- ** Almost zero delay**: transmitted as an agent, with requests largely at the same speed
 
-- **响应更稳定**：上下文提取更精确，回复更贴切
+- ** Respond is more stable**: more accurate context extracts and more relevant responses
 
-### 💰 价格模型
+# # # price model #
 
-- 免费额度：存储 100,000 tokens 无需付费
+- Free amount: storage 100,000 tokens free of charge
 
-- 标准计划：$20/月，超出免费额度后启用
+- Standard plan: $20 per month, when the free amount is exceeded
 
-- 增量计费：每个对话前 20k token 免费，之后每百万 tokens 收费 $1
+- Increment: $20k token per conversation free of charge and $1 per million tokens thereafter
 
-## 出错了怎么办？稳定性保障机制
-如果 Supermemory 自身出错（比如检索失败或内部异常），它不会影响你的请求：
+# What if there's a mistake? The stability guarantee. If Supermemory makes an error of his own (e.g. a failure to retrieve or an internal anomaly), it doesn't affect your request:
 
-- 会自动绕过，直接将请求发给 LLM（如 OpenAI）
+- Will automatically bypass and send the request directly to LLM (e.g. OpenAI)
 
-- 你还是能得到 LLM 的返回结果，最多是没有优化后的上下文
+- You can still get LLM's return results, at best in unoptimised context.
 
-- 响应中会附带诊断 header，例如是否修改过上下文、处理了多少 tokens 等，便于调试
+- The response is accompanied by a diagnosis, such as whether the context has been modified, how many tokens have been processed, etc., to facilitate debugging
 
-## 支持范围和兼容性
-Supermemory 支持所有**兼容 OpenAI API 的模型和服务**，包括但不限于：
+# Support scope and compatibility Supermemory supports all **-compatible OpenAI API models and services**, including but not limited to:
 
-- OpenAI 的 GPT-3.5 / GPT-4 / GPT-4o
+- OpenAI GPT-3.5 / GPT-4 / GPT-4o
 
-- Anthropic 的 Claude 3 系列
+Claude 3 series of Anthropic
 
-- 其他提供 OpenAI 接口兼容层的服务商
+- Other service providers providing OpenAI interface compatibility layer
 
-而且，它**本身不限制速率**，只会受到你所用 LLM 服务的限制。
+Moreover, it** does not in itself limit the rate**, but is restricted only by the LLM service you use.
 
-## 总结一句话：
-Supermemory Infinite Chat 是一个高兼容、无侵入的“对话记忆增强器”，让你的聊天应用突破上下文限制，更省钱、更智能、可持续。
-体验：supermemory.chat   
-文档：https://docs.supermemory.ai/infinite-chat
-See more
+# Summing up: Supermemory Information Chat is a high-compatible, non-invasive "dialogue memory booster" that allows your chat applications to go beyond context limits, save more money, be smarter, and be sustainable. Experience: Supermory.chat Document: https://docs.submemory.ai/infinite-chat

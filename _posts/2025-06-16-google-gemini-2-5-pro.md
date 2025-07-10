@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google 又更新了 Gemini 2.5 Pro 版本 性能继续跃升 响应风格优化
+title: Google has updated Gemini 2.5 Pro.
 date: 2025-06-16 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-gemini-2-5-pro_1.jpg
@@ -9,52 +9,42 @@ icon: game
 * content
 {:toc}
 
-Google 发布了 **Gemini 2.5 Pro 的升级预览版，**版本将在未来几周内作为**企业级通用可用版本（GA）**推出
-**“更聪明、更快、更稳、更有创意。”**这是 Google 对其新一代大模型 Gemini 2.5 Pro 的定位。它不仅在多个 AI 排行榜中登顶，还首次为开发者开放「思考预算」功能，让 AI 不再是“黑箱”，而是可控、可定制的智能工具。
+Google released an upgrade preview for **Gemini 2.5 Pro,** which will be launched in the next few weeks as **the generic version of enterprise level (GA)** ** "Breather, faster, more stable, more creative."** This is the position of Google on its new generation of big models, Gemini 2.5 Pro. It not only tops many AI rankings, but also for the first time opened up the "thinking budget" function for developers, making AI no longer a "black box" but a controlled, customized smart tool.
 
-### 性能继续跃升
-最新的 Gemini 2.5 Pro 模型在多个权威评测中取得了显著进展：
+The latest Gemini 2.5 Pro model has made remarkable progress in several authoritative evaluations:
 
-- 在语言理解能力评测平台 **LMArena** 上，Elo 分数上升了 24 点，达到 **1470 分**，继续稳居排行榜首位；
+- Elo scores have risen by 24 points to reach **1470** on the language understanding competency assessment platform **LMalena** and remain at the top of the list;
 
-- 在 Web 编程能力测试 **WebDevArena** 中，分数上升了 35 点，达到 **1443 分**，同样位居第一；
+- In the Web programming capacity test **WebDevArena**, the score rose by 35 points to **1443**, with the same number first;
 
-- 在编码能力方面继续保持领先，特别是在高难度多语言编程测试 **Aider Polyglot** 中表现优异；
+- Continuing to lead the way in coding capacity, particularly in the difficult multi-linguistic programming test **Aider Polyglot**;
 
-- 同时在 **GPQA** 和 **Humanity's Last Exam（HLE）** 等严苛的综合性测评中也展现了顶级水平，这些测评主要考察模型在**数学、科学、常识与推理**等方面的能力。
+- At the same time, the highest levels are shown in rigorous comprehensive assessments, such as **GPQA** and **Humanity's Last Exam (HLE)**, which mainly examine the capabilities of the models in the fields of mathematics, science, common sense and reasoning**.
 
-![](https://assets-v2.circle.so/drlliplpcjmppqgb3h6k9iukyujl)![](https://assets-v2.circle.so/xjse0mvpj45lcvp7w8abqf4xa7lx)
-- **语言理解与对话能力**（LMArena 第一）
+(https://assets-v2.circle.so/drllippjmppgb3h6k9iukyujl) [] [https://assets-v2.circle.so/xjse0mvpj45vvp7w8abqf4xa7lx) - **LMalena 1)
 
-- **网页编程与前端开发能力**（WebDevArena 第一）
+- ** Web programming and front-end development capability** (WebDevArena I)
 
-- **复杂、多语言代码生成能力**（Aider Polyglot）
+- ** Complex, multilingual code generation** (Aider Polyglot)
 
-- **学术/推理类问题解决能力**（GPQA + HLE）
+- **The ability to solve problems in academic/rative categories** (GPQA + HLE)
 
-### 响应风格优化
-Google 针对用户反馈，特别优化了模型的表达风格和格式控制能力：
+## Response style optimization Google, targeting user feedback, especially optimizing the model ' s expression style and format control:
 
-- **更有条理的结构**：回答更清晰，适合生成报告、说明书、教程。
+- ** More structured structure**: The answers are clearer and suitable for generating reports, instructions, curricula.
 
-- **更强的创意表达**：支持文学风格、内容改写、广告文案等多样需求。
+- ** Stronger creative expression**: support for diverse needs such as literary style, content rewriting, advertising, etc.
 
-- **响应格式更专业**：可生成带结构的列表、代码块、引用，更适用于工程场景。
+- ** Response format is more professional**: Lists, code blocks, references can be generated with structures, more suitable for engineering scenarios.
 
-这意味着，Gemini 不只是“会说话”，而是**懂你要做什么**，并且给出**更可用的内容结果**。
+This means that Gemini is not just a “talker”, but ** knows what you're going to do** and gives ** a more usable result**.
 
-### 新增功能：「思考预算（Thinking Budgets）」
-这个新特性是目前 Gemini 独有的控制机制，意味着：
+# Add a new feature: Thinking Budgets, a new feature that is now a unique Gemini control mechanism, means:
 
-- 你可以自定义每次调用 AI 时“思考多少”（计算资源消耗）；
+- You can define how much to think about each call to AI (calculating resource consumption);
 
-- 平衡 **生成质量、响应时间与成本**；
+- Balance ** Quality of generation, response time and cost**;
 
-- 非常适合做工具类产品、成本敏感应用。
+- Very suitable for tool-type products, cost-sensitive applications.
 
-### 接入方式
-开发者现在可以通过以下两种方式接入 Gemini 2.5 Pro：
-**Google AI Studio**
-**Vertex AI（Google Cloud）**
-Gemini 2.5 Pro 已集成进 **Gemini 应用（Android / iOS / Web）**
-![](https://assets-v2.circle.so/x6a3ob35ljvpttoygqgki9wpdvjb)See more
+## Access Method Developer now has access to Gemini 2.5 Pro: **Google AI Studio** **Vertex AI** Gemini 2.5 Pro integrated **Gemini application (Android / iOS / Web) ** [] (https://assets-v2.circle.so/x6a3ob35lvpttoygqgkki9wpddjb)

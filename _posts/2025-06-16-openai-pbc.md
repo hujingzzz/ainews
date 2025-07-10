@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenAI 宣布组织架构发生重大变化：转型为公共利益公司（PBC）将开源一些能力很强的模型
+title: OpenAI announces a major change in the organizational structure: the transition to a public interest company (PBC) will open up some powerful models
 date: 2025-06-16 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/openai-pbc_1.jpg
@@ -9,81 +9,67 @@ icon: game
 * content
 {:toc}
 
-OpenAI 宣布其组织架构将发生重大变化：由原本非营利组织控制的 **OpenAI for-profit LLC** 将转型为 **公共利益公司（Public Benefit Corporation, PBC）**。这一结构旨在**在保留使命导向的同时，引入更灵活的资本结构和资源支持**，以更好地推进其核心使命——**确保 AGI（通用人工智能）造福全人类**。
-**🔹 新结构亮点如下：**
+OpenAI announced that its organizational structure would change significantly: **OpenAI for-profit LLC**, controlled by a non-profit organization, would be transformed into **Public Benefit Corporation, PBC**. This structure is intended to **, while maintaining mission orientation, to introduce more flexible capital structures and resource support** to better advance its core mission - ** to ensure that AGI (general artificial intelligence) benefits all humanity**. ** The new architecture highlights are as follows: **
 
-- **非营利组织继续拥有绝对控制权**，并成为 PBC 的主要股东；
+- ** Non-profit organizations continue to have absolute control** and to be the main shareholders in PBC;
 
-- PBC 必须在盈利的同时，兼顾公众利益和公司使命；
+- The need for the PBC to balance public interest and corporate mission with profitability;
 
-- 放弃原有的“封顶利润模式”（capped-profit），改为常规股权结构；
+- To abandon the old “capture profit model” (apped-profit) and replace it with a regular equity structure;
 
-- 获得更大融资能力以支持全球计算资源和模型训练；
+- Access to greater financing capacity to support global computing resources and modelling training;
 
-- 持续专注 AI 安全、民主化应用和开源模型的发展。
+- Continuous focus on the development of AI security, democratization applications and open-source models.
 
-💬 Sam Altman（OpenAI CEO）在致员工信中强调：
-OpenAI 从来都不是一个“普通公司”，它的使命不是最大化利润，而是最大化对人类的正向影响。AGI 不应只服务少数人，而应赋能每一个人。
-🔹 AGI 的愿景已从“神秘工具”转向“全民工具”：
+Sam Altman (OpenAI CEO) stressed in his staff letter that OpenAI was never a “normal company” whose mission was not to maximize profits, but to maximize the positive impact on human beings. AGI should not serve only a few, but should empower everyone.  AGI’s vision has shifted from a “mysterious tool” to a “human tool”:
 
-- 早期人们担心AGI太强大，应该只交由少数“可信任者”掌控；
+- Early fears that AGI was too powerful to be controlled by a small number of “trustworthys”;
 
-- 而现在，OpenAI 的愿景是把AI变成“全民工具”，用于科学研究、医疗建议、生产力提升等真实场景；
+- Now, OpenAI's vision is to turn AI into a “human tool” for real scenarios such as scientific research, medical advice, productivity enhancement, etc.;
 
-- 这种“**民主化的AGI**”理念，是OpenAI继续坚持的方向。
+- The concept of “AGI** for democratization” is the direction that OpenAI continues to follow.
 
-🔹 ChatGPT 已展现直接影响力：
+ChhatGPT has shown direct influence:
 
-- 广泛用于学习、科学、写作、程序开发等场景；
+- Extensive use in learning, science, writing, program development, etc.;
 
-- 用户需求远超目前供给，AI计算资源成本极高；
+- User demand is far greater than the current supply and AI calculates resource costs to be extremely high;
 
-- OpenAI 希望扩大服务能力，满足“全球化使用需求”。
+- OpenAI wants to expand its service capacity to meet “globalization needs”.
 
-🔹 三个核心目标驱动此次结构调整：
-**可持续性与融资**：为训练和部署更强AI获取上千亿美元资源（未来可能达万亿级）；
-**使命扩张**：让非营利组织成为历史上最具影响力的AI公益机构；
-**推动安全、对齐、民主AI发展**：坚守价值观，反对专制AI，持续推进红队测试、模型透明化等机制。
-Sam Altman 还承诺：“我们希望开源一些能力很强的模型。”
+• Three core objectives drive the restructuring: ** Sustainability and financing**: access to hundreds of billions of dollars for the training and deployment of a stronger AI (which may reach trillion levels in the future); ** Mission expansion**: making non-profit organizations the most influential public benefit agency in history; ** Promoting security, alignment, democratic AI development**: upholding values, opposing autocratic AI, continuously promoting mechanisms such as Red Brigade testing, model transparency, etc. Sam Altman also promised: “We want to open up some powerful models.”
 
-## 为什么要“变更架构”？
-OpenAI 原本由一个非营利组织发起，其宗旨是**确保通用人工智能（AGI）造福全人类**，而不是由少数人或企业独占。2019年，OpenAI 为了应对模型训练所需的巨量算力和资金压力，设立了一个“有限盈利公司”（LLC）结构，以便筹资。
-**如今，面对更大的算力需求、商业化压力、以及AI民主化使命的推进需求，OpenAI 决定再度升级结构：**
-将旗下的盈利实体从有限责任公司（LLC）转变为 **公共利益公司（Public Benefit Corporation, 简称PBC）**，这是一种要求同时考虑公众利益和股东利益的新型企业结构。
-Anthropic、xAI 等AGI实验室也采用该模式。
+# Why “change architecture? OpenAI was originally initiated by a non-profit organization with the aim of** ensuring that universal artificial intelligence (AGI) benefits all of humanity**, rather than being monopolized by a few or businesses. In 2019, OpenAI created a “limited profit company” (LLC) structure to raise funds in response to the enormous computing and financial pressures required for model training.** Today, in the face of greater demands for arithmetic, pressure for commercialization, and for the advancement of the AI’s democratization mission, OpenAI decided to upgrade the structure again:** to transform a profit entity under the flag from a limited liability company (LLC) to a public interest company (Public Benefit Corporation, short of PBC),** a new business structure that requires consideration of both public and shareholder interests.
 
-## PBC 模式为何重要？
-**PBC = 盈利 + 使命并重**这是兼顾资本效率与伦理导向的企业形态，已被多个领先AI公司（如 Anthropic、xAI）采用。
-它能带来的好处包括：
+# Why is the PBC model important? **PBC = Profit + Mission ** This is a business model that balances capital efficiency with ethics and has been adopted by several leading AI companies (e.g. Anthropic, xAI). The benefits it can bring include:
 
-- 既能像传统公司一样融资；
+- Financing as traditional companies;
 
-- 又必须在经营中持续考虑对社会和公众的长期影响；
+- The long-term impact on society and the public must also be continuously considered in operations;
 
-- 非营利组织可作为“看门人”，防止AI偏离最初使命。
+- Non-profit organizations can act as “gatekeepers” to prevent AI from departing from its original mission.
 
-## 架构调整的关键内容
-✅ 非营利组织仍然“拥有控制权”
+# The key elements of the restructuring # the non-profit organization still has "control"
 
-- OpenAI 的非营利组织仍将**完全控制**这个新的 PBC；
+- OpenAI ' s non-profit organization will remain** under full control** of the new PBC;
 
-- 并将成为其**最大股东**，确保使命导向不被市场利益左右；
+- and will be its ** largest shareholder**, ensuring that mission orientation is not influenced by market interests;
 
-- 此决定是与加州和特拉华州总检察长办公室协商后的结果。
+- The decision was the result of consultations with the Attorney General ' s Offices of California and Delaware.
 
-✅ 结构从“利润封顶”转为“标准股权模型”
+Structure changed from a “profit cap” to a “standard equity model”
 
-- 过去的 LLC 使用封顶收益机制（capped-profit），以避免投资者获得过高回报；
+- Past LLC use capped-profit to avoid excessive returns to investors;
 
-- 现在为了更有效引入资金，将使用标准股权结构，让更多人持股；
+- Standard equity structures will now be used to increase ownership in order to introduce funds more effectively;
 
-- Sam Altman 强调：“这不是出售公司，而是简化架构。”
+- Sam Altman stressed: “This is not a sale of companies, but a simplified structure.”
 
-✅ PBC 将作为营利主体，推动使命实现
+• The PBC will act as a profit-making entity, contributing to the realization of the mission
 
-- 拥有更加可持续、规模化的融资能力（用于训练模型、部署产品）；
+- More sustainable and scaled-up financing capacity (for training models, deployment of products);
 
-- 所获利润将回馈非营利组织，用于支持全球公共服务、教育、科研等社会使命。
+- The profits will be returned to non-profit organizations in support of social missions such as global public services, education, scientific research, etc.
 
 ## 📝 Sam Altman 致员工与利益相关者的公开信全文（中文翻译）
 **OpenAI 不是一家普通的公司，也永远不会是。**
@@ -99,18 +85,4 @@ Anthropic、xAI 等AGI实验室也采用该模式。
 人们正在用 ChatGPT 提升科研、写代码、学习知识、应对生活中的难题。看到我们的服务已为如此多的人带来正向价值，这是对我们使命最直接的体现。
 但用户的需求远远超出我们的当前供给。我们不得不设置使用限制、系统运行缓慢。随着系统能力提升，人们会用它做更多、更美好的事情，我们需要结构上做出改变，以支持这一趋势。
 
-## 🚧 现在，我们认为，是时候调整结构了。我们有三个目标：
-**获得足够的资源与运营能力**，让我们的服务真正“面向全人类”开放。——这目前需要数千亿美元，将来甚至可能上万亿。我们相信这是最有力的使命实现路径。
-**打造史上最有效、最有影响力的 AI 非营利机构**。——专注于高杠杆的社会正向影响：教育、医疗、公共服务等。
-**实现安全且有益的 AGI**。——我们将继续在安全与对齐（alignment）方向努力：红队测试、模型规范文档（model spec）、提升系统透明度等。我们坚信：**民主化的 AI 必须胜过集权式的 AI**。
-我们之所以坚持由非营利组织保持控制，是在与民间领袖、加州和特拉华州检察长办公室深入对话后做出的决定。未来，我们会与他们、与微软、与我们新任命的非营利委员会继续推进这一架构演进的细节。
-OpenAI 过去是、现在是、未来也将继续是一个由非营利组织控制的组织。
-我们旗下的 LLC 将转变为一家 **公共利益公司（PBC）**，使命保持不变。许多目的导向型组织如 Anthropic、xAI、Patagonia 等都采用这种结构，我们认为这也适用于我们。
-过去复杂的“有限盈利”结构，在当前 AGI 公司百花齐放的格局下，已不再适用。我们将采用更简单的股权结构，让所有人都有股份。这不是出售，而是一次结构优化。
-非营利组织将继续控制 PBC，并成为其重要股东，比例将由独立财务顾问评估决定。这将赋予非营利机构更强的资金能力，以支持全球不同社区从 AI 中受益。随着 PBC 的成长，非营利组织的能力也将同步增长，可以投入更多资源用于 AI 公益事业。
-我们期待非营利委员会提出建议，帮助我们确保 AI 真正惠及每一个人，推动健康、教育、公共服务和科学发现。
-我们相信这将让我们更快、更安全地推进 AGI 发展，并真正把强大的 AI 工具交到每个人手中。
-构建 AGI 是我们为人类进步铺下的一块砖，我们也迫不及待想看到你们将铺上的下一块。
-**—— Sam Altman**2025年5月
-原文：https://openai.com/index/evolving-our-structure/
-See more
+# # We now think that it is time to restructure. ** We have three objectives: ** to secure and useful AGI** ** to keep our services truly “open” to all. ** This now takes hundreds of billions of dollars, possibly even trillions. ** We believe that this is the way to achieve our most powerful mission. ** to build the most effective and influential AI not-for-profit institution** ** ** to focus on highly leveraged societies that are impacting: education, health, public services, etc. ** ** to achieve security and useful AGI** ** ** We will continue to work in the direction of security and alignment: Général testing, model normative document (model spec), transparency of our system. ** We believe that the democratization of the United Nations must prevail over AI. ** We insist on maintaining control over the non-profit organization.

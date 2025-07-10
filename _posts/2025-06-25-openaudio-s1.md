@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenAudio 发布最新的语音生成模型：S1 宣称达到专业配音演员的表现力与自然度
+title: OpenAudio, the latest voice-generated model: S1 claims to be pro-sounding and natural.
 date: 2025-06-25 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/openaudio-s1_1.jpg
@@ -9,96 +9,64 @@ icon: design
 * content
 {:toc}
 
-OpenAudio 宣布发布最新的语音生成模型 —— **S1 模型**，目标是**达到专业配音演员的表现力与自然度**。该模型由 Hanabi AI 旗下研究实验室开发，并通过产品平台 **Fish Audio** 对外发布。
-S1具备：
+OpenAudio announces the release of the latest speech-generation model - **S1 model**, with the goal of ** achieving the performance and nature of professional voice players**. The model was developed by the Hanabi AI research laboratory and released through the product platform ** Fish Audio**. S1 has:
 
-- 高度自然、流畅的声音
+- High natural, fluid sound.
 
-- 丰富的语气和情绪控制
+- A rich tone and emotional control.
 
-- 强大的指令跟随能力（instruction following）
+- Strong command follower
 
-其训练数据超过 **200 万小时音频**，模型参数高达 **40 亿（S1）**，是一款标志性里程碑产品。
-**模型版本**
-![](https://assets-v2.circle.so/mn0l9us6san94gdshu33xfjpe2us)两者都支持情绪、语气标签、拟声控制等全部功能，差异主要在于质量与性能权衡。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-## 主要功能特点
-![](https://assets-v2.circle.so/tmn0pikgdjqw84n0bgptwsipps82)
-### 最大亮点：像配音演员一样“演”
-S1 的最大创新，是它能理解并演绎“**说话人的情绪与语气**”，就像专业配音演员一样。
-**🗣️ 它是怎么做到的？**
-OpenAudio 首先训练了一个自研的 **语音识别模型（STT）**，能自动识别语音中的：
+Its training data exceed **2 million hours of audio** and model parameters amount to **4 billion (S1)**, a landmark product. ** Model version**![] (https://assets-v2.Circle.so/mn0l9us6san94gdshu33xfjpe2us) both support the full functionality of emotions, tone labels, synthesis control, etc. The difference is mainly due to the balance of quality and performance.
 
-- 情绪（如：悲伤、愤怒、欣喜、同理、讽刺等）
+## Main functional features! [https://assets-v2.Circle.so/tmn0pikgdjqw84n0bptwsipps82] ## Maximum bright spots: The greatest innovation of “playing” S1 like an actor is that it can understand and perform “** the emotions and tone of the person who speaks**”, just like a professional voicewriter. ** ** How did it work?** OpenAudio first trained a self-researched **student **STT (STT)** that automatically recognizes voice:
 
-- 语气（如：急促、轻声、喊叫、尖叫等）
+- Emotions (e.g. grief, anger, joy, common sense, sarcasm, etc.)
 
-- 说话人角色信息
+- Voice (e.g. rush, whisper, shout, scream, etc.)
 
-然后，用这些“语音标签”标注了 **超过 10 万小时语音数据**，作为 S1 的训练输入。
-**🧩 支持的语音控制标签：**
-![](https://assets-v2.circle.so/2j383de2jg7tqv6dsoa02nifzo5u)S1 最突出的能力是其**丰富的语音表达控制标签系统**，包括：
-🎭 1. 情感标签（Emotion Markers）：
-如 (angry) (sad) (joyful) (sarcastic) (empathetic) 等
-🎤 2. 语调/语气标签（Tone Markers）：
-如 (in a hurry tone) (whispering) (shouting) (soft tone)
-💬 3. 特殊标签（Special Markers）：
-(laughing) (sighing) (sobbing) (crowd laughing) 等人类非语言行为
-支持**拟声词标记**：如 Ha,ha,ha（笑声）Hmm,hmm（轻笑）
-这些功能来自 OpenAudio 自研的 **情感语音识别 STT 模型**，可自动标注音频中说话者、情感、语气等信息，进一步提升 TTS 指令理解与还原能力。
-这些标签可以插入文本中，引导 AI 合成具有表现力的语音。例如：
-(speaker 1) (concerned) Honey, what's wrong?  
-(speaker 2) (pretend to be tough) Nothing. I just said goodbye to Sanjay.
-### 原生多语言支持（全球化）
-S1 提供原生支持以下语言，确保全球应用的语音输出一致性：
+- Talker's character information.
 
-- 英语、中文、日语、德语、法语、西班牙语
+** Supported voice control tags: **[**] (https://assets-v2.circle.so/2j383de2jg7tqv6dsoa02nifzo5u) S1 has the most outstanding capability of its **rich voice expression control tags**, including: 1. Emotion Markers: e. g. (sad) (sar) (sarcast) (sarcastic) (empathetic) 2.
 
-- 韩语、阿拉伯语、俄语、荷兰语、意大利语、波兰语、葡萄牙语
+English, Chinese, Japanese, German, French, Spanish
 
-## 如何实现高质量？
-S1 的高性能来自以下关键设计：
-**📦 数据与训练策略：**
+- Korean, Arabic, Russian, Dutch, Italian, Polish, Portuguese
 
-- **200 万小时音频数据**（业界最大规模之一）
+# How to achieve high quality? S1 high performance from the following key design: **Data and training strategy:**
 
-- 自研 **奖励模型（reward model）** 用于优化表现力
+- **2 million hours of audio data** (one of the largest industries)
 
-- **在线强化学习 RLHF（使用 GRPO 算法）**：用于模型微调，增强语音真实性与听感质量
+- Self-research **reward model** used to optimize performance
 
-### 🧱模型结构与推理优化
+- **Intensible online learning RLHF (using GRPO algorithms)**: used to fine-tune models to enhance sound authenticity and hearing quality
 
-- 架构：基于 Qwen3 多模态架构，支持未来扩展为音频问答、文本问答、语音识别等任务（目前仅开放 TTS 功能）
+# # The model structure and reasoning optimizes #
 
-- 音频编解码：自研类 Descript Audio Codec 系统 + Transformer 结构
+- Structure: based on Qwen3 multi-model architecture, supporting future expansion to audio question and answer, text and voice recognition tasks (currently only TTS functionality is open)
 
-- 优化技术：使用在线 RLHF 强化学习（基于 GRPO 策略）优化语音表现力
+- Audio decoding: Self-research Descripto Audio Codec system + Transformer structure
 
-### **📊 多项指标全球领先：**
-![](https://assets-v2.circle.so/7zmgi0hwrwprli2xab50oki71ta5)
-- HuggingFace TTS-Arena-V2 排名第 1（人类主观评分）
+- Optimizing technology: Optimizing voice performance using online RLHF for enhanced learning (based on GRPO strategy)
 
-- Word Error Rate（词错误率）：**0.008**，远优于业界模型
+##**  Global leader in multiple indicators: **[] (https://assets-v2.circle.so/7zmgi0hwrprli2xab50oki71ta5) - Huging Face TTS-Arena-V2 ranking 1 (human subjective rating)
 
-- Character Error Rate（字错误率）：**0.004**
+- Word Error Rate: **0.008**, far better than industry models
 
-- 极低的伪音、错词、语调失真等常见 TTS 问题
+- Character Error Rate (word error rate): **0.004**
 
-![](https://assets-v2.circle.so/wmdrgycb38ykikg36wh5u83d5fri)S1 甚至在语音表达、语音清晰度、语者一致性等方面全面超越现有模型。
+- A very low level of pseudo-verbals, miswords, misrepresentations, common TTS problems.
 
-## 价格极低，人人可用
-S1 是当前市场上最具性价比的高质量 TTS 模型：
+S1 (https://assets-v2.circle.so/wmdrgycb38ykikg36wh5u83d5fri) even exceeds the existing model across the board in terms of voice expression, voice clarity, speech consistency.
 
-- **仅 $15/百万字节**
+# Very low price, available to all S1 is the most high-quality TTS model in the current market:
 
-- 相当于大约 **$0.8/小时** 音频成本
+- **$15/million bytes only**
 
-- 明显低于市场主流（如 ElevenLabs、PlayHT 等）
+- Corresponds to approximately **$0.8 hours** audio costs
 
-![](https://assets-v2.circle.so/wveop82lo8wc01cx45m4dl6myg3q)开发者可以用非常低的成本部署大规模语音应用，包括客服机器人、播客生成、AI 角色配音等。
+- significantly below the market mainstream (e.g. ElevenLabs, PlayHT, etc.)
 
-## 如何体验？
-你可以通过 OpenAudio 的语音平台 **Fish Audio Playground** 在线体验该模型的语音效果（目前仅开放 TTS 功能，未来将支持 STT、TextQA、AudioQA 等）。
-🔗 https://openaudio.com 
-在 Fish Audio Playground 上体验
-See more
+Developmenters of [https://assets-v2.circle.so/wveop82lo8wc01cx45m4dl6myg3q) can deploy large-scale voice applications at very low cost, including passenger robots, podcast generation, AI role mix, etc.
+
+You can experience the voice effects of the model online through OpenAudio **FishAudio Playground** (TTS currently available only and will support STT, TextQA, AudioQA, etc.). https://openaudio.com on FishAudio Playground

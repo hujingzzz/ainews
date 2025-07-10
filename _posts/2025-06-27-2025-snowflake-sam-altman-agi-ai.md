@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025 年Snowflake 峰会访谈：Sam Altman 谈论 AGI 时间表和下一代 AI 功能
+title: 2025 Snowflake Summit Interview: Sam Altman on AGI Timetable and Next Generation AI Function
 date: 2025-06-27 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/2025-snowflake-sam-altman-agi-ai_1.jpg
@@ -9,224 +9,166 @@ icon: code
 * content
 {:toc}
 
-在 2025 年Snowflake峰会上，OpenAI 首席执行官 Sam Altman 与Snowflake首席执行官 Sridhar Ramaswamy ，在 Conviction 创始人 Sarah Guo 的主持下进行了一场内容广泛的炉边谈话。
-他们共同探讨了快速发展的人工智能格局及其对企业当前和未来的影响。
-他们围绕人工智能（AI）的现状与未来展开讨论，特别聚焦于企业级应用与通用人工智能（AGI，Artificial General Intelligence）的概念。
+At the Snowflake Summit in 2025, OpenAI CEO Sam Altman and Snowflake CEO Sridhar Ramaswamy, under the auspices of Conviction’s founder, Sarah Guo, had an extensive side-to-side conversation. Together, they explored rapidly developing artificial intelligence patterns and their implications for the current and future of the enterprise.
 
-## 🧭 **一、对企业的建议：在AI变革中该怎么做？**
+# I. PROPOSALS FOR ENTERPRISE: What should be done in the context of AI change?**
 
-### ✅ 核心观点：
+# # Core point of view:
 
-- **“Just do it” —— 尽快行动是关键。**
+- ** “Just do it” - Action as soon as possible is essential**
 
-- **不要等待下一代模型**，否则会错过目前的红利。
+- ** Do not wait for the next generation model**, otherwise the current dividend will be missed.
 
-- 迭代速度快、犯错成本低、学习能力强的公司将最终胜出。
+- Companies with fast succession, low cost of error and learning skills will eventually win.
 
-### 🧠 深层含义：
+# # Deep meaning:
 
-- **技术演化节奏远快于企业组织结构适应速度**，慢一步将失去竞争力。
+- ** The pace of technological evolution is much faster than the pace of adaptation of the enterprise ' s organizational structure** and a slow step will lose competitiveness.
 
-- 企业的关键竞争力之一将是“**AI落地速度**”，而不是“观望策略”。
+- One of the key competitivenesss of enterprises will be the “**AI landing speed**” rather than the “watch strategy”.
 
-- 和“等产品成熟再上车”的传统 IT 策略不同，AI 要在“混沌中前行”。
+- Unlike the traditional IT strategy, AI has to go ahead in the chaos when the product matures.
 
-### 🚀 实践建议：
+# # practical advice:
 
-- 设立**AI试验部门**，尝试从客服、流程自动化、搜索、摘要等轻量任务开始。
+- Establishment of **AI pilot unit**, beginning with light tasks such as customer service, process automation, search, summary etc.
 
-- 开放试错，快速小范围试验，积累组织经验。
+- Open-testing error, fast-tracking small-scale testing, building organizational experience.
 
-## 🧪 **二、AI技术成熟度：2024 与 2025 的对比**
+#  II, AI technical maturity: 2024 vs. 2025**
 
-### ✅ 现状变化：
+# The status quo:
 
-- 2023年以前，大企业不太敢用 AI 处理生产任务。
+- Before 2023, big companies were reluctant to use AI for productive tasks.
 
-- 现在：ChatGPT 和 OpenAI 的模型表现更加稳定，企业大规模采用。
+- Now: the models of ChatGPT and OpenAI are more stable and are used by enterprises on a large scale.
 
-- 从“尝试阶段”迈入“**核心业务协作阶段**”。
+- Moving from the “trigger phase” to the “**core business collaboration phase**”.
 
-### 📈 意义：
+# # meaning:
 
-- 企业认知从“AI是个好玩具”转向“AI是生产力工具”。
+- Business perception has shifted from “AI is a good toy” to “AI is a productivity tool”.
 
-- AI 成为组织内可控的合作方。
+- AI became a controlled partner within the organization.
 
-## 🧠 **三、记忆与检索的重要性：AI为什么越来越“懂你”？**
+# #  III. The importance of memory and retrieval: Why is AI getting more and more “know you?”**
 
-### ✅ 关键点：
+# The key point:
 
-- AI 不再依赖“模型训练时的知识”，而是具备**检索**与**记忆**能力：
-**检索（Retrieval）：**用于实时访问事实、新闻。
+- AI no longer relies on “knowledge in model training”, but has ** search** and ** memory** capabilities: **Retrieval** for real-time access to facts, news.
 
-- **记忆（Memory）：**用于个性化交互、长期理解用户需求。
+- **Memory:** for personalized interactive and long-term understanding of user needs.
 
-### 🔄 交互升级：
+# # # # interactively upgraded: #
 
-- 类似人类助手：记得用户偏好、习惯、历史决策。
+- Like human assistants: remember user preferences, habits, history decisions.
 
-- 更贴近“Agent-like”（具人格感）的体验，模型能更精准地回答你的问题。
+- Closer to the "Agent-like" experience, where models can answer your questions more precisely.
 
-## 🤖 **四、AI 代理系统（Agents）的现实与未来**
+#  **IV, the reality and future of the AI proxy system**
 
-- 目前像“聪明实习生”，未来将像“资深工程师”。
+- At present it's like a “smart intern” and in the future it's like a “senior engineer”.
 
-- 预测明年代理系统将能帮企业解决复杂难题，甚至创造新知识。
+- It is expected that next year the proxy system will help enterprises to solve complex problems and even create new knowledge.
 
-### ✅ 当前能力：
+# # Current ability:
 
-- 现有代理如 Codex 可自动处理任务：GitHub 操作、代码编写、上下文判断。
+- Existing agents such as Codex can handle tasks automatically: GitHub operations, code writing, context judgement.
 
-- 能处理**低阶重复性认知工作**，如自动客户支持、销售邮件等。
+- Capable of handling ** low-level repetitive cognitive work, e.g. automatic customer support, sale of mail, etc.
 
-### 🔮 下一阶段（未来一年）预测：
+# The next phase (for the next year) predicts:
 
-- 代理不仅执行任务，还能**发现新的解决方案、产生知识**。
+- Agents not only carry out tasks but also identify new solutions and generate knowledge**.
 
-- 可辅助解决企业“最关键的非结构化问题”。
+- Accompanies the solution of the enterprise's “most critical destructural problems”.
 
-### 👨‍👩‍👧‍👦 工作模式转变：
+# #
 
-- 企业内部人员角色转向“分配任务、评估输出、提供反馈”，像管理实习生团队一样管理AI代理。
+- The role of personnel within the enterprise has shifted towards “allocation of tasks, evaluation of outputs, provision of feedback” and managing AI agents like managing the team of interns.
 
-## 🧠 **五、AGI 的定义与现实距离：我们离它有多远？**
+# #  V, AGI definition of distance from reality: how far are we from it?**
 
-### ✅ Sam Altman 的观点：
+# #  Sam Altman's point of view:
 
-- “**AGI不是某个时间点，而是一个连续演进的过程**”。
+- “**AGI is not a point in time, but a continuous evolution**”.
 
-- 如果 2020 年看到今天的 ChatGPT，人们会说“这已经是AGI了”。
+- If you see ChatGPT today in 2020, people will say, "It's already AGI."
 
-- 不必拘泥定义，更重要的是关注**持续、快速的进展曲线**。
+- There is no need for a definition, but more importantly, attention** to a continuous, fast-tracked progress curve**.
 
-### ✅ AGI 的可能标准：
+Possible criteria for AGI:
 
-- 能自动发现新科学原理。
+- It automatically discovers new scientific principles.
 
-- 能显著提升人类知识创造的速度（例如科研进展提速4倍）。
+- A significant increase in the rate of human knowledge creation (e.g., four times the rate of scientific progress).
 
-### 🧠 意义转化：
+# # # meaning transformation:
 
-- 人们讨论“AGI”其实是在探讨“AI是否具备意识”，但这属于**哲学层面**问题。
+- The discussion of “AGI” is actually about “AI's consciousness”, but it is a question of ** philosophical **.
 
-- 真正应关注的是 **“AI 能解决什么问题”**，而非它是否符合某个定义。
+- The real concern is ** what “AI can solve”** and not whether it meets a definition.
 
-## 🧬 **六、下一代模型（Next-gen Models）的突破方向**
+#  Sixth and next generation model (Next-gen Modes) breakthrough**
 
-### ✅ 模型能力升级趋势：
+# #
 
-- 未来模型将实现**超强理解、推理能力**，更高上下文容量（如百万 token）。
+- Future models will achieve ** superb understanding, reasoning** and higher contextual capacity (e.g., millions token).
 
-- 模型可访问企业内外部工具、数据库、系统，整合知识执行任务。
+- The model provides access to tools, databases, systems within and outside the enterprise and integrates knowledge to perform tasks.
 
-- 高质量、高鲁棒性地执行复杂任务，成为真正的“数智工作者”。
+- To perform complex tasks of high quality and robustness and to become a true “manifest of minds”.
 
-- 企业可以将最复杂的问题交给 AI，例如芯片设计、药物研发。
+- Businesses can hand over the most complex issues to AI, such as chip design, drug research and development.
 
-- 模型能连接工具、读取大量上下文并进行长时间“思考”。
+- Models can connect tools, read a great deal of context and “think for a long time”.
 
-### 🧪 示例场景：
+# # Example scene:
 
-- 芯片公司：让 AI 设计新型芯片。
+- Chip Company: let AI design a new chip.
 
-- 生物医药：AI 分析新药机制。
+- Biopharmaceuticals: AI Mechanism for the Analysis of New Medicines.
 
-- 企业：让 AI 分析多年财报，输出战略报告。
+- Enterprises: allow AI to analyse multi-year financial statements and export strategy reports.
 
-## ⚙️ **七、未来超级计算资源（1000x Compute）该怎么用？**
+#  Seven, how does the future super-calculation resource (1,000x Compute) work?**
 
-### ✅ Sam Altman 的回答：
+# # # Sam Altman's answer:
 
-- **“让 AI 自己研究如何构建更强的 AI”**。
+- ** "Let AI study for itself how to build a stronger AI"**.
 
-- 高计算资源主要用于：
-增强推理深度。
+- High-calculation resources are used mainly for:
 
-- 执行多轮尝试找到最优解。
+- Execute multiple rounds and try to find the best solution.
 
-- 赋能复杂科学研究。
+- Enabling complex scientific research.
 
-### ✅ Sridhar Ramaswamy（Snowflake CEO）补充：
+# Sridhar Ramaswamy (Snowflake CEO) adds:
 
-- 若有无限算力，应投入到像 RNA 表达研究这类“人类重大难题”。
+- If there is an unlimited amount of money, it should be invested in the study of such “significant human dilemmas” as the RNA expression.
 
-- 类似“语言模型版的人类基因计划”。
+- Similar to the “Language Model Human Genome Project”.
 
-### 🗣️ 完整中文逐字稿：OpenAI CEO Sam Altman 对话
+# # Full Chinese word for word: OpenAI CEO Sam Altman Dialogue
 
-### 🎤 开场介绍
-**主持人**（0:00–1:12）：
-展望未来，我们知道 AI 拥有改变世界的潜力——而且能朝着更好的方向改变。生成式 AI 解锁了从写代码到哲学推理的各种能力。这一切始于“基础模型”，让数十亿用户能够使用原本无法访问的数据。它们改变了我们的游戏规则，而在其中推动变革最深远的，是 OpenAI。ChatGPT 的爆发式崛起，现已被每天超过十亿人使用，彻底重塑了我们与数据、智能的互动方式，也重塑了我们对未来工作的想象。而这场转型的核心，是科技界最具影响力的声音之一。他带领 OpenAI 从前沿研究走向影响数十亿人的产品，在全球范围推动 AI 演进。请欢迎 OpenAI 的创始人兼 CEO——**Sam Altman**！
-（掌声与音乐响起，1:13–1:30）
+##  Introduction ** Moderator** (0:00–1:12): Looking to the future, we know that AI has the potential to change the world — and it can change in a better direction. Generating AI unlocks the capabilities from writing codes to philosophical reasoning. This starts with a “basic model” that allows billions of users to use data that could not otherwise be accessed. They change our rules of the game, and the most profound that drives change is OpenAI.
 
-### 👥 Sam Altman 与 Sarah Guo 的对话开始
-**Sarah Guo**（1:32）：
-我是 Conviction 的创始人兼管理合伙人 Sarah Guo，很高兴主持今天的对话。欢迎 Sam。
-**Sam Altman**（1:42）：
-很高兴再次来到这里。我刚才还在后台说——这简直像是为数据人办的摇滚演唱会！
-**Sarah**（1:46）：
-哈哈，是的。你两年前也来过这儿吧。
-**Sam**（1:48）：
-来过，不过那时候还没这么热闹！
+##Sam Altman started a conversation with Sarah Guo (1:32): I'm Sarah Guo, founder and managing partner of Conviction, and I'm pleased to host today's conversation. Welcome, Sam. **Sam Altman** (1:42): Glad to be here again. I was just backstage saying -- it's almost like a rock concert for data people! **Sarah** (1:46): Haha, yes. You were here two years ago. **Sam** (1:48): Come, but it wasn't so hot!
 
-### 🔍 企业 AI 战略建议（2025）
-**Sarah**（1:54）：
-那我们就从这儿开始吧——Sam，你会给 2025 年想要部署 AI 的企业领导者什么建议？
-**Sam**（2:04）：
-我的建议是：**直接干，不要等**。现在很多人还在犹豫，模型更新太快，总想着等下一代产品出来再说。但技术领域里，变化越快，**迭代速度最快、试错成本最低、学习效率最高的公司**就越容易赢。在企业应用 AI 的实践中，我们看到**越早下注、快速试验的公司发展得越好**，而观望者则落后了。
-**Sarah**（2:46）：
-太同意了！我想补充的一点是：**保持好奇心**。很多过去我们理所当然认为“就该这样”的东西，如今已经完全变了。得益于 OpenAI 和 Snowflake 等工具，现在试验的成本已经非常低，你可以进行很多小实验，获取价值，并在此基础上持续改进。再次呼应 Sam：**谁迭代快，谁就能获得最多价值。**
+##The Enterprise AI Strategic Proposal (2025) **Sarah**(54): So let's start here — Sam, what do you suggest to the corporate leaders who want to deploy AI in 2025? **Sam**(2:04): My proposal is: **Drive, don't wait**. Now many people are hesitating, the models are being updated too fast.
 
-### 📅 与去年相比有什么变化？
-**Sarah**（3:36）：
-那么，你去年的建议和今年有什么不同吗？
-**Sam**（3:40）：
-对初创公司来说其实差不多。但如果是面向大型企业，**去年我会说“你可以尝试一些东西，但生产环境部署还不到时候”**。但现在已经不同了——我们的企业业务增长非常迅速。大公司现在**真的在大规模使用我们的产品**，他们告诉我们：“这玩意现在是真的行了！做到了我原本不相信的事情。”
-**Sarah**（4:56）：
-那你觉得到了**明年**我们又会说些什么不同的话？
-**Sam**（5:14）：
-明年，我们可能会说：企业不仅可以用 AI 自动化流程或构建新产品，还能说：“**这是我公司最重要的问题，我要投入大量算力，请 AI 去解决它。**”这些模型将能够解决人类团队都搞不定的事情。那些**现在就在使用模型、积累经验的公司**，到时会拥有巨大的领先优势。
+## What's changed from last year? **Sarah**(3:36): So what's the difference between what you proposed last year and what I didn't believe in this year?**Sam**(3:40): It's similar for start-up companies.** Last year, if it's for large enterprises,** I would say, "You can try something, but the production environment is not ready"**. But now it's different – our business is growing very fast.** It's really using our products on a large scale** and they tell us, "This is really doing it now! It's doing what I didn't believe." **Sarah**(4:56): So you think it's next year** what we're going to say about doing next year? **Sam**
 
-### 🧠 关于“记忆与检索”的作用
-**Sarah**（6:02）：
-关于“记忆与检索”，你觉得它们在 AI 的未来中扮演什么角色？
-**Sam**（6:16）：
-像检索（Retrieval）技术一直是让生成式 AI 更“落地”的关键。例如你问一个事实问题，如果没有上下文支持，模型就可能答错。所以早在 GPT-3 时期我们就做了 web 检索系统，用于补充时事等答案所需的背景。而“记忆”能让系统知道你之前和它聊过什么，从而在未来表现得更好。这些能力未来会越来越重要，尤其是在做更复杂任务时。
+## On the role of "Memory and Retrieval" **Sarah** (6:02): On "Memory and Retrieval," what role do you think they play in the future of AI? **Sam**(6:16): Like Retrieval technology has always been the key to making the generation AI “land better”. Ask a factual question, for example, if it is not supported by context, the model may be wrong. So as early as the GPT-3 period, we did the web search system to supplement the background needed for answers such as current events. And "Memory" allows the system to know what you've talked to it before, and thus to perform better in the future. These capabilities will become increasingly important in the future, especially when doing more complex tasks.
 
-### 🤖 Agent 能力和前景
-**Sarah**（7:16）：
-那你能不能为企业领导者提供一个“Agent 能力框架”？现在能做什么，明年又会如何？
-**Sam**（7:25）：
-是的，我们刚推出的编程代理 Codex 就是一个例子。你可以给它一堆任务，它会在后台处理，非常聪明。它可以连上你的 GitHub，未来还可能观看会议、阅读 Slack 或内部文档。目前它像是一个每天能工作几小时的实习生，但**未来会变成能工作几天的资深工程师**。很多公司正在用 agent 自动处理客户支持、销售等工作。有些人甚至说他们的工作现在变成了：**给一堆代理分配任务、检查质量、提供反馈**。这听起来很像在带一个“还比较初级的团队”——而且这**已经在发生了**。
+##Agent capabilities and prospects **Sarah** (7:16): Can you provide a “Agent competency framework” for corporate leaders? What can we do now? **Sam**(7:25): Yes, the programming agent that we've just introduced, Codex, is an example. You can give it a bunch of tasks that will be handled backstage, and it's very smart. It can connect to your GitHub, and it may be able to watch meetings, slacks or internal files in the future. It's like an intern who can work a few hours a day, but ** it's becoming a senior engineer who can work a few days a day.
 
-### 🤯 什么是 AGI？我们距离它多远？
-**Sarah**（9:23）：
-你说 Codex 让你“感受到 AGI 的临近”，那你现在如何定义 AGI？我们还有多远？
-**Sam**（9:44）：
-如果你回到 2020 年，也就是 GPT-3 还没发布的时候，把现在的 ChatGPT 展示给那时的人看，**他们一定会说“这就是 AGI 了”。**我们人类擅长不断“抬高标准”，这很棒。但我觉得“AGI 是什么”其实没那么重要，不同人定义不一样。真正重要的是：**过去五年模型每年都在突飞猛进，未来至少五年也会继续。**无论 AGI 这个词在 2024、2026 还是 2028 被“宣布成功”，都没那么关键。最让我信服的 AGI 定义是：**一个系统能自主发现新科学，或帮助人类科学突破率提升数倍。**
+## What are AGI? How far are we from it? **Sarah**(9:23): You say that Codex makes you feel AGI's proximity? How far do you define AGI now? **Sam**(9:44): If you go back to 2020, when GPT-3 is not published, show the present ChatGPT to those who see it then, ** This is what AGI is.** We're good at keeping up standards. This is great. But I think that AGI is not really that important, different definitions.
 
-### 📈 下一代模型将实现什么？
-**Sarah**（15:50）：
-你们掌握下一代模型的能力变化，那对产品构建有什么影响？
-**Sam**（16:00）：
-未来一到两年会非常惊艳。类似 GPT-3 到 GPT-4 那样的飞跃将再次出现。企业可以说：“给你算力，帮我设计更好的芯片 / 治疗新疾病。”模型会连接各种工具、理解业务上下文、进行深入推理，并独立完成任务。我之前没想到会这么快，但**现在真的很接近了。**
+## What will the next generation model do? **Sarah**(15:50): How will your ability to master the next generation model change? **Sam**16: It's gonna be amazing in the next year or two. A leap like the GPT-3 to GPT-4 will reappear again. Business can say, "Give you arithmetic, help me design a better chip/treat new diseases." The model will connect tools, understand the business context, make in-depth reasoning, and do it independently. I didn't think it would happen so soon, but ** it's really close now.
 
-### 💡 模型能力范围框架
-**Sarah**（17:05）：
-如何判断“模型能否解决一个问题”？你有没有什么判断框架？
-**Sam**（17:25）：
-我的“理想模型”设想是这样的：**体积超小 + 推理超强 + 能处理万亿级上下文 + 连接所有工具。**把模型当数据库来用是错误的——它很慢、贵且不可靠。**真正强大之处是“推理能力”。**你可以把一个人或一个企业的所有上下文都塞进去，然后让模型调用工具去“思考并解决问题”。
+##  framework of model capabilities ** Sarah** (17:05): How do you judge whether a model solves a problem? ** Sam** (17:25)? ** My "ideal model" assumes: ** is super small + extrapolated + can handle 100 billion levels of context + connect all tools. ** The model is wrong to use as a database — it is slow, expensive and unreliable. ** The true strength is the ability to reason. ** You can plug in all the context of a person or an enterprise and then let the model use tools to “think and solve the problem”.
 
-### 🧮 如果你有 1000 倍算力？
-**Sarah**（18:24）：
-如果你拥有 1000 倍的算力，你会怎么用？
-**Sam**（18:33）：
-元回答：我会用它来研究更好的模型，再让那个更好的模型告诉我该怎么用所有的算力。实用回答：现在就可以在困难问题上投入更多算力来获得更好结果。虽然你现在没有 1000 倍算力，但**理解这一点并加以尝试，本身就很有意义。**
-**Sridhar（Snowflake CEO）**：
-我会把它投入 RNA 表达研究。这类似基因组计划，能带来巨大的疾病治疗突破。**这是一次人类级别的进步，用大模型去做，非常有价值。**
+##  If you have 1,000 times more money? ** Sarah** (18:24): What would you use if you had 1,000 times more? **Sam** (18:33): Yuan replied: I will use it to study better models and let that better model tell me how to use all of them. Practical answer: You can now put more money into difficult questions to get better results. Although you don't have 1,000 times more money, ** Understanding this and trying it makes sense in itself.** **Snowflake CEO: ** I will invest it in RNA expression.
 
-### 🎬 结束语（20:44）
-**Sarah**：
-非常感谢 Sridhar，非常感谢 Sam，谢谢大家！
-See more
+# #  Final remarks (20:44) **Sarah**: Thank you very much Sridhar, thank you very much Sam, thank you all!

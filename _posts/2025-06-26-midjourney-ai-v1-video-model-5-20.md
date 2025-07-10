@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Midjourney 发布 AI 视频生成模型： V1 Video Model 支持 5 至 20 秒的视频生成
+title: Midjourney AI video generation model: V1 Video Model supports video generation from 5 to 20 seconds
 date: 2025-06-26 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/midjourney-ai-v1-video-model-5-20_1.jpg
@@ -9,154 +9,128 @@ icon: image
 * content
 {:toc}
 
-Midjourney 正式推出了首款 AI 视频生成模型 —— **V1 Video Model**，现已面向订阅用户开放使用。支持将单张图像生成**5秒钟的视频动画**，用户可选择是否添加提示词（prompt），并借助动画效果呈现图像“动起来”的视觉体验。
+Midjourney has officially launched the first AI video generation model - **V1 Video Model**, which is now open to subscribers. Supports video animations that generate single images for **5 seconds**, allows users to choose whether to add a hint (prompt) and to use the animated effect to present the visual experience of the image “move”.
 
-- **从静态图像生成视频**：用户可上传自己的图或使用 Midjourney 生成的图像，一键生成四个 5 秒短片 
+- ** Generate video from static images**: Users can upload their own images or image from Midjourney, with one key generating four 5-second clips
 
-- **可扩展至 20–21 秒**：初始 5 秒后，可在每段视频上追加最多四次 4 秒，最长可达 20（或 21）秒 
+- **extencable to 20–21 seconds**: After initial 5 seconds, up to four additional 4 seconds per video segment, up to 20 (or 21) seconds
 
-- **动画控制**：支持两种 motion 模式：
-低动感（Low Motion）：适合静态场景中的细微动效，
+- ** Animation Control**: Supports two mode of motion: Low Motion: Fit for nuance in static scenes,
 
-- 高动感（High Motion）：用于较大范围的摄像机或角色移动 。
+- High Motion: for larger cameras or role movements.
 
-- 可选择自动动画或通过文本提示调整画面动效 。
+- You can choose animating the image automatically or adjusting it through a texttip.
 
-Midjourney表示，其 AI 视频模型的目标远不止为好莱坞电影生成 B-roll 素材或为广告行业制作商业广告。Midjourney 首席执行官 David Holz 称，该 AI 视频模型是公司迈向最终目标的下一步，即创建“能够实时开放世界模拟”的 AI 模型。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality480pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menuSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlayMidjourney 长期目标是构建一个**实时生成的开放世界模拟系统**：
+Midjoourney states that its AI video model aims much more than producing B-roll material for Hollywood films or making commercial advertisements for the advertising industry. Midjoourney’s CEO, David Holz, says that the AI video model is the next step towards the company’s ultimate goal of creating an AI model that “can open the world in real time.” Midjourney’s long-term goal is to build an open world simulation system ** produced in real time **:
 
-- 用户可以在**3D空间中自由移动**；
+- Users can move freely in **3D space**;
 
-- 场景与角色具有**动态性与交互性**；
+- scenes and roles are ** dynamic and interactive**;
 
-- AI系统能够以实时速度生成图像并响应用户操作。
+- The AI system is capable of generating images and responding to user operations at real-time speed.
 
-为实现这一愿景，Midjourney将逐步构建以下关键技术模块：
-图像模型（已完成）
-视频模型（现在推出）
-3D空间交互模型（即将开始）
-实时性能优化模型（未来目标）
+To realize this vision, Midjourney will gradually build the following key technical modules: Image model (completed) Video model (now launched) 3D space interactive model (to begin) Real-time performance optimization model (future goal)
 
-## 核心功能与特点
-**图像到视频生成**：
+# Core functions and characteristics ** Image-to-video generation**:
 
-- 用户可以通过 Midjourney 平台生成一张静态图像（或上传外部图像），然后使用“Animate”按钮将其转换为视频。这一工作流程与 Midjourney 的图像生成生态无缝衔接，支持从文本直接生成视频。
-![](https://assets-v2.circle.so/hcyum7bxhg3twmz9f29c8kzyuqdn)
-- 提供两种主要模式：
-**自动运动合成**：由 AI 自动生成运动效果。
+- Users can generate a static image (or upload an external image) from the Midjourney platform and then convert it to a video using the Animate button. This process creates an ecologically seamless connection with Midjourney ' s image, supporting direct video production from text.[] (https://assets-v2.circle.so/hcyum7bxhg3twmz9f29c8kzyuqdn) - provides two main models: **Automated motion synthesis**: Automotive effects by AI.
 
-- **自定义运动提示**：用户可通过文本描述控制场景中元素的运动方式，例如指定镜头移动或物体动态。
+- ** Custom motion hint**: Users can describe the movement of elements in the control scenario by text, e.g. by specifying the movement of the lens or the dynamics of the object.
 
-![](https://assets-v2.circle.so/1wcmthmxx9aechnxwi2nnsnhvudg)**视频时长与扩展**：
+(https://assets-v2.circle.so/1wcmthmx9aechnxwi2nnsnhvudg)** video duration and extension**:
 
-- 当前模型生成的视频长度较短，最大为 **20秒**。
+- The current model produces a shorter video length with a maximum of **20 seconds**.
 
-- 支持视频延长功能，每次可额外增加 **4秒**，为用户提供一定灵活性。
+- Support for video extensions, with additional **4 seconds per extension**, to provide a degree of flexibility to users.
 
-**高低动态选项**：
+** High and low dynamics options**:
 
-- 提供“高动态”和“低动态”开关，分别用于生成节奏较快或较慢的视频，适应不同创作需求。
-![](https://assets-v2.circle.so/brblcfgkc419te4aqpwlos3bt1qz)
-**成本与可访问性**：
+- Provision of "high-dynamic" and "low-dynamic" switches to generate faster or slower-paced videos, respectively, adapted to different creative needs.[1] (https://assets-v2.circle.so/brblcfgkc419te4aqpwlos3bt1qz) ** Cost and accessibility**:
 
-- 定价为 **10美元/月**，性价比高，定位为“面向所有人”的视频生成工具。
+- Pricing at **$10/month**, high value of value and positioning as a “one-person” video-generation tool.
 
-- 据用户反馈，生成20个4秒视频（共80秒）大约消耗一个“fast hour”，成本约为 **4美元**，相较于竞争对手如 Google 的 Veo 3 更具价格优势。
+- According to user feedback, the generation of 20 4-second videos (80 seconds in total) consumes approximately one “last hour” at a cost of approximately **$4**, which is more price-effective than the Veo 3 of the competitor such as Google.
 
-**画质与风格**：
+** Paint quality and style**:
 
-- 视频继承了 Midjourney 在图像生成中的高品质和艺术风格，每一帧都具有类似画作的美感，动态画面仿佛经过导演调教。
+- The video inherited the high quality and artistic style of Midjourney in image generation, each of which had the beauty of drawings, as if the dynamic picture had been taught by the director.
 
-- 强调**高保真视觉效果**，但目前视频分辨率和细节可能与顶级竞争对手（如 Luma Labs 的 Dream Machine 或 MiniMax 的 Hailuo 02）相当，未显著领先。
-![](https://assets-v2.circle.so/l97qc75c8iey8w7ac5qogp4vdgpm)
+- Highlights ** high-security visual effects**, but current video resolution and details may be comparable to top competitors (e.g. Dream Machine of Luma Labs or Hailuo 02 of MiniMax) with no significant lead.[1] (https://assets-v2.circle.so/l97qc75c8iey8ac7ac5qogp4vdgpm)
 
-### 
+# I'll be right back #
 
-## 局限性
-**无音频生成**：
+# Limitations **no audio generation**:
 
-- 与 Google Veo 3 或 Luma Labs 的 Dream Machine 不同，Midjourney 的视频模型暂不支持生成音频轨道或环境音效，用户需在后期手动添加音轨。
+- Unlike Dream Machine of Google Veo 3 or Luma Labs, Midjourney ' s video model does not support the generation of audio orbits or environmental sound, and users need to add tracks manually at a later stage.
 
-**时长与编辑限制**：
+** Duration and editorial limitations**:
 
-- 视频时长限制在20秒，且不支持时间轴编辑、场景过渡或跨片段的连续性，功能较为初级。
+- Video duration is limited to 20 seconds and does not support the continuity of time-axis editing, scenario transition or cross-sections, with lower functionality.
 
-**生成速度**：
+** Generation speed**:
 
-- 渲染时间可能较慢，与一些竞争对手相比（如 MiniMax 的 Hailuo 02），在处理复杂运动或电影化镜头时效率稍逊。
+- Rendering time may be slower and less efficient in dealing with complex sports or cinematography than that of some competitors (e.g. Hailu 02 of MiniMax).
 
-## 与竞争对手的比较
-Midjourney 进入了一个竞争激烈的 AI 视频生成市场，面临 Runway、Luma Labs、Google Veo 3、MiniMax Hailuo 02 等对手的挑战：
+# Midjourney entered a highly competitive AI video generation market with challenges from rivals such as Runway, Luma Labs, Google Veo 3, MiniMax Hailuo 02:
 
-- **优势**：Midjourney 依托其成熟的图像生成技术和用户友好界面，提供无缝的图到视频工作流，成本较低，适合短视频实验和创意探索。
+- ** Strength**: Midjourney relies on its mature image-generation technology and user-friendly interfaces to provide seamless graphics to video workflows at lower cost and suitable for short video experiments and creative exploration.
 
-- **劣势**：缺乏音频生成、较短的视频时长和有限的编辑功能使其在功能全面性上稍逊于 Runway 或 Luma Labs 的产品。
+- ** Disadvantage**: Lack of audio-generated, shorter video durations and limited editing functions that make them less functionally comprehensive than the products of Runway or Luma Labs.
 
-## 如何生成视频
-1. 使用Midjourney已生成的图像
+# How to generate video 1. Images generated using Midjourney
 
-- 在图库中打开图像后，点击 **“Animate Image”** 按钮即可：
-**Auto**：自动使用原图生成视频；
+- When the image is opened in the library, click on the **Animate Image** button to generate the video automatically using the original;
 
-- **Manual**：允许在生成前编辑提示词；
+- **Manual**: Allows the editing of hints before generation;
 
-图像生成时所使用的原始参数会被自动移除，不影响视频生成；
-鼠标悬停在“Create”页面中的图像上也会显示快捷入口按钮。
-2. 使用用户上传的图像
+The original parameters used to generate the image are automatically removed and do not affect video generation; the mouse is also displayed on the image that is parked on the "Create " page. 2. Use the image uploaded by the user
 
-- 通过 **“Imagine”输入栏中的图片图标** 上传图像或选择现有图像；
+- Uploading images or selecting existing images by **Imagine icon**;
 
-- 拖动图像至“Starting Frame”区域，即可作为起始帧；
+- To drag images to the Staring Frame area as a starting frame;
 
-- 锁定图像可重复使用多个提示词；
+- Locking images allows multiple hints to be repeated;
 
-- 仅限以图像作为“起始帧”的使用方式，其他引用方式如“Style Reference”“Image Prompt”等不支持视频生成。
+- The use of images as a “start frame” is limited, and other references such as “Style Regulation” “Image Project” do not support video generation.
 
-### 📐 输出分辨率与视频尺寸
-生成的视频分辨率固定为 **480p（标准清晰度）**，实际尺寸受起始图像的宽高比影响：
-![](https://assets-v2.circle.so/4yx9nc8imtu6dpx4ayl7c701ialc)
-### ⚙️ 视频设置
-点击“Imagine”栏中的设置图标可进入：
+##  output resolution and video size  video resolution fixed at **480p (standard resolution)**, with actual size influenced by the width ratio of the initial image:[] (https://assets-v2.Circle. so/4yx9nc8imtu6dpx4ayl7c701ialc) ## video settings Click on the setup icon in the "Imagine" bar to access:
 
-- 默认 **运动模式设置**；
+- Default **motion mode settings**;
 
-- GPU使用速度控制；
+- GPU use speed control;
 
-- Stealth Mode（隐匿模式）；
+- Stewart Mode (hidden mode);
 
-注意：仅Pro与Mega计划用户支持Relax Mode下生成视频。
+Note: Only Pro and Mega users support the production of videos under Relax Mode.
 
-### 🔁 视频播放与扩展
-播放控制
+# # # video play and expand play control
 
-- 在“Create”页面鼠标悬停自动播放；
+- Suspend automatic play on the "Create " page;
 
-- 可通过 **Ctrl/Command + 鼠标移动** 实现视频进度控制（scrubbing）。
+- Video progress control (scrubbing) can be achieved by moving **Ctrl/Command+Mouse**.
 
-延长视频（最多延至21秒）
-每次可延长 **4秒**，可延长最多 **4次**，共 **21秒**。
+Extension of video (up to 21 seconds) renewable ** 4 seconds ** renewable up to ** 4 times ** total ** 21 seconds **.
 
-- **Extend Auto**：自动使用原提示词继续；
+- **Extend Auto**: continue automatically with the original hint;
 
-- **Extend Manual**：可在延伸前编辑提示词。
+- **Extend Manual**: A reminder can be edited before extension.
 
-### 🎥 视频运动模式说明
+# # # video mode description #
 
-- --motion low（默认）：轻微动作、静态场景、慢动作、微小角色移动；
+- --motion low (default): minor movements, static scenes, slow moves, movements of small players;
 
-- --motion high：大幅相机移动、明显角色动作（可能带来不自然或失真现象）；
+- --motion high: large-scale camera movement, visible role movements (possibly causing unnatural or unreal phenomena);
 
-- --raw：关闭系统风格优化，更精确地响应提示词控制。
+--raw: Turn off the system to optimize its style and respond more accurately to hint control.
 
-### ⚖️ 使用上传图像的规定（合规性）
+# #  Use uploading requirements (compliance)
 
-- 上传图像需拥有合法使用权；
+- Legal access to uploading images;
 
-- 禁止生成侮辱性、色情化或煽动性视频，特别是针对真实人物；
+- Prohibition of the production of insulting, pornographic or inflammatory videos, especially against real persons;
 
-- 系统会自动过滤违规内容，**被拦截的视频不会扣除GPU时间**；
+- The system automatically filters the content of the violation ** the intercepted video does not deduct GPU time**;
 
-- 如不同意规定，建议不要使用外部图像生成视频。
+- If it does not agree, it is recommended that external images not be used to generate video.
 
-官方指南：https://docs.midjourney.com/hc/en-us/articles/37460773864589-Video
-See more
+Official guide: https://docs.midjourney.com/hc/en-us/articles/374707868589-Video

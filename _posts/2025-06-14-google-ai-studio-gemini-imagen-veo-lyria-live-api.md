@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google AI Studio 升级：更快、更强、更智能地构建 Gemini 应用 集成 Imagen、Veo、Lyria等模型 支持Live API
+title: Google AI Studio Upgrade: Faster, stronger, more intelligently constructed Gemini applications integrated Imagen, Veo, Lyria, etc. support Live API
 date: 2025-06-14 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-ai-studio-gemini-imagen-veo-lyria-live-api_1.jpg
@@ -9,123 +9,112 @@ icon: chat
 * content
 {:toc}
 
-Google 在 I/O 2025 上正式推出 **Google AI Studio 的全新升级**，面向开发者提供更强的 AI 原生开发平台。这次更新显著提升了 Gemini 模型的可用性、集成性与部署便捷性，打造“**一站式 AI App 构建平台**”。
+Google officially launched a new upgrade on I/O 2025** for the developers to provide a stronger AI primary development platform. This update significantly enhanced the usability, integration and ease of deployment of the Gemini model by creating the "** one-stop AI App Build Platform** " .
 
-## 核心更新亮点
+# Core update bright spots
 
-### 1. **原生代码生成能力（Native Code Generation）**
+## 1. **Native Code Generation**
 
-- 引入 **Gemini 2.5 Pro** 到 Studio 的代码编辑器，支持将文本/图像/视频提示直接生成 Web 应用；
+- Introduction of a code editor **Gemini 2.5 Pro** to Studio to support the direct generation of text/image/video tips for Web applications;
 
-- 新增 **Build Tab**：可快速构建、部署基于 AI 的 Web 应用（支持一键部署到 Cloud Run）；
+- Add **Build Tab**: Accelerant-based web application (support to deployment of one key to Claude Run) can be built and deployed quickly;
 
-- 支持迭代开发：可在聊天对话中修改代码、查看 diff、返回历史版本。
+- Support for iterative development: you can change the code, see the diff, return the historical version in the chat dialogue.
 
-### 2. **媒体生成中心（Generate Media）**
+##2. **The Media Generation Centre (Generate Media)**
 
-- 集成 **Imagen（图像）**、**Veo（视频）**、**Lyria（音乐）** 与 Gemini（文本）多模态生成能力；
+- Integration **Imogen (image)**,**Veo (video)**,** Lyria (music)** and Gemini (text) multi-model capacity;
 
-- 新增交互式音乐生成 App：PromptDJ，基于 Lyria RealTime 实现。
+- New interactive music generation App: PromptDJ, based on Lyria RealTime.
 
-### 3.**音频能力升级：语音更自然、响应更智能**
+##3.** Audio capability upgrade: more natural, more responsive**
 
-### 🗣️ Gemini 2.5 Flash 支持的原生语音对话（Live API）：
+# Gemini 2.5 Flash supported Native Voice Dialogue (Live API):
 
-- 支持 **30 多种自然人声**（男女、口音、情感可调）；
+- Support for **30 multiple natural persons** (male and female, accent, emotional)
 
-- 引入 **主动音频识别能力**：模型可区分用户说话与背景杂音，仅在适当时机应答；
+- Introduction of ** active audio recognition**: a model that distinguishes between a user ' s speech and background noise and responds only at the appropriate time;
 
-- 更贴近人类自然对话节奏，适用于客服、虚拟助手、交互剧情等场景。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
+- Fits more closely to the rhythm of human natural dialogue and applies to such scenes as customer service, virtual assistants, interactive dramas, etc.
 
-### 🔉 文本转语音（TTS）升级：
+# #  Text-to-Speech (TTS) upgrade:
 
-- 单人或多人对话生成；
+- Single-person or multi-person dialogue generation;
 
-- 支持语速、语调、情绪的多维控制；
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
+- Support for multidimensional control of speech speed, tone and emotions;
 
-## Agentic 与工具生态
+#Agentic and Tool Ecology
 
-- **新增「Build」标签页**从文本、图像或视频 prompt 快速生成 Gemini 应用原型，集成 Gemini 2.5 Pro 模型。
+- ** Add a new `Build' tab** to create a Gemini application prototype from text, image or video prompt to integrate the Gemini 2.5 Pro model.
 
-- **智能代码助手**支持编辑现有应用代码，查看差异（diff）、回滚历史版本。
+- ** Smart Code Assistant** supports the editing of existing application codes, viewing differences (diff), rollback history versions.
 
-- **一键部署到 Cloud Run**无需配置服务器，自动托管 Gemini API Key，快速上线到生产环境。
+- **Step one key to Cloud Run** to automatically host Gemini API Key to the production environment without the need to configure the server.
 
-- **全新「Generate Media」页面**集中调用 Imagen（图像）、Veo（视频）、语音生成等多模态模型。
+- **The new "Generate Media" page** focuses on multi-model models such as Imogen (image), Veo (video), voice generation, etc.
 
-- **支持 MCP（Model Context Protocol）**原生集成开源标准，方便构建复杂 AI 应用并对接第三方工具。
+- ** Supports the MCP (Model Context Protocol)** primary integrated open source standard, which facilitates the construction of complex AI application and docking third-party tools.
 
-- **URL Context 实验功能**模型可读取网页链接内容，用于摘要、比对、研究与查证。
+- **URL Context experimental function** Models can read the content of web links for summary, match, research and verification.
 
-![](https://assets-v2.circle.so/7h2iek5iq7e3bb4vqubbq5pc1fsp)
-## 🧱 1. **新增“Build”标签页：从 prompt 到 App 的极简生成**
+#  1. ** Add a new "Build" tab: extremely simple generation from prompt to App**
 
-- 新的 Build 面板集成了 **Gemini 2.5 Pro** 模型
+- The new Build panel set up as a **Gemini 2.5 Pro** model
 
-- 与 Google 的 **GenAI SDK** 紧密耦合
+- Closely co-ordinated with Google's **Genai SDK**
 
-- 支持从文字、图像或视频 prompt 直接生成应用原型
+- Supports the direct generation of application prototypes from text, images or videos
 
-- 自动生成 UI + 功能代码（适合前端或全栈原型搭建）
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
+- Auto-generated UI+ functional code (fit for front end or full-store prototype)
 
-## 🛠️ 2. **代码助手功能上线：支持版本对比和撤回**
+#  2. ** Code helper functionality online: support version comparison and withdrawal**
 
-- 可对已有项目进行 AI 辅助修改
+- AI-assisted modifications can be made to existing projects
 
-- 提供“查看变更（diff）”能力
+- Provide "see change" capability
 
-- 支持回退至历史版本（checkpoint 机制）
+- Support back to the historical version (checkpoint mechanism)
 
-- 极大提升多人协作与版本控制效率
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
+- Significant improvements in multi-person collaboration and version control efficiency
 
-## ☁️ 3. **一键部署到 Cloud Run：零运维 AI App 生产化**
+#  3. ** Key deployed to Cloud Run: zero-wire AI App Production**
 
-- 应用构建完成后，可直接部署到 Google Cloud Run
+- Upon completion of the application build, direct deployment to Google Cloud Run
 
-- Gemini API Key 会自动保存在服务端，提升安全性
+- Gemini API Key will automatically save it on the service end and improve security.
 
-- 便于开发者将原型迁移至线上环境投入使用
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
+- Enable developers to move prototypes to the online environment for use
 
-## 🖼️ 4. **新增“Generate Media”页面：整合所有多模态模型能力**
+#  4. **New "Generate Media" page: integration of all multi-model model capabilities**
 
-- 集中访问和使用：
-Imagen（图像生成）
+- Centralize access and use: Imogen (image generation)
 
-- Veo（视频生成）
+- Veo (video generation)
 
-- Gemini（语言+跨模态生成）
+- Gemini (language + trans-model production)
 
-- Native speech 模型（语音生成）
+-Native speech model (voice generation)
 
-一站式调用多模态生成模型，适配创意、教育、内容等应用场景
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-## 🧩 5. **支持 MCP（Model Context Protocol）标准：增强生态兼容性**
+One-stop call multi-module modeling, adapted to applications of creativity, education, content, etc.
 
-- Google GenAI SDK 现原生支持 MCP 协议
+#  5. ** Support for MCP standards: Enhanced Ecocompatibility**
 
-- 便于接入开源工具和第三方框架
+- Google Genai SDK Current Support MCP Protocol
 
-- 为构建复杂对话系统或多模型交互应用提供标准接口
-![](https://assets-v2.circle.so/lkl85uvcozqx72jom8h20w3l4vql)
-📸 示例截图展示：Colosseum 查询与代码并列视图
+- Access to open source tools and third-party frameworks
 
-## 🌐 6. **实验功能：URL Context，让模型“读网页”**
+- Provide a standard interface for the construction of complex dialogue systems or multi-model interactive applications![] (https://assesss-v2.circle.so/lkl85uvcozqx72jom8h20w3l4vql)  Example cut-chart display: Coloseum query with code side view
 
-- 用户可直接输入网页链接
+# 6. ** Experimental function: URL Context, let model read web page**
 
-- Gemini 可访问网页内容，用于：
-事实核查（fact-checking）
+- Users can directly enter web links
 
-- 内容摘要
+- Web content available at Gemini for: fact-checking
 
-- 信息对比
+- Executive summary
 
-- 学术或企业级研究场景
+- Information comparison.
 
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay详细内容：https://developers.googleblog.com/en/google-ai-studio-native-code-generation-agentic-tools-upgrade/
-See more
+- Academic or business-level research scenes
+
+Details: https://develators.googleblog.com/en/google-ai-studio-native-code-generation-agents-upgrade/

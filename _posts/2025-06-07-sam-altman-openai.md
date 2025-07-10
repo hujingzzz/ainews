@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sam Altman 最新访谈：揭秘OpenAI高速发布节奏的秘密以及产品战略方向
+title: Sam Altman, latest interview: revealing the secrets of OpenAI's high-speed rhythm and product strategic direction
 date: 2025-06-07 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/sam-altman-openai_1.jpg
@@ -9,86 +9,73 @@ icon: game
 * content
 {:toc}
 
-近日，OpenAI CEO Sam Altman 出席了一场深度访谈活动，分享了他从 2016 年创业至今的发展历程、对人工智能（AI）行业现状的洞察，以及对未来趋势的预测。
-**他首先回顾了OpenAI的创立和发展历程**
-2016 年，Sam Altman 与十几名同伴在一间小办公室内，围着白板探讨人工智能方向，当时的他们甚至还未明确大型语言模型（LLM）的具体概念，只是在尝试“玩视频游戏”。
-Altman 回忆到：“当时我们只是坚信某个方向是对的，却没有明确的计划，更没有想到自己会站到今天的舞台上。”
-最初 OpenAI 的探索方向很多，从游戏到机器人手再到无监督学习模型，这才逐渐明确了 GPT 系列的发展路径。
+Recently, OpenAI CEO Sam Altman attended an in-depth interview to share his history of starting a business from 2016 to the present, his insight into the current state of the artificial intelligence (AI) industry, and his predictions of future trends. ** He first reviewed the history of the creation and development of OpenAI** in 2016, Sam Altman and a dozen of his companions were in a small office, looking around the direction of artificial intelligence, and at that time they were not even clear about the specific concepts of the large language model (LLMM), but only tried to “play video games.” Altman recalled that: “We were just convinced that a certain direction was right, that there was no clear plan, that we would stand on the stage today.” Initially, OpenAI had a lot of exploration, from games to robots to no supervised learning models, which had led to a gradual clarification of the development path of the GPT series.
 
-### 以下是一些主要内容摘要：
-**第一款产品并非 ChatGPT**
+# # # Here's a summary of some of the main elements: ** The first product is not ChatGPT**
 
-- 首个真正的“消费级”产品是 **DALL·E** 图像生成模型。
+- The first real "consumption level" product is the **DALL E** image generation model.
 
-- **真正的第一个商业产品**是 GPT API，在 2020 年 6 月左右推出 GPT-3 API。
+- **The real first commercial product** is GPT API, which was launched around June 2020.
 
-**高速发布节奏的秘密**
+** The secret of the high speed release rhythm**
 
-- 保持“小团队 + 高责任”原则，确保每人都有实际产出。
+- Maintain the “small team + high responsibility” principle to ensure that there is real output per person.
 
-- 避免官僚化：维持小团队运作，让少数人承担大量责任，而非“几十人坐在会议室争吵细节”。
+- Avoiding bureaucracy: maintaining small teams, with a few taking on a large number of responsibilities, rather than “dozens sitting in conference rooms arguing about details”.
 
-- 保持忙碌状态：确保研究人员、工程师和产品团队始终处于忙碌且高效的状态。
+- Keep busy: ensure that researchers, engineers and product teams remain busy and efficient.
 
-- 公司增长必须伴随**产品产出增长**，否则容易陷入“人员膨胀+会议泛滥”。
+- Corporate growth must be accompanied by growth in product output**, otherwise it can easily fall into “human inflation + proliferation of meetings”.
 
-**产品战略方向**
+** Strategic direction for products**
 
-- **OpenAI 将自己定位为“核心 AI 订阅服务”**，围绕 ChatGPT 展开。
+- **OpenAI positioned itself as a " Core AI Subscription Service " **, spread around ChatGPT.
 
-- 将继续扩展 API、SDK，并探索平台化（Platformization）可能性。
+- Continue to expand API, SDK and explore the possibility of platforming.
 
-- 长远目标：打造“未来操作系统级别的 AI 平台”。
+- Long-term objective: to create an "AI platform at the level of the future operating system".
 
-**模型、算力与算法**
+** Models, arithmeticals and algorithms**
 
-- 三大支柱：**更好的模型（Smarter Models）**、**更强的计算基础设施**、**更广泛的社会嵌入**。
+- Three pillars: ** Better Models **, ** Stronger computing infrastructure **, ** Broader social embedding**
 
-- 模型规模持续扩大，从 GPT-3 到 GPT-4，再向更高演进。
+- The scale of the model continues to grow, from GPT-3 to GPT-4, and to evolve even further.
 
-- 算法创新将是最大杠杆，未来可能还有一两次“10倍或100倍”的突破；
+- Algorithm innovation will be the greatest leverage and there may be one or two “10 or 100 times” breakthroughs in the future;
 
-- 编码能力将成为AI核心竞争力，未来的模型需要具备执行操作甚至写出完整程序的能力；
+- Coding capacity will become the core competitiveness of AI, and future models will require the ability to perform operations and even complete processes;
 
-- 语音技术将是 OpenAI 接下来着重投入的领域，目标是将语音交互做到与人类无异，进而催生新的交互模式甚至设备类别。
+- Voice technology will be the next focus of OpenAI ' s input, with the goal of interacting with humans, leading to new interactive patterns and even types of equipment.
 
-**ChatGPT 的未来形态**
+**The future shape of ChatGPT**
 
-- 长期目标：**无限上下文记忆** + **无需微调的个性化体验**。
+- Long-term objective:** Infinite contextual memory** + ** Personalization experience without fine-tuning**.
 
-- 理想状态：“用户所有生活数据、对话、行为”都在上下文中，即可实现完全个性化。
+- The ideal state: “All life data, dialogue, behaviour of users” is in the context where full personalization can be achieved.
 
-**年轻用户的使用方式：ChatGPT 作为操作系统**
-访谈中，Altman 特别提到年轻一代使用 ChatGPT 的独特方式：
+**The way young users use it: ChatGPT as an operating system** In an interview, Altman specifically referred to the unique way young generations use ChatGPT:
 
-- 年长者将 ChatGPT 当作搜索引擎；
+- Older persons use ChatGPT as a search engine;
 
-- 20-30岁的年轻人将其视作生活顾问；
+- Young people between 20 and 30 years of age consider them as life counsellors;
 
-- 大学生则将 ChatGPT 当作个人操作系统，进行更深入的互动和协作。
+- Students use ChatGPT as a personal operating system for more in-depth interaction and collaboration.
 
-这种代际使用差异让他尤其惊叹：“年轻人几乎在所有重大决策前都会咨询ChatGPT，他们把提示词记在脑子里，跟模型之间的互动非常复杂。”
-**对定制化的态度与愿景**
-Altman 表示，现阶段的模型定制化是向理想状态的妥协，而理想状态是：
-“一个小型推理模型，拥有数万亿token的上下文，涵盖你一生的全部数据，无需频繁重新训练，就能精准推理你的个人数据。”
-**行业观察与企业转型挑战**
-对于大公司在AI时代的转型困境，Altman认为：
+He was particularly struck by this difference in intergenerational use: “Young people consult ChatGPT almost before all major decisions are made, and they write the hints in their minds, and the interaction with models is complicated.”** The attitude and vision for customization** Altman stated that the current stage of customization is a compromise to the ideal state, which is: “A small reasoning model, with hundreds of billions of tokens of context, covering all of your life's data without frequent re-training, can refine your personal data.” ** Industry Watch and the Business Transformation Challenge** For the transformational dilemma of large companies in the AI era, Altman argued that:
 
-- 大公司容易被旧有规则束缚，每次技术革命初创公司总能胜出；
+- Large companies are vulnerable to old rules, and each technological revolution has a successful start-up company;
 
-- 大公司决策缓慢，难以适应快速变化的环境，而年轻公司能更快适应和创新。
+- The slowness of decision-making by large companies and the difficulty of adapting to a rapidly changing environment, while young firms can adapt and innovate more quickly.
 
-他指出：“公司本质是个人行为的延伸，年轻人更容易适应AI工具的迅速变化，大公司则常常滞后。”
-**对创业者建议：面对逆境的韧性与耐力**
-访谈末尾，Altman 分享了自己对于创业者在面临逆境时的建议：
+He noted that “the essence of a company is an extension of individual behaviour, and young people are more likely to adapt to the rapid changes in AI tools, while large companies often lag behind.” ** Recommendations to entrepreneurs: resilience and durability in the face of adversity** At the end of the interview, Altman shared his own advice to entrepreneurs in the face of adversity:
 
-- 真正难的并不是危机当天，而是危机后的漫长余波；
+- The real difficulty is not the day of the crisis, but the long after-effects of the crisis;
 
-- “逆境下的情感韧性和承受能力是需要持续训练和培养的。”
+- “The emotional resilience and affordability of adversity require continuous training and development.”
 
-他鼓励创始人：“随时间推移，虽然风险越来越大，但处理问题的心理承受能力也会随之变强。”
+He encouraged the founders: “The psychological capacity to deal with the problem will become stronger over time, although the risks are increasing”.
 
-### 访谈视频
+# Interview video #
 
 ### 访谈内容文字翻译
 **主持人：**
@@ -140,11 +127,11 @@ Altman 表示，现阶段的模型定制化是向理想状态的妥协，而理�
 他们甚至在做人生决定前，都会去问 ChatGPT。它拥有他们与朋友之间的聊天历史、生活上下文，有了“记忆功能”之后，这种关系变得更深。
 总结一下：
 
-- 年长用户把它当成 Google 替代；
+- Older users replace it with Google;
 
-- 20–30 岁的用户把它当“人生顾问”；
+- 20-30-year-old users use it as a "life consultant";
 
-- 大学生则把它当“AI 操作系统”。
+- University students use it as an "AI operating system".
 
 **观众提问：OpenAI 内部是如何使用 ChatGPT 的？**
 **Sam：**它写了我们很多代码。确切比例我不知道，而且我觉得用“代码行数”来衡量没意义。微软说他们 20–30% 的代码是 AI 写的，但行数不是重点。
@@ -201,4 +188,3 @@ Altman 表示，现阶段的模型定制化是向理想状态的妥协，而理�
 危机当下，反而有肾上腺素、有支持者，但长期的恢复、心理建设，是更难的部分，也是大家常常忽略的训练课题。
 **主持人：谢谢你，Sam。你现在其实还在休完陪产假呢。**
 **Sam：**是的（笑），但很高兴能来参加，感谢邀请。
-See more

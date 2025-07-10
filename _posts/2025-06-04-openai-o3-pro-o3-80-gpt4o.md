@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenAI 推出新一代模型 o3-Pro 性能大幅提升 o3价格下浮80% 比GPT 4o 还便宜
+title: OpenAI to launch a new generation of models for o3-Pro performances that are significantly improved by 80% below the price of o3 that is cheaper than GPT 4o
 date: 2025-06-04 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/openai-o3-pro-o3-80-gpt4o_1.jpg
@@ -9,76 +9,56 @@ icon: book
 * content
 {:toc}
 
-OpenAI 正式推出新一代模型 o3-pro，现已向所有 ChatGPT 专业版和 API 用户开放，并将很快推广至企业版和教育版。相比于之前的版本（如 o3 和 o1-pro），o3-pro 在多个方面实现了显著改进。专家评审高度评价了其在科学、教育、数据分析、写作和编程等领域的能力，并指出它在表达清晰性、内容完整性、遵循指令和准确性方面更为出色。
+OpenAI officially launched a new generation model, O3-Pro, which is now open to all ChatGPT professional and API users and will soon be extended to the corporate and educational versions. Compared to previous versions (e.g. o3 and o1-Pro), O3-Pro has achieved significant improvements in a number of ways. The expert review highly evaluated its capabilities in the fields of science, education, data analysis, writing and programming, and noted that it is more excellent in terms of clarity, integrity of content, compliance with directives and accuracy.
 
-- **专家评估表明**：相比 o3，o3-pro 在多个关键领域表现更佳，包括科学、教育、编程、数据分析和写作。
+- ** The expert assessment indicates** that performance is better than that of o3,o3-pro in a number of key areas, including science, education, programming, data analysis and writing.
 
-- o3-pro 在**清晰度、全面性、指令遵循能力和准确性方面评分更高**。
+- O3-Pro rated higher ** clarity, comprehensiveness, command compliance and accuracy**.
 
-- 类似 o1-pro，**o3-pro 在学术评估中在数学、科学和编程方面表现优秀**。
+- Similar to O1-Pro, **o3-Pro, excellent in mathematics, science and programming in academic assessment**.
 
-- 使用了 OpenAI 的“**4/4 可靠性评估**”来测试模型稳定性——只有在四次回答中全部正确才算成功。
+- OpenAI's “**4/4 Reliability Assessment**” was used to test model stability - only if all of the four responses were correct will it be successful.
 
-- o3-pro 能使用 ChatGPT 的高级工具：**联网搜索、文件分析、图像识别、Python 编程、记忆个性化等**。
+- O3-Pro has access to ChatGPT advanced tools: **Web search, file analysis, image recognition, Python programming, personalization of memory, etc.**
 
-- **o3-pro 从即日起成为专业版和团队版用户的默认模型，取代 o1-pro**；企业版与教育版用户将在下周获得访问权限。
+- **o3-Pro to become a default model for professional and team-based users from this very day on, replacing o1-pro**; users of enterprise and educational versions will be granted access next week.
 
-## 性能评估
-在专家评估中，评审人员普遍更喜欢 o3-pro 相较于 o3，强调其在科学、教育、编程、数据分析和写作等关键领域的性能提升。
-o3-pro 在清晰度、全面性、指令理解与执行、内容准确性等方面均取得更高分数。
-![](https://assets-v2.circle.so/2tqnm5fltvhbxan3e6ti53ajyw4f)与 o1-pro 类似，o3-pro 在数学、科学和编程方面表现出色，这一点已在学术评估中得到验证。
-![](https://assets-v2.circle.so/6yt5p5yk0z3s5qw5e6jntrn14myf)
-### 更稳定：4/4 可靠性标准
-为了验证模型的稳定性，OpenAI 使用了被称为“4/4 reliability”（四次中全部答对）的严格评估标准。只有模型在连续四次尝试中都能正确回答问题，才被认为真正可靠。
-在这项评测中，o3-pro 的表现证明它不仅聪明，而且稳定。
-![](https://assets-v2.circle.so/p78uv7u0jx6qj41ha8b3m5uulv4y)
-### **与主流模型对比表现出色**
+# Performance assessment ** The evaluator generally prefers O3-Pro to O3-Pro as compared to O3 in key areas such as science, education, programming, data analysis and writing. o3-Pro achieves higher scores in clarity, comprehensiveness, command understanding and implementation, and content accuracy.[https://assets-v2.circle.so/2tqm5ftvvbxan3e6ajyw4f) and O3-Pro as compared to o1-Pro, which has shown improvement in mathematics, science and programming.[https://assets-v2.circle.so/6yt5p5kz3s5qw5jjntrn14mf) ##4 Reliability criteria, which have been confirmed by OpenAI for stability.[s://www.circile.so/6v#jt5s3s5s6kzfqqw6jtrmf) #4Sp4 #4Sp4 & 4St4 4St4 4 4 4St4 4 4 4 4S4 4 4 4 4 4St4 4 S4 4 4 4S4 4 4 4 4 4 4 .
 
-- 性能与 **Gemini 2.5 Pro** 相当，在评估中的智能指数一致
+- Performance is comparable to **Gemini 2.5 Pro** and is consistent with the intelligence index in the evaluation
 
-- 智能优于 **Claude 4 Sonnet Thinking**，但单位 token 成本更低
+- Smart is better than **Claude 4 Sonnet Tinking**, but the unit cost is lower
 
-- 回答风格上 **不如 Claude 4 Opus 冗长**，但**比 Gemini 2.5 Pro 和 DeepSeek R1 更简洁**
-![](https://assets-v2.circle.so/69vzfr4ixlfoms8z32imyuihkljq)
+- Answer style ** is not as long as Claude 4 Opus**, but ** is simpler than Gemini 2.5 Pro and DeepSeek R1 **[] (https://assets-v2.Circle.so/69vzfr4ixlfoms8z32imyihkljq)
 
-## 工具集成：不仅是语言模型，更是智能助手
-o3-pro 远不只是“会聊天”的 AI，它集成了 ChatGPT 的全部高级工具，使其成为真正多才多艺的智能助手：
+# Tool integration: Not only language models, but also smart assistants o3-pro, far more than "chat chat" AI, which brings together all the high-level tools of ChatGPT to make it a truly multi-skilled intellectual assistant:
 
-- 🔍 **联网搜索**：快速查找和整合实时信息
+-  **Web search**: quick search and integration of real-time information
 
-- 📁 **文件分析**：可以读取和理解上传的文件内容
+-  Document analysis**: available for reading and understanding the contents of the uploaded document
 
-- 🧠 **图像识别**：可处理视觉输入，理解图像
+-  Image recognition**: capable of processing visual input and understanding images
 
-- 🐍 **Python 编程能力**：直接运行代码、处理数据、画图等
+-  **Python programming capability**: direct operation code, data processing, drawing, etc.
 
-- 🧷 **个性化记忆**：记住用户偏好，持续优化交互体验
+-  Personalized memory**: Keeping in mind user preferences and continuously optimizing interactive experiences
 
-## **o3价格下降80% 比GPT 4o还要低**
+# **o3 prices down 80% below GPT 4o **
 
-- ✅ **OpenAI 将 o3 模型的价格大幅下调 80%**：从每百万输入/输出 token 的 $8/$40 降至 $2/$8，同时对缓存输入 token 提供 **75% 的折扣**。o3 Pro 价格：输入：$2 / 100 万令牌 输出：$8 / 100 万令牌
-o1-pro：600 美元 
-o3-pro：20 美元  
-o3-pro 在各方面都优于 o1-pro，更快、更智能、更强大。
-而且价格便宜 30 倍。
-![](https://assets-v2.circle.so/3ta4garf7dffm1wc8827btng9fyn)
-- 🧮 **o3 每 token 成本已与 GPT-4.1 持平**：推理与非推理模型之间的价格统一，但由于 o3 **平均输出是 GPT-4.1 的 7 倍左右**，实际每次请求成本仍更高。
+- **OpenAI significantly reduced the price of the o3 model by 80%** from $8/$40 per million input/output token to $2/$8, while providing a discount of **75% for the cache input token**. **o3Pro price: input: $2/100 million token output: $8/100 million sign o1-Pro: $600 o3-Pro: $20 topro-pro: pro: 3 pro-pro in all respects better than o1-pro, faster, smarter and stronger. ** And the price is 30 times cheaper.[https://assets-v2.circle.so/3ta4garf7dffm1wc8827bt 9fyn] - **o3 The actual cost per token cost has been equal to GPT-4.1 ** The price between the reasoning and the non-research model is consistent with the non-research model.[https://assets-v2.circle.so/3ta4 **The average export was about 7 times higher since GPT-4.
 
-**o3 的单位 token 成本与 GPT-4.1 看齐**
+**O3 unit token cost aligned to GPT-4.1**
 
-- 两者在“每个 token”的定价一致
+- The two are at the same price as "each token".
 
-- 但是已经比GPT 4o低了不少
+- But it's a lot lower than GPT 4o.
 
-- 但由于 o3 **生成的 token 数量约为 GPT-4.1 的 7 倍**，所以**一次完整查询的花费更高**
+- But since the number of tokens generated by o3 ** is about 7 times as high as GPT-4.1 **,** the cost of a full query is higher**
 
-![](https://assets-v2.circle.so/9llcsb9v5m7vixufd3xj1oo7dak5)📉 **AI 智能成本正在迅速下降**：
+(https://assets-v2.circle.so/9llcsb9v5m7vifd3xj1oo7dak5) **AI smart costs are falling rapidly **:
 
-- GPT-4 级别智能自发布以来价格已降低 **100 倍以上**
+- GPT-4 level smarts have declined since their release **100 times more **
 
-- 训练出达到“高级智能阈值”的模型，其经济门槛持续降低
+- Trained models that meet the “advanced intelligence threshold” and whose economic thresholds continue to fall
 
-- 用户部署 AI 服务的边际成本持续下降，推动更多落地场景出现
-![](https://assets-v2.circle.so/36fqnt8j9grjvyx2dxx7ft9ohca1)![](https://assets-v2.circle.so/zpjc67nsj2vwt2zwp8rnllxu00an)![](https://assets-v2.circle.so/9j1aq7wac5milo5xum4cutiwk952)
-这意味着更高性能的 AI 模型正变得更加可用、更适合商业化集成和大规模使用。
-See more
+- The marginal cost of user deployment of AI services has continued to decline, contributing to more landing scenes![] (https://assets-v2.circle.so/36fqnt8j9grjyx2dx7ft9ohca1] [] (https://assets-v2.circle.so/zpj67nsj2vwt2zwp8rnluxu00an) [https://assets-v2.circle.so/9j1aq7waq5milo5xum4cutiwk952]] [https://assets-v2.circle.so/9j1aq7wac5m5xum4cwk952) which means that the AI model is becoming more available, more suitable for commercialization and large-scale use.

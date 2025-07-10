@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ElevenLabs 推出 SB1 Soundboard ：一款基于 AI 的可定制音效控制面板工具
+title: ElevenLabs releases SB1 Soundboard: an AI-based customised sound control panel tool
 date: 2025-07-08 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/elevenlabs-sb1-soundboard-ai_1.jpg
@@ -9,79 +9,60 @@ icon: book
 * content
 {:toc}
 
-**ElevenLabs 推出 SB1 Soundboard ，这是是一款基于 AI 的可定制音效板工具**，允许用户通过自然语言描述生成自定义音效，并将其组织为音板（soundboard）。它结合了音板、鼓机和环境噪声生成器的功能，支持实时播放、循环播放和保存预设，适合多种创意场景。
-你可以通过点击按钮播放、组合、循环各种音效，或者可以通过文本提示生成全新的 AI 音效，并将这些声音编排成你自己的预设**声音控制面板（soundboard）使用**。
+**ElevenLabs Launched SB1 Soundboard, a custom-made AI-based soundboard tool** that allows users to generate custom sound effects through natural language descriptions and organize them into soundboards (soundboard). It combines the functions of soundboards, drums, and environmental noise generators to support real-time play, looping, and save presets that are suitable for many creative scenes. You can play, group, loop sound effects, or generate new AI sound effects by clicking on buttons, grouping, looping them, or making them available through texttips and formatting them into your own preset** sound panel (soundboard)**.
 
-- 操作简单，基于网页，无需安装；
+- Simple operation, web-based, without the need for installation;
 
-- 集成 AI 音效生成，创作灵活性高；
+- Integrating AI sound generation and high creative flexibility;
 
-- 可多声同时播放，适合丰富场景模拟；
+- Multi-speakable simultaneous broadcast, suitable for a rich simulation of the scene;
 
-- 可储存、分类、自定义，便于长期内容管理；
+- Storage, classification and customization to facilitate long-term content management;
 
-- 提供多个高质量预设合集，适合开箱即用。
+- Provide multiple high-quality preset combinations suitable for open boxes.
 
-这个工具非常适合**内容创作者、主播、游戏玩家、声音设计师、剪辑师**，因为它把音效管理、创作和触发集成在一个可视化平台中，操作简单却功能完整。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-## 核心功能详解
+This tool is well suited to ** content creators, anchorers, game players, voice designers, cutters** because it integrates sound management, creation and triggers into a visual platform that is simple but fully functional.
 
-- **文本到音效生成（Text-to-SFX）**
-用户可以通过文字描述生成音效，例如输入“暴风雨中的雷声”或“科幻激光枪射击声”，SB-1 将使用 AI 生成相应的音频片段。
+# Core function details
 
-- 支持多语言描述，包括英文、日文（例如“効果音を自然言語から生成”）等，增强了全球用户的可访问性。
+- ** Text to Audio Generation (Text-to-SFX)** Users can generate sound through text descriptions, such as " Thunder in Storm" or "Sci-fi Laser Shooting" and SB-1 will use AI to generate the corresponding audio clips.
 
-- 生成的音效可实时播放、循环播放或保存为预设，方便重复使用。
-![](https://assets-v2.circle.so/06st8cd6923a18i13opwh9kuayzy)
-- **优点：**
-无需手动寻找素材；
+- Support for multilingual descriptions, including in English, Japanese (e.g., “synthetic linguization”) and so on, which enhances the accessibility of users worldwide.
 
-- 内容原创、版权清晰；
+- Sound generated can be played in real time, looped or saved as presets to facilitate reuse.[] (https://assets-v2.circle.so/06st8cd6923a18i13opwh9kuayzy) - **Advantages: ** No manual search for material is required;
 
-- 支持高自由度创意表达。
+- The content is original and the copyright is clear;
 
-**多功能音板**
+- Support for high-free creative expression.
 
-- **自定义音板**：用户可以创建无限数量的音板，每个音板包含多个音效槽（slots），支持上传现有音效、使用预制音效或生成新音效。
+** Multifunctional soundboard**
 
-- **实时播放**：点击音板上的“垫”（pad）即可播放音效，支持同时播放多个音效，适合直播或游戏中的即时反应。
+- ** Custom soundboard**: The user can create an unlimited number of soundboards, each containing multiple slots, supporting the uploading of existing sound, the use of prefabricated sound or the generation of new sound.
 
-- **循环与编辑**：可通过切换循环按钮使音效持续播放，并通过编辑按钮覆盖现有音效，生成新的自定义效果。
+- ** real-time play**: Click on the board " pad " to play sound effects and support simultaneous performance of multiple sound effects suitable for immediate response in live or game.
 
-- 支持同时播放多个音效，适合叠加或组合使用；举例：你可以把“雨声”“风声”“鸟鸣”分别放在不同的按钮上，一键触发，营造森林氛围。
-![](https://assets-v2.circle.so/sghql05fi0p46rv8xeq40xkt9fem)
-**鼓机与环境噪声生成**
+- **Round and edit**: Sound can be continuously played by switching loop buttons and overlaying existing sound through editing buttons to generate new custom effects.
 
-- SB-1 不仅限于单一音效，还能生成节奏性鼓点（drum machine）和持续的环境音（如白噪音、森林声），使其成为音乐制作或视频配音的理想工具。
+- Support the simultaneous play of multiple audio effects suitable for stacking or combination; for example, you can put the "rain" "wind" "birds" on different buttons, trigger one key, and create a forest climate.[1] (https://assets-v2.circle.so/sghql05fi0p46rv8xeq40xkt9fem)** drums and environmental noise generation**
 
-- 环境噪声生成器支持“无限”模式，允许用户创建长时间的背景音，适用于播客、直播或放松音轨。
+- SB-1 is not limited to a single sound, but can also generate rhythm drums (drum machine) and persistent environmental sound (e.g. white noise, forest sound) as ideal tools for music production or video sounding.
 
-**预设与自定义音板管理**
-你可以切换以下两种音效集合：
+- The environmental noise generator supports the “infinite” model, allowing users to create a long background sound that is suitable for podcasting, live broadcasting or relaxing tracks.
 
-- **默认预设（Default Presets）**：平台提供的热门分类音效合集，包括：
-环境类（Ambient）：雨声、雷声、火焰、风声、虫鸣等；
+** Preset and custom soundboard management** You can switch to two sound pools as follows:
 
-- 鼓机类（Drums）：传统与电子鼓点；
+- **Default Presets**: hotlists of sound combinations provided by the platform, including: environmental (Ambient): sound of rain, thunder, flame, wind, bug, etc.;
 
-- 影视类（Movie/TV）：爆炸、枪声、笑声、尖叫等；
+- Drums: traditional and electronic drums;
 
-- 动物类（Animals）：狗叫、猫叫、鸟鸣等。
+- Videos (Movie/TV): Explosion, gunshots, laughs, screams, etc.
 
-**自定义预设（My Presets）**：你个人上传、编辑或用AI生成的专属音效库，可命名和分组，便于管理和调用。
-![](https://assets-v2.circle.so/n54odhvhagcfg3xyy56erf8n93gm)**跨平台兼容性**
+- Animals (Animals): Dogs, cats, birds, etc.
 
-- SB-1 与多种平台和软件兼容，包括 Discord、Zoom、TeamSpeak、CS:GO、Fortnite、Valorant 等，适合游戏、聊天和内容创作场景。
+** Custom presets: ** An exclusive audio library that you personally upload, edit or use AI for naming and grouping to facilitate management and call. ** (https://assets-v2.Circle.so/n54odhvhagfg3xy56erf8n93gm)** Inter-platform compatibility**
 
-- 无需下载额外文件，支持从 ElevenLabs 的社区库直接添加音效，简化了使用流程。
+- SB-1 compatible with a variety of platforms and software, including Discord, Zoom, TeamSpeak, CS: GO, Fortnité, Valorant, etc., suitable for play, chat and content creation.
 
-### 使用方式
-**访问网址**：👉 https://elevenlabs.io/sound-effects/soundboard
-**体验步骤**：
-注册免费账号；
-浏览并尝试预设音效；
-进入编辑模式，自定义按钮内容或生成新音效；
-组合成你的专属音板；
-在直播、录制、聊天等场景中使用。
-**无需下载客户端**，一切基于浏览器，适配桌面端为主。
-See more
+- Support for the direct addition of sound from the community library of Eleven Labs without the need to download additional documents to simplify the process of use.
+
+## Usage ** Access to Web site**: https://elevenlabs.io/sund-effects/soundboard**Empirical step**: register free accounts; browse and try to preset sound; enter editing mode, custom button content or generate new sound; group into your own soundboard; use in live, recorded, chat, etc.

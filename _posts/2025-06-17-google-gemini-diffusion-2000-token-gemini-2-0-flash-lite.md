@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google发布 Gemini Diffusion 基于扩散机制的模型 速度可达 2000 token/秒 性能媲美Gemini 2.0 Flash-Lite
+title: Google Gemini Diffusion model based on proliferation mechanisms at a speed of 2,000 token/seconds comparable to Gemini 2.0 Flash-Lite
 date: 2025-06-17 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-gemini-diffusion-2000-token-gemini-2-0-flash-lite_1.jpg
@@ -9,106 +9,88 @@ icon: image
 * content
 {:toc}
 
-在 Google I/O 2025 上Google DeepMind首次公开了其正在开发的前沿技术 —— **Gemini Diffusion**，这是一种将扩散模型应用于语言建模的全新方法。
+In Google I/O 2025, Google Deepmind first made public the cutting-edge technology it was developing - **Gemini Diffusion**, a new way of applying proliferation models to language modelling.
 
-## 什么是 Gemini Diffusion？
+# What's Gemini Diffusion?
 
-- 传统语言模型（如 GPT）采用**自回归（autoregressive）机制**，一次生成一个 token。
+- Traditional language models (e.g. GPT) produce one token at a time using the **autoregressive** mechanism.
 
-- **Gemini Diffusion** 则借鉴图像生成领域的“扩散模型”机制——通过逐步去噪的方式生成完整输出。
+- **Gemini Diffusion** draws on the “proliferation model” mechanism in the field of image generation - to produce complete output through gradual noise removal.
 
-这种非因果（non-causal）推理方式带来了两个重大优势：
-**惊人的生成速度**：可达 **2000 token/秒**，包括 tokenization、预填充、过滤等全部计算流程。
-**更强的全局推理能力**：不依赖一步步线性生成，能够在整体范围内思考问题。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-### 模型原理
-🆚 与传统自回归模型的区别
+This non-negative-causal reasoning has two major advantages: **Apparent rate of generation**: Achievable **2000 token/sec**, including all computational processes such as tokenization, prefilling, filtering, etc. ** Stronger global reasoning**: not relying on step-by-step production, can think on the whole.
 
-- **自回归模型**（如 GPT、PaLM 等）：
-按顺序预测下一个词（token），一个接一个生成。
+# The rationale for the model is the difference between traditional self-regression models
 
-- 优点：结构简单、广泛应用。
+- **self-regression model** (e.g. GPT, PaLM, etc.): predict the next word (token) sequentially, generation one after another.
 
-- 缺点：生成速度慢、全局连贯性受限。
+- Advantages: simple structure and extensive application.
 
-**Gemini Diffusion 模型**（基于扩散机制）：
+- Deficiencies: slow generation and limited global coherence.
 
-- 核心思想：**从随机噪声中逐步“去噪”生成文本**，类比于图像扩散模型（如 Stable Diffusion）。
+** Gemini Diffusion model** (based on proliferation mechanisms):
 
-- 每一步不是直接生成词，而是对当前生成的内容进行微调和纠错。
+- Core idea: ** Gradual “noise” from random noise to produce text**, analogous to image diffusion models (e.g. Stable Diffusion).
 
-- 能更快实现内容构建，并能在生成过程中进行错误修正（error correction）。
+- Each step is not a direct generation of words, but rather a fine-tuning and correction of the content currently generated.
 
-![](https://assets-v2.circle.so/4zhk4403d7hrdz94va677utgcq9h)
-### 主要优势
+- Be able to achieve content construction faster and to correct errors during generation.
 
-- 工作方式：先将一个“完整的文本表示”加入噪声破坏，然后训练模型逐步“去噪”，恢复为合理文本。
-优势：
-**允许整体式生成**：可以一开始生成一个大致草稿，然后反复迭代改进；
+(https://assets-v2.circle.so/4zhk4403d7hrdz94va677utgcq9h) ##principal advantage
 
-- **天然支持纠错与编辑**：因为本质上每一步都在“调整”内容；
+- Methods of work: first add a “complete text expression” to noise damage, then the training model is gradually “noise” and reverts to a reasonable text.
 
-- **适合复杂结构的生成**：如数学、编程语言，要求结构和语义严谨。
+- **Natural support for error correction and editing**: since each step is essentially “adapted”;
 
-**🧩 自然的纠错机制**
+- **According to the generation of complex structures**: for example, mathematics, programming languages, the structure and semantic rigour are required.
 
-- 传统模型生成错误需要外部工具检测与重写。
+** Natural mechanisms for correcting errors**
 
-- 扩散机制本身包含逐步修正过程，使得输出更流畅、准确。
+- Errors in the generation of traditional models require external tool detection and rewriting.
 
-🧮 数学与代码处理能力强
+- The proliferation mechanism itself consists of a gradual process of amendment that makes the output more fluid and accurate.
 
-- Gemini Diffusion 在“可验证的结构化内容”上表现优越。
+Mathematics and code processing skills.
 
-- 例如：数学表达式、程序代码，需满足语法正确性与逻辑一致性，扩散模型更擅长这类“编辑式生成”。
+- Gemini Diffusion is superior in terms of “verifiable structural content”.
 
-![](https://assets-v2.circle.so/7mpk1mdhiceh2l8ouulzibi9chrj)
-## 案例演示
+- For example, mathematical expressions, program codes that satisfy syntax correctness and logical consistency, and diffusion models are better at such “editorial generation”.
 
-### 1. **编程场景表现卓越**
-Gemini Diffusion 特别擅长代码生成，Brendan 称之为“**vibe coding**”体验：几乎是实时写出高质量代码。
-实测速度达 **2000 tokens/秒**，这个速度包括了：
+# Case demonstration #
 
-- tokenization
+##1. **The programming scene performed excellently** Gemini Diffusion was particularly good at code generation, which Brendan called “**vibe counting**” experience: almost real-time high-quality code writing. Actual velocity **2000 tokens/sec**, including:
 
-- 预填充（prefill）
+- Tokenize
 
-- 安全过滤
+- Prefill (prefill)
 
-- 输出合成
+- Safe filter.
 
-👉 对比 GPT-4/Claude 等自回归模型，速度提升非常显著，适合高频互动或低延迟场景（如代码编辑器、聊天机器人等）。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-### 2. **复杂数学问题也能轻松解决**
-传统语言模型（如 GPT-4o）在面对“先答后解”、“跨步骤逻辑”的数学题时容易失败，因为它们是逐步预测的，每一步都会放大之前的错误。
-Gemini Diffusion 采用非因果结构，可以“**先构建完整答案的逻辑框架，再填充细节**”。
-📌 示例问题 1：**题目**：「(√(81) * (2/3))² + (15 - 3) / (2²)」请先给出答案再推导过程。**答案**：39
-✅ Gemini Diffusion 正确完成，GPT-4o 未能解出。📹 
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-### 3. **非线性、多步骤推理能力**
-📌 示例问题 2：**题目**：「150 到 250 之间有多少个质数？先输出数量，再列出所有质数。」**答案**：18 个质数，列表输出为 [151, 157, ..., 241, 251]
-✅ Gemini Diffusion 准确完成，GPT-4o 同样失败。📹 
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-### 4. **非自回归结构 = 推理不再被“顺序”限制**
-扩散机制的非自回归特性让模型可以**全局优化答案结构**，解决那些需要“先知道结尾再写开头”的任务，打破传统 token-by-token 限制。
+- Output synthesis
 
-## 应用前景与影响
+Compared to self-regression models such as GPT-4/Claude, the speed increase is significant and suitable for high-frequency interactions or low-delayed scenarios (e.g. code editor, chat robots, etc.).
 
-### ✅ 应用场景
+## 2. ** Complex mathematical problems can also be easily resolved** Traditional language models (e.g. GPT-4o) are prone to failure in the face of mathematical questions such as “first answer” and “cross-step logic” because they are predictive and each step magnifies previous errors. Gemini Diffusion uses a non-causing structure that “** builds the logical framework of the full answer first, then fills the details**.” Example 1: ** Topic **: ( 81) * (2/3) 2 + (15-3) / (22)” answers should be given first.** Answer: 39  Gemini Diffusion correctly completed, GPT-4o failed to solve.
 
-- 高可靠性语言生成（如金融、法律、医疗文本）
+## 3. ** Non-linear, multistep reasoning** Example  Question 2: ** Topic **: How many prime numbers do you have between 150 and 250? ** Answer: 18 prime numbers, list output [151, 157, ..., 241, 251]  Gemini Diffusion precisely completed, GPT-4o also failed.
 
-- 编程辅助工具（代码生成、错误修复）
+##4. ** Non-regression structure = reasoning is no longer restricted by “order”** The non-regression properties of the proliferation mechanism allow models to optimize the structure of the answer on a global scale**, addressing those tasks that require “know the end before write the beginning” and breaking the traditional token-by-token limit.
 
-- 数学问题自动解答
+# Applying perspectives and impacts
 
-- 文本编辑、润色、重写任务
+♪ ♪ ♪ ♪ apply the scene ♪
 
-### 🚀 技术前景
+- High-reliability language generation (e.g., financial, legal, medical texts)
 
-- 有望与图像/语音等多模态扩散模型融合；
+- Programming aids (code generation, error fixes)
 
-- 打破现有大型语言模型范式，形成“后自回归时代”的新一代架构；
+- A mathematical question.
 
-官方介绍：https://deepmind.google/models/gemini-diffusion/
-See more
+- Text editing, colouring, rewriting tasks
+
+# The future of technology #
+
+- It is expected to be integrated with multi-model diffusion models such as images/sounds;
+
+- Breaking the existing paradigm of large language models and forming a new generation of “post-return-era” structures;
+
+Official presentation: https://deepmind.google/models/gemini-diffusion/

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google I/O 2025 发布 Gemini 2.5 系列模型最新更新：高阶推理模式 Deep Think 、原生音频交互、电脑操作能力、支持MCP...
+title: Google I/O 2025 Gemini 2.5 series model update: Deep Think, Original Audio Interactivity, Computer Operating Capability, Support to MCP...
 date: 2025-06-09 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-i-o-2025-gemini-2-5-deep-think-mcp_1.jpg
@@ -9,116 +9,106 @@ icon: note
 * content
 {:toc}
 
-在Google I/O 2025 大会上，Google 宣布了 **Gemini 2.5 Pro 和 Flash 的功能增强**，同时引入了多个突破性能力，包括：
+At the Google I/O 2025 Congress, Google announced **Gemini 2.5 Pro and Flash functional enhancements** and introduced a number of breakthrough capabilities, including:
 
-- 高阶推理模式 **Deep Think**
+- High-level reasoning **Deep Think**
 
-- 原生音频交互能力
+- Native audio interactive capability
 
-- 多语言语音生成
+- Multilingual voice generation
 
-- 电脑操作能力（Project Mariner）
+- Project Mariner
 
-- 安全性与开发体验优化
+- Security and development experience optimization
 
-![](https://assets-v2.circle.so/hv5w2hc9u8evu8kqrqmj59qejmeg)
-## Gemini 2.5 Pro：全面升级的通用大模型
+#Gemini 2.5 Pro: Universal Large Model for Full Upgraded
 
-### ✅ 更强的智能表现
+♪ ♪ ooh ooh ooh ooh ooh ♪ ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh
 
-- **学术与实用能力大幅提升**：
-在 **WebDev Arena** 排行中拿下最高 ELO 评分 1415（网页开发任务）；
+- ** Significant improvement in academic and practical capacity**: The highest ELO rating of 1415 (website development task) in **WebDev Arena** row;
 
-- 在 **LMArena** 的人类偏好评分中，多个维度居首；
+- Multiple dimensions are at the top of the human preference rating for **LMARENA**;
 
-**100 万 token 上下文窗口**：
+**1 million token context window**:
 
-- 支持复杂多轮对话、长篇文档处理、视频逐帧理解。
+- Support complex multiple rounds of dialogue, lengthy document processing, video-by-college understanding.
 
-### 📚 教育场景的首选模型
+# # The preferred model of the educational scene #
 
-- 集成 LearnLM（由教育专家协作训练）：
-更擅长解释知识、引导学习；
+- Integration of LearnLM (trained in collaboration with educational experts): better able to interpret knowledge and guide learning;
 
-- 在教学对话、人类评测中，超越 GPT-4 与 Claude 等竞品。
+- Beyond competitions such as GPT-4 and Claude in teaching dialogue, human evaluation.
 
-- 成为当前最适合学习与教学场景的通用模型之一。
+- Become one of the most appropriate generic models for learning and teaching scenes at present.
 
-## Deep Think：实验性“深度思维”模式
+# Deep Think: Experimental "Deep Thinking" mode
 
-### 🧠 高阶逻辑能力
+# # # high-level logic #
 
-- **Deep Think** 是 Gemini 2.5 Pro 的一项新实验特性，支持模型“多假设并行推理”，在回答前模拟多路径思考；
+- **Deep Think** is a new experimental feature of Gemini 2.5 Pro, supporting the model “Multi-supposition parallel reasoning”, simulating multi-path thinking before answering;
 
-- 目前已在以下高难任务中表现优异：
-**USAMO 2025**（美国数学奥林匹克）：领先成绩；
+**USAMO 2025** (American Mathematics Olympics): leading results;
 
-- **LiveCodeBench**（代码能力竞赛任务）：排名第一；
+- **LiveCodeBench** (Code Capability Competition Task): ranked first;
 
-- **MMMU**（多模态推理）：准确率达 **84.0%**。 
+- **MMMU** (multimodular reasoning): Accuracy **84.0%**.
 
-![](https://assets-v2.circle.so/pvfua0ppm3ghplallmfcigqotdl1)
-### ⚠️ 当前状态
+(https://assets-v2.circle.so/pvfua0ppm3ghplamfcigqotdl1)
 
-- 仅开放给“受信开发者”（trusted testers）；
+- To “trusted developers” only;
 
-- 正在接受更严格的安全评估，预计未来逐步放开。
+- More rigorous security assessments are under way and gradual liberalization is expected in the future.
 
-## Gemini 2.5 Flash：轻量高效的“AI 工具马达”
+# Gemini 2.5 Flash: Light and efficient "AI tool motor"
 
-### ⚡ 更快、更省、更聪明
+♪ ♪ Faster, cheaper, smarter ♪
 
-- 设计目标：**低延迟 + 高吞吐量 + 低成本**；
+- Design objectives: ** Low delay + High throughput + Low cost **;
 
-- 在推理、多模态处理、长文本任务中全面提速；
+- Full speed in reasoning, multimodel processing, long text tasks;
 
-- Token 使用减少 **20–30%**，显著降低推理成本。
+- Token use reduction **20-30%**, significantly reducing reasoning costs.
 
-![](https://assets-v2.circle.so/82gsc6ceven2s72axe1yb4qvmgg5)
-### 📦 使用渠道
+~ (https://assets-v2.circle.so/82gsc6ceven2s72axe1yb4qvmgg5)
 
-- 现已通过 Google AI Studio、Vertex AI 及 Gemini App 向开发者与公众开放。
+- Developmenters and the public have been made available through Google AI Studio, Vertex AI and Gemini App.
 
-## 原生音频能力：对话更自然、情感更丰富
+# Original audio capacity: Dialogue is more natural and emotional
 
-### 🔊 新功能亮点
+# # New feature bright spot #
 
-- **Native Audio Output**：
-支持自然语音生成，可控制语调、情绪、说话风格；
+- **Native Audio Output**: Supports natural voice generation, controls tone, emotions, speech style;
 
-- 适配 24+ 种语言，支持多语种无缝切换；
+- Fitting 24+ languages to support seamless transliteration of multiple languages;
 
-**Text-to-Speech（TTS）升级**：
+**Text-to-Speech (TTS) upgrade**:
 
-- 可生成双角色对话语音，表现轻声细语、情绪起伏；
+- Producing two-fold voice for dialogue, softly nuanced, emotional ups and downs;
 
-**Live API 扩展**：
+**Live API Extension**:
 
-- **Affective Dialogue**：识别用户语气情绪并匹配反馈；
+- **Affective Dialogue**: recognition of user sentiment and matching of feedback;
 
-- **Proactive Audio**：自动屏蔽背景杂音，智能判断是否回应。
+- **Proactive Audio**: Auto-shield background noise, smart judgement whether to respond.
 
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-## Project Mariner：让 Gemini 控制你的电脑
+# Project Mariner: Let Gemini control your computer
 
-### 🖱️ 关键能力
+# The key power #
 
-- 引入“模拟人类操作电脑”的能力：点击、填写表单、网页交互；
+- The ability to introduce “simulating human manipulation computers”: clicking, filling in forms, web interaction;
 
-- 已与以下企业展开合作测试：
-**Automation Anywhere、UiPath、Browserbase 等**；
+- Testing has been carried out in cooperation with the following enterprises: **Automation Anywhere, UiPath, Browserbase, etc.**;
 
-将于夏季向开发者开放更多 API 测试权限。
+More API test privileges will be opened to developers during the summer.
 
-## 安全性大升级
+# I've got a lot of security upscaling
 
-### 🛡️ 防御新型攻击
+# To defend against new attacks #
 
-- Gemini 2.5 显著加强对“**间接提示注入攻击（Indirect Prompt Injection）**”的防护；
+- Gemini 2.5 significantly enhance protection against “**Indirect Injection”**;
 
-- 通过新的检验机制提升系统在工具使用场景中的鲁棒性；
+- Enhancement of the system ' s robustness in the use of tools through new testing mechanisms;
 
-- 目前为 Google 最安全的模型版本。
+- It's currently Google's safest version of the model.
 
-Google还在 Gemini API 中添加了对模型上下文协议 (MCP) 定义的原生 SDK 支持，以便更轻松地与开源工具集成。
-See more
+Google has also added to Gemini API the original SDK support for the definition of the model context protocol (MCP) to allow easier integration with open source tools.

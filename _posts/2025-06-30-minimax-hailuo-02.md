@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MiniMax 发布其最新视频生成模型 Hailuo 02 全球唯一兼顾画质、复杂控制与高性能的视频模型
+title: MiniMax's latest video-generation model Hailuo 02 is the only video model in the world that combines quality, complex control and high performance.
 date: 2025-06-30 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/minimax-hailuo-02_1.jpg
@@ -9,110 +9,93 @@ icon: design
 * content
 {:toc}
 
-MiniMax 发布其 Hailuo 02（代号“Kangaroo”）的最新AI视频生成模型，在Artificial Analysis评测榜中，全球排名第二，仅次于字节跳动的Seedance 1.0 Pro，超越Google Veo 3。
+MiniMax released its latest AI video production model, Hailuo 02 (code “Kangaroo”), which ranks second in the artificial Analysis rating, after the bytes of Seadance 1.0 Pro, surpassing Google Veo 3.
 
-- **Hailuo 02 是当前唯一公开可用、兼顾画质、复杂控制与高性能的 AI 原生视频生成模型**；
+- **Hailuo 02 is the only current publicly available AI primary video production model that combines paint quality, complex control and high performance**;
 
-- 对比 Runway、Pika Labs、SVD 等主要视频生成技术玩家，Hailuo 更偏重**真实物理建模**与**复杂动作生成**，适用于动画、CG、广告、电影预演等专业创作场景；
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
+- Compared with major video-generated technical players such as Runway, Pika Labs, SVD, Hailuo with greater weight** real physical modelling** and ** complex action generation** for professional creation scenes such as animations, CGs, advertising, film previews, etc.;
 
-## 生成效果能力与特性
-![](https://assets-v2.circle.so/xw121umve9oy1kipjkn3brajngqi)**高分辨率输出**：
+# Generate effect capabilities and properties![] (https://assets-v2.Circle.so/ xw121amve9oy1kipjkn3brajngqi)** high-resolution output**:
 
-- 支持**原生1080p**（1920×1080）分辨率，帧率为24-30fps，提供专业级视觉效果，适合社交媒体、广告原型或短片创作。
+- Support ** original 1080p** (1920 x 1080) resolution with a frame rate of 24-30fps, providing professional visual effects suitable for social media, advertising prototypes or short film creation.
 
-- 另提供768p选项，支持6秒或10秒视频，灵活适应不同需求。
-![](https://assets-v2.circle.so/6j9c6ctpj93qzkkpodr2cdkbrmoy)
-**视频时长**：
+- Another 768p option to support 6 seconds or 10 seconds of video with flexibility to accommodate different needs. [] [https://assets-v2.circle.so/6j9c6ctpj93qkkkpodr2cdkbrmoy] ** Video duration**:
 
-- 最大生成**10秒**视频，适合短格式内容，如社交媒体短视频、促销片段或故事板动画，较前代Hailuo 01（6秒）有所提升。
+- Maximum generation of **10 seconds** videos suitable for short format content, such as short social media videos, promotional segments or storyboard animations, up from the previous generation of Hailuo 01 (6 seconds).
 
-**先进物理模拟**：
+** Advanced physical simulation**:
 
-- 采用突破性的**Noise-aware Compute Redistribution (NCR)**架构，训练和推理效率提升2.5倍，参数量增加3倍，数据集规模扩大4倍。
+- Introduction of a ground-breaking **Noise-aware Compute Rehabilitation (NCR)** architecture with a 2.5-fold increase in the efficiency of training and reasoning, a three-fold increase in the number of participants and a four-fold increase in the size of the data sets.
 
-- 擅长处理复杂物理场景，如体操动作、流体动力学、碰撞检测和材质交互，生成自然、逼真的运动效果。例如，可精准呈现爆炸、布料褶边或反射光影。
+- Be good at handling complex physical scenes, such as gymnastics, fluid dynamics, collision detection and material interaction, producing natural, real motor effects. For example, they can accurately present explosions, fabric edges or reflective light.
 
-**指令遵循与创意控制**：
+** Directive compliance and creative control**:
 
-- 支持**多语言文本提示**（包括英语、汉语等），能准确解读复杂指令，生成符合用户意图的视频。
+- Support** multi-language text tips** (including English, Chinese, etc.) that allow for the accurate interpretation of complex instructions and the generation of videos consistent with user intentions.
 
-- 提供**摄像机指令**功能，用户可指定镜头移动（如平移、倾斜、推拉），生成类似专业Steadicam的电影化效果。
+- Provides **camera command** functionality, which allows users to specify the movement of the lens (e.g. smoothing, tilting, pushing) to produce a filmization effect similar to that of a professional Steadicam.
 
-- 角色一致性强，通过高级面部识别和身体跟踪技术，确保角色外观、服装和特征在所有帧中保持一致。
+- Strong role consistency, through advanced facial recognition and body tracking techniques, to ensure consistency in character, clothing and features in all frames.
 
-**生成模式**：
+** Generation mode**:
 
-- **文本到视频（T2V）**：基于文本描述生成视频，适合从零开始创作。
+- ** Text-to-Video (T2V)**: A video based on a text description is suitable for writing from scratch.
 
-- **图像到视频（I2V）**：将静态图像动画化，保留艺术风格或细节，适用于将插画或照片转化为动态内容。
+- ** Image-to-Video (I2V)**: Animation of static images, preservation of art style or details, applicable to the conversion of illustrations or photographs into dynamic content.
 
-- **主体到视频（S2V）**：基于参考图像保持角色一致性，适合多镜头或连续场景。
-![](https://assets-v2.circle.so/xzwzn830cpmcnsh3fq4s1iexwuw7)
+- ** Subject-to-Visual (S2V)**: Role-consistency based on reference images suitable for multiple lenses or continuous scenes.[7] (https://assets-v2.circle.so/xzwzn830cpmcnsh3fq4s1iexwuw7).
 
-### 成本策略：
+# Cost strategy:
 
-- 由于模型效率提升显著，Hailuo 02 在维持高质量的同时：
-成本不升反降；
+- Hailuo 02, while maintaining high quality, due to significant efficiency gains in the model: cost does not rise or fall;
 
-- 相比行业同类产品（如Runway、Pika、SVD），具有极高性价比；
+- High value for money compared to the same products in the industry (e.g. Runway, Pika, SVD);
 
-定价极具竞争力，生成5-10秒768p视频成本约**0.28-0.56美元**，1080p视频每秒约**0.08美元**，比许多国际竞争对手（如Seedance 1.0 Pro）更经济。
-生成时间约**30-60秒**（视复杂性而定），部分平台（如GoEnhance）声称最快90秒内交付高清视频。
-官方承诺：**不以高门槛限制创作者使用**，技术应普惠。
-![](https://assets-v2.circle.so/anwc5kiiapb1fajvlagbiri4aywu)
-## 技术创新
-Hailuo 02 的发布不仅是简单版本升级，而是在多个维度同时突破的技术跃迁。
+Pricing is highly competitive, generating video costs of 5-10 seconds 768p about **0.28-0.56**, 1080p video about **0.08 per second**, which is more economical than many international competitors (e.g. Seadance 1.0 Pro). Generating time **30-60 seconds** (depending on complexity), some platforms (e.g. GoEnhance) claim to deliver high-resolution videos within 90 seconds.** Official commitment: ** technology should be inclusive without limiting its use to high thresholds**.[https://assets-v2.circle.so/anwc5kiiaapb1fajvlagbiri4aywu]# Technological innovation # Hailuo 02 is not simply an upgrade, but rather a technological leap across multiple dimensions.
 
-### 1️⃣ 架构级创新：**NCR (Noise-aware Compute Redistribution)**
-原理：
+#1 Structural innovation: **NCR (Noise-aware Commute Reform)**
 
-- “噪声感知的计算重分配”，是一种高效能的训练与推理分布方式；
+- “Calculated redistribution of noise perception”, which is an efficient method of training and reasoning distribution;
 
-- 将计算资源动态调配到模型学习任务中更有意义的位置，规避资源浪费；
+- Relocation of computational resource dynamics to a more meaningful place in model learning tasks and avoidance of waste of resources;
 
-成果：
+Outcomes:
 
-- **训练与推理效率提升 2.5 倍**；
+- ** 2.5 times more efficient training and reasoning**;
 
-- 同等硬件资源下可运行参数量更大的模型；
+- Models with a larger number of operational parameters under equivalent hardware resources;
 
-- 为后续推理优化留出充足空间，**未来仍可加速**。
-![](https://assets-v2.circle.so/5frtvtcg32m4sfvmymyupdu7wym9)
+- Leave sufficient space for follow-up reasoning optimization,** which can still be accelerated in the future.[1] (https://assets-v2.circle.so/5frtvtg32m4sfvmymyupdu7wym9)
 
-### 2️⃣ 模型体量：**参数量扩展至前代的 3 倍**
+##2 Model size: ** Arguments expanded to 3 times the previous generation**
 
-- 更大的模型意味着：
-更强的图像细节生成能力；
+- A larger model would mean a greater ability to generate image details;
 
-- 更复杂语义的理解与执行；
+- more complex semantic understanding and implementation;
 
-- 更稳定一致的表现逻辑；
+- A more stable and coherent logic of performance;
 
-得益于 NCR 提高的计算效率，这种扩张并未带来成本上升，反而控制得更合理。
+Thanks to the increased computing efficiency of the NCR, this expansion has not led to cost increases, but has been better controlled.
 
-### 3️⃣ 数据规模与质量提升：**训练数据 × 4 倍**
+##3 Data size and quality enhancement: ** Training data x 4 times**
 
-- 数据内容更广泛，包含：
-复杂人物动作；
+- The data is broader in scope and includes:
 
-- 写实环境下的光影变化；
+- Changes in the light in the writing environment;
 
-- 不同文化和语言背景下的视频内容；
+- Video content in different cultural and linguistic contexts;
 
-数据多样性大幅提升，显著增强模型泛化能力；
-结合 Hailuo 01 的使用反馈，构建高质量标注数据集，实现更精细的目标驱动训练。
+(b) Build high-quality tagging data sets in conjunction with Hailuo 01 feedback to achieve more refined target-driven training.
 
-### 4️⃣ 指令遵循能力：**State-of-the-Art Instruction Following**
+#4 command following ability: **State-of-the-Art Instruction Monitoring**
 
-- 可精确响应更复杂的自然语言提示；
+- Accurate response to more complex natural language tips;
 
-- 多段式描述、含抽象意象、动作控制的提示执行表现优秀；
+- The performance of multi-part description, abstraction, motion control tips was excellent;
 
-- 在测试中，复杂场景下的**动作协调性、连续性、物理合理性大幅提升**。
+- In the tests, ** movement coordination, continuity, physical rationality in a complex scenario has increased significantly**.
 
-## 一些案例
+# Some cases
 
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-00:00UnmuteMuteSettingsCaptionsDisabledQuality720pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlaySee more
+
+

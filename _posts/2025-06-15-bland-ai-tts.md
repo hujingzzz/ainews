@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bland AI发布全新 TTS 引擎：利用大语言模型直接生成语音 只需一个简短的音频就能 克隆任意人声的语音风格
+title: Bland AI TTS Engine: Using a large language model to directly generate a voice that only needs a short audio to clone any human voice.
 date: 2025-06-15 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/bland-ai-tts_1.jpg
@@ -9,108 +9,83 @@ icon: image
 * content
 {:toc}
 
-**Bland AI发布全新的**Bland TTS，宣称这是**“第一个跨越恐怖谷（Uncanny Valley）”的产品。**
+**Bland AI released a brand-new **Bland TTS, declaring it to be **the first “Uncanny Valley” product.**
 
-- **恐怖谷**：是指 AI 的语音或面部越接近人类、但还不到完美时，反而会让人感到不适或怪异。Bland TTS 声称已突破这一点，使 AI 语音听起来**几乎无法与真人区分**。
+- **Treasure Valley**: It means that AI's voice or face is not perfect when it's not perfect. Bland TTS claims it's broken, making AI's voice ** almost impossible to distinguish from the real person**.
 
-Bland TTS**只需一个简短的音频**就能：
+Bland TTS** only requires a short audio ** to:
 
-- 克隆任意人声
+- Cloning any human voice.
 
-- 或者将另一个克隆的语音风格（如语调、节奏、发音方式等）进行“混搭”再造。
+- Or “combined” the other cloned voice style (e.g. tone, rhythm, pronunciation, etc.).
 
-其核心是利用大语言模型（LLM）直接生成语音，而非依赖传统的逐层转换架构。该系统具备前所未有的情绪表达、风格控制、多说话人理解、非语言音效生成等能力，并通过自研的音频Token系统（SNAC）实现了更真实、更可控、更具上下文的语音合成。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality720pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-## 功能亮点
+At its core is the use of large language models (LLMs) for direct voice generation, rather than relying on traditional layer-by-storey structures. The system has unprecedented emotional expression, style control, multi-talker understanding, non-verbal sound generation, and has achieved more real, controlled, and contextualized speech synthesis through self-researched audio Token systems (SNACs).
 
-### 1️⃣ 语音风格控制（Style Transfer）
+# Activate bright
 
-- 模型可以通过 **“上下文学习”** 自动理解什么是“兴奋的语气”或“冷静的语调”；
+#1 Style Transfer
 
-- 也可以手动加入控制标签，如：
-<excited> 这是一个重大突破！ <calm> 请仔细阅读以下说明。 
-- 只需要3~6个语音示例，系统就能合成出同样风格的新内容。
+- Models can be understood automatically through ** "Learning in context"** what is an "excited tone" or "cool tone";
 
-### 2️⃣ 音效生成（Sound Effects）
-不仅能合成语言，还能**生成音效**，如：
-<dog_bark> 代表狗叫声 <laughter> 模拟笑声 只要你提供了标注的文本和音频示例，模型就能记住对应关系。
+- You can also manually add control labels such as: <excised>, which is a major breakthrough! <calm>. Read the following instructions carefully. - Only 3-6 speech examples are needed to enable the system to synthesize new content of the same style.
 
-### 3️⃣ 语音混合（Voice Blending）
-通过提供多个声音示例，系统能自动“融合”出一个新声音，既保留多个说话人的特征，也具备语气连贯性。适用于：
+#2  sound generation not only synthesizing language but also ** producing sound ** e.g. <dog_bark> simulates laughter on behalf of dogs <lughter> if you provide annotated text and audio examples, the model will remember the correspondence.
 
-- 品牌语音设计；
+#3 #VoiceBlending allows the system to automatically “combin” a new voice by providing multiple voice examples, preserving the characteristics of multiple interlocutors and maintaining a consistent tone.
 
-- 多语者统一风格输出；
+- Brand voice design;
 
-- 虚拟形象角色创作。
+- Unanimous multilingual output;
 
-### 4️⃣ 语音情绪理解（Emotionally Aware）
-系统不再是“照字念”，而是真正根据上下文变化语气——
+- Virtual image role creation.
 
-- 技术介绍更理性；
+# # 4 # # Emotionally Aware is no longer a word-for-word system, but really changes the tone from context to context #
 
-- 安慰类内容更温暖；
+- More rational technical orientation;
 
-- 问答互动更自然。
+- Comfortable content is warmer;
 
-## 核心技术：重构传统TTS流程
-**✅ 传统TTS的痛点**
-以往TTS是流水线式的步骤：
-文字 → 音素 → 韵律 → 波形 → 合成声音
-每一步都可能出错，而且最终效果往往“缺乏情感、声音割裂”。这是因为传统方法**是先理解内容，再“拼装”语音**，很难自然地传递语气与情绪。
-**✅ Bland 的方案：一体化建模**
-Bland AI 的新技术把整个过程打通，采用 **大语言模型直接预测声音**，过程如下：
-文本输入 → 模型直接输出“音频Token” → 再还原成真实声音
-好比是“你告诉它要说什么，它直接用理解后的语气和情绪生成声音”，而不是一个拼接器去逐步“翻译”。
+- Questions and answers are more natural.
 
-### 🎧 数据层面的突破：千倍级别提升
-任何生成系统的底层，都是数据质量。Bland 团队认为，公开语音数据远远不够用，尤其在真实对话建模方面。
-他们构建了一个 **行业顶尖的大规模对话语音数据集**，具备以下特征：
-![](https://assets-v2.circle.so/b3zzwwxqduz6nfhx1fgvjfxgmxrq)
-## 技术架构核心：从文本 LLM 到语音 LLM
+# Core technology: Reconstructing the traditional TTS process ** The pains of the traditional TTS** The former TTS were the steps of the flow line: Text  Sound  Rhythm  Wave  Synthetic sound  Every step can be wrong and often the end effect is “lack of emotion, sound splitting.” This is because the traditional method** is to understand the content and then “combin” the voice** and it is very difficult to transmit the tone and emotions naturally. ** **  Bland: Integrated Model** Bland AI's new technology to enable the entire process to be achieved using ** Large Language Models to predict the sound directly ** the process: Text Input  Model outputs directly from Audio Token  and then to actually sound as if “You tell it what to say, it directly uses the language and emotions that understand it to produce a voice”, rather than a collator to “translify”.
 
-### 🧠 LLM的通用思路
-传统 LLM 的做法是：
-把文字切分成 Token → 学会预测下一个 Token → 还原为完整句子
-Bland 的方法：
-把文字切分 → 预测对应的“音频 Token” → 还原成语音波形
-这里的 **“音频Token”** 是经过 SNAC（光谱归一音频编码器）编码的离散表示，兼顾：
+##  breakthrough at the data level: a thousand-fold upgrade at the bottom of any generation system is data quality. The Bland team believes that open voice data is far from useful, especially in real dialogue modelling. They build a ** industry-top large-scale voice data set** with the following characteristics: [] [https://assets-v2.circle.so/ b3zzwwxqduz6nfhx1fgvjxgxrq]# technology architecture core: from text LLM to voice LLM
 
-- 宏观节奏（如语速、停顿）；
+The traditional LLM approach is to split text into Token  the method of predicting the next Token  to restore it to full sentence Bland  predicting the corresponding "audio Token" to voice wave form **" Audio Token"** is a discrete expression encoded by SNAC (spectrally integrated audio encoder), taking into account:
 
-- 微观细节（如发音、音色）。
+- Macro beats (e.g. speed of speech, pause);
 
-这种方式让模型可以真正同时掌握“内容+表达方式”，说得对、也说得好。
+- Micro-details (e.g. pronunciation, sounds).
 
-## **应用场景与使用人群**
+This approach allows the model to really master the “content plus expression” at the same time, right and right.
 
-### 1. 🎨 创作者（Creatives）
+# **Application scene and user population**
 
-- 将文字转为**逼真的 AI 语音或音效**
+# 1. Creatives
 
-- 支持**精细化控制风格和情绪**
+- Turn text into a real AI voice or sound**
 
-- 适合播客、配音、音频小说、影片等内容创作场景
+- Support** fine control styles and emotions**
 
-### 2. 🧑‍💻 开发者（Developers）
+- Design scenes suitable for content such as podcasting, audio programming, audio novels, films, etc.
 
-- 可通过 API 接入自己的应用
+#2. # Developers
 
-- 用于构建自定义语音功能的产品（如语音助手、教育产品、播报系统等）
+- Access your application via API
 
-### 3. 🏢 企业用户（Enterprises）
+- Products used to construct custom voice functions (e.g. voice assistants, educational products, broadcasting systems, etc.)
 
-- 搭建**AI 客服系统、电话助手等商业语音服务**
+##3. # Enterprise users
 
-- 声音自然真实，客户甚至会把它当作真人保存为联系人
+- Construction of commercial voice services such as **AI customer service systems, telephone assistants, etc.**
 
-- 可在网站上**直接尝试与 AI 对话**
+- The sound is natural. The client will even keep it as a contact.
 
-官方介绍：https://www.bland.ai/blogs/new-tts-announcement
-快速开始链接：
+- A dialogue with AI can be tried directly on the website**
 
-- 开发者入口：https://t.co/qBpGkJh2Gp
+Official introduction: https://www.bland.ai/blogs/new-tts-announcement Quick Start Link:
 
-- 企业入口：https://t.co/Szf9KNwfHs
+- Developer portal: https://t.co/qBpGkJh2Gp
 
-See more
+- Enterprise portal: https://t.co/Szf9KNwfHs
+

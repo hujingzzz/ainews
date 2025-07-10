@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google 发布全新的 3D 视频通信平台：Google Beam 让视频通话像真实面对面聊天一样
+title: Google's 3D video communication platform: Google Beam makes video calls like real face-to-face conversations
 date: 2025-06-21 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-3d-google-beam_1.jpg
@@ -9,89 +9,76 @@ icon: chat
 * content
 {:toc}
 
-Google 在其 I/O 2025 大会上宣布，曾作为研究项目存在的 **Project Starline** 正式演变为全新的 3D 视频通信平台 —— **Google Beam**。
-该平台依托 Google Cloud 和先进的 AI 技术，致力于实现更自然、沉浸式的视频通话体验。
+Google announced at its I/O 2025 General Assembly that **Project Starline**, which existed as a research project, had formally evolved into a new 3D video communication platform - **Google Beam**, which built on Google Cloud and advanced AI technology to work towards a more natural, immersed video talk experience.
 
-- **它是干什么的？**Google Beam 是一个可以让远程视频通话看起来像真实面对面聊天的平台，用人工智能把普通摄像头拍到的2D图像“变身”成立体的3D效果。
+**What does it do?**Google Beam is a 3D effect that allows remote video calls to look like real face-to-face chatting, using artificial intelligence to capture the 2D image "Change" found on a regular camera.
 
-- **主要功能有哪些？**
-3D视频通话（无需佩戴设备）
+- ** What are the main functions?** 3D video calls (without equipment)
 
-- 实时语音翻译（保留语气、表达）
+- Real-time voice translation (retention of tone, expression)
 
-- 自然的眼神接触与表情交流
+- Natural eye contact and expression.
 
-- 兼容企业级工作流
+- Compatibility with enterprise-level workflows
 
-- **它解决了什么问题？**跨地域沟通的“疏离感”和语言障碍，让远程协作更像亲临其境。
+- ** What problem does it solve?** The “dissociation” and language barriers of cross-geographic communication make remote collaboration more like being physically present.
 
-- **它用的什么方法？**通过AI构建体积视频模型 + 光场显示技术。
+- ** What's it using?** Build a volume video model through AI + optical display technology.
 
-- **达到了什么效果？**实现了沉浸式、高保真、具有人情味的远程沟通体验，特别适合企业远程会议、客户交流等场景。
+- ** What has been achieved?** A immersion, high level of integrity and humanization of remote communication has been achieved, especially in the context of business teleconferencing, client exchanges, etc.
 
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay最初，**Project Starline** 是 Google 于几年前启动的一项前沿研究项目，旨在打造一种让远程视频交流如同身临其境的体验。其核心目标是：**打破物理空间的限制，实现面对面沟通的沉浸感**，且不依赖任何额外的设备，如VR头盔或3D眼镜。
-现在，Google 宣布该项目的全面升级，并命名为 **Google Beam** —— 一个以 **人工智能驱动的3D视频通信平台**，标志着其从实验室研究走向商业化部署的重要转折点。
+Initially,**Project Starline** was a front-line research project launched by Google a few years ago, aimed at creating an experience of remote video communication as if it were in its immediate vicinity. Its core objective is:** to break physical space and achieve a sense of face-to-face communication** and not to rely on any additional equipment, such as VR helmets or 3D glasses.
 
-## 核心技术能力
-1. **AI驱动的“体积视频模型”（Volumetric Video Model）**
-Google Beam 的核心是一个先进的 AI 模型，能够从普通的2D摄像头视频流中自动重建出具有深度和立体感的3D图像。这意味着：
+# Core technical capability 1. **AI-driven "Volumetage Video Model"** The core of Google Beam is an advanced AI model capable of automatically reconstructing 3D images with depth and stereo sense from a normal 2D video stream. This means:
 
-- 用户可在无需穿戴任何设备的情况下，以真实比例、角度、光影观看对方，就像对面真的坐着一个人。
+- Users can see each other in real proportions, angles, light without wearing any equipment, as if there was a person sitting across the street.
 
-- 支持从任意视角查看，让互动更加自然、灵活。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality720pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-2. **“光场显示器”（Light Field Display）呈现真实空间感**
-配合 AI 模型输出的视频，Beam 通过光场显示技术，营造出极其逼真的深度感：
+- Support for a more natural and flexible interaction from an arbitrary perspective.
 
-- 实现**真实的眼神交流**，不像传统视频那样“对不上视线”；
+** The Light Field Display displays a real spatial sense** coupled with a video from the AI model, Beam creates a very compelling depth through the optical display technology:
 
-- 能捕捉和传递微妙的**面部表情和肢体动作**，有助于理解、建立信任与共鸣。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality720pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-3. **AI 实时语音翻译：跨语言沟通的自然桥梁**
-Google Beam 正在整合 **实时语音翻译功能**，目前已经在 Google Meet 中应用：
+- Real eye communication**, unlike the traditional video, which is “not in line”;
 
-- 支持“几乎实时”的翻译；
+- Capable of capturing and transmitting subtle** facial expressions and physical movements**, which contribute to understanding, building trust and resonance.
 
-- **保留原始语调、语气和情绪表达**；
+3. **AI real-time voice translation: a natural bridge for cross-linguistic communication** Google Beam is integrating ** real-time voice translation** and is currently applied in Google Meet:
 
-- 让不同语言的用户仿佛在说同一种语言，**最大程度还原面对面对话的真实感受**。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality720pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-这是 Google 实现“全球无障碍沟通”愿景的关键一步。
+- Support for “almost real-time” translations;
 
-## 企业级拓展：从实验室走向会议室
-Google 正在与多家知名企业进行合作，将 Google Beam 引入实际使用场景：
-1. **设备合作伙伴：HP 首批推出 Beam 硬件设备**
+- ** Retain original tone, tone and emotional expression**;
 
-- HP 将在 2025 年的 InfoComm 展会上展示首批 Google Beam 设备；
+- Allowing users of different languages to speak the same language,** maximizing a return to the true feelings of face-to-face dialogue**
 
-- 并将于年内向部分企业客户开放试用。
+This is a crucial step towards realizing Google's vision of “global accessibility communication”.
 
-2. **技术集成与分销网络**
+# Enterprise-level outreach: From laboratory to conference room Google is working with a number of well-known businesses to introduce Google Beam to actual use scenes: 1. ** Device partners: HP first roll-out of Beam hardware**
 
-- Google 与 Zoom 合作，计划将 Beam 功能集成到 Zoom 平台；
+- HP will show the first Google Beam devices at the InfoComm exhibition in 2025;
 
-- 与全球领先的音视频集成商 Diversified 与 AVI-SPL 合作，推动 Beam 在企业客户中的落地部署。
+- It will be open to selected business clients during the year.
 
-3. **领先客户试点企业**
-包括以下全球知名机构已参与试点或表达合作意愿：
+2. **Technology integration and distribution network**
 
-- **Deloitte（德勤）**认为 Beam 是“连接人类的下一代技术”，不仅是工具，更是一种新的连接理念；
+- Google, in collaboration with Zoom, plans to integrate Beam functions into the Zoom platform;
 
-- **Salesforce、Citadel、NEC、Duolingo、Recruit** 等都已在内部部署或表达高度兴趣；
+- Working with AVI-SPL, a leading global audio-visual integrator, to promote Beam's landing among corporate clients.
 
-- **Hackensack Meridian Health** 等医疗行业客户也在探索其在远程医疗中的潜力。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
+3. ** Lead client pilot business** includes the following globally recognized institutions that have been involved in the pilot or expressed willingness to cooperate:
 
-### 实际应用场景与愿景
-Google Beam 的设计初衷是“**从任何地方，实现像在一起一样的交流体验**”。它未来的应用方向包括但不限于：
+- **Deloitte** considers Beam to be “the next generation of technology that connects humanity”, not only as a tool, but also as a new concept of connectivity;
 
-- 企业远程会议、客户拜访、员工培训；
+- **Salesforce, Citadel, NEC, Duolingo, Recruit** have been deployed internally or have expressed a high level of interest;
 
-- 教育场景中导师与学生的高质量互动；
+- Clients in the medical sector such as **Hackensack Meridian Health** are also exploring their potential in telemedicine.
 
-- 医疗行业中医生与远程患者的深入交流；
+## The actual application scene and vision Google Beam was originally designed to “** from anywhere to achieve the same communication experience as together**”. Its future application orientation includes but is not limited to:
 
-- 甚至可能拓展至线上招聘、文化交流、跨国商务谈判等。
+- Teleconferencing, client visits, staff training;
 
-请访问 beam.google 了解更多信息
-See more
+- Quality interaction between teachers and students in educational scenes;
+
+- In-depth communication between doctors and remote patients in the medical profession;
+
+- It may even extend to online recruitment, cultural exchanges, cross-border business negotiations, etc.
+
+Read more on beam.google

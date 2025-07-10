@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Intology 公司的的人工智能科学家 Zochi 登上 ACL 2025：成为首个通过顶级会议评审的自主 AI 科学家系统
+title: ACL 2025: Become the first autonomous AI scientist system to be evaluated through a top-level conference
 date: 2025-06-28 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/intology-zochi-acl-2025-ai_1.jpg
@@ -9,114 +9,98 @@ icon: note
 * content
 {:toc}
 
-AI研究公司 Intology 宣布，他们开发的“人工科学家”系统 **Zochi**，**独立完成了从选题到实验，再到写作与投稿的完整科研流程**，其成果——一篇关于多轮越狱攻击的研究论文，已被自然语言处理顶级会议 **ACL 2025 主会议（Main Proceedings）正式接收**。
-![](https://assets-v2.circle.so/iqmhe8bzdwazhi1fva62l5wmw47w)这一事件不仅是科研自动化的技术突破，更可能是**科研范式的一次拐点**：人工智能不仅能“协助”科研，**它已能“主导”科研**。
+AI Research announced that the system of “manual scientists” they developed **Zochi**,** had independently completed the complete scientific process from topic selection to experiment to writing and writing**, the results of which — a research paper on multiple rounds of escape attacks, which had been officially accepted by the ACL 2025 conference (Main Proceedings) ** [https://assets-v2.circle.so/iqmhe8bzdwazhi1fva62l5wmw47www], was not only a technological breakthrough in the automation of scientific research, but more probably a turning point in the scientific paradigm**: artificial intelligence can not only “assist” scientific research,** it has “leaded” scientific research**.
 
-- **Zochi 是由 Intology 开发的人工科学家系统**，成为首个**自主通过 ACL 主会审稿的 AI 系统**。
+- **Zochi is a system of artificial scientists developed by Intology** and became the first AI system** to adopt the ACL draft autonomously**.
 
-- 它可以自动进行文献综述、选题、方法创新、实验设计与验证、论文写作
+- It can automatically do literature overviews, topic selection, methodological innovation, experimental design and validation, paper writing
 
-- ACL 是自然语言处理领域排名第一的国际顶级会议，其主会录用率约为 20%，录取论文需具备**高水平的技术深度、创新性与实验完整性**。
+- ACL is the highest international conference in the field of natural language processing, with a main intake rate of about 20 per cent, with a high level of technical depth, innovation and experimental integrity**.
 
-- Zochi 的论文《Tempest》获得 meta-review 评分 4，处于前 8.2% 的高分论文行列。
+- Zochi's thesis Tempest received a meta-review rating of 4, in the top 8.2%.
 
-Zochi 发布的研究《Tempest》，展示了如何通过自然的对话方式一步步让语言模型“放松警惕”，最后说出本应禁止的内容。Tempest 在 GPT-3.5-turbo 上成功率 100%，在 GPT-4 上达 97%，超越现有方法。
-这项研究不仅揭示了语言模型安全机制的漏洞，也展示了 AI 自主科研的实力。
+The study "Tempest," published by Zochi, shows how language models can be “relaxed” step by step through natural dialogue, and ends with what should be banned. Tempest has a 100% success rate on GPT-3.5-turbo, 97% on GPT-4, exceeding existing methods.
 
-## Zochi 系统的研究流程架构
-Zochi 并非传统意义上的“AI助手”，而是具备端到端科学研究能力的独立代理（agent）。其研究流程包括：
+#Zochi’s research process architecture Zochi is not a non-traditional “AI assistant” but an independent agent (agent) with end-to-end scientific research capabilities. Its research processes include:
 
-### 1. 📚 文献自动分析
+# 1.  Documentation autoanalyzing
 
-- 吞吐数千篇论文，自动构建知识图谱
+- Swallow thousands of papers and build knowledge maps automatically
 
-- 判断当前研究瓶颈与发展路径
+- Determining current research bottlenecks and development pathways
 
-- 特别擅长发现**跨文献的隐性关联**
+- Specially good at discovering the hidden connections** across literature**
 
-### 2. 🎯 研究方向选定
+##2.  Research direction selected
 
-- 起始输入仅为“研究大方向”（如：LLM 越狱攻击）
+- The initial input is only "researched in general directions" (e.g., LLM escape attack)
 
-- 系统自主确定**具体研究问题**与方法路径
+- System-owned identification** of specific research issues** and methodological pathways
 
-- 本次研究中，Zochi聚焦于“多轮越狱 + 树搜索策略”的组合
+- In this study, Zochi focuses on the combination of "multicycle escape + tree search strategy"
 
-### 3. 🧪 实验设计与自动化验证
+#3.  Experimental design and automated validation
 
-- 自动生成实验方案、编写测试脚本
+- Automation of experimental programmes, preparation of test scripts
 
-- 标准数据集全流程固定，结果更具可复现性
+- Standard data sets are fixed throughout the process, resulting in more repossibility
 
-- 多轮并行测试显著加快验证速度：**完整项目周期只需几天**
+- Multiple rounds of parallel testing have significantly increased the speed of validation:** the full project cycle will only take a few days**
 
-### 4. ✍️ 论文写作与提交
+# 4.  Writing and submission of papers
 
-- 自动撰写整篇论文（含摘要、方法、实验、结论）
+- Automatically writing the entire paper (including summaries, methods, experiments, conclusions)
 
-- 人类仅参与图表制作、格式排版与引用整理
+- Humans are only involved in chart production, formatting and citation
 
-- Zochi 不列为作者，仅在致谢部分标注使用系统
+- Zochi is not listed as author, only uses the system in the thanks component
 
-![](https://assets-v2.circle.so/ga5fk65ft02jnnwhmr2vwnnqzxmx)
-## 本次发表的论文内容概览（ACL 2025）
+~ (https://assets-v2.circle.so/ga5fk65ft02jnnwmr2vwnnqzmxx) # Overview of the contents of this published paper (ACL 2025)
 
-### 🔖 论文题目：
-**《Tempest: Automatic Multi-Turn Jailbreaking of Large Language Models with Tree Search》**
+#  Title of the paper: **Tempest: Automotic Multi-Turn Jailbreaing of Large Language Models with TreSearch**
 
-### 🎯 研究问题：
-如何设计更高效的**多轮越狱攻击方法（multi-turn jailbreak）**，突破大语言模型（如GPT-4）的对话安全限制。
+# # Question: How to design more efficient ** multi-cycle escape methods (multi-turn Jailbreak)** and break through the dialogue security restrictions of large language models (e.g. GPT-4).
 
-### 方法：Tempest系统（树搜索+对话优化）
-Zochi提出了一种叫做 **Tempest** 的新方法：
-![](https://assets-v2.circle.so/78gmhdgixby1g8cuzpenr85iymg5)➡️ 简而言之：Tempest通过模拟自然对话，用多个阶段的提问逐步“绕过”语言模型的安全限制，比传统的“一句话攻击”更有效。
+## Method: The Tempest system (tree search + dialogue optimization) Zochi proposes a new approach called **Tempest**:[] (https://assets-v2.circle.so/78gmhdgixby 1g8cuzpenr85iymg5)  In short: Tempest, by simulating natural dialogue, progressively “closing” the security limitations of the language model with multiple stages of questioning, is more effective than the traditional “one word attack”.
 
-### 📊 实验结果：
-![](https://assets-v2.circle.so/7d9yic8cy0k9x2533oigczvhnga0)
-- Tempest不仅更**成功**，而且**使用更少的查询**（效率更高）；
+# Experimental results: [] (https://assets-v2.circle.so/7d9yic8cy0k9x2533oigczvhnga0) - Tempest not only has been more successful** but also ** has used fewer queries** (more efficient);
 
-- 实验方法完整严谨，包含对比实验、消融实验和多模型测试。
+- Experimental methods are complete and rigorous and include comparison experiments, digestion experiments and multi-model tests.
 
-### 📌 研究意义：
+# The meaning of research:
 
-- 揭示大语言模型对话安全策略中存在**“逐步让步”的风险**；
+- To reveal the risk of a “step-by-step compromise” in the dialogue security strategy of the large-language model**;
 
-- 为语言模型的安全防护提供了新的分析工具和思路；
+- New analytical tools and ideas were provided for the security protection of language models;
 
-- 提供方法论框架，有助于设计更强的防御机制。
+- The provision of a methodological framework to help design stronger defence mechanisms.
 
-**Paper:** https://arxiv.org/pdf/2503.10619**论文：** https://arxiv.org/pdf/2503.10619
-![](https://assets-v2.circle.so/spqj223r60mdz8w215snmzqwg39b)
-## 为什么这是一次里程碑式突破？
-**首次AI独立通过A*会议审稿**
+**Paper:** https://arxiv.org/pdf/2503.10619** dissertations:** https://arxiv.org/pdf/2503.10619![] (https://assets-v2.Circle.so/spqj223r60mdz8w215snmzqwg39b) ## Why was this a milestone breakthrough? ** The first independent adoption by AI of the A* conference review **
 
-- ACL是全球自然语言处理领域最权威会议之一；Zochi成为第一个通过其正式审稿的AI。
+- ACL is one of the most authoritative global meetings in the field of natural language processing; Zochi became the first AI to adopt its official draft.
 
-**实现“科研自动化”闭环**
+** “Automated scientific research” closed **
 
-- 过去AI只能辅助写摘要或整理数据，如今Zochi具备**提出新科学问题并解决的能力**。
+- In the past, AI had been able only to support the preparation of summaries or the collation of data, and now Zochi has the ability to ** raise new scientific issues and solve them**.
 
-**高效高质**
+** Efficient quality**
 
-- 整个研究周期从构想到论文完成仅需**几天**，比传统人类研究者快数十倍。
+- The entire research cycle, from conception to the completion of the paper, takes only a few days**, which is dozens of times faster than traditional human researchers.
 
-**研究深度过硬**
+** Research depths are hard**
 
-- Zochi论文获得最终评分4分，位列前8.2%的顶会投稿，超过多数人类作者。
+- Zochi ' s thesis received a final score of 4 points, ranking among the top 8.2 per cent of the contributions, exceeding the majority of human authors.
 
-## Zochi接下来的发展方向
+# Zochi's next direction
 
-### 🔬 Beta计划发布：
-Intology计划将Zochi发布给公众，分阶段推出：
-**科研合作者模式**（初期）：
+#  Beta project released: The Intology project published Zochi to the public and launched in stages: ** Model for scientific collaborators** (initial stage):
 
-- 可协助选题、撰写基金标书、设计实验、撰写综述论文等；
+- Assistance in the selection of topics, preparation of proposals for the Fund, design experiments, preparation of general papers, etc.;
 
-- 更注重与人类研究员的协同工作。
+- Greater emphasis on teamwork with human researchers.
 
-**自主科研模式**（后期）：
+** Autonomous scientific model** (later):
 
-- 具备完整的自动化研究能力，逐步开放其全流程功能。
+- Complete automated research capacity, gradually opening up its full-process functionality.
 
-官方介绍：https://www.intology.ai/blog/zochi-acl
-See more
+Official presentation: https://www.intology.ai/blog/zochi-acl

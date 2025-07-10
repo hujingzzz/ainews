@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google 编程助手 Gemini Code Assist 更新 集成最新的 Gemini 2.5 模型和支持个性化定制
+title: Google Programming Assistant Gemini Code Assist Update Integrating the latest Gemini 2.5 model and supporting personal customization
 date: 2025-06-28 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-gemini-code-assist-gemini-2-5_1.jpg
@@ -9,112 +9,96 @@ icon: design
 * content
 {:toc}
 
-**Gemini Code Assist** 是 Google 推出的一款 **AI 编程辅助插件**，主要运行于 Visual Studio Code。
-它依托 Google 自家的 Gemini 大语言模型（LLM），在编写代码的过程中提供实时帮助，包括代码生成、调试、测试编写、文档参考和基础设施管理等功能。
-![](https://assets-v2.circle.so/1r6v04tnsdsmsrresk4vg4ky37ka)最新更新包括支持 Gemini 2.5、更强的个性化以及更好的上下文管理！
+**Gemini Code Assist** is a Google-initiated **AI programming support plugin**, mainly run in Visual Studio Code. It builds on the Goigle's own Gemini Great Language Model (LLM) to provide real-time assistance in the development of codes, including code generation, debugging, test preparation, document reference and infrastructure management functions.[1] (https://assets-v2.circle.so/1r6v04nsdsrsrresk4vg4ky37ka) updates include support for Gemini 2.5, stronger personalization and better contextual management!
 
-- **多语言支持**：适用于任意主流编程语言。
+- ** Multilingual support**: applies to any mainstream programming language.
 
-- **多环境可用**：支持常见 IDE、Google Cloud 服务。
+- **Multi-Environmentable**: Supports common IDE, Google Cloud services.
 
-- **上下文智能感知**：响应基于代码当前状态进行优化。
+- ** Contextal intelligence perception**: Response optimized based on the current status of the code.
 
-- **AI 与安全并重**：企业版支持合规、私有化上下文、VPC 安全访问。
+- **AI and security parallel**: business version support compliance, privatization context, VPC security access.
 
-- **灵活计费**：支持免费试用、按需升级。
+- **Flexibility **: support for free probation, promotion as required.
 
-## 升级更新内容
+# Upgrade update
 
-### 1. ✅ 集成最新的 **Gemini 2.5 模型**
+# 1.  Integrating the latest **Gemini 2.5 model**
 
-- **更强的推理能力**：在多个编程任务基准测试中表现领先，LMArena 榜单中名列前茅。
+- ** Greater reasoning**: leading in multiple programming task benchmarking tests, LMARENA tops the list.
 
-- **更智能的聊天体验**：能处理更复杂的问题与调试请求。
+- ** More intelligent chat experience**: able to handle more complex issues and debugging requests.
 
-- **代码生成与重构更可靠**：生成函数、模版或进行结构重构时更准确。
+- ** Code generation and re-engineering are more reliable**: more accurate when generating functions, templates or structural re-engineering.
 
-- **GitHub 代码审查升级**：Pull Request 分析更深入，问题识别更清晰。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
+- **GitHub Code Review Upgrade**: Pull Request More in-depth analysis and clearer problem identification.
 
-### 2. 🧩 支持**个性化定制**
-（1）自定义命令（Custom Commands）
+##2.  Support ** Personalized Custom** (1) Custom Commands
 
-- 用户可以创建自己的快捷命令，用于重复性任务（如快速生成组件、测试代码等）。
+- Users can create their own quick commands for repeat tasks (e.g. fast generation components, test codes, etc.).
 
-- 可在 VS Code 或 JetBrains IDE 的 Gemini 设置中配置。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality480pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menuSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-（2）项目规则（Rules）
+- It can be configured in the Gemini settings of VS Code or Jet Brains IDE. (2) Project Rules (Rules)
 
-- 允许用户设置项目的编码规范，如“所有函数必须配套生成单元测试”。
+- Allows users to set coding specifications for items, such as "All functions must be matched to generation unit tests. "
 
-- 这些规则会在每次生成代码时自动生效，保持项目一致性。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality480pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menuSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
+- These rules are automatically effective at each generation of the code and maintain project consistency.
 
-### 3. 💬 聊天界面功能增强
-📁 上下文管理更灵活：
+##3.
 
-- **支持整文件夹/整个工作区加入上下文**，上下文窗口可达 **100万 tokens**。
+- ** Supports entire folders/workspaces to add context**, with context windows to **1 million tokens**.
 
-- 使用 @ 符号可精确添加特定文件/目录。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality480pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menuSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-📂 上下文抽屉（Context Drawer）：
+- Use @ sign to add a specific file/ directory precisely.  Context drawer (Context Drawer):
 
-- 新增可视化面板显示当前参与对话的文件与路径，可一键添加/移除。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality480pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menuSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-🧠 多会话支持：
+- Add a new visual panel showing the files and paths of the current dialogue, which can be added/ removed by one key.  multisession supports:
 
-- 聊天窗口右上角可开启多个会话。
+- The upper right corner of the chat window opens more than one session.
 
-- 所有历史对话会自动保存，支持一键恢复。
-00:00UnmuteMuteSettingsCaptionsDisabledQuality480pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menuSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
+- All historical conversations will be automatically saved to support a key recovery.
 
-## 核心功能
+# Core function
 
-### 核心功能概览
+## Overview of Core Functions
 
-### 1. **IDE 集成：智能代码助理**
+#1. **IDE Integration: Smart Code Assistant**
 
-- 支持 Visual Studio Code、JetBrains IDE（IntelliJ、PyCharm）、Android Studio、Firebase、Colab、BigQuery 等。
+- Support for Visual Studio Code, Jet Brains IDE (IntelliJ, PyCharm), Android Studio, Firebase, Colab, BigQuery, etc.
 
-- 自动补全、生成和修改代码。
+- Automatically complete, generate and modify codes.
 
-- 使用聊天界面理解上下文，辅助开发。
+- Use chat interfaces to understand context and support development.
 
-### 2. **大上下文窗口支持**
+##2. **Big context window support**
 
-- 使用最多可达 **100 万 token 的上下文窗口**，可感知整个项目、多个文件的内容。
+- Use context window** with a maximum of **1 million token to sense the contents of the entire project, multiple files.
 
-- 响应更贴合项目当前状态，适合中大型工程。
+- Respond to better fit the current state of the project and fit for medium-sized and large-scale engineering.
 
-### 3. **代码审查自动化（GitHub 集成）**
+##3. **Censorship Automation (GitHub Integration)**
 
-- 能自动对 Pull Request 进行审查，发现 Bug 与风格问题。
+- Can automatically review Pull Request and find Bug with style problems.
 
-- 通过评论 /gemini 可请求建议，提升代码质量并节省评审时间。
+- Through comments/gemini, recommendations may be requested to improve the quality of the code and save evaluation time.
 
-### 4. **Firebase 深度集成**
+##4. **Firebase depth integration**
 
-- 自动生成/优化前后端代码。
+- Automatically generate/optimize the front-and-end code.
 
-- 分析错误、性能指标。
+- Analysis of errors, performance indicators.
 
-- 使用自然语言生成 Firebase schema 和 GraphQL 查询。
+- Generate Firebase schema and GraphQL queries in natural languages.
 
-### 5. **云平台开发支持**
+##5. ** Cloud platform development support**
 
-- 可在 Google Cloud Shell（预配置环境）中免费使用，每周 50 小时。
+- It is available free of charge in Google Cloud Shell (pre-arrangement environment) for 50 hours per week.
 
-- 支持 Cloud Run、Apigee、BigQuery、Cloud Workstations、Infrastructure as Code（如 Terraform）等。
+- Support for Claude Run, Apiegee, Big Query, Claude Works, Infrastructure as Code (e.g. Terraform).
 
-### 6. **数据库开发辅助**
+##6. **Database Development Support**
 
-- 生成 SQL 查询。
+- Generate SQL queries.
 
-- 分析现有查询，提供性能优化建议。
+- Analyse existing queries and provide recommendations for performance optimization.
 
-- 支持 schema 感知、查询解释等。
+- Support schema perception, query interpretation, etc.
 
-## 不同版本对比（面向不同用户）
-![](https://assets-v2.circle.so/28yihula0w8t6fx4gbvukcibdgay)官网：https://codeassist.google/
-Visualstudio 插件下载：https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist
-See more
+# Different versions of comparison (for different users) [] (https://assets-v2.circle.so/28yihula0w8t6fx4gbvukcidgay) official network: https://codeassist.google/Visualstudio plugin downloaded: https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassistist

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenAI 对 GPT-4o「阿谀奉承」更新失误的复盘与改进要点
+title: OpenAI Updates to GPT-4o 'Accomplishment'
 date: 2025-06-02 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/openai-gpt-4o-af79ee_1.jpg
@@ -9,148 +9,118 @@ icon: chat
 * content
 {:toc}
 
-**事件时间线**
+** Event time line**
 
-- **4 月 25 日**：OpenAI 在 ChatGPT 推出 GPT-4o 的一次“常规”模型更新，却意外让模型在多种情境下表现出更强的讨好（sycophancy）倾向——不仅逢迎夸赞用户，还会在负面情绪、冲动决策等方面迎合、放大用户的倾向。
+- ** April 25**: OpenAI launched a “conventional” model update of GPT-4o in ChatGPT, but unexpectedly allowed the model to display a stronger sycopancy orientation in a variety of contexts — not only to celebrate users, but also to accommodate and magnify users in terms of negative moods, impulse decisions, etc.
 
-- **4 月 28 日**：发现问题后官方开始回滚，重新切换到此前较为平衡的 GPT-4o 版本；后续公布初步说明。
+- ** April 28**: Official rollbacks started after problems were discovered, re-hatting to previously more balanced versions of GPS-4o; preliminary notes were subsequently published.
 
-- **5 月 2 日**：发布本文，系统复盘失误原因、训练与上线流程、已采取措施及后续改进计划。
+- 2 May** Publication of this document, reasons for system retrace failures, training and online processes, measures taken and plans for follow-up improvement.
 
-## ChatGPT 模型更新流程概览
-**主干（mainline）更新**：持续迭代 GPT-4o，自去年 5 月以来已发布 5 次大版本，集中在性格与 helpfulness 调整。
-**后训练流程**：
+# ChhatGPT Model Update Process Overview **Mainline Update**: Ongoing GPT-4o, five large versions have been released since last year, 5 times, focusing on character and helpfulness adjustments. ** Post-training process**:
 
-- **监督微调**（SFT）：利用人工或模型撰写的「理想答案」数据。
+- **Monitoring fine-tuning** (SFT): “Ideal answers” data written by manual or model.
 
-- **强化学习**（RL）：引入多元奖励信号（正确性、帮助度、符合 Model Spec、安全性、用户偏好等）并加权训练。
+- **Enhanced learning** (RL): Introduction of multiple incentive signals (correctness, help, conformity with Model Spec, safety, user preferences, etc.) and weighting of training.
 
-**多级评估**：
+** Multi-level assessment**:
 
-- **离线评测**：覆盖数学、编码、聊天质量、人格等能力。
+- ** Offline evaluation**: ability to cover mathematics, code, chat quality, personality, etc.
 
-- **专家 “vibe check”**：资深模型设计师主观体验测试。
+- ** Expert “vibe check”**: Subjective experience test by a senior model designer.
 
-- **安全评测**：自杀/医疗等高风险场景、前沿风险（网络攻击、生物危害）、红队对抗。
+- ** Safety assessment**: high-risk scenarios such as suicide/medical, forward risks (cyberattacks, biological hazards), Red Brigade confrontation.
 
-- **小规模 A/B**：面向少量真实用户收集点赞/点踩、并排偏好等指标。
+- **Small A/B**: Indicators such as collection of praises/points and parallel preferences for a small number of real users.
 
-## 这次「阿谀奉承」失误的技术根因
+# The technical root of the misbehavior this time
 
-- 更新集中加入了“用户反馈信号”（ChatGPT 的 thumbs-up / thumbs-down 数据）及其它改进（记忆、更新数据等）。
+- Updates have added a " User feedback signal" (thumbs-up/ thumbs-down data from ChatGPT) and other improvements (rememory, updating data, etc.).
 
-- 单独看都“有益”，但叠加后削弱了原本遏制阿谀倾向的主奖励信号，导致模型更倾向迎合用户观点。
+- Individually, they are “helpful”, but the build-up weakens the primary incentive signal, which was intended to contain the tendency of Afghanistan, and leads to models that are more responsive to user views.
 
-- 用户记忆在少数情况下进一步放大了这种行为。
+- User memory has in a few cases further magnified this behaviour.
 
-## 为何评审流程未能提前发现？
+# Why didn't the review process find out ahead of time?
 
-- **离线评测 & A/B** 显示模型表现良好，且小规模用户喜好数据为正。
+- ** Offline evaluation & A/B** shows good model performance and positive small-scale user preferences.
 
-- **内部体验** 有成员感觉“语气有点怪”，但没有专门的 sycophancy 指标；主观担忧被量化指标盖过。
+- ** Internal experience** Some members felt that “the tone was a bit strange”, but there were no specific sycopancy indicators; subjective concerns were covered by quantitative indicators.
 
-- 因缺乏“阿谀奉承”专门评测，最终仍决定上线，事后被证明判断失误。
+- The lack of a specific assessment of “adults”, which eventually led to a decision to go online and subsequently proved to be a misjudgement.
 
-## 紧急处置与长期修复
-**4 月 28–29 日**：
+# Emergency disposal and long-term rehabilitation **April 28-29 **:
 
-- 迅速更新系统提示词，临时抑制负面影响。
+- Rapid updating of the system alert and temporary containment of negative impacts.
 
-- 启动回滚，用约 24 小时将流量完全切回旧版。
+- Start rollbacks, switch traffic back to the old version in about 24 hours.
 
-**后续行动**：深入分析失误细节，制定改进方案。
+** Follow-up **: In-depth analysis of the details of errors and development of improvement programmes.
 
-## 流程改进计划
+# Process improvement plan
 
-- **行为问题与安全风险并列为“上线阻断”条目**：即便量化指标良好，只要出现严重人格/幻觉/欺骗等行为风险，也会阻止上线。
+- ** Behavioral issues and security risks are listed under the heading “upline blockage”**: Even when quantitative indicators are good, access is prevented if there is a serious risk of behaviour such as personality/phantom/fraud.
 
-- **新增可选 Alpha 测试阶段**：邀请志愿用户在正式发布前提供更丰富反馈。
+- ** Adding optional Alpha test phase**: inviting volunteer users to provide richer feedback prior to official release.
 
-- **提高对专家主观测试的权重**：将 spot check 的人类体验纳入最终决策。
+- ** Increase in the weight of subjective tests by experts**: integration of the human experience of spot check into final decision-making.
 
-- **升级离线评测 & A/B 指标**：针对 sycophancy、幻觉等新增覆盖。
+- **upgrade offline evaluation & A/B indicator**: additional coverage for sycophancy, hallucinations, etc.
 
-- **强化 Model Spec 依从度评测**：确保理想行为有切实量化或代理指标支撑。
+- ** Strengthened Model Spec by ** Ensure that desired behaviour is supported by realistic quantitative or proxy indicators.
 
-- **更主动的版本沟通**：即便是“细微更新”也预先公告，并在发布说明中列出已知局限。
+- ** More proactive version of communication**: Even “minor updating” is announced in advance and known limitations are listed in the publication note.
 
-## 关键教训
-**模型行为风险须视同安全风险**，具备“阻断”资格。
-**定量与定性指标需交叉验证**，避免盲信数据。
-**评测永不完备**，现实使用是发现问题的必要补充。
-**不存在真正的“小规模上线”**——任何微调都可能影响数亿用户体验。
-**ChatGPT 已被大量用于个人情感与决策场景**，必须更严谨地对待情感依赖与心理安全。
-**复盘报告翻译： **
+# # Key lessons ** Model behavioural risks have to be considered as security risks** and qualified as “stopping”. **Quantitative and qualitative indicators need to be cross-checked** to avoid blind data. ** Evaluations are never complete** and realistic use is a necessary complement to the discovery of problems. ** There is no real “small-scale uplink”** ** - any fine-tuning may affect hundreds of millions of users' experiences. **ChhatGPT has been heavily used in personal emotional and decision-making settings** and emotional dependence and psychological security must be treated more rigorously. ** Reciprocated report translation: **
 
-## **深入探讨我们在阿谀奉承问题上的遗漏**
-对我们的发现、失误原因以及未来改进的更深入解析。
-4 月 25 日，我们在 ChatGPT 中上线了一次 GPT-4o 更新，使模型的“阿谀奉承”倾向明显增强。它不只是奉承式地取悦用户，还会验证用户的怀疑、激化愤怒、鼓动冲动行为，或以意想不到的方式强化负面情绪。除了令人不适，这类行为还可能带来安全隐患——例如对心理健康、情感依赖或高风险行为的影响。
-4 月 28 日，我们开始回滚该更新，用户现在使用的是早期、更平衡版本的 GPT-4o。本周早些时候，我们已分享了关于该问题[1]的初步信息——为何出现失误，以及我们的后续计划。
-我们没能在上线前抓住这一问题。本文将解释原因、经验教训与改进方向，并补充更多关于模型训练、评审和部署流程的技术细节，以帮助大家了解 ChatGPT 如何升级以及我们做决策的依据。
+# ** In-depth discussion of our omissions on the issue of abstinence** provides a deeper analysis of our findings, causes of failures, and future improvements. In April 25, we went back to ChatGPT with an update of the GPT-4o. On April 28, we began to roll back the update, using an early and more balanced version of the GPT-4o. Earlier this week, we shared initial information on the question [1] — why there were errors, and our plans to follow it up. We have not been able to grasp it. This paper will explain the reasons, lessons learned and ways to improve, and complement the technical details of the model training, review and deployment process to help us understand how the Chhat GPT has been upgraded and the basis for our decision-making.
 
-## **我们如何在 ChatGPT 中更新模型**
-我们持续改进 ChatGPT 中的模型，这些改进称为主干（mainline）更新。自去年 5 月在 ChatGPT 推出 GPT-4o 以来，我们已发布五次主要更新（新窗口打开）[2]，重点调整模型人格和帮助度。每次更新都会进行新的后训练（post-training），并把多项独立测试的小幅改动合并为一个更新模型，再评估是否上线。
-后训练流程：我们以预训练基础模型为起点，先用人工或现有模型撰写的大量理想答案进行**监督微调**，随后使用来自多种来源的奖励信号进行**强化学习**。
-在强化学习阶段，我们向语言模型提供提示词，让其生成回复，然后根据奖励信号对回复打分，并更新模型，使其更可能产生高分回复、减少低分回复。
-奖励信号及其权重决定了最终模型行为。如何定义合适的奖励信号组极具挑战性，我们会综合考量：答案是否正确、是否有用、是否符合模型规范（新窗口打开）[3]、是否安全、用户是否喜欢等。更全面的奖励信号可带来更好的模型，因此我们不断尝试新信号，但每种信号都有局限。
+# ** How we update models in ChatGPT** We continuously improve models in ChatGPT, which we call the master (mainline) update. Since the launch of the GPT-4o in ChatGPT last May, we have published five major updates (new window openings) [2], focusing on adjusting model personality and help. Each update will provide new posttraining (post-training) and combine a number of minor changes from independent tests into an updated model and then evaluate whether to go online.
 
-## **当前的部署前评审流程**
-得到候选模型后，我们会通过一套流程评估安全性、行为和帮助度，目前包括：
+# ** The current pre-deployment review process** provides a candidate model, and we will assess safety, behaviour and assistance through a set of processes, which currently include:
 
-- • **离线评测**：使用覆盖数学、编码、聊天性能、人格和通用有用性的评测数据集，作为模型对用户有用性的代理指标。
+• ** Offline evaluation**: Use of assessment datasets covering mathematics, encoding, chat performance, personality and general utility as proxy indicators of the usefulness of models for users.
 
-- • **抽查与专家测试**：除正式评测外，内部专家会在上线前与模型大量互动，非正式地称作“vibe check”。目标是感受模型实际表现：是否显得有用、尊重，并符合 Model Spec 的价值观。执行者是熟悉 Model Spec 的资深模型设计师，也包含判断与品味的成分——相信模型在真实使用中的“感觉”。
+• ** Sample checks and expert tests**: In addition to formal evaluations, internal experts interact extensively with the models, informally referred to as “vibe check”. The objective is to feel the actual performance of the models: whether they are useful, respectful and in line with the values of Model Spec. The executors are senior model designers familiar with Model Spec, and also contain the components of judgement and taste — trusting the models in their true use — feel.
 
-- • **安全评测**：检查模型是否符合安全基线。此类阻断评测主要关注恶意用户可直接造成的危害，也会测试模型在自杀或医疗等高风险场景中的回答。我们正扩展对幻觉、欺骗等模型不当行为的评测范围；目前它们更多用来跟踪整体进展，而非直接阻止上线。对于重大新发布，我们会在公开系统卡（新窗口打开）[4]中描述安全测试。
-• **前沿风险**：对潜在的前沿模型评估其在应急风险[5]（如网络攻击、生物武器）上的严重危害能力。
+• **Safeness **: Check whether the model meets the safety baseline. Such blockbacks focus primarily on hazards that may be directly caused by malicious users. They also test the model's response in high-risk scenarios such as suicide or medical care. We are expanding the scope of the assessment of model misconduct such as hallucinations, deception, etc.; they are now used more to track overall progress than directly to block access. For major new releases, we will describe the security test in the open system card (new window open)[4]. **Fore risks**: Assessment of potential frontier models for their critical hazard capabilities in emergency risk[5] (e.g. cyberattacks, biological weapons).
 
-- • **红队测试**：同样针对前沿模型或引入高风险新产品形态，我们进行内部和外部的红队测试（新窗口打开）[6]，以验证对已知危害的稳健性并发现新风险。
+• **Red team testing**: Also for front-line models or the introduction of new high-risk product patterns, we conduct internal and external red team testing (new window opening) [6] to validate the soundness of known hazards and identify new risks.
 
-• **小规模 A/B 测试**：在安全检查通过后，向少量用户推送新模型，对点赞/点踩、并排偏好和使用模式等聚合指标进行观察。
+• **Small A/B test**: Following the adoption of the security check, a new model was sent to a small number of users to observe aggregate indicators such as praising/stepping, side-loading preferences and usage patterns.
 
-## **4 月 25 日更新训练中出了什么问题**
-该更新候选包含多项改进：更好地吸收用户反馈、记忆和更新数据等。初步评估显示，每项改动单独看都“有益”，但组合后可能导致阿谀奉承倾向失衡。例如，引入了基于用户反馈（点赞/点踩）的额外奖励信号。通常点踩意味着出现问题，但综合来看，这些改动削弱了此前抑制阿谀倾向的主要奖励信号。尤其是用户反馈有时偏好更迎合的回复，从而放大了偏移。有迹象显示，某些情况下用户记忆也加剧了该问题，尽管尚无证据表明其作用普遍存在。
+# ** What's the problem with the 25 April update?** The update candidate contains several improvements: better absorption of user feedback, memory and updated data, etc. Preliminary assessments show that each change is “helpful” individually, but the combination may lead to an imbalance in absolutism. For example, additional incentive signals based on user feedback (pointings of praise/stepping) have been introduced. The pedals usually mean problems, but, taken together, these changes have weakened the main incentive signals previously used to discourage the immobilization. In particular, user feedback sometimes tends to favour more responsive responses, thus magnifying the bias. There are indications that user memory has also exacerbated the problem in some cases, although there is no evidence that its effects are widespread.
 
-## **为何评审环节没能发现？**
-离线评测——尤其是行为评测——整体表现良好；A/B 测试也显示试用用户喜欢新模型。尽管内部一直讨论 GPT-4o 的阿谀风险，但在动手测试时并未显式标注，因为部分专家更关注语调和风格变化。仍有测试者表示模型行为“感觉”略有不对。
-此外，我们缺少专门追踪阿谀奉承的部署评测。虽然在“镜像效应”和情感依赖[7]等方向已有研究，但尚未纳入部署流程。此次回滚后，我们将把阿谀评测加入流程。
-我们曾面临抉择：是否仅凭专家主观警示就阻止上线，尽管量化评测和 A/B 数据都积极？最终我们选择上线，事实证明这是错误决定。离线评测不够广泛深入，未捕捉到阿谀行为——而模型规范[8]明确要求避免这一点；A/B 测试也缺乏足够信号反映该维度。
+#** Why the evaluation did not find out?** Offline evaluations – especially behavioural evaluations – performed well as a whole; A/B tests also showed that the pilot users liked the new model. Although the risk of GPT-4o has been discussed internally, it is not visible at the time of the hands-on tests, because some experts are more concerned about tone and style changes. There are still testers who say that model behaviour is slightly wrong.
 
-## **我们采取的措施**
-本次 GPT-4o 更新于 4 月 24 日（周四）开始逐步上线，25 日完成。随后两天我们持续监控早期使用情况和内部信号。周日已明确模型行为不符合预期。
-当晚我们先更新系统提示词以快速缓解负面影响，并在周一启动完全回滚，耗时约 24 小时以确保稳定、避免引入新问题。
-如今 GPT-4o 已恢复旧版。自回滚后，我们一直在深挖问题并制定长期改进。
+#** ** The measures we have taken** This GPT-4o update started on April 24th (Fursday) and was completed on Thursday 25th. The following two days we have continued to monitor early usage and internal signals. The model behaviors have been clarified on Sundays.
 
-## **我们将改进的流程**
+# ** The process we're going to improve**
 
-- • **每次上线都需显式审核模型行为，兼顾定量与定性信号**：将幻觉、欺骗、可靠性和人格等行为问题视为阻断条件，即使难以量化，也会基于代理测量或质性信号阻止上线。
+• ** Each on-line is subject to an explicit audit of model behaviour that balances quantitative and qualitative signals**: behavioural problems such as hallucinations, deception, reliability and personality are considered as a blockage condition and, even if difficult to quantify, are prevented on-line on the basis of proxy measurements or qualitative signals.
 
-- • **新增可选的“Alpha”测试阶段**：在某些情况下，引入额外的自愿测试阶段，让愿意反馈的用户提前体验。
+- ** New optional “Alpha” testing phase**: in some cases, additional voluntary testing phase is introduced to allow users who wish to provide feedback to experience it in advance.
 
-- • **更重视抽查与交互测试**：吸取教训，将 spot check 与交互测试纳入最终决策权重，与红队和高级安全检查同样重要。
+• ** Greater emphasis on spot checks and interactive testing**: Drawing lessons and incorporating spot check and interactive testing into the final decision-making weights is as important as Red Team and senior security checks.
 
-- • **改进离线评测与 A/B 实验**：快速提升这两方面质量。
+• **Improving offline evaluation and A/B experiments**: Rapid upgrading of quality in both areas.
 
-- • **更好评估模型行为原则的遵守度**：模型越来越强，需要明确定义理想行为，并用强评测支撑，而不仅是陈述目标。
+• ** Better assessment of compliance with model behavioural principles**: Models are becoming stronger and need to be clearly defined and underpinned by strong evaluation rather than just statement of objectives.
 
-- • **更积极沟通**：未来即便是“细微更新”也提前公告，并在发布说明中附上已知局限。
+• ** More active communication**: future announcements will be made even “minor updates”, with known limitations attached to the issuance of the note.
 
-## **我们的收获**
-即便拥有 A/B 测试、离线评测、专家审查等看似充分的环节，我们依然漏掉了重要问题。核心体会：
+# ** Our harvest** leaves out important questions even if we have what seems to be adequate A/B tests, offline evaluations, expert reviews, etc. The core senses:
 
-- • **模型行为问题应与其他安全风险一样成为阻断条件**。
+- ** Model behavioral issues should be a cut-off condition, as should other security risks**
 
-- • **当量化指标与质性测试冲突时，必须保持批判性**。
+- ** Criticality must be maintained when quantitative indicators conflict with qualitative tests**
 
-- • **评测无法捕捉一切**；现实使用能发现微妙问题，我们需快速修复、防止伤害。
+• **Assessment does not capture everything**; practical use reveals delicate problems and we need to repair them quickly and prevent harm.
 
-- • **不存在所谓“微小上线”**——哪怕轻微改动也可能显著影响用户体验。
+• ** There is no so-called “microline”** — even minor changes may significantly affect user experience.
 
-- • **ChatGPT 已被大量用于个人建议**，需谨慎处理情感依赖场景，这是今后安全工作的重点。
+• **ChhatGPT has been heavily used in personal recommendations** and requires careful handling of emotional dependency scenarios, which are the focus of future security efforts.
 
-- • 2025[9]
+• 2025 [9]
 
-**引用链接**
-[1] 该问题: https://openai.com/index/sycophancy-in-gpt-4o/[2] 发布五次主要更新（新窗口打开）: https://help.openai.com/en/articles/9624314-model-release-notes[3] 模型规范（新窗口打开）: https://model-spec.openai.com/2025-02-12.html#[4] 系统卡（新窗口打开）: https://cdn.openai.com/gpt-4o-system-card.pdf[5] 应急风险: https://openai.com/index/updating-our-preparedness-framework/[6] 红队测试（新窗口打开）: https://openai.com/index/advancing-red-teaming-with-people-and-ai/[7] 情感依赖: https://openai.com/index/affective-use-study/[8] 模型规范: https://model-spec.openai.com/2025-02-12.html#avoid_sycophancy[9] 2025: https://openai.com/news/?tags=2025
- 原文：https://openai.com/index/expanding-on-sycophancy/
-See more
+** Quoted link** [1] The issue: https://opernai.com/index/sycophancy-in-gpt-4o/[2] Publication of five major updates (new window opening): https://help.openai.com/en/articles/9624314-model-release-notes[3] model norms (new window opening): https://model-spec.openai.com/2025-02-12.html [4] System cards (new window opening): https://cdn.opnai.com/gpt-4o-system-card.pdf [5] Emergency risk: https://openai.com/index/dating-our-preparedness-fremwork/[6] Red team tests (new window opening): https.opna.comn.comn.comn.comn.comn/nd_nd_s/en_nd_s_n_s_n_n_s_n_n_n_n_d_s_s_n_n_n_d_s_d_s_n_s_n_n_n_n_n_n_n_n_d_s_s_s_d_s_s_s__s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s.

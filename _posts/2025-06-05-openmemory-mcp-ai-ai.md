@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenMemory MCP：统一的 AI 记忆管理平台 本地运行 存储、组织和管理你的“记忆” 可在各个AI之间使用
+title: OpenMemory MCP: The unified AI memory management platform runs locally to store, organize and manage your "memory" from one AI to another.
 date: 2025-06-05 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/openmemory-mcp-ai-ai_1.jpg
@@ -9,59 +9,46 @@ icon: chat
 * content
 {:toc}
 
-**OpenMemory MCP** 是一个本地运行的应用程序，用于存储、组织和管理你的“记忆”，以便在不同的 AI 工具之间携带上下文。
-它针对目前 LLM 工具“记忆不连续”、“上下文缺失”、“隐私无法保证”的三大难点，提出了解决方案：
+**OpenMemory MCP** is a locally run application for the storage, organization and management of your "rememory" to carry context between different AI tools. It proposes solutions to three of the main difficulties of the current LLM tool, "Remembrance Inconsistence", "Deficiencies in context", "Inability of privacy":
 
-- 提供一个统一、结构化、私有的“记忆层
+- To provide a unified, structured and privately owned “memory layer”
 
-- 记忆本地化管理，隐私安全
+- Localization of memory management, privacy security
 
-- 通过权限模型，用户主导数据流动
+- User-led data flow through permission models
 
-- 支持扩展，适用于多类 AI 客户端生态
+- Support extension for multi-category AI client ecology
 
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay可以让你在 Claude、Cursor、Windsurf 等 LLM 工具之间持续使用历史信息、对话风格、偏好和项目状态，从而实现真正的跨平台、连续性 AI 交互体验。
-可以理解为：**你的 AI 个人助理第一次有了一块真正“属于你”的持久记忆模块，还能在各种AI之间来回调用，**同时确保隐私和控制权掌握在用户手中**。**
+It is understood that:** for the first time, your AI personal assistant has a truly “you” permanent memory module that can be called back and forth between various AIs,** ensuring privacy and control in the hands of users**.
 
-## ✨ 核心功能亮点
-![](https://assets-v2.circle.so/c2kddhw25aoawk3535g2ztlbe6m3)
-### 典型使用场景（Use Cases）
-**项目上下文传递**
+#  Core feature bright spot! [] (https://assets-v2.Circle.so/ c2kddhw25aoawk35g2ztlbe6m3) ## Typical use (Use Case) ** Project context transfer**
 
-- 你在 Claude 中讨论了一个 API 设计，转到 Cursor 编码时，仍能访问设计细节、约束和需求。
+- You still have access to design details, constraints and requirements when you discuss an API design in Claude and move to Cursor code.
 
-**调试轨迹记录**
+** Debug track records**
 
-- MCP 自动记录你过去如何排查某类 bug，AI 可以基于这些模式主动提出建议。
+- MCP automatically records how you've checked certain types of bugs in the past, and AI can make proposals on the basis of these models.
 
-**Prompt 历史记忆**
+**Prompt Historical Memory**
 
-- 存储你在不同任务中的提示风格，让不同工具可以模仿或延续风格。
+- Storage of your alert style in different tasks so that different tools can imitate or continue the style.
 
-**会议要点与回忆**
+** Highlights and memories of the session**
 
-- 记录过往会议摘要和你的反馈，后续 AI 可以在生成文档或总结时引用。
+- Recording the summaries of past meetings and your feedback, which AI can quote when generating a document or summing up.
 
-**产品演进轨迹记录**
+** Log of product evolution**
 
-- 记录从功能需求 → 实现 → 反馈的全过程，AI 辅助回顾与迭代。
+- Recording the entire process of achieving the feedback from functional requirements, AI supporting retrospective and iterative.
 
-### 系统架构与安全模型
-🧭 本地优先（Local-First）：
+## System architecture and security model  Local priority (Local-First):
 
-- 所有数据默认仅存在于本地设备，无需网络连接即可运行；
+- All data are only available locally by default and can be operated without network connections;
 
-- 不会自动同步至云端，除非用户主动执行“导出”或“共享”操作。
-![](https://assets-v2.circle.so/zb6ttbl7mw5it1fpvr6whl4cxz4y)
-🔐 权限可审计（Permission-Based Access）：
+- Do not automatically synchronize to cloud ends unless the user does export or share operations on its own.[] (https://assets-v2.Circle.so/zb6tbl7mw5it1fpvr6whl4cxz4y)  Auditable (Permission-Base Access):
 
-- 每一次 AI 工具读取/写入记忆都需获得显式授权；
+- Each AI tool reading/writing memory requires explicit authorization;
 
-- 用户可查看详细访问日志与数据用途。
+- Users can view detailed access logs and data uses.
 
-![](https://assets-v2.circle.so/w2qwxjwu8bbzqm2uej8ieq276rpf)🧩 MCP Clients（客户端工具）支持：
-目前已兼容 Claude、Cursor、Windsurf 等，可扩展接入更多 LLM 客户端。
-![](https://assets-v2.circle.so/uhoiecu85f2kuu52t07wy6pd696h)
-## 待发布与规划中的功能
-![](https://assets-v2.circle.so/1qjl69xw1p9vzq4pl55tl2ud4y6m)访问：https://mem0.ai/openmemory-mcp
-See more
+(https://assets-v2.circle.so/w2qwxjwu8bbzqm2uej8ieq276rpf)  MCP Clients (client tool): currently compatible with Claude, Cursor, Windsurf, etc., with extended access to more LLM clients. #(https://assets-v2.circle.so/uhoecu85f2kuu52t07wy6pd696h) #(https://assets-v2.circle.so/1qjl69x1p9vzq4pl55tl2ud4y6m) visit: https://mem0.ai/openemory-mcp6p!

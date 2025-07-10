@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AI笔记软件Granola宣布获得4300 万美元 B 轮融资 估值达到2.5亿美金 同时发布了其Granola 2.0版本
+title: The AI Notebook software Granola announced $43 million in B. Wheel financing, valued at $250 million, and its Granola version 2.0.
 date: 2025-06-13 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/ai-granola-4300-b-2-5-granola-2-0_1.jpg
@@ -9,94 +9,80 @@ icon: web
 * content
 {:toc}
 
- AI笔记软件Granola宣布获得4300 万美元 B 轮融资，估值达到2.5亿美金 ，同时发布了其Granola 2.0版本
+The AI Notebook software Granola announced $43 million in round B financing, valued at $250 million, and released its Granola version 2.0.
 
-- **融资情况**：已完成 4300 万美元 B 轮融资，由 Nat Friedman & Daniel Gross 领投，Lightspeed 和 Spark 跟投
+- ** Finance **: $43 million has been completed B Rounded Finance, led by Nat Friedman & Daniel Gross, Lightspeed and Spark
 
-- **投资人背景**：涵盖 Vercel、Replit、Shopify、Ramp、Intercom 等一线技术产品公司的核心人物
+- **Investor background**: covers the core of First Line Technology Products Vercel, Replit, Shopify, Ramp, Intercom, etc.
 
-- **战略愿景**：将 Granola 打造成“建立在企业实时语境之上的智能协作平台”，不仅支持工作，更支持思考
+- **Strategic vision**: Create Granola as an “intelligent collaborative platform based on a real-time business context” that not only supports work, but also supports thinking
 
-Granola 2.0 不是单纯的会议记录工具，而是**将会议转录、AI分析和团队知识管理三者整合**，构建出一个**“可交互的会议知识系统”**。
-![](https://assets-v2.circle.so/wwp68vmgj1he55qu2llnuuh9cnxz)它的目标是：**让组织中每天发生的对话不再流失，而是被系统性捕捉、结构化整理，并用于支持团队决策和协作。**
-可以：
+Granola 2.0 is not a mere meeting record tool, but** integrates the three elements of conference transcription, AI analysis and team knowledge management** and builds an ** “interactive conference knowledge system”**.[] [https://assets-v2.Circle.so/wwp68vmgj1he55qu2llnuuh9cz] Its objective is to:** keep the daily dialogue in the organization from losing, but rather to be systematically captured, structured and used to support team decision-making and collaboration.** It can:**
 
-- 自动记录会议内容
+- Auto-record the content of the meeting
 
-- 提取要点和行动项
+- Extract points and action items
 
-- 跨多个会议进行智能分析
+- Intelligent analysis across multiple meetings
 
-- 提供引用来源、上下文跳转
+- Provide reference sources, context jumps
 
-00:00UnmuteMuteSettingsCaptionsDisabledQualityundefinedSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menuSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-## Granola 2.0 的关键功能详解
+#Granola 2.0 Key Functions Detailed
 
-### 1️⃣ 共享团队文件夹：会议知识的结构化入口
+#1 Sharing team folders: structured portals to conference knowledge
 
-- 团队可以基于主题（如“销售通话”“客户反馈”“技术例会”等）建立共享文件夹
+- Teams can create shared folders based on themes (e.g., “sale calls” “client feedback” “technical meetings” etc.)
 
-- 文件夹中的内容支持全文检索与AI对话，无需成员安装账号也能访问和查询
+- The contents in the folder support full-text search dialogue with AI and access and query without the member having an account number
 
-- 所有信息均保留引用出处，提升信息透明度与决策可信度
-![](https://assets-v2.circle.so/7boey3iwz58v5hqs58g3v9nuh72e)
-✅ 场景举例：产品经理可直接提问“最近用户抱怨最多的功能是什么？”，系统自动归纳并指出相关会议片段。
+- All messages keep references to enhance transparency of information and the credibility of decision-making![] (https://assets-v2.circle.so/7boey3iwz58v5hqs58g3v9nuh72e) Examples of scenarios: product managers can ask “What's the most recent user-complaint function?” and systems automatically summarize and indicate relevant session segments.
 
-### 2️⃣ 项目型协作文件夹：敏捷应对重要场景
+##2 Project collaboration folder: Agile response to important scenes
 
-- 用户可将相关会议拖入一个新建文件夹中，迅速生成一个“协作空间”
+- Users can drag related meetings into a new folder and quickly generate a “collaborative space”
 
-- 适用于融资准备、发布规划、客户跟进等关键业务节点
+- Key business nodes applicable to financing preparation, release planning, customer follow-up, etc.
 
-- 所有人看到的内容完全一致，节省冗余沟通与复制粘贴时间
-![](https://assets-v2.circle.so/wvsus96h5f8wvlhlcddlkn0jgq25)
+- All people see exactly the same content, save redundant communication and copy paste time![] (https://assets-v2.Circle.so/ wvsus96h5f8wvlldldlkn0jgq25)
 
-### 3️⃣ “对话式”知识分析：跨会话智能问答
+#3 “Dialogue-type” knowledge analysis: an intelligent cross-chamber question-and-answer session
 
-- 用户不仅可以搜索关键词，还能**用自然语言提问整个文件夹**，如同“问一位记忆清晰的团队助理”
+- Users can not only search keywords, but can also ask the entire folder in natural language**, like, "Ask a team assistant with a clear memory."
 
-- 回答结果附带上下文链接，可直接跳转至会议原始对话位置
+- The answer is linked to the context and can be transferred directly to the original dialogue position of the meeting
 
-- 特别适合需要从多个会议中发现趋势、总结规律的角色（如产品、销售、招聘等）
-![](https://assets-v2.circle.so/7i0xwfs9ck6aotqtdgmaeeap5n1j)
+- Roles (e.g. products, sales, recruitment, etc.) that are particularly suited to identify trends and patterns from multiple meetings![] (https://assets-v2.circle.so/7i0xwfs9ck6aotqtdgmaeeap5n1j)
 
-### 4️⃣ 多模型支持：推理质量更高，可自主切换
+##4 Multi-model support: reasoning is of higher quality and can switch autonomously
 
-- 支持主流大模型（如OpenAI、Anthropic、Google等）
+- Support for mainstream models (e.g. OpenAI, Anthropic, Google, etc.)
 
-- 用户可根据任务性质选择模型，也可授权Granola自动选择最优
+- Users can select models depending on the nature of the task, or they can authorize Granola to choose the best automatically
 
-- 特别增强了对**多会议内容整合与推理能力**，提升复杂问题分析的准确性
-![](https://assets-v2.circle.so/473ev6if023tn3ew56tkwrbqswxr)
+- Special enhancement of the ability to integrate and reason for ** multi-sessions** and to improve the accuracy of analysis of complex issues![] (https://assets-v2.Circle.so/473ev6if023tn3ew56tkwrbqswxr)
 
-### 5️⃣ 企业级目录浏览：提升跨团队协同效率
+##5 Enterprise-level directory browsing: Increased teamwork across teams
 
-- 企业用户可查看公司内所有“公开文件夹”，如销售资料库、客户支持问题库、培训记录等
+- Business users have access to all “public folders” in the company, such as sales databases, customer support questions databases, training records, etc.
 
-- 有助于提升信息透明度与跨部门协作效率
+- Helping to increase transparency of information and the efficiency of cross-sectoral collaboration
 
-### 6️⃣ 智能整理建议：减少人工归类成本（即将上线）
+##6 Smart collation proposal: reduce the cost of manual cataloguing (coming online)
 
-- 系统会基于会议标题、参与人、历史行为预测最合适的文件夹
+- The most appropriate folder for the system based on meeting titles, participants, historical behavior predictions
 
-- 用户仅需一键确认，避免“无人归档”的会议被遗漏
+- User only needs one key confirmation to avoid missing “unarched” meetings
 
-### 7️⃣ Slack 自动推送集成：无缝进入工作流
+#7Slack Auto-promotion integration: seamless entry into workflow
 
-- 每次会议结束后，Granola 会在指定 Slack 频道中自动发布：
-简要总结
+- After each meeting, Granola will automatically post on the designated Slack channel: summary
 
-- 待办事项
+- To-dos
 
-- “可对话会议链接”
+- “Linkable dialogue session”
 
-即使成员未使用 Granola，也能及时了解会议结果并参与下一步协作
-![](https://assets-v2.circle.so/8ezb7znaajr19bkixkzhba2kn4l0)
-### 8️⃣ 模板化启动支持：快速上手统一协作流程
+Even if members do not use Granola, they will be able to keep abreast of the outcome of the meeting and participate in the next step of collaboration! [] (https://assets-v2.Circle.so/8ezb7znajr19bkixkzhba2kn4l0) ###8 template start-up support: fast-track hands-on collaboration process
 
-- 提供如“用户访谈”“销售周期”“面试流程”等预设模板
+- Provide predefined templates such as “user interview” “sale cycle” “interview process”
 
-- 包括结构、权限配置和AI对话提示，团队可在“第一天”就高效使用
-![](https://assets-v2.circle.so/8e5wolxkrmi8xami4bwbmrgj79ol)
-网站：https://www.granola.ai/
-See more
+- Includes structure, permission configuration and AI dialogue tips, which can be used efficiently by teams on the first day![] (https://assets-v2.Circle.so/8e5worldxkrmi8xami4bwbmrgj79ol) website: https://www.granola.ai/

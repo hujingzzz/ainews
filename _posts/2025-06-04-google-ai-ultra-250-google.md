@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google AI Ultra：全功能旗舰订阅计划 250美金/月 享受Google所有顶级服务
+title: Google AI Ultra: Full-Full Flagship Subscription $250/month access to all Google top-level services
 date: 2025-06-04 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-ai-ultra-250-google_1.jpg
@@ -9,71 +9,65 @@ icon: web
 * content
 {:toc}
 
-Google 宣布推出**Google AI Ultra** —— 这是 Google One 中最新、最全面、最高等级的 AI 订阅服务，专为创作者、研究者、开发者与高要求用户打造。
-该计划不仅提供 Google 最强 AI 模型（Gemini 2.5 Pro、Veo 3 等）的早期与完整访问权限，还囊括视频生成、内容创作、写作协助、云存储与 YouTube Premium 等众多权益。
+Google announces the launch of **Google AI Ultra** – the latest, most comprehensive and highest-level AI subscription service in Google One, created specifically for creators, researchers, developers, and high-demand users. The program provides not only early and complete access to Google’s strongest AI model (Gemini 2.5 Pro, Veo 3 etc.), but also includes many interests such as video generation, content creation, writing assistance, cloud storage and YouTube Premium.
 
-## 🧠 **订阅计划亮点**
+#  **subscribe the bright spots**
 
-- 💰 **价格**：$249.99/月（首三个月享五折优惠）
+- ** Price**: $249.99/month (five discounts for the first three months)
 
-- 🌍 **地区**：目前限美国，未来将拓展至更多国家
-![](https://assets-v2.circle.so/iygyphxorgmvb59synsyih0uob5m)
+- **Region**: currently limited to the United States, will be extended to more countries in the future![] (https://assets-v2.circle.so/iygyphxorgvb59synsyih0uob5m)
 
-## 🔑 核心权益详解
-1. **Gemini 2.5 Pro：顶级 AI 模型访问权限**
+1. **Gemini 2.5 Pro: top AI model access**
 
-- 支持 **Deep Research（深度研究模式）** 与即将上线的 **Deep Think（高级推理模式）**；
+- Support for **Deep Research (In-depth research model)** and on-line **Deep Think (advanced reasoning model)**;
 
-- 适用于高级写作、复杂代码、学术研究与创意生成任务；
+- For advanced writing, complex codes, academic research and creative tasks;
 
-- 是目前 Gemini 系列模型的最高访问等级。
+- is the highest level of access to the current Gemini series model.
 
-2. **Flow：电影级 AI 视频创作工具**
+2. **Flow: film-grade AI video production tool**
 
-- 解锁 **1080p 高清生成** 与高级镜头控制功能；
+- Unlocking **1080p high-altitude generation** and advanced lens control;
 
-- 可早期访问新一代视频模型 **Veo 3**；
+- Early access to a new generation of video models **Veo 3**;
 
-- 基于 Gemini + Veo + Imagen 的组合引擎进行画面构建。
+- A combination engine based on Gemini + Veo + Imogen.
 
-3. **Whisk Animate：图文到动画功能**
+3. **Whisk Animate: Animation function**
 
-- 提供文本 + 图像输入生成 8 秒动画片段；
+- Provide text + image input generation for 8 seconds of animated footage;
 
-- 使用 Veo 2 模型驱动，可高效探索视觉创意构思。
+- Using the Veo 2 model, it is efficient to explore visual creative ideas.
 
-4. **NotebookLM：AI 笔记与研究助手**
+4. **NotebookLM: AI Notes and Research Assistant**
 
-- 即将开放增强模型与更高使用限额；
+- The imminent opening up of enhanced models and higher use limits;
 
-- 适用于学生、研究者、内容创作者的数据整理与知识管理。
+- Data collation and knowledge management for students, researchers, content creators.
 
-5. **Google Workspace 深度集成**
+5. **Google Workspace depth integration**
 
-- 直接在 Gmail、Docs、Slides、Vids 等中调用 Gemini 模型进行辅助；
+- Directly using Gemini models in Gmail, Docs, Slides, Vids, etc.;
 
-- 支持邮件写作、文档润色、视频摘要等高频场景。
+- Support for high-frequency scenes such as mail writing, document improvement, video summaries, etc.
 
-6. **Gemini in Chrome：浏览器智能助手**
+**Gemini in Chrome: Browser Smart Assistant**
 
-- 可在网页浏览时调用 Gemini 辅助解析复杂内容、执行网页任务；
+- Be able to call Gemini to assist in condensing complex content and carrying out web tasks while the web page is being viewed;
 
-- 明日（博客发布时间）起面向订阅用户开放。
+- Tomorrow (blog release time) is open to subscribers.
 
-7. **Project Mariner：AI 任务代理原型**
+7. **Project Mariner: AI Job Agent Prototype**
 
-- 同时执行多达 10 个任务（如搜索、预订、内容处理）；
+- Performing up to 10 tasks simultaneously (e.g. search, booking, content processing);
 
-- 用户可在单一仪表板中调度所有任务并查看执行状态。
+- Users can schedule all tasks in a single dashboard and view the execution status.
 
-## 📦 附加服务权益
-![](https://assets-v2.circle.so/jcios36c8jtv15hwvfrmwjfdonfm)
-## 
-00:00UnmuteMuteSettingsCaptionsDisabledQuality1080pSpeedNormalCaptionsGo back to previous menuQualityGo back to previous menu480pSD720pHD1080pHDSpeedGo back to previous menu0.5×0.75×Normal1.25×1.5×1.75×2×4×PIPExit fullscreenEnter fullscreenPlay
-- **原 AI Premium 更名为 Google AI Pro**；
+#  additional service interest! #[] (https://assets-v2.Circle.so/jcios36c8jtv15hwfrmwjfdonfm) #
 
-- AI Pro 用户新增可访问 Flow 工具（支持 Veo 2）与 Gemini in Chrome；
+- ** Former AI Premium changed its name to Google AI Pro**;
 
-- 教育优惠继续扩大：**日本、巴西、印尼、英国** 大学生也可免费试用 AI Pro 一学年。
+- Add a new user to AAI Pro to access the Flow tool (support for Veo 2) and Gemini in Chrome;
 
-See more
+- Educational benefits continue to expand:** students from Japan, Brazil, Indonesia and the United Kingdom** are also free of charge for one academic year of AI Pro.
+

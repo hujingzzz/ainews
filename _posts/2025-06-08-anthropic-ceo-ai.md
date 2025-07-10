@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Anthropic CEO 警告：AI将引发白领“血洗式”失业潮 一半的入门级白领工作将消失
+title: Anthropic CEO warns that AI will trigger a wave of white-collar "blood-washed" unemployment, and half of the entry-level white-collar jobs will disappear.
 date: 2025-06-08 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/anthropic-ceo-ai_1.jpg
@@ -9,251 +9,216 @@ icon: book
 * content
 {:toc}
 
-Anthropic首席执行官达里奥·阿莫迪（Dario Amodei）发出警告，人工智能（AI）可能在未来1至5年内导致50%的初级白领工作岗位消失，推高美国失业率至10%-20%。受影响的领域包括科技、金融、法律、咨询等，尤其是入门级职位。阿莫迪认为，这一变革的速度和规模远超公众预期，政府和AI公司却在“粉饰”这一风险，未能充分准备。
-他描绘了一个可能的未来：癌症被治愈，经济以每年10%的速度增长，预算实现平衡，但20%的劳动力失去工作。这表明AI可能带来巨大进步，同时引发严重的就业和社会挑战。阿莫迪呼吁政策制定者、AI公司和社会正视这一威胁，采取行动以应对即将到来的劳动力市场转型。
+The chief executive officer of Anthropic, Dario Amodei, warned that artificial intelligence (AI) could cause 50% of primary white-collar jobs to disappear in the next 1 to 5 years, pushing unemployment in the United States up to 10 to 20%. The areas affected include technology, finance, law, counselling, and so on, especially entry-level jobs.
 
-- Amodei 预测人工智能将在 6 个月内编写 90% 的软件代码，并在一年内编写几乎所有代码，从而彻底重塑科技就业。
+- Amodei predicts that 90% of the software code will be prepared within six months and that almost all the code will be prepared within one year, thus completely reshaping technology employment.
 
-- 人工智能可能会在未来五年内消除 50% 的入门级白领职位，并导致失业率高达 20%。
+- Artificial intelligence may eliminate 50 per cent of entry-level white-collar jobs in the next five years and lead to unemployment of up to 20 per cent.
 
-- 他还认为，影响范围延伸至金融、法律、咨询和其他白领工作，入门级职位最容易受到自动化的影响。
+- He also believes that the impact extends to finance, legal, consultancy and other white-collar work and that entry-level posts are the most vulnerable to automation.
 
-- 阿莫迪敦促立法者和人工智能公司采取行动，称大多数工人“不知道这种情况即将发生”并且“根本不相信”。
+- Amodi urged legislators and artificial intelligence companies to take action, stating that most workers “do not know that this is about to happen” and “does not believe it at all”.
 
-## AI的两面性：极致生产力 + 极致失业风险
-Amodei 形容未来可能出现的“两极社会图景”：
+#AI's two-faced nature: Extreme productivity + Amodei describes the "bipolar social landscape" that may arise in the future:
 
-- ✅ **正面可能**：
-癌症治愈
+-  Positive possibility**: Cancer cure
 
-- GDP 年增长率达到 10%
+- GDP annual growth rate of 10 per cent
 
-- 财政平衡
+- Fiscal balance
 
-❌ **负面代价**：
+** Negative cost**:
 
-- 大量人类工作消失
+- A lot of human work disappears.
 
-- 民众“无法为经济创造价值”
+- People “cannot create value for the economy”
 
-- 社会阶层断裂、民主失衡
+- Fragmentation of social classes and democratic imbalances
 
-“如果普通人无法通过工作创造价值，那么民主的平衡基础也会动摇。”
+“If ordinary people are unable to create value through work, then the foundations of a democratic balance will also be shaken.”
 
-## 核心观点：未来五年，AI 或将摧毁大量白领岗位
-**Dario Amodei（Anthropic CEO）直接警告**：
+# Core view: In the next five years, AI will either destroy a large number of white-collar jobs **Dario Amodei (Anthropic CEO) direct warning**:
 
-- **AI将在1~5年内摧毁多达一半的入门级白领工作**；
+- **AI will destroy up to half of the entry-level white-collar jobs in 1-5 years**;
 
-- **美国失业率可能飙升至10%~20%**；
+- ** Unemployment in the United States is likely to skyrocket to 10 ~ 20 %**;
 
-- 尤其影响：
-技术、金融、法律、咨询等“高薪行业”
+- Special impact: “high-paying industries” such as technology, finance, legal, consultancy, etc.
 
-- 刚毕业的年轻人和初级岗位（Junior roles）
+- Junior roles.
 
-“这听起来像科幻，但很快就会成为现实。”
-**涉及领域**
+"It sounds like science fiction, but it'll soon become a reality."** Fields of interest**
 
-- 初级/中层白领岗位，特别是：
-技术（软件开发、数据分析）
+- Primary/middle white collar positions, in particular: technology (software development, data analysis)
 
-- 法律（文书起草、合同审核）
+- Laws (drafting of instruments, review of contracts)
 
-- 金融（模型分析、报表编制）
+- Finance (model analysis, statement preparation)
 
-- 咨询、运营管理
+- Advisory, operational management
 
-- 客户支持、市场营销等信息型岗位
+- Informational positions such as customer support, marketing, etc.
 
-❗ **这些曾经被认为“自动化难度高”的职业，如今已被生成式 AI 快速吞噬。**
+** These occupations, which were once considered “high automation difficulties”, have now been rapidly absorbed by the generator AI.**
 
-## 核心论据
-1. **AI 能力演进远超预期**
+# Core arguments 1. **AI evolving beyond expectations**
 
-- 以 Anthropic 最新发布的 Claude 4 为例：
-可自动编程、读取和解释长文档
+- Take the latest release of Anthropic Claude 4 for example: Autoprogram, read and explain long documents
 
-- 在公司内部测试中显示出“近人类水平”的任务完成能力
+- Demonstrate “near human level” mission performance capability in intra-company tests
 
-- 可进行推理、合成、创作任务
+- For reasoning, synthesis, creative tasks.
 
-**不是辅助工作，而是“可以独立做完整份工作”。**
-2. **“AI 代理”（Agentic AI）的快速商业落地**
-**什么是 AI Agent？**
+** Not auxiliary work, but “can do the whole job independently.”** 2. ** Rapid commercial landing of “AI Agency”** ** What's AI Agency?**
 
-- 一种可以自动执行、迭代、持续完成工作的系统
+- A system that can be self-executing, iterative and continuous.
 
-- 可以主动做事、解决问题、调用工具
+- You can do things, solve problems, call tools.
 
-**应用实例：**
+** Examples of application:**
 
-- 自动审计财务报表
+- Auto-audit financial statements
 
-- 撰写市场分析报告
+- Production of market analysis reports
 
-- 编写并部署代码
+- Prepare and deploy codes.
 
-- 进行客户服务交互
+- Interaction of client services
 
-Mark Zuckerberg（Meta）预测：**2025年起，大量中级工程师岗位将被AI Agent取代。**
+Mark Zuckerberg (Meta) predicts that since 2025 a large number of mid-level engineer posts will be replaced by AI Agent.**
 
-## 现实佐证：裁员潮已开始
-![](https://assets-v2.circle.so/fdsnyg9uewro0lccjccaf0le90ph)一些公司在批准新岗位前，已经要求管理者说明：“为什么这个岗位不能由AI来做？”
+# Proof of reality: Retrenchment has begun! [https://assets-v2.circle.so/fdsnyg9uewro0lccccaf0le90ph] Some companies have asked managers to state before approving new posts: “Why can't this post be done by AI?”
 
-## 白领“职业路径”断层风险
-Aneesh Raman（LinkedIn 经济官）指出：
-“AI 正在打破职业发展的入门门槛。”
-**消失中的“职业跳板”：**
+# White-collar “occupational path” fault risk Aneesh Raman (LinkedIn Economic Officer) states: “AI is breaking the threshold of entry to career development.” ** “Professional springboard” in disappearance:**
 
-- 实习生 → 初级助理 → 中层经理 的路径将断裂
+- Interns, junior assistants, mid-level managers, the path will break.
 
-- 年轻人将找不到“做中学”的机会
+- Young people won't get a chance to go to high school.
 
-- 企业更倾向雇用 AI，而非新人
+- Businesses tend to hire AIs, not new people.
 
-**长远后果：**
+** Long-term consequences:**
 
-- 一代人职业能力积累中断
+- Disruption of a generation ' s professional capacity
 
-- 整体社会经验传承被削弱
+- The whole society's experience is weakened.
 
-- 新阶层固化风险加剧
+- The risk of the new class becoming more entrenched.
 
-## 未来可能的社会结构剧变
-**为何值得高度警惕？**
+# There's a possible change in the social fabric in the future # # Why is there a high degree of vigilance? **
 
-- 这是一次 **广泛性 + 高速性 + 不可逆性** 的转型
+- This is a transformation of **wideness + speed + irreversibility **
 
-- 不再是“单一行业被自动化”，而是：
-**几乎所有靠“认知劳动”养家糊口的人群**都在危险之中
+- Not “single industry automated”, but: ** Almost all the people who make a living out of “cognitive labour” ** are at risk.
 
-- 对于政府、企业、教育系统而言，已不再是“是否应对”，而是“**是否还来得及**”。
+- For Governments, enterprises, education systems, it is no longer “react or not”, but “** whether or not it is possible to do so**”.
 
-“如果普通人无法靠创造价值生存，我们就将失去民主制度的平衡支点。” —— Dario Amodei
-**长期结构性风险：**
+“If ordinary people cannot survive by creating values, we will lose the balance of democracy.” - Dario Amodei ** Long-term structural risks:**
 
-- 财富更加集中于 AI 创业者与资本方手中
+- Wealth is more concentrated in the hands of AI entrepreneurs and capitalists.
 
-- 中产阶级结构大幅萎缩
+- The middle-class structure has shrunk dramatically.
 
-- 人类价值被AI“边缘化”
+- Human values are “marginalized” by AI
 
-- 冲突从“经济问题”转为“社会结构性裂缝”
+- Conflict has shifted from “economic problems” to “social structural cracks”
 
-## 行动建议
-“我们无法阻止这列火车，但可以尝试转向10度 —— 现在就必须行动。”—— Amodei
+# Proposals for action: "We can't stop this train, but we can try to turn to 10 degrees -- now we have to act."
 
-### 给各类人群的建议：
+# To all categories of people:
 
-- **学生/年轻职场人**：尽早接触AI工具，转向不可替代型能力（创造力、情绪力、系统策略思维）
+- **Student/young workplace**: Early exposure to AI tools and shift to non-alternative capabilities (creational, emotional, systemic strategic thinking)
 
-- **企业高管**：建立AI应用审查机制，平衡效率与社会责任
+- ** Enterprise executive**: Establishment of the AI application review mechanism to balance efficiency with social responsibility
 
-- **政策制定者**：建立跨部门AI就业影响评估框架
+- ** Policymakers**: Establishment of a cross-sectoral AI employment impact assessment framework
 
-- **公众**：从“使用者”转为“理解者”，主动评估自身职业的未来适应性
+- **Public**: move from “user” to “understander”, proactively assessing the future adaptability of their profession
 
-### 文章翻译
-达里奥·阿莫代伊（Dario Amodei）——全球最强大的 人工智能 创造者之一、Anthropic 首席执行官——向美国政府以及我们所有人发出了直白而骇人的警告：
+# # The translation of the article Dario Amodei -- one of the most powerful artificial intelligence creators in the world, the CEO of Anthropic -- sends a plain and shocking warning to the United States Government and to all of us:
 
-- AI 可能在未来一到五年内淘汰 一半 的入门级白领岗位，并将失业率推高至 10–20%，阿莫代伊在旧金山办公室接受我们采访时如是说。
+- AI may phase out half of the entry-level white-collar jobs in the next one to five years and push the unemployment rate up to 10 to 20 percent, as Amodey said in an interview with our office in San Francisco.
 
-- 阿莫代伊表示，AI 公司与政府需要停止“粉饰”即将到来的现实：技术、金融、法律、咨询及其他白领行业，尤其是入门岗位，可能大规模消失。
+- Amodei stated that AI and the Government need to stop the impending reality of “false”: technology, finance, legal, consultancy and other white-collar industries, especially entry-level jobs, may disappear on a massive scale.
 
-**为何重要：** 现年 42 岁的 阿莫代伊 正在打造一种他预测会在一夜之间重塑社会的技术。他说自己公开发声，是希望震醒政府及同行 AI 公司，为国家做好准备并加以保护。
-**关注者寥寥。** 立法者要么不了解，要么不相信。CEO 们害怕开口。许多劳动者直到风暴来袭后才会意识到这场可能的就业末日。
+** Why is it important:** 42-year-old Amodei is building a technology that he predicts will reshape society overnight. He says that he speaks openly in the hope of awakening the government and his fellow AI companies, preparing for and protecting the country. ** There are few followers. ** Legislators do not understand or believe. ** CEOs are afraid to talk. Many workers do not realize this possible end of employment until the storm strikes.
 
-- “大多数人并不知道这事即将发生，”阿莫代伊告诉我们，“这听起来疯狂，人们就是不信。”
+- "Most people don't know this is going to happen," Amodey tells us, "This sounds crazy, people just don't believe it."
 
-**大局：** 特朗普总统对 AI 带来的就业风险一直保持沉默。但特朗普第一任期的高官、MAGA 影响力最大的播客之一《战情室》主持人史蒂夫·班农（Steve Bannon）表示，AI 造成的就业毁灭几乎未受关注，却将成为 2028 年总统大选的重大议题。
+** Big picture:** President Trump has been silent about AI’s employment risks. But the top officer of Trump’s first term, one of MAG’s most influential podcasts, Steve Bannon, said that the job destruction caused by AI was almost unattended and would be a major issue in the presidential election in 2028.
 
-- 班农告诉我们：“我认为没人真正考虑到行政、管理和技术岗位——对于 30 岁以下人群至关重要的入门级工作——将被彻底抹去。”
+- Bannon told us: “I don't think anyone really thinks about administrative, managerial and technical posts -- entry-level jobs that are vital for people under 30 years of age -- will be completely erased.”
 
-**阿莫代伊** ——刚刚 发布 了具备近似人类编程能力的 最新版本 AI——表示这项技术有可能在大规模释放善与恶：
+**Amodei** -- just released the latest version of AI, which has similar human programming capabilities, suggests that this technology has the potential to unleash good and evil on a massive scale:
 
-- “癌症被治愈，经济每年增长 10%，预算实现平衡——但有 20% 的人失去工作。” 这是他在 AI 指数级扩张中反复盘旋的一个极有可能的场景。
+- “Cancer is cured, the economy grows by 10 per cent a year, the budget is balanced -- but 20 per cent of people lose their jobs.” This is a highly probable scenario that he has been spinning around in the AI index level expansion.
 
-**背景：** 阿莫代伊愿意公开表达一种其他顶级 AI 主管私下对我们吐露的深忧。即便那些乐观地认为 AI 将带来不可思议的治愈与经济增长的人，也担心短期内的巨大痛苦——乃至在特朗普任期内爆发就业血案。
+** Background:** ** Amodei is willing to express publicly a concern that other top AI executives have privately expressed to us. Even those who are optimistic that AI will bring incredible healing and economic growth are concerned about the great suffering in the short term – and even about the outbreak of employment blood during Trump’s tenure.
 
-- “作为技术的生产者，我们有责任、有义务坦诚即将到来的未来，”阿莫代伊说。“我认为这不在公众视野里。”
+- “As producers of technology, we have a responsibility and an obligation to be honest about the coming future,” Amodei says. “I don't think it's in public view.”
 
-- 他补充：“这是一种非常奇怪的动态：我们在说‘你该担心我们正在构建的技术走向’。批评者反驳：‘我们不相信，你们只是在炒作。’ 那他们是否该自问：‘如果他们说的是真的呢？’”
+- He added: "This is a very strange development: we're saying, "You should worry about the technology we're building." Critics argue, "We don't believe that you're just faking." So should they ask themselves, "If what they say is true?"
 
-**讽刺在于：** 阿莫代伊在台上 花一天时间 吹嘘自家技术的 惊人能力 ——能编程、驱动其他取代人类的 AI 产品——后，对我们详述了这些可怕担忧。上周 Claude 4 发布 时，Anthropic 披露的 测试结果 显示，该模型在收到被替换威胁的邮件后，表现出“极端勒索行为”：
+** The irony is:** Amodei spent a day on the stage bragging about the amazing power of his own technology -- programming and driving other AI products to replace humans -- detailing these terrible fears. Last week, Claude 4 released the results of the tests revealed by Anthropic, which showed that the model showed "extreme blackmail" when replaced with threats of mail:
 
-- 模型威胁要揭露负责替换的工程师婚外情（邮件中有详细内容）。
+- The model threatens to reveal the extramarital affair of the engineer in charge of the replacement (details are contained in the mail).
 
-- 阿莫代伊承认这种矛盾，但他说若能成功警示人们，“大家多少会好一点”。
+- Amodei admits this contradiction, but he says that if he succeeds in warning people, “everyone will be better”.
 
-**以下是阿莫代伊** 及其他人士担忧白领血案的展开路径：
-OpenAI、Google、Anthropic 等大型 AI 公司持续大幅提升 LLM 能力，在越来越多任务上达到并超越人类表现。此进程正在加速。
-美国政府担心在竞争中落后于中国或因过早警告而惊动劳动者，因此几乎沉默。政府既未监管 AI，也未警示公众。这一状况也在持续。
-大多数美国人对 AI 的力量及其威胁漠不关心。这同样正在发生。
-**然后，** 几乎一夜之间，企业领导者看到用 AI 取代人工的成本优势，便大规模行动：停止新增岗位，不再补充离职员工，接着用代理（agents）或相关自动化方案取代人类。
+** The process is accelerating, as Amodei** and others are worried about how the white-collar blood case unfolds: OpenAI, Google, Anthropic, etc. Large companies continue to increase LLM capabilities significantly, reaching and surpassing human performance on an increasing number of tasks. The US government is afraid of falling behind in the competition, or of alarming workers because of premature warnings. The government has neither regulated AI nor warned the public.
 
-- 公众只有在为时已晚时才会察觉。
-![](https://assets-v2.circle.so/si7g9k45t0an01jbgpf33526bv8a)
-Anthropic CEO Dario Amodei 上周在旧金山举行的公司首届开发者大会 Code with Claude 上发布 Claude 4 模型。照片：Don Feria / AP for Anthropic
-**另一面：** 阿莫代伊离开 OpenAI 后创办了 Anthropic；在 OpenAI 时他曾任 研究副总裁。他的前上司、OpenAI CEO 山姆·奥特曼（Sam Altman）则基于技术史提出现实乐观论。
+[https://assets-v2.circle.so/si7g9k45t0an01jbgpf33526bv8a] Anthropic CEO Dario Amodei published the Claude 4 model on the first corporate developers meeting held last week in San Francisco. Photo: Don Feria/AP for Anthropic **:** Amodayi was founded after leaving OpenAI; he was Vice-President of the study at OpenAI. His predecessor, OpenAI CEO Sam Altman, gave a realistic optimism based on his technical history.
 
-- 奥特曼在一篇 去年 9 月的宣言——题为《智能时代》——写道：“如果一位点灯人看到今天的世界，他会觉得眼前的繁荣不可想象。”
+- In a declaration last September, entitled The Smart Age, Otman wrote: "If a lightman sees today's world, he will find the prosperity before him unimaginable."
 
-**然而，仍有太多工人** 把聊天机器人视为高级搜索引擎、不知疲倦的研究员或出色的校对者。请注意它们实际能做什么：总结、头脑风暴、阅读文件、审查合同，并对医疗症状与健康记录给出具体（且令人毛骨悚然地准确）的解读，它们都很擅长。
+** However, too many workers** view chat robots as advanced search engines, tireless researchers, or excellent proofreaders. Please note what they can actually do: summing up, brainstorms, reading documents, reviewing contracts, and giving specific (and creepyly accurate) interpretations of medical symptoms and health records.
 
-- 我们知道这很吓人、像科幻。令我们震惊的是，绝大多数人对超人类智能的利弊关注甚少。
+- We know it's scary, like science fiction. We're shocked that the vast majority of people have little attention to the pros and cons of superhuman intelligence.
 
-**Anthropic 的研究表明** 目前 AI 模型主要用于 增强——帮助 人们完成工作。这对员工和公司都有利：AI 处理重复性事务，人可以专注高阶任务。
+** Study by Anthropic** The AI model is currently used mainly to enhance -- to help people do their jobs. This is in the interest of both employees and companies: AI deals with repetitive matters, and people can focus on high-level tasks.
 
-- 事实是，企业对 AI 的使用将越来越倾向 自动化——直接完成 这项工作。阿莫代伊说：“这将在很短时间内发生——可能只需几年，甚至更少。”
+- The fact is that companies will increasingly use AI to automate -- to do it directly. Amodei says, "This will happen in a very short time -- maybe only for a few years, even less."
 
-**这一场景已经开启：**
+** The scene has been opened:**
 
-- 数百家科技公司正疯狂竞赛开发所谓代理（agentic AI）。这些代理由 LLM 驱动。理解代理为何对企业无价：本质上，它能无限期、几乎零成本地完成人的工作。
+- Hundreds of technology companies are racing crazy to develop so-called agents (agent AI). These agents are driven by LLM. Understanding why agents are priceless to businesses: in essence, they can do people's work indefinitely, at almost no cost.
 
-- 想象一下，代理来编写代码、处理财务框架与分析、客服、营销、文字编辑、内容分发或研究。可能性无穷——绝非幻想。许多代理已在公司内部运行，更多正在快速打造。
+- Imagine an agent writing code, processing financial framework and analysis, customer service, marketing, text editing, content distribution or research. Possibilities are endless — no illusions. Many agents are already operating within the company and more are being rapidly built.
 
-**这就是为何 Meta 的马克·扎克伯格** 等人称中层程序员很快将不再需要，或许就在今年。
+** That's why Mark Zuckerberg of Meta** and others say mid-level programmers will soon be no longer needed, perhaps this year.
 
-- 扎克伯格 1 月在与乔·罗根对谈时说：“可能在 2025 年，我们 Meta 和其他公司都会拥有能充当公司中层工程师的 AI，它能写代码。” 他表示这将最终减少人力需求。随后，Meta 宣布裁员 5%。
+- Zuckerberg, speaking to Joe Logan in January, said, "Maybe in 2025, we Meta and other companies will all have AIs that can act as mid-level engineers in the company, and it can write codes." He said that this would eventually reduce the demand for manpower. Then Meta announced a 5% cut.
 
-**关于企业从传统软件转向代理未来的时间点，** 辩论激烈。但几乎没人怀疑速度之快。共识是：过程将“渐进，然后突然”，也许就在明年。
+** The point of time for business to move from traditional software to agency futures** was highly debated. But hardly anyone doubted the speed of the process. The consensus was that the process would be “progressive, then suddenly”, perhaps next year.
 
-- 毫无疑问：我们与各行业、不同规模数十位 CEO 交谈过，他们都在拼命研究何时以及如何大规模用 AI 取代人类。一旦这些技术在某项工作上达到人类效率水平，可能 6 个月也可能数年，企业就会从人转向机器。
+- No doubt: We talked to dozens of CEOs of various industries, different sizes, and they're working hard to figure out when and how to replace humans with AI on a large scale. Once these technologies have achieved human efficiency in a given job, it may be six months or several years, and the business turns from man to machine.
 
-**这可能会在极短时间** 内消灭数千万工作岗位。历史上的技术变革虽摧毁大量工作，但长期看又创造了很多新岗位。
+** This could wipe out tens of millions of jobs within a very short period of time. While the technological changes in history have destroyed a lot of jobs, they have created many new jobs in the long run.
 
-- AI 可能也如此。不同点在于：速度更快，波及行业与个体岗位更广。
+- AI, too. The difference is that it's faster and has a wider impact on industry and individual jobs.
 
-**如今，** 即便是大型、盈利丰厚的公司也开始收缩：
+** Today,** even large, profitable companies are starting to shrink:
 
-- 微软裁员 6,000 人（约占 3%），其中许多是工程师。
+- Microsoft laid off 6,000 people (about 3 per cent), many of them engineers.
 
-- 沃尔玛精简 1,500 个总部岗位，以简化业务，为即将到来的大转型做准备。
+- Wal-Mart streamlined 1,500 headquarters posts to streamline operations in preparation for the upcoming major transformation.
 
-- 德州网络安全公司 CrowdStrike 裁员 500 人（5%），理由 是“AI 正在重塑每一个行业，带来市场与技术拐点”。
+- The Texas Cyber Security Corporation, CrowdStike, reduced its staff by 500 (5 per cent) on the grounds that “AI is reshaping every industry, bringing markets and technology to the fore”.
 
-- 领英首席经济机会官 阿尼什·拉曼 在《纽约时报》专栏 (礼品链接) 警告，AI 正在摧毁“职业阶梯最底端——初级软件开发者、初级律师助理和一年前景看重文件审查的律所一年级律师……以及被聊天机器人与其他自动客服工具取代的零售新人”。
+- Lead British Chief Economic Opportunity Officer Anish Raman warned in the New York Times column (gift link) that AI was destroying “the bottom of the career ladder — the first-grade software developers, junior paralegals and first-year law firm lawyers with a year's perspective on document review ... as well as retail recruits replaced by chat robots and other automatic customer service tools”.
 
-**更少为人知的，** 是每天在 C-suite 里进行的对话：暂停新职位发布或职位补缺，直到能确定 AI 是否能更好地胜任。
+** Less known,** is the daily dialogue in C-suite: suspension of new post postings or post filling until it can be determined that AI is better qualified.
 
-- **完全披露：** 在 Axios，我们要求管理者解释为何 AI 不能胜任某工作后，才批准招聘。（Axios 的报道始终由人类撰写和编辑。）没人愿意公开承认，但每位 CEO 正在或很快都会私下这么做。吉姆上周 写了一篇专栏，列举 CEO 现在可采取的几步措施。
+- ** Total disclosure:** In Axios, we asked the manager to explain why AI was unable to perform a job before approving the job. (Axios reports are always written and edited by humans.) No one wants to admit publicly, but every CEO is doing this privately or very soon. Jim wrote a column last week listing a few steps that the CEO can take now.
 
-- 这可能为赢家带来创纪录增长：大型 AI 公司、新兴与 AI 共生的企业、现有企业快跑后利润大增，以及押注这一结果的富裕投资者。
+- This could lead to record growth for winners: large AI companies, emerging and AI-symbiotic enterprises, large increases in profits after existing firms run, and wealthy investors who bet on this result.
 
-**结果可能是** 财富极度集中，“相当一部分人口难以真正贡献，”阿莫代伊告诉我们，“那非常糟。我们不希望看到。民主的权力平衡建立在普通人通过创造经济价值而拥有的杠杆之上。如果这不存在，情况会变得可怕。不平等会变得可怕。我对此很担心。”
+** The result may be ** the concentration of wealth, “a substantial part of the population is unable to make a real contribution,” Amodey tells us, “That's very bad. We don't want to see. The balance of power in democracy is based on the leverage that ordinary people have by creating economic value. If it doesn't exist, the situation becomes terrible. Inequality becomes terrible. I'm worried about it.”
 
-- 阿莫代伊自视为真相揭示者，“不是末日论者”，并急于与我们探讨解决方案。这些方案都无法改变上述现实——市场力量将继续推动 AI 走向类人推理。即使美国放慢脚步，中国也会继续狂奔。
+– Amodey sees himself as a revelation of the truth, “not an apocalypse,” and is eager to explore solutions with us. None of these options can change the reality – market forces will continue to push AI toward class reasoning.
 
-**阿莫代伊并非绝望。** 他与其他深度参与规划和预防问题的人士看到多种缓解最坏情形的方式，以下是从与 Anthropic 及相关人士对话中提炼的几点：
-通过政府与 AI 公司更加透明地说明劳动力变化，加速公众认知。明确指出某些岗位极易受冲击，值得现在就反思职业道路。“第一步是警告，”阿莫代伊说。他创建了 Anthropic 经济指数，提供 Claude 在各职业中的真实使用数据，并成立了 Anthropic 经济顾问委员会，以推动公共辩论。他希望该指数能激励其他公司共享模型使用见解，让政策制定者获得更全面图景。
-通过帮助美国工人更好理解 AI 目前如何增强任务，放缓岗位流失。这样至少让更多人有机会顺利过渡。鼓励 CEO 教育自己及员工。
-国会议员大多对 AI 现实及其对选民的影响知之甚少。更具知识的公职人员能更好地告知公众。成立 AI 联合委员会或为所有议员设置更正式的简报会是良好开端。地方层面同理。
-开始讨论由超人类智能主导经济的政策解决方案。范围包括职业再培训项目，以及在阿莫代伊最担忧的未来降临时，让大型 AI 公司创造的财富得以更广泛分享的创新方式。“这将涉及像我这样的人缴税，也许还包括专门针对 AI 公司的税收，”Anthropic 老板告诉我们。
-**阿莫代伊提出的一个政策构想** 是“令牌税”（token tax）：每当某人调用模型、AI 公司赚取收入时，或许将其中 3% 缴纳给政府并以某种方式再分配。
+** Amodei is not desperate.** He sees a variety of ways to mitigate the worst from the deep involvement of people in planning and prevention, including the following: through a more transparent presentation of changes in the labour force by the Government and AI companies, to accelerate public awareness. It is worth thinking about the career path now. “The first step is to warn.” He created the economic index of Anthropic, which provides data on the real use of Claude in various occupations, and set up the Economic Advisory Council of Anthropics, which promotes public debate. He hopes that the index will inspire other companies to share ideas on the use of models, give policymakers a more comprehensive picture.
 
-- “显然这不符合我的经济利益，”他补充说，“但我觉得那会是对问题的合理解决。” 如果 AI 如他预期般迅猛发展，这笔税收可能达数万亿美元。
+- “It is clearly not in my economic interest”, he added, “but I think it would be a reasonable solution to the problem.” If AI developed as fast as he expected, the tax would be trillions of dollars.
 
-**底线：** “你无法直接站到火车前让它停下，”阿莫代伊说。“唯一有效的做法是转向——让火车偏离原轨 10 度。那是可行的，但必须现在就做。”
-原文：https://www.axios.com/2025/05/28/ai-jobs-white-collar-unemployment-anthropic
-See more
+** Bottom line:** “You can't stop the train before you get to it,” Amodey says. “The only effective course is to turn -- to get the train off track by 10 degrees. That's possible, but it must be done now.” Original: https://www.axios.com/2025/05/28/ai-jobs-white-collar-unemployment-anthropic
