@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Supermemory Infinite Chat: AI "SuperMemory Hanging" can give AI the ability to "infinite memory"
+title: Supermemory Infinite Chat-AI "SuperMemory Hanging" can give AI the ability to "infinite memory"
 date: 2025-06-21 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/supermemory-infinite-chat-ai-ai_1.jpg

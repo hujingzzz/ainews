@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 11Labs Launched Eleven v3 (Alpha Version) - The most powerful text-to-speech model ever: "Not only speak, but act."
+title: 11Labs Launched Eleven v3 (Alpha Version) - The most powerful text-to-speech model ever-"Not only speak, but act."
 date: 2025-06-25 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/11labs-eleven-v3-alpha_1.jpg

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google Project Mariner: Rapidly dispatch one or more AI smart agents through natural languages to simulate human performance of complex tasks in the browser environment
+title: Google Project Mariner-Rapidly dispatch one or more AI smart agents through natural languages to simulate human performance of complex tasks in the browser environment
 date: 2025-06-23 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-project-mariner-ai_1.jpg

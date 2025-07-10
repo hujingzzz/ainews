@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's 3D video communication platform: Google Beam makes video calls like real face-to-face conversations
+title: Google's 3D video communication platform-Google Beam makes video calls like real face-to-face conversations
 date: 2025-06-21 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-3d-google-beam_1.jpg

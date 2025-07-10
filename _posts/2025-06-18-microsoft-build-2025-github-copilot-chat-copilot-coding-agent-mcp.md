@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft Build 2025 Conference: Open Source GitHub Copilot Chat, new Copilot Coding Agency, full support to MCP...
+title: Microsoft Build 2025 Conference-Open Source GitHub Copilot Chat, new Copilot Coding Agency, full support to MCP...
 date: 2025-06-18 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/microsoft-build-2025-github-copilot-chat-copilot-coding-agent-mcp_1.jpg

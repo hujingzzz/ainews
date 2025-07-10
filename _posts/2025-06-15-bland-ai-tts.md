@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bland AI TTS Engine: Using a large language model to directly generate a voice that only needs a short audio to clone any human voice.
+title: Bland AI TTS Engine-Using a large language model to directly generate a voice that only needs a short audio to clone any human voice.
 date: 2025-06-15 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/bland-ai-tts_1.jpg

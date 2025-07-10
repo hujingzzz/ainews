@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google has an AI coding agent: AlphaEvolve, it can write the code itself, evaluate the test itself, and then improve itself.
+title: Google has an AI coding agent-AlphaEvolve, it can write the code itself, evaluate the test itself, and then improve itself.
 date: 2025-06-05 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-ai-alphaevolve_1.jpg

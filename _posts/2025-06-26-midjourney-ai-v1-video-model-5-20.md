@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Midjourney AI video generation model: V1 Video Model supports video generation from 5 to 20 seconds
+title: Midjourney AI video generation model-V1 Video Model supports video generation from 5 to 20 seconds
 date: 2025-06-26 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/midjourney-ai-v1-video-model-5-20_1.jpg

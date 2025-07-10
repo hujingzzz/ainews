@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Luma Labs Modefy Video: Any object in the video can be changed at any time, infinity
+title: Luma Labs Modefy Video-Any object in the video can be changed at any time, infinity
 date: 2025-06-02 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/luma-labs-modify-video_1.jpg

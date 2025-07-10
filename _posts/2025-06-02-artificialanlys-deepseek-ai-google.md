@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Artificial Anlys: DeepSeek leaps to the second largest AI laboratory in the world, alongside Google, to secure the leadership of the Open Source Model
+title: Artificial Anlys-DeepSeek leaps to the second largest AI laboratory in the world, alongside Google, to secure the leadership of the Open Source Model
 date: 2025-06-02 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/artificialanlys-deepseek-ai-google_1.jpg

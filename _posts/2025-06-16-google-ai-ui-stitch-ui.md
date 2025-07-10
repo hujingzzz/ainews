@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google AI UI Design Tool Brightness: Stitch Word Generates Full UI and Full Frontend Code
+title: Google AI UI Design Tool Brightness-Stitch Word Generates Full UI and Full Frontend Code
 date: 2025-06-16 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-ai-ui-stitch-ui_1.jpg

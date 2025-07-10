@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google Launchs an autonomous programming smart body: Jules Cloud Run can independently perform a full development task
+title: Google Launchs an autonomous programming smart body-Jules Cloud Run can independently perform a full development task
 date: 2025-06-13 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-jules_1.jpg

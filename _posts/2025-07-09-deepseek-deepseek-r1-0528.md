@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DeepSeek DeepSeek R1-0528: Significant improvements in code capabilities and writing skills, deeper reasoning capabilities and repair of some problems
+title: DeepSeek DeepSeek R1-0528-Significant improvements in code capabilities and writing skills, deeper reasoning capabilities and repair of some problems
 date: 2025-07-09 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/deepseek-deepseek-r1-0528_1.jpg

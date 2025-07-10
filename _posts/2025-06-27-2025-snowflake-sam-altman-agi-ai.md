@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025 Snowflake Summit Interview: Sam Altman on AGI Timetable and Next Generation AI Function
+title: 2025 Snowflake Summit Interview-Sam Altman on AGI Timetable and Next Generation AI Function
 date: 2025-06-27 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/2025-snowflake-sam-altman-agi-ai_1.jpg

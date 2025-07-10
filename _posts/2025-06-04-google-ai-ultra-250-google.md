@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google AI Ultra: Full-Full Flagship Subscription $250/month access to all Google top-level services
+title: Google AI Ultra-Full-Full Flagship Subscription $250/month access to all Google top-level services
 date: 2025-06-04 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-ai-ultra-250-google_1.jpg

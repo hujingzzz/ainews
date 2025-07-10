@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenAI Responses API major upgrade: supports new tools such as image generation, code interpreter, remote MCP
+title: OpenAI Responses API major upgrade-supports new tools such as image generation, code interpreter, remote MCP
 date: 2025-06-30 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/openai-responses-api-mcp_1.jpg

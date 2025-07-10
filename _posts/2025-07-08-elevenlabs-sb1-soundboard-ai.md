@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ElevenLabs releases SB1 Soundboard: an AI-based customised sound control panel tool
+title: ElevenLabs releases SB1 Soundboard-an AI-based customised sound control panel tool
 date: 2025-07-08 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/elevenlabs-sb1-soundboard-ai_1.jpg

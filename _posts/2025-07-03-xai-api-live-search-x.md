@@ -1,6 +1,6 @@
 ---
 layout: post
-title: xAI Launch Web Search API: LiveSearch is a real-time dynamic search for data sources such as X Platforms, Internet and News
+title: xAI Launch Web Search API-LiveSearch is a real-time dynamic search for data sources such as X Platforms, Internet and News
 date: 2025-07-03 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/xai-api-live-search-x_1.jpg

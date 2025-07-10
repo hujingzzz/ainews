@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's official new-generation vehicle system: CarPlay Ultra integrates iPhone with all the screen depths of the car
+title: Apple's official new-generation vehicle system-CarPlay Ultra integrates iPhone with all the screen depths of the car
 date: 2025-06-21 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/carplay-ultra-iphone_1.jpg

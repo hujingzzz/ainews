@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pollo AI: One-Stop AI Image and Video Generation Platform brings together the most advanced images and video models around the world.
+title: Pollo AI-One-Stop AI Image and Video Generation Platform brings together the most advanced images and video models around the world.
 date: 2025-06-23 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/pollo-ai-ai_1.jpg

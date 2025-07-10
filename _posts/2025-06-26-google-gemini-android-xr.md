@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google is expanding Gemini to more Android devices: watch, car, television and XR head shows
+title: Google is expanding Gemini to more Android devices-watch, car, television and XR head shows
 date: 2025-06-26 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-gemini-android-xr_1.jpg

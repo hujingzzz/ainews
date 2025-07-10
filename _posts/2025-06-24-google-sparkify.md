@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's latest experiment Sparkify: Animated short video that quickly translates your problems or complex conceptual knowledge into visuals
+title: Google's latest experiment Sparkify-Animated short video that quickly translates your problems or complex conceptual knowledge into visuals
 date: 2025-06-24 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-sparkify_1.jpg

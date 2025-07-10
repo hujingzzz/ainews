@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shortcut: Excel Assistant automatically processes Excel tables through natural language dialogue
+title: Shortcut-Excel Assistant automatically processes Excel tables through natural language dialogue
 date: 2025-06-24 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/shortcut-excel-excel_1.jpg

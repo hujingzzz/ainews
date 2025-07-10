@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenAudio, the latest voice-generated model: S1 claims to be pro-sounding and natural.
+title: OpenAudio, the latest voice-generated model-S1 claims to be pro-sounding and natural.
 date: 2025-06-25 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/openaudio-s1_1.jpg

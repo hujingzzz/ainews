@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google AI Studio Upgrade: Faster, stronger, more intelligently constructed Gemini applications integrated Imagen, Veo, Lyria, etc. support Live API
+title: Google AI Studio Upgrade-Faster, stronger, more intelligently constructed Gemini applications integrated Imagen, Veo, Lyria, etc. support Live API
 date: 2025-06-14 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-ai-studio-gemini-imagen-veo-lyria-live-api_1.jpg

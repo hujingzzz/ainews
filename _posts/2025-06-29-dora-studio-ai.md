@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dora Studio: AI-driven dynamic graphics generation platform for text generation
+title: Dora Studio-AI-driven dynamic graphics generation platform for text generation
 date: 2025-06-29 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/dora-studio-ai_1.jpg

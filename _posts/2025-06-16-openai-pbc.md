@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenAI announces a major change in the organizational structure: the transition to a public interest company (PBC) will open up some powerful models
+title: OpenAI announces a major change in the organizational structure-the transition to a public interest company (PBC) will open up some powerful models
 date: 2025-06-16 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/openai-pbc_1.jpg

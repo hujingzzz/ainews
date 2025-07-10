@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google “Genetic Understanding AI”: AlphaGenome specifically used to predict the effects of mutations in DNA on genetic regulation.
+title: Google “Genetic Understanding AI”-AlphaGenome specifically used to predict the effects of mutations in DNA on genetic regulation.
 date: 2025-06-13 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-ai-alphagenome-dna_1.jpg

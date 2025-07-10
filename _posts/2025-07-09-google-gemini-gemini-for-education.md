@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google Launch a new Gemini tool for students and educators: Gemini for Education
+title: Google Launch a new Gemini tool for students and educators-Gemini for Education
 date: 2025-07-09 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-gemini-gemini-for-education_1.jpg

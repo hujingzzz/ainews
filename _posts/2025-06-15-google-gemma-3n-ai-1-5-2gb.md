@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google Gemma 3n: A new generation of lightweight multimoderated AI models with a response speed increase of about 1.5 times 2GB memory cell phones running.
+title: Google Gemma 3n-A new generation of lightweight multimoderated AI models with a response speed increase of about 1.5 times 2GB memory cell phones running.
 date: 2025-06-15 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-gemma-3n-ai-1-5-2gb_1.jpg

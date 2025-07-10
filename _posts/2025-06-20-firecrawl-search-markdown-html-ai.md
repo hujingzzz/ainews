@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Firecrawl introduces new functionality /search: search + fetch web content from backstage and return to Markdown, HTML, screenshot, etc. to AI
+title: Firecrawl introduces new functionality /search-search + fetch web content from backstage and return to Markdown, HTML, screenshot, etc. to AI
 date: 2025-06-20 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/firecrawl-search-markdown-html-ai_1.jpg

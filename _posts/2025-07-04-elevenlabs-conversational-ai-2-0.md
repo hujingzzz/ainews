@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LeavenLabs Conversation AI 2.0: A conversational voice assistant who knows when to answer you will not interrupt you, automatically switch languages.
+title: LeavenLabs Conversation AI 2.0-A conversational voice assistant who knows when to answer you will not interrupt you, automatically switch languages.
 date: 2025-07-04 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/elevenlabs-conversational-ai-2-0_1.jpg

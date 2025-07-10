@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Figma 2025Config General Assembly reloads new functionality: design like a painting, AI prototype generator, integrated station platform...
+title: Figma 2025Config General Assembly reloads new functionality-design like a painting, AI prototype generator, integrated station platform...
 date: 2025-07-07 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/figma-2025config-ai_1.jpg

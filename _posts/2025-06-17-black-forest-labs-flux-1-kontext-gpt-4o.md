@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A new generation of multi-model image generation and editing models launched by Black Forest Labs: FLUX.1 Kontext can achieve GPT 4o image capability
+title: A new generation of multi-model image generation and editing models launched by Black Forest Labs-FLUX.1 Kontext can achieve GPT 4o image capability
 date: 2025-06-17 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/black-forest-labs-flux-1-kontext-gpt-4o_1.jpg

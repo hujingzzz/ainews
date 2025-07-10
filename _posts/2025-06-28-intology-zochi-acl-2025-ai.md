@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ACL 2025: Become the first autonomous AI scientist system to be evaluated through a top-level conference
+title: ACL 2025-Become the first autonomous AI scientist system to be evaluated through a top-level conference
 date: 2025-06-28 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/intology-zochi-acl-2025-ai_1.jpg

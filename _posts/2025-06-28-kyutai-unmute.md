@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kyutai has launched Unmute: it can be inserted into any model to give voice to any model
+title: Kyutai has launched Unmute-it can be inserted into any model to give voice to any model
 date: 2025-06-28 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/kyutai-unmute_1.jpg

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenMemory MCP: The unified AI memory management platform runs locally to store, organize and manage your "memory" from one AI to another.
+title: OpenMemory MCP-The unified AI memory management platform runs locally to store, organize and manage your "memory" from one AI to another.
 date: 2025-06-05 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/openmemory-mcp-ai-ai_1.jpg

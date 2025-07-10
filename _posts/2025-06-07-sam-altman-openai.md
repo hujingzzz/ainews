@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sam Altman, latest interview: revealing the secrets of OpenAI's high-speed rhythm and product strategic direction
+title: Sam Altman, latest interview-revealing the secrets of OpenAI's high-speed rhythm and product strategic direction
 date: 2025-06-07 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/sam-altman-openai_1.jpg

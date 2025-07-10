@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google I/O 2025 Gemini 2.5 series model update: Deep Think, Original Audio Interactivity, Computer Operating Capability, Support to MCP...
+title: Google I/O 2025 Gemini 2.5 series model update-Deep Think, Original Audio Interactivity, Computer Operating Capability, Support to MCP...
 date: 2025-06-09 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-i-o-2025-gemini-2-5-deep-think-mcp_1.jpg
