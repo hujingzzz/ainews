@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ElevenLabs Launch SB1 Soundboard
+title: ElevenLabs Launch SB1 Soundboard # I don't know what I'm talking about #It's based on AI Customised audio control panel utility for %1
 date: 2025-07-08 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/elevenlabs-sb1-soundboard-ai_1.jpg
