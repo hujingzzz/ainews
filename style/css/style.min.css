@@ -2603,3 +2603,12 @@ a.navbar-logo span {
         margin-left: auto;
     }
 }
+
+/* 首页文章标题单行省略号，防止覆盖icon和category */
+.post-list-item-container .item-label .item-title a {
+  display: block !important;
+  white-space: nowrap !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+  max-width: 75% !important; /* 可根据实际布局调整 */
+}
