@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Voice Design v3 Support 70+ Language Designable to Control Voice Personality
+title: ElevenLabs Release a new generation of voice design tools Voice Design v3 Support 70+Languages Designable to control all kinds of speech personality
 date: 2025-06-29 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/elevenlabs-voice-design-v3-70_1.jpg
@@ -9,56 +9,71 @@ icon: design
 * content
 {:toc}
 
-ElevenLabs has launched a new generation voice generation tool, Voice Design v3, which allows users to create characterized voice that fits the character set through texttips.
+ElevenLabs A new generation of voice-generation tools was released Voice Design v3 Allows the user to create a characterized voice with texttips that match the character setI don't know.
 
-- The new version of the model has a higher sound quality and greater expression.
+- The new version of the model has a higher sound qualityMore expression.I don't know.
 
-- Support **70+ Language** and hundreds of local accents suitable for production grade.
+- Support **70+Languages**70+Languages And hundreds of local accents. Suitable for production level usesI don't know.
 
-- Major updates include: more detailed control over the personality and rhythm of speech roles (e.g. tone, speed, tone change, age and sex);
+- Major updates include:-
+Personality and rhythm of a voice character.It's like a voice.Speed of speechChange of toneAge and sexI'm not sure what I'm talking about.Have more detailed control.;
 
-- Support for Eleven v3 and new audio labels;
+- Support Eleven v3 And new audio tags;
 
-- Enhancement of the oral recognition process;
+- Raise the accent recognition process;
 
-- Higher guaranteed audio output;
+- A higher level of solid audio output;
 
-Voice Design v3 supports 70 multilingual and multi-local accents, suitable for various creative and commercial uses. Officially, many live cases, including Japanese warriors, witches, French women and funny aliens, show the flexibility and performance of the system. The functionality is now open to all users. Online experience: https://elevenlabs.io/voice-design
+Voice Design v3 Support 70 Multilingual and multi-local accents Suitable for creative and commercial purposesI don't know.Officially, there's a lot of live cases. Including Japanese warriors.Witch.French women and funny aliens. Shows the flexibility and performance of the system.I don't know.
+This feature is now open to all usersI don't know.
+Online experience-https://elevenlabs.io/voice-design
 
-1. A description-based voice generation requires you to enter a descriptive text that allows the system to produce the corresponding voice immediately. For example:
+### 🎨 Function Details
+📝 1. Voice-generated based on description
+All you have to do is enter a descriptive text. The system is instantaneous to generate the corresponding voice.I don't know.For example...-
 
-- ** Example Prompt**: "A calm, tenacious, dumb old cowboy with a strong Southern American accent."
+- **Example: Prompt**Example: Prompt-
+“At the end of the day,A quiet one.A tough, dumb old cowboy. It's got a strong Southern American accent.We're not going to be able to do that."
 
-Looks like it's just me and you left...
+- **Generate voice**Generate voice-
+“At the end of the day,Well, I'll be damned. [laughs] Looks like it's just me and you left"I'm not sure what I'm going to do."
 
-!" (https://assets-v2.circle.so/vijiurtr3vvtx0je0j3ck76slvc) It can interpret the ** emotional, verbal, age, background, accent** information in Prompt to generate a humanized voice.  2. Highly modifiable parameters Users can define their own voice characteristics: < [https://assets-v2.circle.so/ju51ik2e8hzybd29eehyf5n1dj] [https://assets-v2.circle.so/pv2uwy79y1zs7okohdymer4vpw) 3.
+![](https://assets-v2.circle.so/vijiutr3y6vtx0je0jj3ck76slvc)It can be deconstructed.Prompt In relation to**Emotion.VoiceAgeBackgroundAn accent.**Emotion.VoiceAgeBackgroundAn accent.Waiting for information So it creates a pseudo-humanized voice.I don't know.
+🎛️ 2. Altitude adjustable parameters
+User can customise the following speech features-
+![](https://assets-v2.circle.so/ju51ik2e8hzybvd29eehyf5n1rdj)![](https://assets-v2.circle.so/pv2uwy79y1zs7okoh09dymer4vpw)🧠 3. Model-backed character style
+Voice Design Support the creation of multiple voice styles Whether it's real or fantasy.-
 
-- Real style: "A 20-year-old Indian woman, loud, soft, slow and gentle."
+- Real style-
+“At the end of the day,One.20An Indian woman. It's loud.Soft Slow and gentle.We're not going to be able to do that."
 
-- "Middle-aged English males, sound magnetic, formal and clear."
+- “At the end of the day,Middle-aged British males The sound is magnetic. It's official and clear.We're not going to be able to do that."
 
-Role style:
+Role style-
 
-- "A rude, angry old pirate, often shouts."
+- “At the end of the day,A rude one.Angry old pirates. I used to yell.We're not going to be able to do that."
 
-- "An alien with a sharp voice, a croak and a funny mouth."
+- “At the end of the day,An alien. The sound's sharp.♪ Bang, bang, bang, bang, bang, bang ♪It's funny.We're not going to be able to do that."
 
-4. In order to help users better design their voice, Steven Labs has provided a special **tip writing guide**, which includes dozens of style templates, build techniques, best practices that allow newers to start writing easily.[3] (https://assets-v2.circle.so/y5394wxjbt17g7upokw399jw09zu) 5. Voice Design API (Developer Function)
+📚 4. Use Guides and RemindersPrompting GuideI'm not sure what I'm talking about.
+To help users design their voice better. ElevenLabs Provision of specialized**Hints Writing Guide**Hints Writing Guide It includes dozens of style templates.Build techniqueBest practices So that the newcomer can start writing easily.I don't know.
+![](https://assets-v2.circle.so/y5394wxjbt17g7upokw399jw09zu)⚙️ 5. Voice Design APIDeveloper FunctionI'm not sure what I'm talking about.
+Voice Design Provision API InterfaceCurrent Alpha Phase Console only:
 
-- ** Generate interface**: Enter prompt and text to return a sound preview.
+- **Generate Interface**Generate Interface-Input prompt and text The sound preview can be returned.I don't know.
 
-- **Save interface**: Save the resulting voice in the user voice library.
+- **Save Interface**Save Interface-Save generated voice in the user voice libraryI don't know.
 
-适用于产品集成、自动化创作、个性化内容生成等开发者场景。
+Applicable to product integrationAutomotive creationDeveloper scenes like personal content generationI don't know.
 ![](https://assets-v2.circle.so/bj7x3ksmmxm5id5qxw86xk99m3t2)
-## **Voice Design v3示例：**
-**声音提示：**A calm, tough and gruff old cowboy with an deep, gravelly, southern American accent.语音提示：一位非常年长、脾气暴躁且声音嘶哑的非裔美国祖母，80岁。声音非常沙哑、易怒、尖锐且充满挫败感。 
-**声音提示：**
-A calm and husky make warrior with a thick Japanese accent. Soft, whiskery, low tone with a composed and gentle pacing.一个冷静而沙哑的战士男性，带浓重的日式口音。声音柔和、低沉，语速平稳温和。
-**声音提示：**
-A scary old and haggard witch who is sneaky and menacing. She has a croaky, harsh, shrill, high-pitch voice that cackles.一位年老憔悴、狡猾又吓人的女巫，声音沙哑刺耳，尖细高亢，还带着咯咯笑声。
-**声音提示：**
-A low, whispery and assertive female voice with a thick French accent. Cool, composed and seductive, with a hint of mystery.一个声音低沉而坚定的女性，带浓重法式口音，冷静、性感且神秘。
-**声音提示：**Greetings, earthlings. I must say your voice models are out of this world!一个来自外太空的有趣外星人，声音荒谬且令人讨厌，总是带着一点含糊不清的傻乎乎的高音调。
-**声音提示：**The friendly mythical God, Zeus, with a huge deep powerful voice. Charming, proud, strong and theatrical.友善的神话之神宙斯，拥有巨大的深沉有力的声音。迷人、自豪、强壮且富有戏剧性。
-**声音提示：**A very old, cranky and croaky African-American grandma. 80 years old. Very hoarse, grumpy, shrill and frustrated.一位非常年长、脾气暴躁且声音嘶哑的非裔美国祖母，80岁。声音非常沙哑、易怒、尖锐且充满挫败感。
+## **Voice Design v3Example:-**Voice Design v3Example:-
+**Soundtips-**Soundtips-A calm, tough and gruff old cowboy with an deep, gravelly, southern American accent.Voice prompt-A very old man.African-American grandmother with a grumpy temper and a loud voice. 80AgeI don't know.It's so dumb.Angry.It's sharp and it's full of frustration.I don't know. 
+**Soundtips-**Soundtips-
+A calm and husky make warrior with a thick Japanese accent. Soft, whiskery, low tone with a composed and gentle pacing.A calm and dumb warrior man. A strong Japanese accent.I don't know.Soft VoiceLow. The speed of speech is steady and gentle.I don't know.
+**Soundtips-**Soundtips-
+A scary old and haggard witch who is sneaky and menacing. She has a croaky, harsh, shrill, high-pitch voice that cackles.An old man.Sly, scary witch. ♪ The sound of the dusk ♪ Slightly tall. And with the giggles.I don't know.
+**Soundtips-**Soundtips-
+A low, whispery and assertive female voice with a thick French accent. Cool, composed and seductive, with a hint of mystery.A woman with a low voice and a firm voice. A strong French accent. Calm down.Sexy and mysterious.I don't know.
+**Soundtips-**Soundtips-Greetings, earthlings. I must say your voice models are out of this world!An interesting alien from outer space. It's ridiculous and disgusting. It's always a bit of a vaguely stupid high note.I don't know.
+**Soundtips-**Soundtips-The friendly mythical God, Zeus, with a huge deep powerful voice. Charming, proud, strong and theatrical.The friendly myth of Zeus. With a big, deep, powerful voice.I don't know.Fascinating.Pride.Strong and dramatic.I don't know.
+**Soundtips-**Soundtips-A very old, cranky and croaky African-American grandma. 80 years old. Very hoarse, grumpy, shrill and frustrated.A very old man.African-American grandmother with a grumpy temper and a loud voice. 80AgeI don't know.It's so dumb.Angry.It's sharp and it's full of frustration.I don't know.

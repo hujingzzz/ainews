@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kyutai has launched Unmute-it can be inserted into any model to give voice to any model
+title: Kyutai Launched Unmute-It can be inserted into any model. Makes any model soundable.
 date: 2025-06-28 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/kyutai-unmute_1.jpg
@@ -9,42 +9,48 @@ icon: game
 * content
 {:toc}
 
-Kyutai introduced **Unmute**, a highly modular voice AI system that can quickly add a voice function to any text large-language model (LLM). That is, it can be inserted into any model, allowing the model to have voice.
+Kyutai Launched **Unmute**Unmute A highly modular voice. AI System Could be a model for any large text languageLLMI'm not sure what I'm talking about.Quick Add VoiceI don't know.
+Which means it can be inserted into any model. Give the model voice-powering.I don't know.
 
-- Unmute includes new **Speech-to-Text** and **Text-to-Speech** modules: **stream **, low delay, with a speech-level activity test (VAD) that allows an intelligent judgement as to whether the user has said a word.
+- Unmute Including new **Voice recognitionSpeech-to-TextI'm not sure what I'm talking about.**Voice recognitionSpeech-to-TextI'm not sure what I'm talking about. and **Text SynthesisText-to-SpeechI'm not sure what I'm talking about.**Text SynthesisText-to-SpeechI'm not sure what I'm talking about. Modules-
+**Fluid Recognition**Fluid Recognition Low delay Voice activity detection with semantic levelVADThis is the first time I've ever seen you.It's smart enough to judge if the user has said a word.I don't know.
 
-- **TTS supports personalized voice cloning**, generating customized sound based on a 10-second speech sample.
+- **TTS Support personalized voice cloning**TTS Support personalized voice cloning Based on 10 Seconds voice sample to generate custom soundI don't know.
 
-- TTS achieves a “text flow” synthesis that supports starting to speak when the text is not yet fully generated, further reducing the delay in response.
+- TTS Achieved“At the end of the day,Text StreamingIt's not a good idea, it's not a good idea.Synthetic Support to start talking when text is not fully generated Further reducing delays in responseI don't know.
 
-The Moshi, launched last year, has low delay and natural language skills, but it is not as good as a text model in terms of function call, reasoning, and context learning. Unmute aims to make up for this by bringing the powerful power of text models into voice dialogue.
+It was launched last year. Moshi Despite low delay and natural language proficiency But call functionThe ability to reason.Less contextual learning, etc. than text modelsI don't know.Unmute It's meant to make up for that. Bring the power of the text model into the voice conversationI don't know.
 
-- **System**: Unmute is a ** Cascade voice system** consisting of three separate modules: **Stt.
+- **System structure**System structure-Unmute It's one.**Cascade voice system**Cascade voice system Comprises three separate modules-
+**Voice-to-textSTTI'm not sure what I'm talking about.**Voice-to-textSTTI'm not sure what I'm talking about.-Transcribe user's voice into textI don't know.
 
-- **LMM**: This is the use of **Gemma 3,12B**, which generates a response based on input text.
+- **Language ModelLLMI'm not sure what I'm talking about.**Language ModelLLMI'm not sure what I'm talking about.-What's used here? **Gemma 3 12B**Gemma 3 12B Generate a response based on input textI don't know.
 
-- **TTS**: converts the LLM response to voice.
+- **Text-to-VoiceTTSI'm not sure what I'm talking about.**Text-to-VoiceTTSI'm not sure what I'm talking about.-Will LLM The response has been converted to voice.I don't know.
 
-- ** Modular advantage**: Although this cascade system may lose emotional, sarcastic and other contextual information, its greatest advantage is ** highly modular**.
+- **Modular advantages**Modular advantages-
+Although this cascade system may lose its mood.It's just sarcasm and so forth. But the greatest thing about it is...**High Modularization**High ModularizationI don't know.
 
-- Because the three components are independent, you can ** add voice functions to any LLM** without fine-tuning or fitting.
+- Because the three components are independent. So you can.**For any LLM Add Voice**For any LLM Add Voice No need to fine-tune or fitI don't know.
 
-- In the presentation, the user can: **Gemma 3 system prompt** to customize the character of the digital role;
+- In Presentation Users can-
+Adjustments **Gemma 3 It's... it's... it's... system prompt**Gemma 3 It's... it's... it's... system prompt Custom numeric characters“At the end of the day,Character); and
 
-- Independently changing the voice of TTS to achieve a free combination of personality and voice.
+- Independent Change TTS Sound Free combination of personality and voiceI don't know.
 
-** Technical Details**:
+**Technical Details**Technical Details-
 
-- **STT is a flow**, compiled as **Semantic VAD**, without additional modeling to determine whether the speech is over, low delay.
+- **STT It's fluid.**STT It's fluid. It's a collection.**Sensory-level voice activity detectionsemantic VADI'm not sure what I'm talking about.**Sensory-level voice activity detectionsemantic VADI'm not sure what I'm talking about. There's no extra model to judge the end of the conversation. Low delayI don't know.
 
-- **TTS is also fluid**, not only in audio production, but even during text generation, which greatly reduces response time.
+- **TTS It's a fluency.**TTS It's a fluency. It's not just fluid in audio production. Even during text generation. And that's how the response time is reduced.I don't know.
 
-- Users can customize TTS's tone and tone only if they provide **10 seconds of speech samples**.
+- User only has to provide **10 Second voice sample**10 Second voice sample You can customise it. TTS The tone and tone of theI don't know.
 
-- Unmute's voice interactive design supports ** interruption, rotational speaking**, closer to natural human conversation.
 
-- **Future directions**: Kyutai believes that the future of human interaction lies in "natural, full-time voice interaction + personalization + scalable capability".
+- Unmute Voice interactive design support **Interrupt.Rotation of statementsturn-takingI'm not sure what I'm talking about.**Interrupt.Rotation of statementsturn-takingI'm not sure what I'm talking about. I'm closer to nature's human conversation.I don't know.
 
-- Officially committed to placing Unmute in full within the next few weeks** open source**.
+- **Future directions**Future directions-Kyutai It's the future of the human race.“At the end of the day,Naturally.Full double-worker voice interaction. + Personalization + Extendable Capacity
 
-Online experience: unmute.sh
+- The official promise will be made in the next few weeks. Unmute All of it. **Open Source**Open SourceI don't know.
+
+Online experience-unmute.sh

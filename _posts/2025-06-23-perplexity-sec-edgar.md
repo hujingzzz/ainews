@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Perplexity announces the launch of an integrated service based on US SEC/EDGAR data that directly accesss the raw financial data of listed companies
+title: Perplexity It's an announcement based on the United States. SEC/EDGAR Data integration services Direct access to raw financial data of listed companies
 date: 2025-06-23 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/perplexity-sec-edgar_1.jpg
@@ -9,50 +9,57 @@ icon: design
 * content
 {:toc}
 
-Perplexity announces the introduction of a completely new feature: ** Compatibility of the EDGAR database of the United States Securities Commission (SEC),** which translates raw data from tens of thousands of listed companies, such as financial reports, strategic plans, significant risk disclosure, into dialogueable, searchable, verifiable real-time answers through AI semantic understanding and natural language processing capabilities. This feature has been integrated into the Perplexity:
+Perplexity Declare the introduction of a completely new feature-**Connect to the SEC.SECI'm not sure what I'm talking about.It's... it's... it's... EDGAR Database**Connect to the SEC.SECI'm not sure what I'm talking about.It's... it's... it's... EDGAR Database Financial reports for tens of thousands of listed companiesStrategic planRaw data such as material risk disclosure Pass. AI semantic understanding and natural language processing skills Turning into a dialogueableQueryableVerifiable real-time answersI don't know.
+This feature has been integrated to Perplexity It's... it's... it's...-
 
-** Smart search engine**
+- 🔍 **Smart search engine**Smart search engine
 
--  Research assistant**
+- 📚 **Research assistant**Research assistant
 
--  Laboratories platform **Labs**
+- 🧪 **Labs Laboratory platform**Labs Laboratory platform
 
-By asking questions, users can:
+By asking questions. Users can-
 
-- Query for company updates (e.g.: “Texla Q1 Performance Summary”)
+- Query company updatesFor example..._Other OrganiserTesla. Q1 Summary of performanceIt's not like it's going to happen.
 
-- Knowledge of industry peer comparison
+- Understanding industry peer comparisons
 
-- Access to information on the outlook of professional analysts
+- Access to vision information for professional analysts
 
-All responses ** with precise source references**, can jump one key to the original file validation to ensure **transparency retrace**. All users have access to SEC data through the PolicySearch, Research and Labs.
+All the answers.**Accurate Source Reference**Accurate Source Reference But one key can go to the original file for authentication Make sure.**Transparency can be traced.**Transparency can be traced.I don't know.
+All Perplexity Users can pass.Perplexity SearchResearch and Labs Visits SEC DataI don't know.
 
-In the past, individual investors used to rely on second-hand financial news, blogs, or simplified investment applications.
+## ⚙️ What did it solve?
+Get over there. Individual investors often rely on second-hand financial news.Blogs or simplified investment applicationsI don't know.But that's the information.-
 
-- Too often there's a lack of context.
+- Often there is a lack of context.
 
-- Key information is hidden (e.g. risk factors, management outlook)
+- Hiding key informationRisk factors, for exampleManagement outlookI'm not sure what I'm talking about.
 
-- It's difficult to conduct further in-depth studies.
+- Lack of further in-depth research
 
-In contrast, the SEC integration of Perplexity has the following advantages: # (https://assets-v2.Circle.so/2lfx8571oydte9c1fsiiwajatfyb) # # # who is best suited to use this function?
+By comparison Perplexity It's... it's... it's... SEC Integration has the following advantages:-
+![](https://assets-v2.circle.so/2lfx8571oydte9c1fsiiwajatfyb)
+## 👩‍💼 Who's best suited to this function?
 
-- **General investors**: it is possible to independently judge the value of companies without relying on intermediaries
+- **General investors**General investors-You can't rely on an intermediary. Independently judging corporate value
 
-- **Financial consultant**: savings in research time and quick responses to miscellaneous questions for clients
+- **Finance consultant**Finance consultant-Savings in research time Quick response to multiple questions for clients
 
-- ** Students and researchers**: access to first-hand data and more solid reporting
+- **Students and researchers**Students and researchers-Get first-hand data Make a more solid report.
 
-- ** Entrepreneur or industry analyst**: Insighting the financial and strategic dynamics of competitors
+- **Entrepreneurs or industry analysts**Entrepreneurs or industry analysts-Insighting the financial and strategic dynamics of competitors
 
-- **Professionals such as lawyers, bankers and others**: Rapid access to relevant documentation in the context of transactional and transactional reconciliation
+- **Counselor.A banker and a professional.**Counselor.A banker and a professional.-Quick access to relevant documents in the reconciliation of transactions
 
-#  Enterprise-level enhancements: further data integration, if you are a user of **Perplexity Enterprise Pro**, can also connect SEC data to other important business databases, including:
+## 🚀 Enterprise-level enhancements-Further data integration
+If you were... **Perplexity Enterprise Pro**Perplexity Enterprise Pro User It's also possible to SEC Data used in connection with other important business databases Including-
 
-- **FactSet** (M&As, minutes of meetings, etc.)
+- **FactSet**FactSetMergers and acquisitionsData from meetings, etc.I'm not sure what I'm talking about.
 
-- **Crunchbase** (Collaborative structure and investment information)
+- **Crunchbase**CrunchbaseCorporate structure and investment informationI'm not sure what I'm talking about.
 
-- ** Own corporate database** (uploading files for semantic retrieval)
+- **Own corporate database**Own corporate databaseUploading documents for semantic retrievalI'm not sure what I'm talking about.
 
-Realize a search box to solve investment problems in multiple dimensions. Accessation Try...
+Real realization of a search box Addressing multiple dimensions of investmentI don't know.
+Visits Perplexity TryI don't know.

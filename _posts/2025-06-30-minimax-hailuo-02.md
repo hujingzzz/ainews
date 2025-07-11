@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MiniMax's latest video-generation model Hailuo 02 is the only video model in the world that combines quality, complex control and high performance.
+title: MiniMax Release its latest video generation model Hailuo 02 It's the only thing in the world.Complex control and high-performance video models
 date: 2025-06-30 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/minimax-hailuo-02_1.jpg
@@ -9,93 +9,109 @@ icon: design
 * content
 {:toc}
 
-MiniMax released its latest AI video production model, Hailuo 02 (code “Kangaroo”), which ranks second in the artificial Analysis rating, after the bytes of Seadance 1.0 Pro, surpassing Google Veo 3.
+MiniMax Release it. Hailuo 02Code“At the end of the day,KangarooIt's not like it's going to happen.LatestAIVideo Generation Model Yes.Artificial AnalysisRatings Second-highest in the world. Next Bytes OnlySeedance 1.0 Pro BeyondGoogle Veo 3I don't know.
 
-- **Hailuo 02 is the only current publicly available AI primary video production model that combines paint quality, complex control and high performance**;
+- **Hailuo 02 is currently the only publicly availableBalancing the quality of the paintingComplex controls and high performance. AI Original video generation model**Hailuo 02 is currently the only publicly availableBalancing the quality of the paintingComplex controls and high performance. AI Original video generation model;
 
-- Compared with major video-generated technical players such as Runway, Pika Labs, SVD, Hailuo with greater weight** real physical modelling** and ** complex action generation** for professional creation scenes such as animations, CGs, advertising, film previews, etc.;
+- Contrast RunwayPika LabsSVD Waiting for the main video generation technology player Hailuo It's more important.**Real Physics Modelling**Real Physics Modellingand**Complex Action Generation**Complex Action Generation Applies to AnimationCGAdvertisingSpecializing in creative scenes like movie previews.;
 
-# Generate effect capabilities and properties![] (https://assets-v2.Circle.so/ xw121amve9oy1kipjkn3brajngqi)** high-resolution output**:
 
-- Support ** original 1080p** (1920 x 1080) resolution with a frame rate of 24-30fps, providing professional visual effects suitable for social media, advertising prototypes or short film creation.
+## Generating effect capabilities and properties
+![](https://assets-v2.circle.so/xw121umve9oy1kipjkn3brajngqi)**High Resolution Output**High Resolution Output-
 
-- Another 768p option to support 6 seconds or 10 seconds of video with flexibility to accommodate different needs. [] [https://assets-v2.circle.so/6j9c6ctpj93qkkkpodr2cdkbrmoy] ** Video duration**:
+- Support**Native1080p**Native1080p1920×1080I'm not sure what I'm talking about.Resolution Frame Rate24-30fps Provision of professional-level visual effects Suitable for social mediaPrototype or short film creationI don't know.
 
-- Maximum generation of **10 seconds** videos suitable for short format content, such as short social media videos, promotional segments or storyboard animations, up from the previous generation of Hailuo 01 (6 seconds).
+- Additional768pOptions Support6sec or10Second Video Flexible adaptation to different needsI don't know.
+![](https://assets-v2.circle.so/6j9c6ctpj93qzkkpodr2cdkbrmoy)
+**Video duration**Video duration-
 
-** Advanced physical simulation**:
+- Maximum Generation**10sec**10secVideo Fits to short format content Like social media short videosPromotional clips or storyboard animations Compared to the previous generationHailuo 016secI'm not sure what I'm talking about.It's up.I don't know.
 
-- Introduction of a ground-breaking **Noise-aware Compute Rehabilitation (NCR)** architecture with a 2.5-fold increase in the efficiency of training and reasoning, a three-fold increase in the number of participants and a four-fold increase in the size of the data sets.
+**Advanced Physics Simulation**Advanced Physics Simulation-
 
-- Be good at handling complex physical scenes, such as gymnastics, fluid dynamics, collision detection and material interaction, producing natural, real motor effects. For example, they can accurately present explosions, fabric edges or reflective light.
+- I'm going to use a breakthrough.**Noise-aware Compute Redistribution (NCR)**Noise-aware Compute Redistribution (NCR)Structure Increased efficiency of training and reasoning2.5Multiply Increase in the number of participants3Multiply Increase in the size of the data set4MultiplyI don't know.
 
-** Directive compliance and creative control**:
+- He's good at dealing with complex physical scenes. It's like gymnastics.Fluid dynamicsCollision detection and material interaction Generate nature.It's a real sport.I don't know.For example... Explosion is accurate.Built edges or reflections of light.I don't know.
 
-- Support** multi-language text tips** (including English, Chinese, etc.) that allow for the accurate interpretation of complex instructions and the generation of videos consistent with user intentions.
+**Command compliance and creative control**Command compliance and creative control-
 
-- Provides **camera command** functionality, which allows users to specify the movement of the lens (e.g. smoothing, tilting, pushing) to produce a filmization effect similar to that of a professional Steadicam.
+- Support**Multilingual Text Tips**Multilingual Text TipsIncluding EnglishChinese, etc.This is the first time I've ever seen you.It's an accurate interpretation of complex instructions. Generate videos that match the user's intentI don't know.
 
-- Strong role consistency, through advanced facial recognition and body tracking techniques, to ensure consistency in character, clothing and features in all frames.
+- Provision**Camera command.**Camera command.Functions User can specify a lens to move♪ As smooth ♪SlantPush!This is the first time I've ever seen you.Generate a similar professionSteadicamIt's a movie effect.I don't know.
 
-** Generation mode**:
+- Strong role coherence Through advanced facial recognition and body tracking techniques Ensure role appearanceClothes and features are consistent in all frames.I don't know.
 
-- ** Text-to-Video (T2V)**: A video based on a text description is suitable for writing from scratch.
+**Generation Mode**Generation Mode-
 
-- ** Image-to-Video (I2V)**: Animation of static images, preservation of art style or details, applicable to the conversion of illustrations or photographs into dynamic content.
+- **Text to VideoT2VI'm not sure what I'm talking about.**Text to VideoT2VI'm not sure what I'm talking about.-Generate video based on text description It's good to start from scratch.I don't know.
 
-- ** Subject-to-Visual (S2V)**: Role-consistency based on reference images suitable for multiple lenses or continuous scenes.[7] (https://assets-v2.circle.so/xzwzn830cpmcnsh3fq4s1iexwuw7).
+- **Image to VideoI2VI'm not sure what I'm talking about.**Image to VideoI2VI'm not sure what I'm talking about.-Animate static images Keep art style or details Applies to transforming illustrations or photographs into dynamic contentI don't know.
 
-# Cost strategy:
+- **Subject to VideoS2VI'm not sure what I'm talking about.**Subject to VideoS2VI'm not sure what I'm talking about.-Role-consistency based on reference images Fits for multiple lenses or successive scenesI don't know.
+![](https://assets-v2.circle.so/xzwzn830cpmcnsh3fq4s1iexwuw7)
 
-- Hailuo 02, while maintaining high quality, due to significant efficiency gains in the model: cost does not rise or fall;
+### Cost policy-
 
-- High value for money compared to the same products in the industry (e.g. Runway, Pika, SVD);
+- Due to the significant increase in model efficiency Hailuo 02 At the same time as maintaining high quality,-
+Cost does not rise or fall.;
 
-Pricing is highly competitive, generating video costs of 5-10 seconds 768p about **0.28-0.56**, 1080p video about **0.08 per second**, which is more economical than many international competitors (e.g. Seadance 1.0 Pro). Generating time **30-60 seconds** (depending on complexity), some platforms (e.g. GoEnhance) claim to deliver high-resolution videos within 90 seconds.** Official commitment: ** technology should be inclusive without limiting its use to high thresholds**.[https://assets-v2.circle.so/anwc5kiiaapb1fajvlagbiri4aywu]# Technological innovation # Hailuo 02 is not simply an upgrade, but rather a technological leap across multiple dimensions.
+- Compared to industry-like productsLikeRunwayPikaSVDThis is the first time I've ever seen you.It's a very high value.;
 
-#1 Structural innovation: **NCR (Noise-aware Commute Reform)**
+Pricing is very competitive Generate5-10sec768pVideo cost approximation**0.28-0.56United States dollars**0.28-0.56United States dollars 1080pVideo about every second.**0.08United States dollars**0.08United States dollars Compared to many international competitorsLikeSeedance 1.0 ProI'm not sure what I'm talking about.More economicallyI don't know.
+Generate time app**30-60sec**30-60secDepending on complexityThis is the first time I've ever seen you.Selected platformsLikeGoEnhanceI'm not sure what I'm talking about.Say it's the fastest.90Delivery of high-resolution video in secondsI don't know.
+Official commitments-**Do not restrict the use of creators at a high threshold**Do not restrict the use of creators at a high threshold Technology should be inclusiveI don't know.
+![](https://assets-v2.circle.so/anwc5kiiapb1fajvlagbiri4aywu)
+## Technological innovation
+Hailuo 02 It's not just a simple version upgrade. It's a technology leap in multiple dimensions.I don't know.
 
-- “Calculated redistribution of noise perception”, which is an efficient method of training and reasoning distribution;
+### 1️⃣ Structural innovation-**NCR (Noise-aware Compute Redistribution)**NCR (Noise-aware Compute Redistribution)
+Rationale-
 
-- Relocation of computational resource dynamics to a more meaningful place in model learning tasks and avoidance of waste of resources;
+- “At the end of the day,Calculating re-allocation of noise perceptionI'm not sure what I'm going to do.It's an efficient way of training and reasoning.;
 
-Outcomes:
+- Redeployment of computational resource dynamics to more meaningful positions in model learning tasks Avoidance of waste of resources;
 
-- ** 2.5 times more efficient training and reasoning**;
+Results-
+
+- **Increased efficiency of training and reasoning 2.5 Multiply**Increased efficiency of training and reasoning 2.5 Multiply;
 
 - Models with a larger number of operational parameters under equivalent hardware resources;
 
-- Leave sufficient space for follow-up reasoning optimization,** which can still be accelerated in the future.[1] (https://assets-v2.circle.so/5frtvtg32m4sfvmymyupdu7wym9)
+- Provide sufficient space for subsequent reasoning optimization **The future can still accelerate.**The future can still accelerate.I don't know.
+![](https://assets-v2.circle.so/5frtvtcg32m4sfvmymyupdu7wym9)
 
-##2 Model size: ** Arguments expanded to 3 times the previous generation**
+### 2️⃣ Volume of Model-**The number of parameters to be expanded to the previous generation 3 Multiply**The number of parameters to be expanded to the previous generation 3 Multiply
 
-- A larger model would mean a greater ability to generate image details;
+- A bigger model means...-
+A stronger image detail generation capability;
 
-- more complex semantic understanding and implementation;
+- More complex semantic understanding and implementation;
 
 - A more stable and coherent logic of performance;
 
-Thanks to the increased computing efficiency of the NCR, this expansion has not led to cost increases, but has been better controlled.
+Beneficiary. NCR Improved computing efficiency This expansion didn't bring costs up. It's more reasonable to control it.I don't know.
 
-##3 Data size and quality enhancement: ** Training data x 4 times**
+### 3️⃣ Data size and quality upgrading-**Training data × 4 Multiply**Training data × 4 Multiply
 
-- The data is broader in scope and includes:
+- Broader content of data Organisation-
+Complicated character moves.;
 
-- Changes in the light in the writing environment;
+- The light changes in the writing environment;
 
 - Video content in different cultural and linguistic contexts;
 
-(b) Build high-quality tagging data sets in conjunction with Hailuo 01 feedback to achieve more refined target-driven training.
+Data diversity has increased dramatically. Significant enhancement of model generalization capacity;
+Combining Hailuo 01 Use of feedback Build high-quality tag data sets Achieving more refined target-driven trainingI don't know.
 
-#4 command following ability: **State-of-the-Art Instruction Monitoring**
+### 4️⃣ Command compliance capability-**State-of-the-Art Instruction Following**State-of-the-Art Instruction Following
 
-- Accurate response to more complex natural language tips;
+- It responds precisely to more complex natural language tips.;
 
-- The performance of multi-part description, abstraction, motion control tips was excellent;
+- Multi-Plus DescriptionIt's abstract.Action control alerts performed excellently.;
 
-- In the tests, ** movement coordination, continuity, physical rationality in a complex scenario has increased significantly**.
+- In the process of testing It's a complicated scene.**Action coordinationContinuityThere's a huge increase in physical rationality.**Action coordinationContinuityThere's a huge increase in physical rationality.I don't know.
 
-# Some cases
+## Some cases
 
 
 

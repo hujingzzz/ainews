@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Anthropic Claude promotes Claude Artifacts creative space and application sharing
+title: Anthropic Claude LaunchClaude ArtifactsCreative space and application publishing and sharing functions
 date: 2025-07-02 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/anthropic-claude-claude-artifacts-claude-ai_1.jpg
@@ -9,141 +9,185 @@ icon: web
 * content
 {:toc}
 
-Anthropic announced two completely new ways of creating for Claude: **Artifacts creation:** Users can create, save and share in it what they make with Claude. For example, you can create a rhythm machine with Claude (as shown in the video) and share it with others. **Alimentation:** When you create these things, Claude's AI capabilities can be embedded directly, without applying for API, and you can publish directly the applications you create. For example, you create a learning tool, Claude's AI can provide personalized guidance or answers based on the skill level of the user. When you share these built-in AIs, others can use them through their Claude accounts.
+Anthropic Declare as Claude Introduction of two completely new ways of creating-
+**ArtifactsCreativity-**ArtifactsCreativity-Users can create it inside.Save and share them.ClaudeSomething made of it.I don't know.Like what? You can use it.ClaudeCreate a rhythm machineIt's like it's in the video.This is the first time I've ever seen you.And share it with someone else.I don't know.
+**EmbeddedAICapacity-**EmbeddedAICapacity-When you create these things, ClaudeIt's... it's... it's...AICapabilities can be embedded directly in it. No application requiredAPI And you can share the applications you created directly.I don't know.Like you creating a learning tool. ClaudeIt's... it's... it's...AIPersonalized coaching or answers can be provided according to the skill level of the userI don't know.When you share these mosaics,AI♪ When you're capable ♪ The rest of us can get through them.ClaudeAccount UseI don't know.These use accounting for their subscriptions Not yours.I don't know.Here. Cost and access rights are balanced between creators and usersI don't know.
 
-# Artifacts creative spaces
+## Artifacts Creativity
 
-## What is Claude Artifacts? Claude Artifacts is an interactive AI application construction module launched by Anthropic, which can be understood as generated in the Claude Chat interface** with Claude's intelligent ability to run "microapplications" or prototype systems**. ** Features: **
+### What is it? Claude Artifacts
+Claude Artifacts Yes. Anthropic Interactive roll-out AI Apply Build Modules It can be understood as... Claude Generated in Chat Interface**With Claude Runable Smart Capabilities“At the end of the day,MicroapplicationsIt's not a good idea, it's not a good idea.or prototype systems**With Claude Runable Smart Capabilities“At the end of the day,MicroapplicationsIt's not a good idea, it's not a good idea.or prototype systemsI don't know.
+**Characteristics-**Characteristics-
 
-- ** No deployment or writing of codes**: No API Key configuration, nor any concern about deploying servers or calling charges.
+- **Do not need to deploy or write codes**Do not need to deploy or write codes-Cannot initialise Evolution's mail component. API Key There's no need to worry about deploying servers or calling charges.I don't know.
 
-- **Local run + Quick Share**: Runs directly at Claude interface, and clicks on publication to share other people's experiments.
+- **Local Run + Quick Share**Local Run + Quick Share-Directly. Claude Interface Run Clicking to publish allows you to share other people's experiments.I don't know.
 
-- ** There is some logic and interactivity**: although a lightweight prototype, it is able to respond to user input and perform basic logical operations.
+- **There's a certain logic and interaction.**There's a certain logic and interaction.-It's a lightweight prototype, though. But you can respond to user input. Execute Basic Logical OperationsI don't know.
 
-# ** Principal function**
+### **Main functions**Main functions
 
-- Provide a centralized interface to manage all Claude-generated projects and creations.
+- Provides a centralized interface Manage All Claude Generated projects and creationsI don't know.
 
-- Users can ** view selected examples**.
+- Users can**browse selected examplescurated examplesI'm not sure what I'm talking about.**browse selected examplescurated examplesI'm not sure what I'm talking about.I don't know.
 
-- All Artifact projects can be **'fork'** - i.e. copied and personalized.
+- All Artifact It's a project that can be used.**“At the end of the day,forkIt's not a good idea, it's not a good idea.**“At the end of the day,forkIt's not a good idea, it's not a good idea. —— i.e. copying and personalizing changesI don't know.
 
-- Includes a variety of templates, such as games, flashcards, programming tools, creative exercises, etc. (see screenshots and videos).[]! (https://assets-v2.Circle. so/6l66pijrmzdswmikl0jidklo6an)
+- Include multiple templates It's like a game.FlashcardProgramming ToolCreative practice, etc.Visible from screenshots and videosI'm sorry, I don't know.
+![](https://assets-v2.circle.so/6l66pijrmzdswmikwl0jidklo6an)
 
-- ** Using scenes** Educational applications: generating interactive learning tools
+- **Use scenes**Use scenes
+Educational applications-Generate interactive learning tools
 
-- Programming learning: Quick fix code small tools or demonstration projects
+- Programming learning-Quick Build Code Small Tool or Demonstration Project
 
-- Creative writing and game design: design AI participatory interactive content
+- Creative writing and game design-Design AI Interactive content generated by participation
 
-# The ability to embed AI into the creation of Artifacts has been integrated into the Claude model, and no further API Key or backend service is required. Your use of Claude's Artifact is actually calling the reasoning of the model itself, as long as you operate within Claude platform, the amount used is assigned to your account, and no more separate fees are charged.
+## Embedded AI The ability to create.
+Artifacts The internals have been integrated. Claude Model No more requests. API Key or build backend serviceI don't know.♪ You use ♪ Claude It's... it's... it's... Artifact It's actually the reasoning of the model itself. As long as you're there. Claude On-the-platform operations The amount to be transferred is your account number. No more separate charges.I don't know.
 
-- ** Core function** Users can use Claude's intelligence,** directly embed AI function** in their work, and create functional AI applications.
+- **Core Functions**Core Functions
+User-accessible Claude Smart **Embedded directly into the work AI Functions**Embedded directly into the work AI Functions Create Function AI ApplyI don't know.
 
-- After the application is issued, users are required to use their own Claude account login** to achieve cost independence (no token or amount of the original author).**
+- Apply post-distribution Users need to use their own Claude Account Login **And that's what makes it cost-effective.It won't take up the original author. token or amountI'm sorry, I don't know.**And that's what makes it cost-effective.It won't take up the original author. token or amountI'm sorry, I don't know.
 
-Let's just say you made an "AI Emotional Analytic Small Tool" with Claude Artifacts and published a link: you sent a friend A.
+- ✅ Let me give you an example.-
+Let's say you use it. Claude Artifacts I made one.“At the end of the day,AI A small tool for emotional analysisI'm not sure what I'm going to do.And release generated a link-
+You send it to your friends.A;
 
-- Friends A clicks on the link and logs into their Claude account;
+- Friends.AAfter clicking on the link You'll log yourself in. Claude Account;
 
-- Friends A begin to enter text, Claude analyses emotions and returns results;
+- Friends.AStart entering text Claude Analyse emotions and return results;
 
-- ** These operations consume friends A's own subscriptions, not yours**.
+- **These operations cost friends.AOwn Subscriptions Not yours.**These operations cost friends.AOwn Subscriptions Not yours.I don't know.
 
-** Features**
+**Characteristics**Characteristics
 
-- Supports full functionality App building, using Claude's ability as the "backend intelligence core".
+- Support Full Function App Build Use Claude the capacity to act as“At the end of the day,Backend Smart Core
 
-- For creators, developers and individuals who want to deploy AI applications.
+- For creatorsDeveloper and want to deploy. AI Applicable individualI don't know.
 
-- In a form similar to “AI — services”, the original author is not required to bear the operating costs.
+- Similar“At the end of the day,AI That's services.It's not a good idea, it's not a good idea.Form Original author does not have to bear running costsI don't know.
 
-# How to enable #
+### How to Enable
 
-- All Claude **Free, Pro and Max users** can open the function.
+- All Claude It's... it's... it's... **FreePro and Max User**FreePro and Max User This function can be activated.I don't know.
 
-- Method of operation: Enter Claude settings, ** Start test function for "Create AI-powed artifacts"**.
+- Operation-Enter Claude Settings **Open“At the end of the day,Create AI-powered artifactsIt's not a good idea, it's not a good idea.**Open“At the end of the day,Create AI-powered artifactsIt's not a good idea, it's not a good idea. Test function for %1I don't know.
 
-- Entry: https://claude.ai/artifacts
+- The entrance.-https://claude.ai/artifacts
 
-# Use Claude Artifacts prototype to develop AI application guides
+## Use Claude Artifacts Prototype development AI Application Guide
 
-# ** How quickly to build, test and share an AI application based on Claude** We used to find it difficult to do an AI application: you have to do an API key, set the server, clear the cost, handle the flow, and be careful not to step on the pit. Now, with **Claude's artifacts**, everything is much easier. It's like a "small program engine" in Claude -- no server needs to be deployed, no API keys, Claude's own "magic interfaces", so you can use prompt to move it, and you can start testing and share it once you want to do something.
+## **How to build it quicklyTesting and sharing based on Claude It's... it's... it's... AI Apply**How to build it quicklyTesting and sharing based on Claude It's... it's... it's... AI Apply
+We used to feel like one. AI It's hard to apply.-You have to do it. API KeySetup ServersMake up your cost.Deal with Stream Limit And be careful not to step on the pit.I don't know.Now. I got it. **Claude It's... it's... it's... artifactsWork PanelI'm not sure what I'm talking about.Functions**Claude It's... it's... it's... artifactsWork PanelI'm not sure what I'm talking about.Functions Everything's been a lot easier.I don't know.
+It's like... Claude Yeah.“At the end of the day,Applet engineIt's not a good idea, it's not a good idea.——Servers need not be deployed I don't need it. API Key Claude Bring your own.“At the end of the day,Magic interface.I'm not sure what I'm going to do.You use it directly. prompt It'll make it move. If you want to do something, start trying right away. You can share one key when you're done.I don't know.
 
-# First step: open Claude's "AI application mode" and open Claude's website and open "Create AI-powed applications" in the settings; when open, Claude can identify what you want to create as an application prototype with AI capabilities, not simply a conversation; pick a chest, and you can just say, "Help me make a chat robot, and every time a user says something, it boasts about each other."
+## ✅ Step one.-Open Claude It's... it's... it's...“At the end of the day,AI Apply ModeIt's not a good idea, it's not a good idea.
+Open Claude Website Open in Settings“At the end of the day,Create AI-powered artifactsOpen AI Apply Functions
+When it's done, Claude You can identify what you want to create as a possession. AI Prototype of application of capacity It's not just a conversation.;
+Raise your chestnuts. You can just say it._Other OrganiserMake me a chat robot. Every time a user says something, It's a compliment to each other.
 
 - Explain your intentions.
 
-- Auto Generate Artifact with interactive features (click on right panel)
+- Auto Generate interactive features ArtifactYou can click on the right panel for viewingI'm not sure what I'm talking about.
 
-- Allow you to interact with Artifact.
+- ♪ Allow you to be with ♪ Artifact Test interaction
 
-# # prompt design advice:
+### 🧠 Tip Design Suggestions-
 
-- Clear expression of input and desired output
+- Express input and expected output clearly
 
-- The need for multiple rounds of dialogue, format constraints, style, etc.
+- Description of the need for multiple rounds of dialogueFormat ConstraintStyle, etc.
 
-- Example: “User inputs a sentence, Claude returns a gentle sentence (Positive / Neutral / Negative) encouraging and labelling emotional types.”
+- Example:_Other OrganiserUser input a sentence Claude Go back to a gentle encouragement and type of emotionPositive / Neutral / Negative.
 
-# Step 2: Test with your Artifact 1. Real-time test to enter content on the right of the Artifact panel to see whether the response meets expectations. 2. Fork & Edit (create branch overlap) Unsatisfactory with the results?
+## 🧪 Step two.-Test and replace yours. Artifact
+1. Real-time testing
+On the right. Artifact Panel Input Observe whether the response is in line with expectationsI don't know.
+✏️ 2. Fork & EditCreate branch overlapI'm not sure what I'm talking about.
+Unsatisfactory with resultsYeah.-
 
-- Go back to any dialogue record and click on "Edit"
+- Go back to any record of conversation. Click“At the end of the day,EditIt's not a good idea, it's not a good idea.
 
-- Modify Prompt or description to generate a new version of Artifact
+- Modify Prompt or description Generate a new version Artifact
 
-- Support multi-version parallel testing without prejudice to the original version
+- Support multi-version parallel testing Without prejudice to original version
 
-Note: Claude's Artifact currently supports **text completion logic** suitable for AI applications such as content generation, classification, summing up, dialogue simulation, etc.
+### ⚠️ Attention.-
+Claude It's... it's... it's... Artifact Current Support **Text Completion Logic**Text Completion Logic Fit to content generationClassificationSummaryDialogue simulations, etc. AI ApplyI don't know.
 
-# Don't know what to do? A few inspired directions that Claude supports are not just tools, but creative works. You can start with these directions:
+## I don't know what to do.Let's have some inspirational direction.
+Claude Supported artifacts It's not just tools. It could be creative.I don't know.You can start in these directions.-
 
-- ** Teaching Assistant**: for example, interactive mentors or learning partners, understand the context of user learning needs. ** Content generation tool**: assistant to assist in brainstorms, develop and refine the content, reduce duplication of effort. ** Analysis and decision support tool** Internal Slack post: file of demand for products that are suitable for sending to LinkIn, or input into a page (PRD).  (https://assets-v2.circle.so/m5wl6kn6gieaxu56tzppruku) ** Analysis assistant to produce content, reduce duplication of work. ** Analysis and decision support tool **; processing user data and supporting decision-making with smart tools (PRD).
+- **Teaching Assistant**Teaching Assistant-Such as interactive mentors or learning partners Context to understand user learning needsI don't know.For example...-A code review assistant who can provide detailed feedback based on predefined style and best practices;Or a language learning tool Lets you talk and practice in your preferred language.I don't know.
+![](https://assets-v2.circle.so/m5w4dl6kn6gieaxu56tthzppruku)
+- **Content Generation Tool**Content Generation Tool-Helping with the storm.An assistant to develop and lubricate the content of the creation Reducing duplication of effortI don't know.For example...-Will internal Slack The post is ready for delivery. LinkedIn Text or turn input into a page of product demand documentsPRDI'm sorry, I don't know.
+![](https://assets-v2.circle.so/dekzeq80o34it77xblftos5ktuy3)
+- **Analytical and decision support tools**Analytical and decision support tools-Smart tool to process user data and support decision-making through dialogue Enhancing organizational efficiencyI don't know.For example...-Based on“At the end of the day,5 Why?It's not a good idea, it's not a good idea.The framework helps the team to get in-depth analysis of the problem.I don't know.
+![](https://assets-v2.circle.so/y5p6rwenwvx2bauebt0k6r2oizhk)
+- **Inspired Creative Classes**Inspired Creative Classes-The best applications often come from fantastic ideas and unique perspectives.I don't know.Like a dream machine.A love recording generatorFilm name referencesI'm sorry, I'm sorry.You've got a big brain hole. Claude I can help you land.I don't know.
+![](https://assets-v2.circle.so/0cp1x13e8eqgcpyfyygngyrarxkv)
 
-# Step 3: Publish and share your AI application, Claude artifacts, was created for "prototype design" and you don't need to get on a server or register API key, click "Publish," and you can generate a link to friends, colleagues, even on social platforms.
+## 📤 Step three.-Publish and share yours. AI Apply
+Claude artifacts Yes.「Prototype design」It was born. You don't need a server or registration. API key Light it up.「Publish」 You can generate a link. To friends.Colleagues. It's even on social platforms.I don't know.
 
-- When someone opens it, it's your current version;
+- When someone opens it, it's your current version.;
 
-- The other party can copy and adapt without affecting your original code;
+- They can copy and remodel. It won't affect your original code.;
 
-- You can also cancel sharing or managing shared works at any time. [https://assets-v2.circle.so/azlyd3b9hlbbzv4chb0l4xvppe] 1. Click on the "Public" release application with a "Public" button on the upper right corner of the Artifact panel to generate the only access link. 2. Share links to test for others.
+- You can cancel sharing or managing sharing any time you want.I don't know.
+![](https://assets-v2.circle.so/azlyd3b9hlbcbzv4chb0l4xvjppe)
+1. Click“At the end of the day,PublishIt's not a good idea, it's not a good idea.Publish application
+Artifact Top right corner of the panel.“At the end of the day,PublishIt's not a good idea, it's not a good idea.Button Click to generate the only access linkI don't know.
+2. Share links with others for trial
 
-- Others click the link to run your AI application
+- Someone else clicks on the link to run you. AI Apply
 
-- The modification will not affect your original version.
+- The changes won't affect your original version.Auto Generate CopyI'm not sure what I'm talking about.
 
-- Could be used for product demonstration, user testing or team collaboration development
+- Available for product demonstrationUser testing or team collaboration development
 
-View the published content and see all artifact applications that you have published on the "Published" tab of the Claude platform.
+3. View published content
+Yes. Claude Platform“At the end of the day,PublishedIt's not a good idea, it's not a good idea.The tabs can see everything you've ever published. Artifact ApplyI don't know.
 
-# Step four: Importing the prototype to the product Artifacts is the ideal platform for fast testing and displaying ideas, but when you prepare to go online as an official product, although Artifact itself cannot be deployed as a product, you can:  Exporting the code Claude automatically generates a reusable structure code (HTML/JS/CS) in the artifact.  Importing the local development environment Copying the code to your familiar development environment (e.g. Voscode, Replit) for enhanced development:
+## 🚀 Step four.-From prototype to product
+Artifacts It's an ideal platform for rapid testing and the presentation of ideas. But when you're getting ready for an official product, Although... Artifact You can't deploy yourself into a product. But you can.-
+🧾 Export Code
+Claude Yes. Artifact Inner Auto Generates Reusable Structural CodesHTML/JS/CSSI'm sorry, I don't know.
+💻 Import local development environment
+Copy code to your familiar development environmentLike VSCodeReplitI'm not sure what I'm talking about.Enhanced development-
 
-- Add external API call
+- Add External API Call
 
-- Expand front-end interactive style
+- Extend front-end interactive style
 
 - Integrated database or back-office services
 
-Claude Code Helps you with the Claude Code model to work on code architecture optimization, functionality development, Bug restoration, etc.[3] [https://assets-v2.Circle.so/mgvk31nnql6d6skrvvvvvxncko] prototypes have been developed, thought out, tested, and the rest is engineering.
+🧑‍💻 Claude Code Help.
+Use Claude Code The model helps you to optimize the structure of the code.Function developmentBug Engineering work, etc.I don't know.
+![](https://assets-v2.circle.so/mgvk31nnql6d6skrvzwvivxzncko)There's a prototype.It's clear.The test passed. The rest is engineering.I don't know.
 
-# How to build Claude's application efficiently?
+## How to build it efficiently. Claude Apply
+There are practical techniques that can make you more effective.-
 
-- ** Let Claude in turn interview you**: tell him you have an idea that will ask you some key questions and lead the way;
+- **Jean. Claude I'll interview you.**Jean. Claude I'll interview you.-Tell him you have an idea. It'll ask you some key questions. I'm going to lead my mind one step at a time.;
 
-- ** Use more “please modify” such natural language instructions**: for example, “help me change to a blue theme”, “limit the response to no more than 100 words”, “add a copy button”;
+- **Useful.“At the end of the day,Please, modify.It's not a good idea, it's not a good idea.This kind of natural language instruction.**Useful.“At the end of the day,Please, modify.It's not a good idea, it's not a good idea.This kind of natural language instruction.-Like what?“At the end of the day,Turn it into a blue theme for me.I'm sorry, I'm sorry, I'm sorry, I'm sorry.Restricted response does not exceed 100 WordI'm sorry, I'm sorry, I'm sorry, I'm sorry.Add a copy button); and
 
-- ** tune bugs can also be used as chats**: for example, "This calculator cannot count decimals", "This conversation has a problem jumping," Claude will understand and fix it;
+- **Adjust bug You can talk like that.**Adjust bug You can talk like that.-Like what?“At the end of the day,This calculator can't be a decimal.I'm sorry, I'm sorry, I'm sorry, I'm sorry.There's something wrong with this conversation.I'm not sure what I'm going to do.Claude They'll understand and fix it.;
 
-- ** Bold branch test**: Create branch version by "editing" at any time, try different logic and do not have to destroy the original version.
+- **Bold Branch Test**Bold Branch Test-Anytime.“At the end of the day,EditIt's not a good idea, it's not a good idea.Create branch version Try different logic. Don't worry about ruining the original version.I don't know.
 
-# Summing up: Claude Artifacts whose Gospel is? Claude Artifacts is a powerful tool for non-professioners and product prototype designers. It allows you to validate the AI product idea at minimal development cost and quickly present it as an interactive experience. Thinking of building AI applications from 0 to 1?
+## Summing up-Claude Artifacts Whose Gospel is it?
+Claude Artifacts It's a powerful tool for non-programmers and product prototype designers.I don't know.It gives you the least cost of development. Authentication AI Product ideas And quickly present it as an interactive experience.I don't know.
+♪ I want from ♪ 0 Present. 1 Construction AI ApplyThat's the least I can do.The fastest way.I don't know.
 
-- ** Unable to write codes but creative**: Claude can help you land from 0 to 1 quickly;
+- **Someone who doesn't write codes, but who's creative.**Someone who doesn't write codes, but who's creative.-Claude I can help you with that. 0 Present. 1 Quick landing.;
 
-- ** Product manager, operator, content creator**: no longer limited to "one idea but no one to do it"
+- **Product ManagerOperatorContent creator**Product ManagerOperatorContent creator-No longer limited.“At the end of the day,There's an idea and no one's helping.); and
 
-- **Developer**: new ideas can be tested quickly and no longer start from blank pages;
+- **Developer**Developer-We can test new ideas quickly. Do not start with blank pages;
 
-- ** Entrepreneur**: light asset validation MVP, fast to fly.
+- **Entrepreneurs**Entrepreneurs-Light Asset Validation MVP Let's go! Let's go! Let's go!I don't know.
 

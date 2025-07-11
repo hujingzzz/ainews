@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Supermemory Infinite Chat-AI "SuperMemory Hanging" can give AI the ability to "infinite memory"
+title: Supermemory Infinite Chat-AI“At the end of the day,Super-remember hanging.It's not a good idea, it's not a good idea. It's okay.AIOwn“At the end of the day,Infinite memory.It's not a good idea, it's not a good idea.Capacity
 date: 2025-06-21 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/supermemory-infinite-chat-ai-ai_1.jpg
@@ -9,90 +9,106 @@ icon: book
 * content
 {:toc}
 
-Chat robots (such as ChatGPT, Claude, etc.) have a very limited limitation - they can “remember” limited content because the context window of the model (token limit) is capped, often like 8k, 32k, or even 128k tokens. Once this length is exceeded, what is said is cut off and lost, leading to:
+Chat RobotLikeChatGPTClaudeWait.I'm not sure what I'm talking about.There's a big limit.——They can.“At the end of the day,Remember.It's not a good idea, it's not a good idea.Limited content Because of the context window of the modeltokenLimitsI'm not sure what I'm talking about.There's a ceiling. It's common, like. 8k32kEven... 128k tokensI don't know.
+Once it's over this length, Anything you say before will be cut off.Lost As a result-
 
-- Chat faults. Logical incoherence.
+- Chat Fault Logical incoherence
 
-- User experience is declining. Robot reaction is "forgetting."
+- User experience drops. Robot response.“At the end of the day,Forgetting.It's not a good idea, it's not a good idea.
 
-** (https://assets-v2.circle.so/vplpxb7gbqtpx5l83tpup7139vn)**In order to solve this problem, **Infinite Chat API** can expand the context length of any model. It allows your chatting to be “long-term memory” without rewriting any application logic.
+![](https://assets-v2.circle.so/vplpxb7gbqtpxx5l83tpup7139vn)**Supermemory **Supermemory In order to solve this problem,  Launch **Infinite Chat API**Infinite Chat API Context length that expands any modelI don't know.It allows your chatting to work.“At the end of the day,Long-term memory.I'm not sure what I'm going to do.And there's no need to rewrite any application logic.I don't know.
+It's a smart agent.proxyI'm not sure what I'm talking about.It's a transparent combination of the existing ones.LLMLarge-language modelI'm not sure what I'm talking about. APIFrontend No need to change the application logic to support super-long dialogueI don't know.
 
-- claims that ** saves 90% token and costs**, while also enhancing model performance.
+- Claim that it is possible **Savings 90% token and cost**Savings 90% token and cost It also enhances model performance.I don't know.
 
-- Very simple to use:** just one line of code to switch**, immediately available.
+- It's extremely easy to use.-**Just one line of code to switch.**Just one line of code to switch. Immediately availableI don't know.
 
-- Infinite Chat API, by acting as a transparent agent between ** application and LLM**, transmits only the necessary context necessary to generate a good response, thus avoiding a decline in the performance of large models over a long period of time in the context (e.g. 20K tokens and above).
+- Infinite Chat API ♪ Through the way ♪ **Apply with LLM as a transparent agent between**Apply with LLM as a transparent agent between Only the necessary context for generating a good response is transmitted So that the big model doesn't lose performance over a long period of time in the context.Like20K tokensAboveI'm sorry, I don't know.
 
-- Cost structure: Started free of charge
+- Cost structure-
+Start free of charge
 
-- A fixed monthly fee of $20.
+- Fixed monthly cost $20
 
-- 20k token per thread free, after $1 million token
+- Every thread. 20k token It's free. After $1/Million token
 
-** It's like a supermemory hanger:**
+**It's like a...“At the end of the day,Super-remember hanging.@Ambassin: #Jan25 #Jan25 #Jan25**It's like a...“At the end of the day,Super-remember hanging.@Ambassin: #Jan25 #Jan25 #Jan25
 
-- Automation and compression of dialogue content
+- Auto-managed and compressed dialogue content
 
 - Dynamic extraction of useful old content to supplement context
 
 - There's hardly any delay.
 
-- It saves a lot of Token's expenses.
+- It saves a lot of money.TokenCost
 
-# What's the core of it? — smart agent + memory system Supermemory embedded in the "agent layer" in front of your current OpenAI API call and did three things:
 
-#1. **The interface you originally requested for OpenAI is now replaced by the URL for Supermemory, which will transit your request to LLM (large-language model), with no invasive changes to your code.
+## What's at its core?——Smart Agent + Memory system
+Supermemory By“At the end of the day,Proxy LayerIt's not a good idea, it's not a good idea.♪ The way you're embedded in your existing ♪ OpenAI API Call front Three things.-
 
-##2. **Intelligent parting and retrieval (Chunking + Smart Retrieval)**
+### 1. **Transparent AgentTransparent ProxyI'm not sure what I'm talking about.**Transparent AgentTransparent ProxyI'm not sure what I'm talking about.
+You asked. OpenAI Interfaces for %1 Now just take it. URL Change it to... Supermemory Address It's going to turn around your request. LLMLarge-language modelThis is the first time I've ever seen you.There are no invasive changes to your business code.I don't know.
 
-- It'll break down the long dialogue into pieces and keep these synonyms consistent with its home-grown algorithms.
+### 2. **Smart part and retrievalChunking + Smart RetrievalI'm not sure what I'm talking about.**Smart part and retrievalChunking + Smart RetrievalI'm not sure what I'm talking about.
 
-- When it is necessary to continue the dialogue, it automatically extracts the most relevant contextual fragments from historical records, rather than sending the entire history with your head.
+- It talks to the president.“At the end of the day,Split it into pieces.I'm not sure what I'm going to do.And keep these semantics consistent in their home algorithms.
 
-#3 **Token Automanager**
+- When it's necessary to continue the conversation It automatically extracts the most relevant contextual fragments from historical records. Instead of sending history with your head in your head.
 
-- It controls token according to context to prevent the cost from running out of control.
+### 3. **Token Auto-Managing**Token Auto-Managing
 
-- To avoid, at the same time, the failure of the request or the interruption of the content.
+- It's intelligently controlled according to context. token Use To prevent the cost from getting out of control.
 
-# The actual use is very simple. Take OpenAI interfaces, for example, if: go to Supermory Console to get API Key and replace your request with: https://api.submemory.ai/v3/https://api.openai.com/v1 to add x-api-key to the request, fill in your Supermory API Key to support multi-language clients, and the official files provide examples of TypeScript and Python.
+- To avoid, at the same time, the failure of the request or the interruption of the content of the request
 
-# Performance and cost -- practical and not expensive
+## Actual usage
+It's very simple.I don't know.By OpenAI interfaces in %1 for example Just...-
+Present. Supermemory Console Get API Key
+Take your request. URL Change it to...-https://api.supermemory.ai/v3/https://api.openai.com/v1
+Add to the request x-api-key Fill it out. Supermemory API Key
+Support multilingual clients Official documentation available TypeScript and Python Example:I don't know.
 
-# # # # # # # # # performance advantage #
+## Performance and costs——It's practical and not expensive.
 
-- **Infinite context**: Breaking through token limits in models like OpenAI, which can handle any length of dialogue
+### ✅ Performance advantages
 
-- ** Cost savings**: as only useful information can be extracted, the use of up to 70% token can be reduced
+- **Infinite Context**Infinite Context-Breaking through. OpenAI Waiting for the model. token Limits Can handle any length of dialogue
 
-- ** Almost zero delay**: transmitted as an agent, with requests largely at the same speed
+- **Cost savings**Cost savings-Because it only extracts useful information. Maximum reduction 70% It's... it's... it's... token Use
 
-- ** Respond is more stable**: more accurate context extracts and more relevant responses
+- **Almost zero delay.**Almost zero delay.-Forward as Agent Request speed is basically the same.
 
-# # # price model #
+- **The response is more stable.**The response is more stable.-More accurate context extraction Answers are more relevant
 
-- Free amount: storage 100,000 tokens free of charge
+### 💰 Price model
 
-- Standard plan: $20 per month, when the free amount is exceeded
+- Amount free of charge-Storage 100,000 tokens No charge required
 
-- Increment: $20k token per conversation free of charge and $1 per million tokens thereafter
+- Standard plan-$20/Month Enable after exceeding the free amount
 
-# What if there's a mistake? The stability guarantee. If Supermemory makes an error of his own (e.g. a failure to retrieve or an internal anomaly), it doesn't affect your request:
+- Increment charge-Before each conversation 20k token It's free. Every million after that. tokens Fees $1
 
-- Will automatically bypass and send the request directly to LLM (e.g. OpenAI)
+## What if something goes wrong?Stability guarantee mechanisms
+If... Supermemory It's a self-inflicted mistake.Like failure to retrieve or internal abnormalities.This is the first time I've ever seen you.It won't affect your request.-
 
-- You can still get LLM's return results, at best in unoptimised context.
+- It's going to go around automatically. Send the request directly. LLMLike OpenAII'm not sure what I'm talking about.
 
-- The response is accompanied by a diagnosis, such as whether the context has been modified, how many tokens have been processed, etc., to facilitate debugging
+- You can still get it. LLM Return result At most, the unoptimised context.
 
-# Support scope and compatibility Supermemory supports all **-compatible OpenAI API models and services**, including but not limited to:
+- There's a diagnosis attached to the response. header For example, whether context has been modifiedHow much? tokens Wait. Easy to debug
 
-- OpenAI GPT-3.5 / GPT-4 / GPT-4o
+## Scope of support and compatibility
+Supermemory Support all**Compatibility OpenAI API Models and services**Compatibility OpenAI API Models and services including, but not limited to,-
 
-Claude 3 series of Anthropic
+- OpenAI It's... it's... it's... GPT-3.5 / GPT-4 / GPT-4o
 
-- Other service providers providing OpenAI interface compatibility layer
+- Anthropic It's... it's... it's... Claude 3 Series
 
-Moreover, it** does not in itself limit the rate**, but is restricted only by the LLM service you use.
+- Other provision OpenAI Service provider for interface compatibility layer
 
-# Summing up: Supermemory Information Chat is a high-compatible, non-invasive "dialogue memory booster" that allows your chat applications to go beyond context limits, save more money, be smarter, and be sustainable. Experience: Supermory.chat Document: https://docs.submemory.ai/infinite-chat
+And... It's...**It doesn't limit the speed.**It doesn't limit the speed. It'll only be used by you. LLM Limitations on servicesI don't know.
+
+## Let's wrap it up.-
+Supermemory Infinite Chat It's a high-compatibility one.No intrusion.“At the end of the day,Dialogue Memory AuxiliaryI'm not sure what I'm going to do.Let's get your chat application out of context. It's cheaper.SmarterSustainableI don't know.
+Experience-supermemory.chat   
+Document-https://docs.supermemory.ai/infinite-chat

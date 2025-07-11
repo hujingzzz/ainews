@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Claude Opus 4 and Sonnet 4 professional-level programming capability can run several hours in a row and handle hundreds of reasoning steps.
+title: Claude Opus 4 and Sonnet 4 Release Professional-level programming capacity Could run for hours. We're dealing with hundreds of deductions.
 date: 2025-06-26 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/claude-opus-4-sonnet-4_1.jpg
@@ -9,170 +9,207 @@ icon: note
 * content
 {:toc}
 
-Anthropic published the Fourth Generation Series of the Claude Model: **Claude Opus 4** and **Claude Sonnet 4**, not only a systematic evolution of the original model, but also of the future AI application landscape. Whether it is code generation, complex reasoning, long-term task processing, or intelligent proxy construction, they show significant advantages. [https://assets-v2.circle.so/smc6wiuchffffw9wbjcd4qb9nky] At the launch of Claude 4, Anthony Mike Krieger elaborated on three major capabilities at the bottom **Agent**:
+Anthropic Issued Claude The fourth generation series of models-**Claude Opus 4**Claude Opus 4 and **Claude Sonnet 4**Claude Sonnet 4 It's not just an upgrade to the original model. It's more about the future. AI Systemic evolution of the application landscapeI don't know.
+Whether it's code-generated or not.Complex reasoningLong-term task processing Or is it intelligent proxy construction? They all show significant advantages.I don't know.
+![](https://assets-v2.circle.so/smc6wiuchfpfw9wbjbcd4qb9qnky)Yes. Claude 4 At the launch. Anthropic CPO Mike Krieger I've elaborated on it. **Agent The bottom three powers.**Agent The bottom three powers.-
 
-- **Contextual Intelligence**: no longer simple command execution, but understanding why and how. Your 100th mission with Agent should be much better than the 1st, like the 100th day of the new employee; Claude 4 shows the greatness of this ability. In the tests, it will proactively create a "rememory file" to save key information. When playing with Pokemon, it will even write navigation notes: "Try five times and stay stuck; if stuck, try the opposite direction; go to the other side of the room when the indoor navigation takes place." This autonomous learning and knowledge accumulation is the core value of the human workforce.
+- **Situational intelligence.Contextual IntelligenceI'm not sure what I'm talking about.**Situational intelligence.Contextual IntelligenceI'm not sure what I'm talking about.-It's no longer simple command execution. It's about understanding."Why?"and"How?"I don't know.You and... Agent For the first time in my life, 100 The second mission should be better than the next one. 1 It's much better. It's like a new employee's number one. 100 The day should be better than the day before. 1 It's a better day.;Claude 4 It's an extraordinary demonstration of this ability.I don't know.In the process of testing It'll be created on its own initiative."Memory Files"Save Key InformationI don't know.Play. Pokemon Hour It even writes navigation notes.-"Try 5 It's stuck in the same way.;If it's stuck, Try the opposite direction.;On the inside, you go to the other side of the room.I don't know." This self-learning and knowledge-building It's the core values of human workers.I don't know.
 
-- **Long-runing Exchange**: Addressing complex tasks that take hours or even days to coordinate other Agents and humans. This is not only a matter of durability, but also the ability to maintain unity of purpose and consistency in context;
+- **Long-term implementationLong-running ExecutionI'm not sure what I'm talking about.**Long-term implementationLong-running ExecutionI'm not sure what I'm talking about.-It takes hours or even days to handle complex tasks. Coordination of other Agent And humans.I don't know.It's not just about patience. The ability to maintain unity of purpose and context;
 
-- ** Genuine Collaboration: ** Transparent reasoning process, adapted to human work style. The key is the balance between "intelligent autonomy" and "human supervision" -- AI deals with a lot of detail, humans take control of the big picture.
+- **Real collaboration.Genuine Collaboration:**Real collaboration.Genuine Collaboration:Transparent reasoning process Adapting to human work styleI don't know.The point is..."Smart Automation"and"Human supervision"Balance —— AI Handle the details. Humans take control of the main direction.I don't know.
+Video content from@**indigo**indigo
 
-# Introduction to the core model
+## Introduction to the core model
 
-# Claude Opus 4 #
+### ✅ Claude Opus 4 — Strong and sustainable advanced models
 
-- ** Principal: Professional-level programming capacity, continuing mission performance**
+- **Master!-Professional-level programming capacityOngoing mandate implementation capacity**Master!-Professional-level programming capacityOngoing mandate implementation capacity
 
-- Lead in two authoritative code benchmarking tests: SWE-bench score: 72.5%
+- He's a leader in two authoritative code benchmarking tests.-
+SWE-bench Score-72.5%
 
-- Terminal-bench score: 43.2%
+- Terminal-bench Score-43.2%
 
-** Could run for several hours, handle hundreds of steps of reasoning**, especially suitable for AI proxy tasks and long-cycle R & D scenarios. Applying feedback (real user validation):
+**Could run for hours. We're dealing with hundreds of deductions.**Could run for hours. We're dealing with hundreds of deductions. It's perfect. AI Proxy assignments and long-cycle R & D scenesI don't know.
+Apply feedbackAuthentication for Real Users:
 
-- Cursor: Considered to be "a major leap in the ability to understand the code".
+- Cursor-I think so.“At the end of the day,It's a major leap in the ability to understand.
 
-- Replit: Multi-file code changes are more precise.
+- Replit-Multi-file code changes are more preciseI don't know.
 
-- Block: “A significant increase in quality and stability in code editing and debugging”.
+- Block_Other OrganiserSignificant improvement in quality and stability in code editing and debugging
 
-- Rakuten: its agents operate independently for seven hours and have a stable performance.
+- Rakuten-Their agents can run independently.7Hours It's stable.I don't know.
 
-- Cognition: Successfully responding to complex decision-making that the models of the past could not handle.
+- Cognition-Successfully responding to complex decision-making that the models of the past could not handleI don't know.
 
-## Claude Sonnet 4 -- Balanced and efficient universal model
+### ✅ Claude Sonnet 4 — Balanced and efficient common models
 
-- **Standing: high performance and efficiency in routine tasks**
+- **Master!-High performance and efficiency in day-to-day tasks coexist**Master!-High performance and efficiency in day-to-day tasks coexist
 
-- SWE-bench received a score of 72.7 per cent, slightly higher than Opus 4, and was particularly good at code automation and rational reasoning.
+- SWE-bench The score. 72.7% Slightly above Opus 4 Specially good at code automation and rational reasoning.I don't know.
 
-- Although the overall performance is not as high as Opus 4, it is more efficient and responsive as it is appropriate for embedded or immediate response tasks.
+- Although the overall performance is not good enough, Opus 4 But more efficient.The response is faster. Fit for product embedded or immediate response tasksI don't know.
 
-Apply feedback:
+Apply feedback-
 
-- GitHub Copilot: Sonet 4 will be the new engine and will be deployed to the new version of the smart programming assistant.
+- GitHub Copilot-♪ Will be ♪ Sonnet 4 For the new engine. Deployment to new version of smart programming assistantI don't know.
 
-- iGent: for multifunctional autonomous development tasks, code navigation error is almost zero.
+- iGent-For multifunctional autonomous development tasks Code navigation error is almost zero.I don't know.
 
-- Sourcegraph: The Sonnet 4 is considered to have enhanced code quality and mission continuity.
+- Sourcegraph-Considers Sonnet 4 Improved code quality and mission continuityI don't know.
 
-# New feature bright spot
+## New Highlights
 
-- ** Supports “tools use + long-term thinking”** (beta version): Models can call tools such as search for alternate reasoning and improve the quality of responses.
+- **Support“At the end of the day,Tools Use+Long-term thinking.It's not a good idea, it's not a good idea.**Support“At the end of the day,Tools Use+Long-term thinking.It's not a good idea, it's not a good idea.beta Version:
+Models can call tools such as search for alternate reasoning Improving the quality of responsesI don't know.
 
-- Support for parallel use of multiple tools for efficiency enhancement![] (https://assets-v2.Circle.so/ qainuoaf7u80fusjdzoov3ckdknv) **Remographical capacity significantly improved**:
+- Support parallel use of multiple tools Efficiency gains
+![](https://assets-v2.circle.so/qainuoaf7u80fusjdzoov3ckdknv)
+**I've got a lot of memory.**I've got a lot of memory.-
 
-- “Long-term memory” can be created by accessing local documents, extracting and retaining key facts
+- Can not create folder lock on %s: %s“At the end of the day,Long-term memoryI'm not sure what I'm going to do.extraction and retention of key facts
 
-Example: Opus 4 will automatically write notes to record the strategy while playing the treasure dream. These are real notes generated by the model itself.[] [https://assets-v2.Circle.so/vjxz5oi0kly7t8sn4smsogzu1b3]**
+Example:-Opus 4 During the Poco dream, They write notes automatically to record the policy. These are the true notes that the model itself produces.I don't know.
+![](https://assets-v2.circle.so/vjxz5oi0kly7t8sn4smsogpzu1b3)**💾 Add“At the end of the day,Memory.It's not a good idea, it's not a good idea.Functions**💾 Add“At the end of the day,Memory.It's not a good idea, it's not a good idea.Functions
 
-- Models can create “rememory files” for the storage of mission-critical data.
+- Model can be created“At the end of the day,Memory FilesI'm not sure what I'm going to do.For storage of mission-critical dataI don't know.
 
-- Be of particular excellence in the application of AI proxy assignments, allowing for contextual consistency in successive sessions.
+- Apply to AI He's very good at acting as agent. Could maintain context consistency in consecutive sessionsI don't know.
 
-** Mandate simplification and controlled thinking presentation**
+**🧮 Job Simplification and Controllable Mind Show**🧮 Job Simplification and Controllable Mind Show
 
-- Introduction of a "thinking digestor" to refine the reasoning chain over a long period of time, using only about 5% of the cases.
+- Introduction“At the end of the day,Think SummonerI'm not sure what I'm going to do.To refine the chain of reasoning when it's too long. Only for the parties. 5% Use of informationI don't know.
 
-- Developers can apply for "Developer Mode" to see the full reasoning trail for advanced prompt debugging.
+- Developer can apply.“At the end of the day,Developer ModeI'm not sure what I'm going to do.View full reasoning tracks For Advanced prompt DebugI don't know.
 
-# Performance versus actual validation  Baseline test ahead**
+## Performance comparison and actual validation
+📈 **Benchmarking lead**Benchmarking lead
 
-- Opus 4 and Sonnet 4 are at the top of the SWE-Bench Verified.
+- Opus 4 and Sonnet 4 It's all in the real software engineering benchmark.SWE-bench VerifiedI'm not sure what I'm talking about.Centred TopI don't know.
 
-- Opus 4 performed excellently in a number of long, multi-round reasoning benchmarks, significantly exceeding Claude 3.7.
+- Opus 4 ♪ In a long time ♪Excellent performance in multiple rounds of reasoning benchmarks Visible beyond Claude 3.7I don't know.
 
-- Sonnet 4 is slightly less than Opus 4, but much more stable and precise than 3.7.[] [https://assets-v2.circle.so/eejtkcv3pr3nr7hbnsh90bshynt] ** User feedback validation**
+- Sonnet 4 It's a bit less than that. Opus 4 But it's better than that. 3.7 The stability and accuracy have increased dramatically.I don't know.
+![](https://assets-v2.circle.so/eejtkcv3pr3nra7hbnsh90bshynt)
+🧪 **User Feedback Validation**User Feedback Validation
 
-- **Cursor**: state-of-the-art code model, deep understanding of large code repositories.
+- **Cursor**Cursor-A state-of-the-art code model. Deep Understanding Large Code RepositoryI don't know.
 
-- **Replit**: The accuracy and consistency of multiple document changes have increased significantly.
+- **Replit**Replit-Significant improvement in the accuracy and consistency of multiple document changesI don't know.
 
-- **GitHub Copilot**: Sonnet 4 will be used to drive its new generation of code agents.
+- **GitHub Copilot**GitHub Copilot-To be used Sonnet 4 Driver its new generation of code agentsI don't know.
 
-- **iGent/Sourcegraph**: Multifunctional autonomous development, error rate close to 0, code quality improvement is significant.
+- **iGent / Sourcegraph**iGent / Sourcegraph-Multifunctional AutodevelopmentError Rate Close 0 Code quality improvement is clear.I don't know.
 
-#Claudecode is a programming assistant designed for developers and is now officially fully open: #ClaudeCode
+## Claude Code Full access.
+Claude Code It's a programming assistant designed for developers. It's open and open.-
+🧰 Functional integration compatible with the Platform
 
-- Support the GitHub Actions backstage tasking.
+- Support GitHub Actions Back-office task processingI don't know.
 
-- Original integrated VS Code and Jet Brains, model editors appear directly in the document, supporting in-line comment and change tracking.
+- Original Integration VS Code and JetBrains Model editor appears directly in the file Support in-line comment and change trackingI don't know.
 
-- Can run Claude Code in IDE terminal, achieve "local AI programming partner".
+- Yes. IDE Terminal running Claude Code Achieved“At the end of the day,Local AI Programming partner
 
-SDK and automation capacity
+🧪 SDK and automation capacity
 
-- Release Claude Code SDK to build custom AI tools and smart agents.
+- Release Claude Code SDK Buildable Custom AI Tools and smart agentsI don't know.
 
-- Example project "Claude Code on GitHub" enters the beta test, which can be used in full recuest: Automatically respond to evaluation recommendations
+- Example items“At the end of the day,Claude Code on GitHubIt's not a good idea, it's not a good idea.Enter beta Test Yes. pull request Medium-
+Automatically respond to evaluation recommendations
 
-- Fix C.I. Errors
+- Repair CI Error
 
 - Modify Snippets
 
-#Anthropic API Launch AI Agent Building New Capabilities Anthropic Officially released four new features developed for AI Smart Agent (agent) in its API. These features have entered the public beta phase, working with Claude Opus 4 and Sonnet 4 models to significantly enhance developers' ability, efficiency and flexibility to build smart agents. [https://assets-v2.circle.so/qj9brzepevqjqjvomxyy5** Code implementation tool: running and debugging the code at the API level. **MCP connector: connecting to multi-component workflows or external services.** Document API**: achieving Claude with data from external filesystems.so/qj9brzevqjxxy5**
+## Anthropic API Launch AI Agent Build New Capabilities
+Anthropic It's officially on it. API Four of them have been published. AI Smart AgentagentI'm not sure what I'm talking about.New functionality developedI don't know.All these functions are in the public domain. beta Phase and Claude Opus 4 and Sonnet 4 Model collaboration Substantially enhances the ability of developers to build intelligent agentsEfficiency and flexibilityI don't know.
+![](https://assets-v2.circle.so/qj9brzepevpoqlqqjkeawvomxxy5)**Code Execution Tool**Code Execution Tool-Yes. API Level running and debugging codeI don't know.
+**MCP Connector**MCP Connector-Connect to multi-component workflows or external servicesI don't know.
+**Documentation API**Documentation API-Achieved Claude Interact with data from external file systemsI don't know.
+**Prompt Cache mechanism**Prompt Cache mechanism-prompt Maximum Cache1Hours Enhancing performance and consistencyI don't know.
+![](https://assets-v2.circle.so/ulmtz8jkae30re5y6x3x8ltgux8u)
+### Four new functions to be read in detail.
+1️⃣ **Code Execution ToolCode Execution ToolI'm not sure what I'm talking about.**Code Execution ToolCode Execution ToolI'm not sure what I'm talking about.
+Claude It's not just that.“At the end of the day,Write CodeI'm not sure what I'm going to do.It's about being able.**Run Python Code**Run Python Code Complete analytical implementation capacity in placeI don't know.
 
-- Run Python in the sandbox environment to generate visualized graphs and analyses.
+- Run in the sandbox environment Python Generate visualized graphs and analysesI don't know.
 
-- Possible: Financial modelling (e.g. portfolio analysis, forecasting)
+- Possibility-
+Financial modellinge.g., portfolio analysisProjectionsI'm not sure what I'm talking about.
 
-- Scientific calculations (e.g. simulation and experimental data processing)
+- Scientific calculationsFor example, simulation and experimental data processingI'm not sure what I'm talking about.
 
-- Business intelligence (e.g. sales analysis, automatic report generation)
+- Business intelligenceFor example, sales analysisAutoReport GenerationI'm not sure what I'm talking about.
 
-- Document processing (format conversion, data extraction, report generation)
+- Document ProcessingFormat ConversionData extractionReport GenerationI'm not sure what I'm talking about.
 
-- Statistical analysis (e.g. regression, hypothetical testing, predictive models)
+- Statistical analysisIf you returnHypothetical testsForecast modelsI'm not sure what I'm talking about.
 
-** Use policy**: 50 hours per day free of charge, exceeding the portion charged at $0.05/hour/container. 2 **MCP connector (Model Context Protocol Contractor)** This function streamlines Claude's connection to the external system, leaving developers without the need for manual preparation of client code.
+📌 **Use policy**Use policy-It's free every day. 50 Hours excess press $0.05/Hours/Packaging chargesI don't know.
+2️⃣ **MCP ConnectorModel Context Protocol ConnectorI'm not sure what I'm talking about.**MCP ConnectorModel Context Protocol ConnectorI'm not sure what I'm talking about.
+This function has been simplified. Claude The process of connecting to the external system Makes the developers not need to write their client code manuallyI don't know.
 
-- Support the connection to any remote MCP services such as Zapier, Asana etc.
+- Support connection to any remote MCP Services Like ZapierAsana Wait.I don't know.
 
-- Automatically handle the following tasks: connection management, tool discovery, authentication and bug processing
+- Automatically handle the following tasks-
+Connection managementTool DiscoveryAuthentication and bug processing
 
-- Smart call remote, automatically determines the call order and parameters
+- Smart call remote Automatically determine the call order and parameters
 
-** Example: Build a project management agent to read tasks in Asana, assign tasks, and perform data analysis in conjunction with code implementation.  (https://assets-v2.circle.so/z0j0v5pp76fucf9mrglb7ha2up)  Develop efficiency without manual integration API. ** Document API (Files API)** This capacity addresses the efficiency of handling a large number of documents in multiple rounds of dialogue.
+**Example:**Example:-Build a project management agent Readable Asana Tasks in progressAssignment of tasks Data analysis in conjunction with code executionI don't know.
+![](https://assets-v2.circle.so/z0j0v5pp76wfuccf9mrglb7ha2up)📌 No manual integration. API Significant increase in development efficiencyI don't know.
+3️⃣ **Documentation APIFiles APII'm not sure what I'm talking about.**Documentation APIFiles APII'm not sure what I'm talking about.
+This capacity addresses the efficiency of handling large volumes of documents in multiple rounds of dialogueI don't know.
 
-- Support for one upload, multiple references: The same file is not required for each round and is suitable for scenarios such as the knowledge base, technical documentation, structured data, etc.
+- Support an uploadMultiple citations-
+Do not need to upload the same file per round Fit to the knowledge baseTechnical DocumentationScenes like structured dataI don't know.
 
-Files can be accessed directly by the code execution tool:
+File can be accessed directly by the code execution tool-
 
-- For example, uploading a CSV data set to analyse, generate charts, generate summaries, etc. on a sustainable basis over multiple tasks.
+- Like uploading one. CSV Datasets Sustainable analysis in multiple missionsGenerate ChartsGenerate summary etc.I don't know.
 
-Reduce the costs of duplicate uploading and contextual build-up. 4 **Prompt Extension Cache** Optimize the performance and costs of long-term tasks or rich interactions in context:
+📌 Reduce costs of duplicate uploading and contextual constructionI don't know.
+4️⃣ **Prompt Extend CacheExtended Prompt CachingI'm not sure what I'm talking about.**Prompt Extend CacheExtended Prompt CachingI'm not sure what I'm talking about.
+Optimizing long-term mission or context-rich interactive performance and costs-
 
-- The original cache TTL (time of survival) is 5 minutes and now provides **1 hour** extension options.
+- Original Cache TTLLifetimeI'm not sure what I'm talking about.Yes. 5 min I'm offering it now. **1 Hours**1 HoursExtension OptionsI don't know.
 
-- Bring: **Maximum 90% Cost Decline**
+- Bring it.-
+**Max 90% Lower cost**Max 90% Lower cost
 
-- ** Up to 85% Delay Reduction**
+- **Highest 85% Lower delay**Highest 85% Lower delay
 
-The scenes include:
+The scenes include-
 
-- Multiple rounds of work stream.
+- Multiple workstreams
 
-- Phased analysis or coordination tasks
+- Phased analysis or coordination of tasks
 
-- Proxy with complete context for intersession
+- Proxy to keep complete context across sessions
 
-Fits well for enterprise-level Agent applications that need to maintain contextual consistency.
+📌 It's very appropriate at the enterprise level to maintain contextual consistency. Agent ApplyI don't know.
 
-# Security and transparency of thinking
+### Security and transparency of thinking
 
-- Models have reduced 65 per cent of "shortcut" behavior in complex missions.
+- Models have been reduced in complex tasks 65% It's... it's... it's...“At the end of the day,ShortcutIt's not a good idea, it's not a good idea.BehaviourI don't know.
 
-- Introduction of a “thinking summing up function” to summarize only about 5 per cent of the tasks, with a clearer reasoning trajectory.
+- Introduction“At the end of the day,Brain summation functionIt's not a good idea, it's not a good idea.Yes, it is. 5% Summary of tasks undertaken by the Secretary-General Keep a clearer line of reasoningI don't know.
 
-- Provide Developmenter Mode to support the advanced tip project.
+- Provision Developer Mode Support advanced tip projectprompt engineeringI'm sorry, I don't know.
 
-# Product and pricing
+### Products and pricing
 
-- **Opus 4**: Enter $15 / Output $75 per million token.
+- **Opus 4**Opus 4-Input $15 / Output $75 per million tokenI don't know.
 
-- **Sonnet 4**: enter $3/output $15 per million token.
+- **Sonnet 4**Sonnet 4-Input $3 / Output $15 per million tokenI don't know.
 
-- Both can be obtained through Anthropic API, Amazon Bedrock and Google Cloud Vertex AI.
+- Both can go through. Anthropic APIAmazon Bedrock and Google Cloud Vertex AI GetI don't know.
 
-- Sonnet 4 is open to free users; Opus 4 is included in Pro/Max/Team/Enterprise.
+- Sonnet 4 Open to free users;Opus 4 Entrenched by Pro/Max/Team/Enterprise PlannedI don't know.
 
-Official presentation: https://www.anthropic.com/news/claude-4https://www.anthropic.com/news/agent-capabilites-api
+Official presentation-
+https://www.anthropic.com/news/claude-4 
+https://www.anthropic.com/news/agent-capabilities-api

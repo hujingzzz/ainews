@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's official new-generation vehicle system-CarPlay Ultra integrates iPhone with all the screen depths of the car
+title: Apple officially announces its new-generation vehicle system.-CarPlay Ultra Will iPhone Integrate with all display depths of the vehicle
 date: 2025-06-21 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/carplay-ultra-iphone_1.jpg
@@ -9,60 +9,72 @@ icon: note
 * content
 {:toc}
 
-Apple has officially released its new-generation vehicle system: **CarPlay Ultra**,** which for the first time integrates iPhone with all the screen depths of the vehicle**, not just the central screen, but the entire cockpit.** The system is now officially online in the new Aston Martin model in the North American region** and plans to support more models through software upgrades.
+Apple officially announces its new-generation vehicle system.-**CarPlay Ultra**CarPlay Ultra  **For the first time, iPhone Integrate with all display depths of the vehicle**For the first time, iPhone Integrate with all display depths of the vehicle It's not just the control screen. It runs through the cockpit.I don't know.
+System**New money has been made in the North American region since today. Aston Martin It's officially online in the model.**New money has been made in the North American region since today. Aston Martin It's officially online in the model. And plans to support more models through software upgradesI don't know.The future. 12 The month will be further expanded to global and other car companies.I don't know.
 
-## Core functions and features CarPlay Ultra provides the following key features through deep integration of vehicle systems and iPhone functions: ** Full Screen Integration**
+### Core functions and characteristics
+CarPlay Ultra Integration of vehicle systems through depth iPhone Functions Provide the following key characteristics-
+**Full Screen Integration**Full Screen Integration
 
-- ** Covers all driver screens**: CarPlay Ultra extends content to every vehicle screen, including central touch screens and digital dashboards, providing uniform design language. The dashboard displays dynamic, fine speed scales, speed gauges, oil gauges, temperature meters, etc.
+- **Overwrite all driver screens**Overwrite all driver screens-CarPlay Ultra Expand content to every screen of a vehicle Including central touch screens and digital dashboards Provision of uniform design languageI don't know.The dashboard displays the dynamicsA fine speed meter.Swing meterGas metersTemperature table, etc.I don't know.
 
-- **Info **: Support the simultaneous display of iPhone applications (e.g. Apple Maps, Apple Music) and vehicle data (e.g. advanced driving aids, fetal pressure) to ensure that drivers are aware.
+- **Cannot initialise Evolution's mail component.**Cannot initialise Evolution's mail component.-Support for display at the same time iPhone Apply InformationLike Apple MapsApple MusicI'm not sure what I'm talking about.and vehicle dataFor example, advanced driving support systemsThe tire pressure.This is the first time I've ever seen you.Make sure the pilot sees it.I don't know.
 
-- ** Full-screen navigation**: Apple Maps can be shown on the dashboard full-screen and provide visual navigational experience.
+- **Fullscreen Navigator**Fullscreen Navigator-Apple Maps You can display it on full screen on the dashboard. Provide visual navigational experienceI don't know.
 
-** Functional control of vehicles**
+**Vehicle functional control**Vehicle functional control
 
-- **Natural control**: The user does not have to exit the CarPlay Ultra interface to control vehicle functions, including: **Climate App**: adjust temperature, wind, etc., to be done directly within CarPlay.
+- **Native control**Native control-User does not need to quit CarPlay Ultra The interface controls the function of the vehicle. Including-
+**Air conditioningClimate AppI'm not sure what I'm talking about.**Air conditioningClimate AppI'm not sure what I'm talking about.-Adjust temperatureWind e.g. settings Directly. CarPlay Inner CompletionI don't know.
 
-- **Radio App**: Toggle AM/FM, SiriusXM radio or adjust sound balancers.
+- **RadioRadio AppI'm not sure what I'm talking about.**RadioRadio AppI'm not sure what I'm talking about.-Toggle AM/FMSiriusXM Radio or adjust sound balancerI don't know.
 
-- ** Performance settings**: manage vehicle-specific functions, such as driving patterns or sound configurations.
+- **Performance Settings**Performance Settings-Administration of vehicle-specific functions For example, driving mode or sound configurationI don't know.
 
-** Multiple input **: Support screen touch control, physical buttons and Siri voice control, Siri can handle simple tasks (e.g. adjust temperature) and answer complex questions through Apple Intelligence integration ChatGPT (but cannot directly access the vehicle manual).[] (https://assets-v2.circle.so/xskl6nmm1ckt8c2whshtvkf5okv4) ** unsutually switch**: For CarPlay Ultra not directly supported functions (e.g. advanced sounding or massage seats), there is no need to withdraw from CarPlay altogether.[1] (https://assets-v2.circle.so/e7a1cll7vvjnjjjg1t0m9m9mvn1) ** sexualization and brand customizations**
+**Multi-Input Method**Multi-Input Method-Support screen touch controlPhysics buttons and Siri Voice control Siri Handle simple tasksIf the temperature is adjustedI'm not sure what I'm talking about.♪ And adopt ♪ Apple Intelligence Integration ChatGPT Answering complex questionsBut there's no direct access to the vehicle manual.I'm sorry, I don't know.
+![](https://assets-v2.circle.so/xskl6nmm1ckt8c2whshtvkf5okv4)**A seamless switch.**A seamless switch.-Yeah. CarPlay Ultra Not directly supported functionalityLike a high-end sound or massage seat.This is the first time I've ever seen you.This can be done by supercompatible primary system interfaces There's no need to quit completely. CarPlayI don't know.
+![](https://assets-v2.circle.so/e7a1cll7vc1nhmydrjg1t0m9mvn1)**Personalization and branding**Personalization and branding
 
-- ** Self-defined theme**: Apple works with car manufacturers to design brand exclusive topics and preserve brand identity. For example, Aston Martin's theme includes the name of the brand logo and the words “Handbuilt in Great Britain”.
+- **Custom Theme**Custom Theme-Apple Designing brand exclusive topics in collaboration with auto manufacturers Keep branding.I don't know.For example... Aston Martin The subject is branded logos and“At the end of the day,Handbuilt in Great BritainIt's not a good idea, it's not a good idea.WordsI don't know.
 
-- ** User personalization**: drivers can customize dashboard colours, wallpapers and layouts (although layout options are fixed and may be extended in the future through OTA updates).[] (https://assets-v2.Circle.so/2wgpzkq3yv8oj39a03j12cdtjk8a) - **Many instrument styles**: Provide design of dashboards from traditional to extreme simplicity to meet different aesthetic needs. ** (https://assets-v2.circle.so/43a38izmyu2ldbdfhi5nzpe2uq) ** Small components (Widgets)**
+- **User Personalization**User Personalization-The driver can customise the color of the dashboardWallpaper and layoutThough layout options are fixed The future might pass. OTA Update ExtensionI'm sorry, I don't know.
+![](https://assets-v2.circle.so/2wgpzkq3yv8oj39a03j12cdtjk8a)
+- **Multiple instrument styles**Multiple instrument styles-Provision of dashboard designs ranging from traditional to ultra-simplified Meeting the needs of different aestheticsI don't know.
+![](https://assets-v2.circle.so/43a38izmyu2ldqbddfhi5nzpe2uq)
+**Small WidgetsWidgetsI'm not sure what I'm talking about.**Small WidgetsWidgetsI'm not sure what I'm talking about.
 
-- Introduction of small components in iPhone style, suitable for inside screens, displaying information on calendar events, weather, fetal pressure, etc.
+- Introduction iPhone Small parts of style Accompanied on-board screen Show Calendar EventsWeatherInformation on fetal pressure, etc.I don't know.
 
-- A small widget page can be customised to provide a quick overview of information through a right-hand slide from the home page.
+- Custom small widget page Access through right slide from home page Provide a quick overview of informationI don't know.
 
-** The seamless connection**
+**Secrecy connection.**Secrecy connection.
 
-- **Autostart**: After the first wireless or cable connection, CarPlay Ultra automatically starts as default UI when entering the vehicle.
+- **Autostart**Autostart-After the first Wireless or Wireless connection Every time you enter a vehicle, CarPlay Ultra It's going to start automatically. Become Default UII don't know.
 
-- **Quick pair**: Once connected, screen displays a joint welcome interface between Apple and auto brands (e.g. Aston Martin), similar to the new iPhone registration experience.
+- **Quick pairing**Quick pairing-After Connect Screen Display Apple And car brands.Like Aston MartinI'm not sure what I'm talking about.Joint Welcome Interface New like iPhone Registering experienceI don't know.
 
-** Privacy and data**
+**Privacy and data**Privacy and data
 
-- Apple emphasizes that CarPlay Ultra uses the same privacy measures as iPhone to minimize data shared with vehicles (e.g. song information or call data).
+- Apple Emphasizing CarPlay Ultra Adoption with iPhone Same privacy measures. Minimize data shared with vehiclesLike song information or call dataI'm sorry, I don't know.
 
-- Partial functionality (e.g., back-up cameras) is still handled by the primary system and can be “penetrated” by the CarPlay interface.
+- Part FunctionsLike back-up cameras.I'm not sure what I'm talking about.It's still being processed by the native system. Yeah.“At the end of the day,It's piercing.It's not a good idea, it's not a good idea. CarPlay Interface DisplayI don't know.
 
-##3. Automobile brands with usability and support** Current availability**
+### 3. Automobile brands available and supported
+**Current availability**Current availability
 
-- ** First brand**: Aston Martin is the first brand to support CarPlay Ultra. From May 15, 2025, new Aston Martin models (including DBX, Vantage, DB12, Vanquish) in the United States and Canada markets marked CarPlay Ultra.
+- **Start branding.**Start branding.-Aston Martin It's the first support. CarPlay Ultra It's a brand. From 2025 Year 5 Month 15 Since New money from the United States and Canada markets Aston Martin Type of vehicleIncluding DBXVantageDB12VanquishI'm not sure what I'm talking about.Mark CarPlay UltraI don't know.
 
-- ** Existing vehicle type support**: 2025 and part 2025 Aston Martin model (with next-generation information and entertainment systems such as DB12 for the first time in 2023) can be upgraded and operationalized through the distributor ' s software, CarPlay Ultra, which is expected to be available in a few weeks ' time.
+- **Existing vehicle-type support**Existing vehicle-type support-2024 Year and part 2025 Year Aston Martin Type of vehicleTo be equipped with the next generation of information and entertainment systems Like 2023 Year DB12 First-time system on boardI'm not sure what I'm talking about.Software upgrade enabled through distributors CarPlay Ultra It's expected to be available in a few weeks.I don't know.
 
-- **Global Extension**: Aston Martin plans to extend CarPlay Ultra to global markets in the next 12 months.
+- **Global outreach**Global outreach-Aston Martin The plan is for the future. 12 Within months CarPlay Ultra Outreach to global marketsI don't know.
 
-**Apple confirmed that several car manufacturers will support CarPlay Ultra, including:
+**Promised brands**Promised brands Apple Confirm that multiple car manufacturers will support it. CarPlay Ultra Including-
 
-- **New branding** (Announced in May 2025): Hyundai, Kia, Genesis.
+- **New branding.**New branding.2025 Year 5 Monthly announcement:HyundaiKiaGenesisI don't know.
 
-- ** Previous promised brand** (2022 WWDC Presentation): Acura, Audi, Ford, Honda, Infiniti, Jaguar, Land Rover, Lincoln, Nissan, Polestar, Portsche, Renault, Volvo.
+- **Previously promised brand name**Previously promised brand name2022 Year WWDC Presentation:AcuraAudiFordHondaInfinitiJaguarLand RoverLincolnNissanPolestarPorscheRenaultVolvoI don't know.
 
-- ** Schedule**: Except for Aston Martin, specific rollout times for other brands have not been announced and may vary according to model and screen configuration.
+- **Schedule**Schedule-Divide Aston Martin Out Specific roll-out dates for other brands not announced It may vary depending on the pattern and screen configuration.I don't know.
 
-## Compare to traditional CarPlay! [] (https://assets-v2.Circle. so/5ge9580Oczznc1w1562konp4k1h)
+### And tradition. CarPlay Contrast
+![](https://assets-v2.circle.so/5ge9580ocxtznc1w1562konp4k1h)

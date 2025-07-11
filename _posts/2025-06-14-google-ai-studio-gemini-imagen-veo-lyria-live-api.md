@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google AI Studio Upgrade-Faster, stronger, more intelligently constructed Gemini applications integrated Imagen, Veo, Lyria, etc. support Live API
+title: Google AI Studio Upgrade-Faster.More powerful.More intelligently constructed Gemini Apply Integration ImagenVeoLyriaWaiting for a model SupportLive API
 date: 2025-06-14 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-ai-studio-gemini-imagen-veo-lyria-live-api_1.jpg
@@ -9,112 +9,122 @@ icon: chat
 * content
 {:toc}
 
-Google officially launched a new upgrade on I/O 2025** for the developers to provide a stronger AI primary development platform. This update significantly enhanced the usability, integration and ease of deployment of the Gemini model by creating the "** one-stop AI App Build Platform** " .
+Google Yes. I/O 2025 It's officially launched. **Google AI Studio All new upgrades**Google AI Studio All new upgrades More powerful for developers. AI Original development platformI don't know.There's been a remarkable improvement in the update. Gemini Availability of modelsIntegrity and ease of deployment Build it.“At the end of the day,**One-stop AI App Build Platform**One-stop AI App Build Platform
 
-# Core update bright spots
+## Core Update Highlights
 
-## 1. **Native Code Generation**
+### 1. **Original code generation capacityNative Code GenerationI'm not sure what I'm talking about.**Original code generation capacityNative Code GenerationI'm not sure what I'm talking about.
 
-- Introduction of a code editor **Gemini 2.5 Pro** to Studio to support the direct generation of text/image/video tips for Web applications;
+- Introduction **Gemini 2.5 Pro**Gemini 2.5 Pro Present. Studio Code Editor for %1 Support text/Image/Videotips are generated directly Web Apply;
 
-- Add **Build Tab**: Accelerant-based web application (support to deployment of one key to Claude Run) can be built and deployed quickly;
+- Add **Build Tab**Build Tab-Quickly builtDeployment based on AI It's... it's... it's... Web ApplySupport one key deployment Cloud Run);
 
-- Support for iterative development: you can change the code, see the diff, return the historical version in the chat dialogue.
+- Support for iterative development-You can change the code during the chatView diffReturn to History VersionI don't know.
 
-##2. **The Media Generation Centre (Generate Media)**
+### 2. **Media Generation CentreGenerate MediaI'm not sure what I'm talking about.**Media Generation CentreGenerate MediaI'm not sure what I'm talking about.
 
-- Integration **Imogen (image)**,**Veo (video)**,** Lyria (music)** and Gemini (text) multi-model capacity;
+- Integration **ImagenImageI'm not sure what I'm talking about.**ImagenImageI'm not sure what I'm talking about.**VeoVideoI'm not sure what I'm talking about.**VeoVideoI'm not sure what I'm talking about.**LyriaMusic.I'm not sure what I'm talking about.**LyriaMusic.I'm not sure what I'm talking about. and GeminiTextI'm not sure what I'm talking about.Multi-module generating capacity;
 
-- New interactive music generation App: PromptDJ, based on Lyria RealTime.
+- Add interactive music generation App-PromptDJ Based on Lyria RealTime AchievedI don't know.
 
-##3.** Audio capability upgrade: more natural, more responsive**
+### 3.**Audio Capabilities Upgrade-It's more natural.Respond more intelligently**Audio Capabilities Upgrade-It's more natural.Respond more intelligently
 
-# Gemini 2.5 Flash supported Native Voice Dialogue (Live API):
+### 🗣️ Gemini 2.5 Flash Supported native voice conversationLive API:
 
-- Support for **30 multiple natural persons** (male and female, accent, emotional)
+- Support **30 Multiple voices of natural persons**30 Multiple voices of natural personsMen and womenAn accent.Emotional.);
 
-- Introduction of ** active audio recognition**: a model that distinguishes between a user ' s speech and background noise and responds only at the appropriate time;
+- Introduction **Active audio recognition**Active audio recognition-Models distinguish between a user speaking from a background noise. Answer only at the right time;
 
-- Fits more closely to the rhythm of human natural dialogue and applies to such scenes as customer service, virtual assistants, interactive dramas, etc.
+- It's closer to the rhythm of human nature's conversation. It's for guest service.Virtual assistantIt's an interactive scene and so forth.I don't know.
 
-# #  Text-to-Speech (TTS) upgrade:
 
-- Single-person or multi-person dialogue generation;
+### 🔉 Text-to-VoiceTTSI'm not sure what I'm talking about.Upgrade-
 
-- Support for multidimensional control of speech speed, tone and emotions;
+- Single-person or multi-person dialogue generated;
 
-#Agentic and Tool Ecology
+- Support speedOrganisationThe multi-dimensional control of emotions.;
 
-- ** Add a new `Build' tab** to create a Gemini application prototype from text, image or video prompt to integrate the Gemini 2.5 Pro model.
 
-- ** Smart Code Assistant** supports the editing of existing application codes, viewing differences (diff), rollback history versions.
+## Agentic And tool ecology
 
-- **Step one key to Cloud Run** to automatically host Gemini API Key to the production environment without the need to configure the server.
+- **Add「Build」Tab**Add「Build」TabFrom TextImage or video prompt Quick Generate Gemini Apply Prototype Integration Gemini 2.5 Pro ModelI don't know.
 
-- **The new "Generate Media" page** focuses on multi-model models such as Imogen (image), Veo (video), voice generation, etc.
+- **Smart Code Assistant**Smart Code AssistantSupport the editing of existing application codes View Differencesdiff.Backroll history versionI don't know.
 
-- ** Supports the MCP (Model Context Protocol)** primary integrated open source standard, which facilitates the construction of complex AI application and docking third-party tools.
+- **One key to deployment. Cloud Run**One key to deployment. Cloud RunDo not need to configure the server AutoTrust Gemini API Key Fast-forward to the production environment.I don't know.
 
-- **URL Context experimental function** Models can read the content of web links for summary, match, research and verification.
+- **It's all new.「Generate Media」Page**It's all new.「Generate Media」PageFocus Call ImagenImage.VeoVideo.Multi-model model for voice generationI don't know.
 
-#  1. ** Add a new "Build" tab: extremely simple generation from prompt to App**
+- **Support MCPModel Context ProtocolI'm not sure what I'm talking about.**Support MCPModel Context ProtocolI'm not sure what I'm talking about.Original integrated open source standard It's easy to construct complex. AI Apply and receive third-party toolsI don't know.
 
-- The new Build panel set up as a **Gemini 2.5 Pro** model
+- **URL Context Experimental Functions**URL Context Experimental FunctionsModel readable web link content For summaryThat's right.Research and verificationI don't know.
 
-- Closely co-ordinated with Google's **Genai SDK**
+![](https://assets-v2.circle.so/7h2iek5iq7e3bb4vqubbq5pc1fsp)
+## 🧱 1. **Add“At the end of the day,BuildIt's not a good idea, it's not a good idea.Tab-From prompt Present. App An extremely simple generation**Add“At the end of the day,BuildIt's not a good idea, it's not a good idea.Tab-From prompt Present. App An extremely simple generation
 
-- Supports the direct generation of application prototypes from text, images or videos
+- New Build The panel's in. **Gemini 2.5 Pro**Gemini 2.5 Pro Model
 
-- Auto-generated UI+ functional code (fit for front end or full-store prototype)
+- and Google It's... it's... it's... **GenAI SDK**GenAI SDK Closely coupled.
 
-#  2. ** Code helper functionality online: support version comparison and withdrawal**
+- Support from TextImage or video prompt Generate application prototypes directly
 
-- AI-assisted modifications can be made to existing projects
+- Auto Generate UI + Function codeFits for front end or full-store prototypeI'm not sure what I'm talking about.
 
-- Provide "see change" capability
 
-- Support back to the historical version (checkpoint mechanism)
+## 🛠️ 2. **Code Assistant functional online-Supported version comparison and withdrawal**Code Assistant functional online-Supported version comparison and withdrawal
 
-- Significant improvements in multi-person collaboration and version control efficiency
+- Existing projects could be undertaken AI Auxiliary Changes
 
-#  3. ** Key deployed to Cloud Run: zero-wire AI App Production**
+- Provision“At the end of the day,View ChangediffI'm not sure what I'm going to do.Capacity
 
-- Upon completion of the application build, direct deployment to Google Cloud Run
+- Support back to the historical versioncheckpoint MechanismsI'm not sure what I'm talking about.
 
-- Gemini API Key will automatically save it on the service end and improve security.
+- Significant increase in multi-person collaboration and version control efficiency
 
-- Enable developers to move prototypes to the online environment for use
 
-#  4. **New "Generate Media" page: integration of all multi-model model capabilities**
+## ☁️ 3. **One key to deployment. Cloud Run-Zero-width AI App Production**One key to deployment. Cloud Run-Zero-width AI App Production
 
-- Centralize access and use: Imogen (image generation)
+- After application build is completed Directly available for deployment Google Cloud Run
 
-- Veo (video generation)
+- Gemini API Key Will automatically save on the server Increased security.
 
-- Gemini (language + trans-model production)
+- Enable developers to move prototypes to the online environment for operational use
 
--Native speech model (voice generation)
 
-One-stop call multi-module modeling, adapted to applications of creativity, education, content, etc.
+## 🖼️ 4. **Add“At the end of the day,Generate MediaIt's not a good idea, it's not a good idea.Page-Integration of all multi-module model capabilities**Add“At the end of the day,Generate MediaIt's not a good idea, it's not a good idea.Page-Integration of all multi-module model capabilities
 
-#  5. ** Support for MCP standards: Enhanced Ecocompatibility**
+- Centralized access and use-
+ImagenImage GenerationI'm not sure what I'm talking about.
 
-- Google Genai SDK Current Support MCP Protocol
+- VeoVideo GenerationI'm not sure what I'm talking about.
 
-- Access to open source tools and third-party frameworks
+- GeminiLanguages+Trans-moderated GenerationI'm not sure what I'm talking about.
 
-- Provide a standard interface for the construction of complex dialogue systems or multi-model interactive applications![] (https://assesss-v2.circle.so/lkl85uvcozqx72jom8h20w3l4vql)  Example cut-chart display: Coloseum query with code side view
+- Native speech ModelVoice generationI'm not sure what I'm talking about.
 
-# 6. ** Experimental function: URL Context, let model read web page**
+One-stop call multi-module generation model Fit for creativity.EducationApplication scenes such as content
+
+## 🧩 5. **Support MCPModel Context ProtocolI'm not sure what I'm talking about.Standards-Enhancing ecological compatibility**Support MCPModel Context ProtocolI'm not sure what I'm talking about.Standards-Enhancing ecological compatibility
+
+- Google GenAI SDK Current Support MCP Agreement
+
+- Open-source tools and third-party frameworks for easy access
+
+- Provision of standard interfaces for the construction of complex dialogue systems or multi-model interactive applications
+![](https://assets-v2.circle.so/lkl85uvcozqx72jom8h20w3l4vql)
+📸 Example screenshot presentation-Colosseum Query and Code Parallel View
+
+## 🌐 6. **Experimental Functions-URL Context Let Models“At the end of the day,Read web pageIt's not a good idea, it's not a good idea.**Experimental Functions-URL Context Let Models“At the end of the day,Read web pageIt's not a good idea, it's not a good idea.
 
 - Users can directly enter web links
 
-- Web content available at Gemini for: fact-checking
+- Gemini Available web content For-
+Factual verificationfact-checkingI'm not sure what I'm talking about.
 
 - Executive summary
 
-- Information comparison.
+- Comparison of information
 
 - Academic or business-level research scenes
 
-Details: https://develators.googleblog.com/en/google-ai-studio-native-code-generation-agents-upgrade/
+Details-https://developers.googleblog.com/en/google-ai-studio-native-code-generation-agentic-tools-upgrade/

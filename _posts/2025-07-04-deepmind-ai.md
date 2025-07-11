@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Deepmind introduces a new generation of robot AI models that can run independently on the robot's body without relying on clouds to calculate resources.
+title: Deepmind Launch a new generation of robots.AIModel It can run independently on the body of the robot. Do not rely on cloud-based computing resources
 date: 2025-07-04 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/deepmind-ai_1.jpg
@@ -9,26 +9,69 @@ icon: game
 * content
 {:toc}
 
-Deepmind has launched a new generation of Gemini Robotics On-Device robot AI models that can ** run independently on the robot's body** without relying on cloud-based computing resources. The models integrate visual, linguistic understanding and movement decision-making capabilities to perform highly intelligent and variable practical tasks.** The core issues it addresses:**
-- ** Reduced reliance on cloud computing** Reduced delay and increased response speed.
-- ** Operation in an unstable network environment** improves reliability.
-- ** Achieving universal operating capability and rapid adaptation to new tasks**  Improving robotic interoperability.
-** Gemini Robotics robotic model ** first launched in March 2025, based on the Gemini model, incorporating the operational reasoning of the physical world in combination with the capabilities of vision, language and motion (VLA).![](https://assets-v2.circle.so/0p2ci3src0jg5k3qdfecah25nkhn)# Model capacity: What can it do?![](https://assets-v2.circle.so/dgiokkn48zb7b75r6y954a4prehh)# Technical characteristics1. Optimization of local deployment
-- The model performed ** calculation of resource compression optimization** to enable it to operate on robotic equipment with a capacity limit.
-- GPU servers, CPUs or small AI chips are not required to support reasoning.
-2. Multimodel integration capability
-- Gemini 2.0 model structure based on DeepMind, which combines visual, linguistic and behavioural control.
-- Integration capability of ** image perception + command understanding + action execution **.
-3. Few-shot fine-tuning mechanism
-- Support for the adaptation of new tasks under very few samples (50-100 demonstrations only), which significantly reduces the threshold for development and deployment.
-# How did it go?In many tests, performance was better than that of existing models:
-- ** Higher mission completion rate**: In particular, in missions or new environments not previously seen, the model demonstrates a stronger generalization capability.![](https://assets-v2.circle.so/gfm4bayqbl47ft4fk5i614p8u2n2)- ** Directive follows:** More challenging extra-distributive tasks and complex multi-step directives are superior to other local alternatives.![](https://assets-v2.circle.so/zaxjzqrcht2tv6j648oiajud96j2)- ** Response is faster**: benefits from local operations, no need to wait for cloud to return results.
-- ** More stable implementation**: high levels of consistency can also be maintained on different robotic platforms.
-** Examples of experimental missions:**![](https://assets-v2.circle.so/mjbfvr6hf0e52znqr5wee7ngr3b0)Fitness: not only running, but also crossing the platform
-- After training on the ALOHA platform, move to:**Franka FR3 two-armed robot**: Complete industrial-grade assembly tasks.
-- **Apollo Emulator**: Operation of natural language in family/service-type environments.
-It is worth noting that such cross-platform migration** does not require re-training models** and requires minor adjustments to use the same intelligence capabilities.![](https://assets-v2.circle.so/dfl0wl73hm3c5nr9330vnrj0zcva)# Developer supports: How to engage and use it?![](https://assets-v2.circle.so/pgc6wk4pzcdxm0qj7v157acafob3) MujoCoGemini Robotics SDKGemini Robots tech report** Gemini Robotics On-Device marks the new phase of robot AI into “available”, “deploymentable” and “widening”.**Its significance includes:
--  Persistence of peripheral intelligence**: robots can think independently, perform tasks and no longer rely on external servers.
--  Reduced deployment costs**: Adaptive + rapid fine-tuning  Lower industry application thresholds.
-- ** Uniform cross-hardware model structure**: a robotic device with models adapted to various forms can be achieved in the future.
-Official presentation: https://deepmind.google/discover/blog/gemini-robotics-on-device-brings-ai-to-local-robotic-devices/
+Deepmind Launch a new generation. Gemini Robotics On-Device Robot.AIModel It's okay.**Run independently on the robot's body.**Run independently on the robot's body. Do not rely on cloud-based computing resourcesI don't know.The model integrates vision.Language comprehension and mobility in decision-making It's capable of performing a highly intelligent and variable task.I don't know.
+✅ **It addresses the core issues.-**It addresses the core issues.-
+
+- **Reduced reliance on cloud computing**Reduced reliance on cloud computing → Lower delay Increase response speedI don't know.
+
+- **Operation in an unstable network environment**Operation in an unstable network environment → Increased reliabilityI don't know.
+
+- **Achieving universal operating capability and fast-track adaptation to new tasks**Achieving universal operating capability and fast-track adaptation to new tasks → Enhancing robotic interoperabilityI don't know.
+
+**Gemini RoboticsRobot Model **Gemini RoboticsRobot Model First in2025Year3Monthly launch Based onGeminiModel Combining vision.Language and ActionsVLAI'm not sure what I'm talking about.Capacity Introduction of the operational reasoning of the physical worldI don't know.
+![](https://assets-v2.circle.so/0p2ci3src0jg5k3qdfecah25nkhn)
+## Model capacity-What can it do?
+![](https://assets-v2.circle.so/dgiokkn48zb7b75r6y954a4prehh)
+## Technical characteristics
+📌 1. Optimizing local deployment
+
+- The model's done.**Calculate resource compression optimization**Calculate resource compression optimization It allows it to run on robotic devices with limited computing power.I don't know.
+
+- I don't need it. GPU Servers CPU or smallAIChips can also support reasoning.I don't know.
+
+📌 2. Multi-module integration capability
+
+- Based on DeepMind It's... it's... it's... Gemini 2.0 Model structure It's a collection of visuals.Language and behavioural controlI don't know.
+
+- Availability**Image Perception + Command understanding. + Action execution**Image Perception + Command understanding. + Action executionCapacity for integrationI don't know.
+
+📌 3. Few-shot Fine-tuning mechanisms
+
+- Support very few samplesOnly50~100Bar PresentationI'm not sure what I'm talking about.I'm going to finish the new job. This significantly reduces the threshold for development and deploymentI don't know.
+
+### How did it go?
+✅ In more than one test. Performance better than existing models-
+
+- **Higher mission completion rate**Higher mission completion rate-Especially when you've never seen a mission before or in a new environment. Models show a much greater ability to generalize.I don't know.
+![](https://assets-v2.circle.so/gfm4bayqbl47ft4fk5i614p8u2n2)
+- **Command is followed.-**Command is followed.-Better than other local alternatives in more challenging out-of-post tasks and complex multistep directivesI don't know.
+![](https://assets-v2.circle.so/zaxjzqrcht2tv6j648oiajud96j2)
+- **The response is faster.**The response is faster.-To benefit from local operations Do not wait for the cloud to return the resultI don't know.
+
+- **More stable implementation**More stable implementation-And a high degree of consistency can be maintained on different robotic platforms.I don't know.
+
+**📈 Example of a pilot mission-**📈 Example of a pilot mission-
+![](https://assets-v2.circle.so/mjbfvr6hf0e52znqr5wee7ngr3b0)
+### Fitness-It's not just running. And crosses the platform.
+
+- Yes. ALOHA After Platform training Move to-
+**Franka FR3 A robot with arms.**Franka FR3 A robot with arms.-Completion of industrial level assembly tasksI don't know.
+
+- **Apollo It's a human robot.**Apollo It's a human robot.-In the family./Operation of natural language in service-type environmentsI don't know.
+
+👉 It's worth noting.-This cross-platform migration**There is no need to retrain the model.**There is no need to retrain the model. Just a slight adjustment. You can use the same intelligence.I don't know.
+![](https://assets-v2.circle.so/dfl0wl73hm3c5nr9330vnrj0zcva)
+### Developer support-How to Participate and Use
+![](https://assets-v2.circle.so/pgc6wk4pzcdxm0qj7v157acafob3)MuJoCo
+Gemini Robotics SDK
+Gemini Robotics tech report
+**Gemini Robotics On-Device It marks a robot.AIEnter.“At the end of the day,AvailableI'm sorry, I'm sorry, I'm sorry, I'm sorry.DeployableI'm sorry, I'm sorry, I'm sorry, I'm sorry.GeneralisedIt's not a good idea, it's not a good idea.New phaseI don't know.**Gemini Robotics On-Device It marks a robot.AIEnter.“At the end of the day,AvailableI'm sorry, I'm sorry, I'm sorry, I'm sorry.DeployableI'm sorry, I'm sorry, I'm sorry, I'm sorry.GeneralisedIt's not a good idea, it's not a good idea.New phaseI don't know.
+It's meant to be, like,-
+
+- ✅ **Marginal intelligence penetration**Marginal intelligence penetration-Robots can think on their own.Implementation of the mandate No longer dependent on external serversI don't know.
+
+- ✅ **Lower deployment costs**Lower deployment costs-Adaptive. + Quick Fine-tuning → Lower industry application thresholdI don't know.
+
+- ✅ **Cross-hardware unified model architecture**Cross-hardware unified model architecture-In the future, a robotic device with models of various forms can be achieved.I don't know.
+
+Official presentation-https://deepmind.google/discover/blog/gemini-robotics-on-device-brings-ai-to-local-robotic-devices/

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MiniMax, an open source model for mixed attention reasoning, MiniMax-M1 training costs only $5.35 million.
+title: MiniMax Release the mixed attention reasoning open source model. MiniMax-M1 Training costs only. 53.5 United States dollars Performance approaching top closed source model
 date: 2025-06-06 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/minimax-minimax-m1-53-5_1.jpg
@@ -9,152 +9,175 @@ icon: note
 * content
 {:toc}
 
-MiniMax released ** MiniMax-M1,** the first global ** Open Source** large-scale mixed attention reasoning language model**. The main features are the integration of ** Mixed Expert Structure (MoE)** and the efficient ** Lighting Attention mechanism**, with significant advantages in the speed of reasoning, long text processing and complex mission performance. In most missions, MiniMax-M1** is significantly better than other open source models (e.g. Qwen3, DeepSeek-R1)**, and is approaching even partial dimensions beyond the commercial closed source model.[https://assets-v2.circle.so/1f5mzuq76ohvlbh fnhpuu1t) The model is based on the previous model **iniManiMax-Text-01**, developed at a total parameter of **45.6 billion #ken to activate parameters of **45.9 million **, supported at a maximum of **100mtoktoktof:K#k1_Kp_K3x4k_D6k_K3_K_K6_K6k_D6k_Dr_K6_K6k_K5_K6k_K.int_K.
+MiniMax Release **MiniMax-M1 **MiniMax-M1 First Global**Open Source**Open SourceIt's... it's... it's...**Models of large-scale mixed attention reasoning language**Models of large-scale mixed attention reasoning languageI don't know.The main feature is integration. **Mixed expert structureMoEI'm not sure what I'm talking about.**Mixed expert structureMoEI'm not sure what I'm talking about. And efficient. **Lightning Attention Mechanisms**Lightning Attention Mechanisms It's the speed of reasoning.Significant advantages in long text processing and complex mission performanceI don't know.
+On most missions. MiniMax-M1 **It's much better than other open source models.Like Qwen3DeepSeek-R1I'm not sure what I'm talking about.**It's much better than other open source models.Like Qwen3DeepSeek-R1I'm not sure what I'm talking about. And it's closing up even partially beyond the commercial closed-source model.I don't know.
+![](https://assets-v2.circle.so/1f5mbmzuq76ohtvlbhfnh36puu1t)The model is based on the pre-generation model. **MiniMax-Text-01**MiniMax-Text-01 Development Total parameter size is **4560Billions**4560Billions Every one.tokenActivate Parameter As **45.9Billions**45.9Billions Maximum support **100Milliontokens**100Milliontokens context inputAbout DeepSeek R1 It's... it's... it's...8MultiplyI'm sorry, I don't know.
+![](https://assets-v2.circle.so/ffdi8r1a1kq2do0llguv07zzpsx1)
+### Model version
+MiniMax-M1-40K- Context-100Million Logic budget-tokens40K
+MiniMax-M1-80K- Context-100Million Logic budget-tokens80K
 
-## ** Mixed expert model (Mixture-of-Experts, MoE)**
+### **Mixed expert modelMixture-of-Experts, MoEI'm not sure what I'm talking about.**Mixed expert modelMixture-of-Experts, MoEI'm not sure what I'm talking about.
 
-- Every token activates about 4.590 billion parameters (456 billion total parameters), using only some experts to improve the efficiency of reasoning.
+- Every one. token Activate the contract 45.9 Billion parametersTotal Parameters 4560 BillionsThis is the first time I've ever seen you.Call only some experts Improving the efficiency of reasoningI don't know.
 
-- Balanced the contradiction between “large model capabilities” and “landable deployments”.
+- It's even.“At the end of the day,Large modeling capacityIt's not a good idea, it's not a good idea.and“At the end of the day,Landable deploymentIt's not a good idea, it's not a good idea.The paradox.I don't know.
 
-# ** Lighting Attention mechanism**
+### **Lightning Attention Mechanisms**Lightning Attention Mechanisms
 
-- An optimised approach to attention devoted to the large-scale context**.
+- It's a kind of thing.**Large-scale context**Large-scale contextOptimizing the way to focus.I don't know.
 
-- MiniMax-M1 was calculated at only 25 per cent of the 100,000 tokens generated tasks compared to models such as DeepSeek R1.
+- Compare DeepSeek R1 Waiting for a model I'm dealing with it. 10 Million tokens _Other Organiser MiniMax-M1 the calculation is only based on 25%I don't know.
 
-# ** Super-long context **
+### **Super-long context treatment**Super-long context treatment
 
-- **The background of 1 million token**, far more than most of the same models (e.g. DeepSeek R1 supports 128K).
+- **Native support 100 Million token Context**Native support 100 Million token Context More than most of these models.For example... DeepSeek R1 Support 128KI'm sorry, I don't know.
 
-# Training costs #
+### Training costs
 
-- **RL intensive training only takes 3 weeks + 512 H800 GPU**
+- **RL All I need is intensive training. 3 Week + 512 H800 GPU**RL All I need is intensive training. 3 Week + 512 H800 GPU
 
-- ** Total cost is only $5.35 million**
+- **Total cost only 53.5 United States dollars**Total cost only 53.5 United States dollars
 
-# MiniMax-M1 Capability Performance! #[] (https://assets-v2.Circle.so/xnnendtc6s9lodor6ie8rqa05joh) #
+## MiniMax-M1 Performance
+![](https://assets-v2.circle.so/xnnendtc6s9lodor6ie8rqa05joh)
+### 
 
-1. ** Mathematics and logical reasoning**
 
-- High score in AIME 2024 competition **86.0%**
+![](https://assets-v2.circle.so/mvnopfctmexh5yg8kshk0inqxc2h)
+### ✅ 1. **Mathematics and logical reasoning**Mathematics and logical reasoning
 
-- near-full (96.8%) at MATH-500
+- Yes. AIME 2024 High scores on the competition. **86.0%**86.0%
 
-- Demonstrating excellent thinking in the chain (Chain-of-Thought)
+- Yes. MATH-500 Close to the full point.96.8%I'm not sure what I'm talking about.
 
-- The SFT + RL phase sharpens the path of reflective reasoning
+- Shows good chain thinking.Chain-of-ThoughtI'm not sure what I'm talking about.Capacity
 
-2. **General and advanced programming tasks**
+- SFT + RL Phase targeting strengthens the path of reflective reasoning.
 
-- Covers from LiveCodeBnch to FullStackBnch
+### ✅ 2. **Universal and advanced programming tasks**Universal and advanced programming tasks
 
-- Demonstrate a comprehensive understanding of the syntax, logic and structure of the code
+- Overwrite arithmetic programming themeLiveCodeBenchI'm not sure what I'm talking about.To Multimodule Engineering TasksFullStackBenchI'm not sure what I'm talking about.
 
-- Stable performance, suitable for code generation or smart IDE integration
+- Show syntax for codeComprehensive understanding of the logical structure
 
-## 3. ** Real software engineering tasks**
+- It's stable. Suitable for code generation or intelligenceIDEIntegration
 
-- SWE-bench: Validation model for bug restoration and PR submission automatically based on real GitHub problems
+### ✅ 3. **Real software engineering tasks**Real software engineering tasks
 
-- MiniMax-M1 constructed the real sandbox system and validated it at the code implementation level
+- SWE-bench-It's based on the truth. GitHub Problem Verify whether the model can be completed automatically bug Repair and PR Submit
 
-- Score **56%**, stronger than all open-source models, after the latest closed-source model
+- MiniMax-M1 The real sandbox system was built. And authenticate at the code enforcement level.
 
-##  4. **Super-long text capability**
+- Score **56%**56% More than all open source models Second only to the latest closed-source model
 
-- Support **1 million tokens context** (original support)
+### ✅ 4. **UltraLong Text Capability**UltraLong Text Capability
 
-**MRCR-128K score 73.4%: closer to real understanding than GPT-4
+- Support **100Million tokens Context**100Million tokens ContextNative supportI'm not sure what I'm talking about.
 
-- Capable of handling complex instructions, legal documents, scientific documents, etc.
+- Yes. MRCRLongBench When the mission's done well,-
+**MRCR-128K Score 73.4%**MRCR-128K Score 73.4%-By comparison GPT-4 It's closer to real understanding.
 
-##  5. **Agent Capabilities: Tool Use and Call**
+- It handles complex instructions.Legal instrumentsLong content of scientific documents
 
-- TAU-bench simulation real API use scene
+### ✅ 5. **Agent Capacity-Tools Use and Call**Agent Capacity-Tools Use and Call
 
-- MiniMax-M1 over Gemini 2.5 and Claude 4: Airline: 62%
+- TAU-bench Simulate Truth API Use scenes
 
-- Retail: 63.5%
+- MiniMax-M1 Beyond Gemini 2.5 and Claude 4-
+Airline-62%
 
-It shows that it has a strong ability to adapt to complex reasoning and motion-driven intelligent tasks.
+- Retail-63.5%
 
-# # 6. ** Dialogue and assistant capabilities**
+It shows that it's complicated.+There's a great deal of adaptive capacity in the action-calling smart-body task.
 
-- MultiChallenge score of 44.7%.
+### ✅ 6. **Dialogue and assistant capacity**Dialogue and assistant capacity
 
-- Same as Claude 4, DeepSeek-R1
+- MultiChallenge Score 44.7%
 
-- Be stable in multi-mission dialogues, suitable for use as a base model for assistants
+- and Claude 4DeepSeek-R1 Pair
 
-# # 7. ** Weakness: less ability to question and answer facts**
+- Stabilizing in multi-mission dialogues Fits for assistant base model
 
-- 18.5% on SimpleQA, indicating: accuracy of answer to short, clear questions and room for improvement
+### ⚠️ 7. **Weaknesses-Less able to answer questions and answers about the facts.**Weaknesses-Less able to answer questions and answers about the facts.
+
+- Yes. SimpleQA ♪ Up there ♪ 18.5% Annotations-
+Yeah, it's short.Make sure the answer to the question is accurate and there's room for improvement.
 
 - Related to training data distribution or incentive model preferences
 
-# MiniMax-M1 Technological innovations and bright spots
+## MiniMax-M1 Technological innovations and bright spots
 
-##  Structural innovation: **Hybrid Attention** ** Lighting Attention + Softmax Attention**
+### 🔧 Structural innovation-**Mixed attention mechanismHybrid AttentionI'm not sure what I'm talking about.**Mixed attention mechanismHybrid AttentionI'm not sure what I'm talking about.
+🔹 1. **Lightning Attention + Softmax Attention**Lightning Attention + Softmax Attention
 
-- **Lighting Attention** is a **linear complexity attention mechanism**, replacing the traditional Quadratic approach, which is more slowly calculated with the length of the text.
+- **Lightning Attention**Lightning Attention It's a kind of... **Linear Complexity Attention Mechanism**Linear Complexity Attention Mechanism Alternative traditions quadratic attention Calculating is slower as the length of the text increasesI don't know.
 
-- Inserting 1 layer of Softmax Attention per 7 layers to enhance modelling capabilities in context.
+- Every 7 Layer Lightning Attention Insert 1 Layer Softmax Attention To enhance contextual modelling capabilitiesI don't know.
 
-- Advantage: Support context input for **1,000,000 tokens**
+- Advantages-
+Support the long-term. **1,000,000 tokens context input**1,000,000 tokens context input
 
-- Significant reduction in the number of reasoning calculations (e.g., FLOPs are only 25% of DeepSeek R1 when 100K tokens are generated)
+- Substantial reduction in the number of reasoning calculationsGenerate, for example. 100K tokens Hour FLOPs Only DeepSeek R1 It's... it's... it's... 25%I'm not sure what I'm talking about.
 
-## Model size and computational efficiency: **Mixture of Experts (MoE) Mixed Expert Mechanism**
+### 🧠 Model size and computational efficiency-**Mixture of ExpertsMoEI'm not sure what I'm talking about.Mixed Expert Mechanism**Mixture of ExpertsMoEI'm not sure what I'm talking about.Mixed Expert Mechanism
 
-- The total parameters of the model amount to **45.6 billion**, activated only **45.9 billion** (i.e. about 10%)
+- Total model parameters reached **4560 Billions**4560 Billions Every time only activates **45.9 Billions**45.9 BillionsThat's what I'm talking about. 10%I'm not sure what I'm talking about.
 
-- Used **32 specialist modules**, activated in each input selection part
+- Used **32Expert module**32Expert module Activate each input selection part
 
-- Strengths: **calculation efficiency**: reasoning using only some parameters without loss of capability** significant reduction in reasoning and training costs**
+- Advantages-
+**Calculating efficient**Calculating efficient-Without loss of capacity Use only some parameters for reasoning **Significant reduction in reasoning and training costs**Significant reduction in reasoning and training costs
 
-- **Extensible**: Total parameters can be extended to 100 billion grades without compromising the cost of use.
+- **Strong scalability**Strong scalability-Total parameters can be extended to hundreds of billions of grades without compromising the cost of useI don't know.
 
-- ** Fine-tuning**: Only local experts are optimized and the field is also well suited.
+- **It's fine. It's fine.**It's fine. It's fine.-Optimize local experts only It's also good for the field.I don't know.
 
-- Maintaining the performance of the large model while applying to multitasking schedules
+- Keep the big model up. It also applies to multitasking.
 
-##  Enhanced learning training optimization: ** New RL algorithm CISPO**  Question: Traditional methods such as PPO, GRPO have token branch cutting problems that ignore key turning points in reasoning (e.g., “Hold on, think again ...” Solutions: MiniMax proposed **CISPO **Clipped IS-weight Policy Implementation**
+### 🧪 Enhanced learning training optimization-**NewRLAlgorithms CISPO**NewRLAlgorithms CISPO
+🔹 Problem-Traditional methods such as: PPOGRPO Existence token Scissors. It ignores the key turning point in the reasoning.Like“At the end of the day,Wait.Think again.I'm sorry, I'm sorry, I'm sorry, I'm sorry.
+🔹 Solutions-MiniMax Presented **CISPOClipped IS-weight Policy OptimizationI'm not sure what I'm talking about.**CISPOClipped IS-weight Policy OptimizationI'm not sure what I'm talking about.
 
-- Amend to read "Cut sample weights", ** to retain all tokens training signals**
+- Amend to read“At the end of the day,Cut sample weightsI'm not sure what I'm going to do.**Keep All tokens The training signal.**Keep All tokens The training signal.
 
-- Strength: Keep a rare but important line of reasoning
+- Advantages-
+Keep a rare but important line of reasoning
 
-- Training is more stable and efficient.
+- Training is more stable. More efficient.
 
-- Training speed increases in comparison with GRPO, DAPO **2 times**
+- ♪ In and out ♪ GRPODAPO The speed of training increases in the comparison. **2Multiply**2Multiply
 
-# # All-round enhancement of reasoning: ** with advantages in multiple and complex tasks**
+### 📈 A complete increase in reasoning.-**It's an advantage in a number of complex tasks.**It's an advantage in a number of complex tasks.
 
-- **Super long text processing**: support 1M input, 80K output, suitable for scientific papers, legal instruments, etc.
+- **Ultra-Long Text Processing**Ultra-Long Text Processing-Support 1M Input80K Output Appropriate for scientific dissertationsScenes such as legal instruments
 
-- ** Complex task reasoning**: excellent performance in AIME Mathematics, LiveCodeBnch programming, SWE-Bench software engineering tasks
+- **Complex mission reasoning**Complex mission reasoning-Yes. AIME MathematicsLiveCodeBench ProgrammingSWE-bench Excellent performance in software engineering tasks
 
-- **Toolability**: In TAU-bench, over Gemini 2.5 Pro, Claude 4, fit to build complex intelligence
+- **Tool Callability**Tool Callability-Yes. TAU-bench Beyond Gemini 2.5 ProClaude 4 Fits to build complex intelligence bodies
 
-# # Engineering efficiency optimizes #
+### 🧰 Optimization of engineering efficiency
 
-- **RL training only takes 3 weeks + 512 H800 GPU**
+- **RL All we need is training. 3 Week + 512 H800 GPU**RL All we need is training. 3 Week + 512 H800 GPU
 
-- ** Total cost is only $5.35 million**, which is significantly lower than the cost of training in closed-source models such as GPT-4
+- **Total cost only 53.5 United States dollars**Total cost only 53.5 United States dollars Largely below average GPT-4 Waiting for closed-source model training costs
 
-- ** Logic and training have cost advantages** and contribute to model landing and popularization
+- **Logic and training have cost advantages.**Logic and training have cost advantages. It helps model landing and universalization.
 
-# Function Calling + Tool Use Capability #
+### 📦Native Function Calling + Tool Use Capacity
+✅ Innovation point-
 
-- The built-in function call (Function Calling) module supports the output structured call parameters.
+- built-in function callFunction CallingI'm not sure what I'm talking about.Modules Support output structured call parametersI don't know.
 
-- A complete tool call evaluation (TAU-bench) was built for Agent
+- Target Agent A complete tool call evaluation was appliedTAU-benchI'm not sure what I'm talking about.
 
-Strengths:
+🔍 Advantages-
 
-- Without additional fine-tuning, the model can identify when to call the tool and generate the parameter format;
+- No extra fine-tuning. Models can identify when to call Generate parameter formatting;
 
-- Support the construction of search-enhanced Agent, task assistant, API interactive robots.
+- Support building search enhancementAgentTask AssistantAPIInteractive robots.I don't know.
 
-GitHub: https://github.com/MiniMax-AI/MiniMax-M1 Model: https://huggingface.co/collections/MiniMascai/minimax-m1-685002ad96634ec0eeac8cf094 Papers: https://github.com/ MiniMax-AI/ MiniMax-M1/blob/main/ MiniMax_M1_tech_report.pdf Online Experience: https://chat.minimax.io/
+GitHub-https://github.com/MiniMax-AI/MiniMax-M1
+Model-https://huggingface.co/collections/MiniMaxAI/minimax-m1-68502ad9634ec0eeac8cf094
+Papers-https://github.com/MiniMax-AI/MiniMax-M1/blob/main/MiniMax_M1_tech_report.pdf 
+Online experience-https://chat.minimax.io/

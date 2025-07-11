@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gemini can now be used in Gmail to help you automatically summarize long mails, generate recommendations and drafts for e-mail responses.
+title: Gemini I can do it now. Gmail Used It'll help you synthesize your long e-mails.Generate mail response recommendations and drafts
 date: 2025-06-13 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/gemini-gmail_1.jpg
@@ -9,56 +9,82 @@ icon: image
 * content
 {:toc}
 
-Gemini can now be used in Gmail. ** You can use Gemini in Gmail for these things:**
+Gemini I can do it now. Gmail UsedI don't know.
+**You can be there. Gmail Useable Gemini Do these things.-**You can be there. Gmail Useable Gemini Do these things.-
 
-- Automatic** summary of long e-mail**, quick focus;
+- Auto**Summary Long Mail**Summary Long Mail Quick look at the point.;
 
-- Helping you to generate recommendations for e-mail responses**;
+- Help you.**Can not open message**Can not open message;
 
-- Write draft mail** in accordance with your instructions;
+- According to your instructions,**Write draft mail**Write draft mail;
 
-- From your Gmail or Google cloud hard drive**;
+- From you. Gmail or Google It's in the cloud hard drive.**I'm looking for information.**I'm looking for information.;
 
-- Direct** view calendar activities**, or even create a calendar.
+- Direct**View Calendar Activities**View Calendar Activities Or even create a schedule.I don't know.
 
-(https://assets-v2.circle.so/uzllrt0sl6hvatdoj80heurgi84i)
+![](https://assets-v2.circle.so/uzllrt0sl6hvatdoj80heurgi84i)
 
-#  Usage (computer end): Login Gmail. Click at the upper right corner ** Question to Gemini icon** (usually asterisk icons or robotic icons). In the right-hand Gemini panel, you can:
+## 🚀UsageComputer:
+Login GmailI don't know.
+Top right corner click **“At the end of the day,To Gemini QuestionsIt's not a good idea, it's not a good idea.Icon**“At the end of the day,To Gemini QuestionsIt's not a good idea, it's not a good idea.IconIt's usually an asterisk icon or a robotic icon.I'm sorry, I don't know.
+On the right. Gemini Paneling Yeah.-
 
-- Select the system 's recommended tip (e.g., "Help me write a client back to the mail")
+- Select the hints recommended by the systemLike“At the end of the day,Write me a client's reply.It's not like it's going to happen.
 
-- Enter the task you want Gemini to help with.
+- You can type it yourself if you want to. Gemini Help with the task.Like“At the end of the day,Summarize this e-mail.It's not like it's going to happen.
 
-Waiting for Gemini to automatically generate a response or advice. The option is to "copy the recommendation" insert the mail or otherwise. [!] (https://assets-v2.Circle.so/ qv28gv4uekduahaxpecpled81ml) # using Gemini from Gmail on Android's mobile phone:
+Wait. Gemini Automatically generate a response or recommendationI don't know.
+Optional“At the end of the day,Copying the recommendationIt's not a good idea, it's not a good idea.Insert mail or otherwiseI don't know.
+![](https://assets-v2.circle.so/qv28gv4uekduahaxbecplfed81ml)
+## 📱 Yes. Android It's on the phone. Gmail Medium Gemini-
 
-## Step note: ** Open Gmail App** on your Android mobile phone or tablet, open Gmail application. ** Click on the Gemini icon on the upper right corner** and there will be a Gemini icon next to the search bar (like a star or small assistant icon) and point it. ** Use Gemini panel (below)** to pop the Gemini panel under the screen, you can:
+### ✅ Description of steps-
+**Open Gmail App**Open Gmail App
+It's yours. Android On the phone or on the tablet. Open Gmail ApplyI don't know.
+**Click on the top right corner Gemini Icon**Click on the top right corner Gemini Icon
+There'll be one next to the search bar. Gemini IconsSimilar to a star or a little assistant iconThis is the first time I've ever seen you.Light it.I don't know.
+**Use Gemini PanelWe're at the bottom.I'm not sure what I'm talking about.**Use Gemini PanelWe're at the bottom.I'm not sure what I'm talking about.
+It pops under the screen. Gemini Panel You can.-
 
-- Point a hint recommended by the system** (e.g., “summation of the message”, “writing a response”).
+- I'll take one.**System-recommended Hints**System-recommended HintsFor example..._Other OrganiserSummarize this e-mail.I'm sorry, I'm sorry, I'm sorry, I'm sorry.Write a reply.I'm not sure I'm going to be able to do this.
 
-- You can also type yourself ** what you want it to do ** e.g., "Please write me a resignation e-mail."
+- You can do it yourself.**Enter what you want it to do.**Enter what you want it to do. For example...“At the end of the day,Please write me a resignation e-mail.
 
-** (optional) Clear historical records** If you don't want to keep chat records with Gemini, you can click "Clean history" at the top right corner.[1] (https://assets-v2.circle.so/rzhtyoni0c4dylhqaivjueu4s) ##
+**OptionalI'm not sure what I'm talking about.Clear History**OptionalI'm not sure what I'm talking about.Clear History
+If you don't want to keep the peace Gemini _Other Organiser You can point the upper right corner.“At the end of the day,Clear History
+![](https://assets-v2.circle.so/rzhtyoni0c4dylhqaivfjueu4i4s)
+### ⚠️ A sweet tip.-
 
-- ** Your historical records will not be kept**: if you turn off Gmail App or restart your cell phone, the conversation with Gemini will be cleared.
+- **Your history won't be preserved.**Your history won't be preserved.-
+If you turn it off, Gmail App Or reboot the cell phone. Before and after Gemini The conversation will be wiped out.I don't know.
 
-** It is recommended that important elements be reproduced in advance**:
+**It is recommended that important elements be reproduced in advance**It is recommended that important elements be reproduced in advance-
 
-- If Gemini gives you a good advice, please ** copy it in the mail or in the memo ** in case it's lost.
+- If... Gemini I've given you a very good advice. Please.**Copy it in the mail or the memo.**Copy it in the mail or the memo. In case it's lost.I don't know.
 
-#  Gemini in Gmail on iPhone or iPad:
+## 🍎 Yes. iPhone or iPad Use on Gmail Medium Gemini-
 
-##  Operational step: ** Open Gmail application** on your iPhone or iPad, open Gmail App. ** Click the Gemini icon on the top right corner** with a Gemini icon next to the search box, point in. ** There will be a Gemini panel at the bottom** in this panel where you can:
+### 📲 Operational Steps-
+**Open Gmail Apply**Open Gmail Apply
+It's yours. iPhone or iPad Let's go. Open Gmail AppI don't know.
+**Click on the top right corner Gemini Icon**Click on the top right corner Gemini Icon
+There's one next to the search box. Gemini Icon Light it in.I don't know.
+**It's gonna be at the bottom. Gemini Panel**It's gonna be at the bottom. Gemini PanelYou can do it on this panel.-
 
-- Select a system** recommended tip** (e.g., “Help me write a letter of thanks”).
+- Select a system**Recommended Hints**Recommended HintsLike what?“At the end of the day,Write me a thank-you letter.I'm not sure I'm going to be able to do this.
 
-- Or enter your own hint** in the ** input box below (e.g., “Summary my conversation with the client”).
+- Or down there.**Enter your own hint in the input box**Enter your own hint in the input boxFor example...“At the end of the day,Summarize my conversation with my client.I'm not sure I'm going to be able to do this.
 
-** (optional) Clear history** Wants to clear Gemini's log of use? ## # at the top right corner of #[!] (https://assets-v2.circle.so/j5uuzzdc45ivpvzmhrj7coog6sy0):
+**OptionalI'm not sure what I'm talking about.Clear History**OptionalI'm not sure what I'm talking about.Clear History
+I want to clear it. Gemini Records of useTop right corner.“At the end of the day,Clear History
+![](https://assets-v2.circle.so/j5uuzzdc45ivpvzmhrj7coog6sy0)
+### ⚠️ Attention.-
 
-- ** Dialogue history will not save **: If you close Gmail App or reopen it, it will **clean up your chat with Gemini**.
+- **The history of dialogue will not be preserved.**The history of dialogue will not be preserved.-
+If you turn it off, Gmail App or reopen It will.**♪ Clear you and ♪ Gemini Chat Contents**♪ Clear you and ♪ Gemini Chat ContentsI don't know.
 
-**Pictim**:
+**Hey, Tweedy.**Hey, Tweedy.-
 
-- If you think Gemini's offer is good, ** copy it in your mail text** or close App before it's lost.
+- If you think... Gemini That's a good advice. **Copy it in your mail text first.**Copy it in your mail text first. Otherwise, it's closed. App After that, it'll be lost.I don't know.
 
-Official help documentation: https://support.google.com/mail/answer/14355636
+Official Help Document-https://support.google.com/mail/answer/14355636

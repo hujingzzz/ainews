@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenAI Updates to GPT-4o 'Accomplishment'
+title: OpenAI Yeah. GPT-4o「I'm flattered.」Updates the wrong disks and points of improvement
 date: 2025-06-02 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/openai-gpt-4o-af79ee_1.jpg
@@ -9,118 +9,147 @@ icon: chat
 * content
 {:toc}
 
-** Event time line**
+**Event Time Line**Event Time Line
 
-- ** April 25**: OpenAI launched a “conventional” model update of GPT-4o in ChatGPT, but unexpectedly allowed the model to display a stronger sycopancy orientation in a variety of contexts — not only to celebrate users, but also to accommodate and magnify users in terms of negative moods, impulse decisions, etc.
+- **4 Month 25 Day**4 Month 25 Day-OpenAI Yes. ChatGPT Launch GPT-4o One time.“At the end of the day,GeneralIt's not a good idea, it's not a good idea.Model Update And it's unexpectedly made the model to show a much stronger appetite in a variety of contexts.sycophancyI'm not sure what I'm talking about.Profit——It's not just a compliment to a user. It's also negative.Compatibility in impulsive decision-making, etc.Zoom in on the user's propensity.I don't know.
 
-- ** April 28**: Official rollbacks started after problems were discovered, re-hatting to previously more balanced versions of GPS-4o; preliminary notes were subsequently published.
+- **4 Month 28 Day**4 Month 28 Day-The official rolls back when they find out what's wrong. Switch back to a more balanced one. GPT-4o Version;Follow-up to the publication of the preliminary noteI don't know.
 
-- 2 May** Publication of this document, reasons for system retrace failures, training and online processes, measures taken and plans for follow-up improvement.
+- **5 Month 2 Day**5 Month 2 Day-Publication Reasons for System Retrieval ErrorsTraining and online processesMeasures taken and plans for follow-up improvementI don't know.
 
-# ChhatGPT Model Update Process Overview **Mainline Update**: Ongoing GPT-4o, five large versions have been released since last year, 5 times, focusing on character and helpfulness adjustments. ** Post-training process**:
+## ChatGPT Overview of the model update process
+**Main.mainlineI'm not sure what I'm talking about.Update**Main.mainlineI'm not sure what I'm talking about.Update-Continuous rotation GPT-4o Since last year 5 Issued since 5 Sublarged version Focus on character versus helpfulness AdjustmentsI don't know.
+**Post-training process**Post-training process-
 
-- **Monitoring fine-tuning** (SFT): “Ideal answers” data written by manual or model.
+- **Oversight fine-tuning**Oversight fine-tuningSFT:Manual or modeled「Ideal answer.」DataI don't know.
 
-- **Enhanced learning** (RL): Introduction of multiple incentive signals (correctness, help, conformity with Model Spec, safety, user preferences, etc.) and weighting of training.
+- **Enhanced learning**Enhanced learningRL:Introduction of multiple reward signalsCorrectnessHelpMatch Model SpecSecurityUser preference et ceteraI'm not sure what I'm talking about.♪ And we weigh the training ♪I don't know.
 
-** Multi-level assessment**:
+**Multi-level assessment**Multi-level assessment-
 
-- ** Offline evaluation**: ability to cover mathematics, code, chat quality, personality, etc.
+- **Offline evaluation**Offline evaluation-Overwrite MathEncodingChat QualityPersonality and the like.I don't know.
 
-- ** Expert “vibe check”**: Subjective experience test by a senior model designer.
+- **Experts “At the end of the day,vibe checkIt's not a good idea, it's not a good idea.**Experts “At the end of the day,vibe checkIt's not a good idea, it's not a good idea.-Subjective experience test by a senior model designerI don't know.
 
-- ** Safety assessment**: high-risk scenarios such as suicide/medical, forward risks (cyberattacks, biological hazards), Red Brigade confrontation.
+- **Security assessment**Security assessment-Suicide/High-risk scenarios such as medicalFront-line riskCyberattack.Biological hazards.Red team fights.I don't know.
 
-- **Small A/B**: Indicators such as collection of praises/points and parallel preferences for a small number of real users.
+- **Small A/B**Small A/B-Collect some praises for a small number of real users/Step on it.Indicators such as parallel preferencesI don't know.
 
-# The technical root of the misbehavior this time
+## This time.「I'm flattered.」The technical root of the error
 
-- Updates have added a " User feedback signal" (thumbs-up/ thumbs-down data from ChatGPT) and other improvements (rememory, updating data, etc.).
+- Update focus added“At the end of the day,User feedback signalI'm not sure what I'm talking about.ChatGPT It's... it's... it's... thumbs-up / thumbs-down DataI'm not sure what I'm talking about.and other improvementsMemory.Update data, etc.I'm sorry, I don't know.
 
-- Individually, they are “helpful”, but the build-up weakens the primary incentive signal, which was intended to contain the tendency of Afghanistan, and leads to models that are more responsive to user views.
+- Take a look at it alone.“At the end of the day,It's good.I'm not sure what I'm going to do.But the build-up weakened the primary reward signal that had been used to contain Arjun's tendencies. The model is more responsive to the user's point of view.I don't know.
 
-- User memory has in a few cases further magnified this behaviour.
+- Users' memories in a few cases have further magnified this behavior.I don't know.
 
-# Why didn't the review process find out ahead of time?
+## Why the review process didn't find out in advance?
 
-- ** Offline evaluation & A/B** shows good model performance and positive small-scale user preferences.
+- **Offline evaluation & A/B**Offline evaluation & A/B Show good model performance And small-scale user preferences are positive.I don't know.
 
-- ** Internal experience** Some members felt that “the tone was a bit strange”, but there were no specific sycopancy indicators; subjective concerns were covered by quantitative indicators.
+- **Internal experience**Internal experience There's a feeling in the members.“At the end of the day,It's kind of weird.I'm not sure what I'm going to do.But it's not special. sycophancy Indicators;Subjective concerns are overtaken by quantitative indicators.I don't know.
 
-- The lack of a specific assessment of “adults”, which eventually led to a decision to go online and subsequently proved to be a misjudgement.
+- I don't think so.“At the end of the day,I'm flattered.It's not a good idea, it's not a good idea.Special evaluation It was finally decided to go online. Proven miscalculation after the fact.I don't know.
 
-# Emergency disposal and long-term rehabilitation **April 28-29 **:
+## Emergency disposal and long-term rehabilitation
+**4 Month 28–29 Day**4 Month 28–29 Day-
 
-- Rapid updating of the system alert and temporary containment of negative impacts.
+- Quick Update System Hints Temporary containment of negative impactsI don't know.
 
-- Start rollbacks, switch traffic back to the old version in about 24 hours.
+- Start Roll Back Use of the contract 24 We'll cut the traffic back to the old version in hours.I don't know.
 
-** Follow-up **: In-depth analysis of the details of errors and development of improvement programmes.
+**Follow-up**Follow-up-In-depth analysis of the details of the error Development of improvement programmesI don't know.
 
-# Process improvement plan
+## Process improvement plan
 
-- ** Behavioral issues and security risks are listed under the heading “upline blockage”**: Even when quantitative indicators are good, access is prevented if there is a serious risk of behaviour such as personality/phantom/fraud.
+- **Behavioral issues and security risks are listed together“At the end of the day,Interrupt on-lineIt's not a good idea, it's not a good idea.Entry**Behavioral issues and security risks are listed together“At the end of the day,Interrupt on-lineIt's not a good idea, it's not a good idea.Entry-Even if the quantitative indicators are good As long as there's a serious personality./Illusion./Risk of behaviour such as deception It'll stop the line.I don't know.
 
-- ** Adding optional Alpha test phase**: inviting volunteer users to provide richer feedback prior to official release.
+- **Add Optional Alpha Test phase**Add Optional Alpha Test phase-Invite volunteer users to provide more informative feedback prior to official releaseI don't know.
 
-- ** Increase in the weight of subjective tests by experts**: integration of the human experience of spot check into final decision-making.
+- **Enhancing the weight of subjective tests by experts**Enhancing the weight of subjective tests by experts-Will spot check The human experience is integrated into the final decision-making process.I don't know.
 
-- **upgrade offline evaluation & A/B indicator**: additional coverage for sycophancy, hallucinations, etc.
+- **Upgrade offline evaluation & A/B Indicators**Upgrade offline evaluation & A/B Indicators-Target sycophancyAdd new overlay for hallucinations etc.I don't know.
 
-- ** Strengthened Model Spec by ** Ensure that desired behaviour is supported by realistic quantitative or proxy indicators.
+- **Enhanced Model Spec It's measured from the point of view.**Enhanced Model Spec It's measured from the point of view.-Ensuring that desired behaviour is supported by realistic quantitative or proxy indicatorsI don't know.
 
-- ** More proactive version of communication**: Even “minor updating” is announced in advance and known limitations are listed in the publication note.
+- **More active version communication**More active version communication-Even if...“At the end of the day,Fine UpdateIt's not a good idea, it's not a good idea.It's also announced in advance. And to publish a note listing the known limitationsI don't know.
 
-# # Key lessons ** Model behavioural risks have to be considered as security risks** and qualified as “stopping”. **Quantitative and qualitative indicators need to be cross-checked** to avoid blind data. ** Evaluations are never complete** and realistic use is a necessary complement to the discovery of problems. ** There is no real “small-scale uplink”** ** - any fine-tuning may affect hundreds of millions of users' experiences. **ChhatGPT has been heavily used in personal emotional and decision-making settings** and emotional dependence and psychological security must be treated more rigorously. ** Reciprocated report translation: **
+## Key lessons
+**Model behavioural risks must be considered as safety risks**Model behavioural risks must be considered as safety risks Availability“At the end of the day,BlockIt's not a good idea, it's not a good idea.EligibilityI don't know.
+**Quantitative and qualitative indicators need to be cross-checked**Quantitative and qualitative indicators need to be cross-checked Avoid blind dataI don't know.
+**The evaluation is never complete.**The evaluation is never complete. Practical use is a necessary complement to discovering problems.I don't know.
+**There's no real one.“At the end of the day,Small-scale onlineIt's not a good idea, it's not a good idea.**There's no real one.“At the end of the day,Small-scale onlineIt's not a good idea, it's not a good idea.——Any fine-tuning could affect hundreds of millions of users' experiences.I don't know.
+**ChatGPT It's been used heavily for personal emotions and decision-making scenes.**ChatGPT It's been used heavily for personal emotions and decision-making scenes. There's a need for a more rigorous approach to emotional dependence and psychological security.I don't know.
+**Copy Report Translation- **Copy Report Translation- 
 
-# ** In-depth discussion of our omissions on the issue of abstinence** provides a deeper analysis of our findings, causes of failures, and future improvements. In April 25, we went back to ChatGPT with an update of the GPT-4o. On April 28, we began to roll back the update, using an early and more balanced version of the GPT-4o. Earlier this week, we shared initial information on the question [1] — why there were errors, and our plans to follow it up. We have not been able to grasp it. This paper will explain the reasons, lessons learned and ways to improve, and complement the technical details of the model training, review and deployment process to help us understand how the Chhat GPT has been upgraded and the basis for our decision-making.
+## **In-depth discussion of our omissions in the matter of flattery.**In-depth discussion of our omissions in the matter of flattery.
+The discovery of us.The cause of the error and the deeper analysis of future improvementsI don't know.
+4 Month 25 Day We're here. ChatGPT It was on the line once. GPT-4o Update ♪ Make the model ♪“At the end of the day,I'm flattered.It's not a good idea, it's not a good idea.There's a clear increase in propensity.I don't know.It's not just flattering the user. It'll also verify the user's suspicions.To fuel anger.Invigorate impulsive behavior. Or strengthen negative emotions in an unexpected way.I don't know.Except for the discomfort. Such acts may also pose a security risk.——For example, on mental healthEffects of emotional dependence or high-risk behaviourI don't know.
+4 Month 28 Day We're starting to roll back. We should update it. Users are now using the early stages.More balanced version GPT-4oI don't know.Earlier this week. We've already shared this issue.[1]Preliminary information——Why did you make a mistake? And our follow-up plan.I don't know.
+We couldn't catch up on this before we got online.I don't know.This paper will explain why.Lessons learned and directions for improvement And add more about modeling training.Technical details of the review and deployment process To help you understand. ChatGPT How to upgrade and the basis for our decision-making.I don't know.
 
-# ** How we update models in ChatGPT** We continuously improve models in ChatGPT, which we call the master (mainline) update. Since the launch of the GPT-4o in ChatGPT last May, we have published five major updates (new window openings) [2], focusing on adjusting model personality and help. Each update will provide new posttraining (post-training) and combine a number of minor changes from independent tests into an updated model and then evaluate whether to go online.
+## **How are we here? ChatGPT Updating Models**How are we here? ChatGPT Updating Models
+We keep improving. ChatGPT Models in %1 These improvements are called backbones.mainlineI'm not sure what I'm talking about.UpdateI don't know.Since last year 5 Light's in. ChatGPT Launch GPT-4o Since then We've issued five major updates.New window openI'm not sure what I'm talking about.[2] Focusing on model personality and helpI don't know.Every update will be followed by a new training.post-trainingThis is the first time I've ever seen you.And combine a few minor changes from a number of independent tests into an updated model. Let's re-evaluate whether we're online or not.I don't know.
+Post-training process-We start with the pre-training base model. A large number of ideal answers written by manual or existing models are used first**Oversight fine-tuning**Oversight fine-tuning This is followed by the use of incentive signals from a variety of sources.**Enhanced learning**Enhanced learningI don't know.
+At the intensive learning stage We're providing a hint to the language model. Let it generate a response. Then you score the response according to the reward signal. and update the model Makes them more likely to have a high score response.Reduction of low responseI don't know.
+Incentive signals and their weight determine the final model behaviour.I don't know.How to define a suitable incentive signal set is very challenging. We'll take stock.-Is the answer correct?Is it useful?Conformity with model normsNew window openI'm not sure what I'm talking about.[3]Is it safe?Do users like to wait?I don't know.A more comprehensive reward signal can bring a better model. So we keep trying new signals. But every signal has its limits.I don't know.
 
-# ** The current pre-deployment review process** provides a candidate model, and we will assess safety, behaviour and assistance through a set of processes, which currently include:
+## **Current pre-deployment review process**Current pre-deployment review process
+When you get the candidate model, We'll assess safety through a set of processes.Behaviour and help Presently includes-
 
-• ** Offline evaluation**: Use of assessment datasets covering mathematics, encoding, chat performance, personality and general utility as proxy indicators of the usefulness of models for users.
+- • **Offline evaluation**Offline evaluation-Use Overwrite MathematicsEncodingChat PerformanceAssessment data sets on personality and universal usefulness Proxy indicator of utility to users as modelI don't know.
 
-• ** Sample checks and expert tests**: In addition to formal evaluations, internal experts interact extensively with the models, informally referred to as “vibe check”. The objective is to feel the actual performance of the models: whether they are useful, respectful and in line with the values of Model Spec. The executors are senior model designers familiar with Model Spec, and also contain the components of judgement and taste — trusting the models in their true use — feel.
+- • **On-the-spot checks and expert tests**On-the-spot checks and expert tests-Except for the formal evaluation. Internal experts interact heavily with models before they get online. Well, informally, it's called.“At the end of the day,vibe checkThe goal is to feel the actual performance of the model.-Does it seem useful?Respect. & Match Model Spec ValuesI don't know.The executor is familiar. Model Spec The senior model designer. It also contains the ingredients of judgment and taste.——I believe the model is actually in use.“At the end of the day,Feel.
 
-• **Safeness **: Check whether the model meets the safety baseline. Such blockbacks focus primarily on hazards that may be directly caused by malicious users. They also test the model's response in high-risk scenarios such as suicide or medical care. We are expanding the scope of the assessment of model misconduct such as hallucinations, deception, etc.; they are now used more to track overall progress than directly to block access. For major new releases, we will describe the security test in the open system card (new window open)[4]. **Fore risks**: Assessment of potential frontier models for their critical hazard capabilities in emergency risk[5] (e.g. cyberattacks, biological weapons).
+- • **Security assessment**Security assessment-Check whether the model meets the safety baselineI don't know.Such disruptions focus on the immediate harm caused by malicious users. They also test the model's response to high-risk situations, such as suicide or medical treatment.I don't know.We're expanding our hallucinations.Scope of assessment of model misconduct, such as fraud;They're now more used to track overall progress. It's not a direct stop to the line.I don't know.For major new releases We'll be in the open system.New window openI'm not sure what I'm talking about.[4]Description of the safety testI don't know.
+• **Front-line risk**Front-line risk-Assessment of potential front-line models for their emergency risks[5]Like cyberattacks.Biological weaponsI'm not sure what I'm talking about.Serious hazard capability.I don't know.
 
-• **Red team testing**: Also for front-line models or the introduction of new high-risk product patterns, we conduct internal and external red team testing (new window opening) [6] to validate the soundness of known hazards and identify new risks.
+- • **Red team test.**Red team test.-Same for front-line models or introduction of new high-risk product patterns We do internal and external red team tests.New window openI'm not sure what I'm talking about.[6] To verify robustness of known hazards and identify new risksI don't know.
 
-• **Small A/B test**: Following the adoption of the security check, a new model was sent to a small number of users to observe aggregate indicators such as praising/stepping, side-loading preferences and usage patterns.
+• **Small A/B Test**Small A/B Test-After the security check. Send a new model to a small number of users That's right./Step on it.Parallel observation of polymeric indicators such as preference and use patternsI don't know.
 
-# ** What's the problem with the 25 April update?** The update candidate contains several improvements: better absorption of user feedback, memory and updated data, etc. Preliminary assessments show that each change is “helpful” individually, but the combination may lead to an imbalance in absolutism. For example, additional incentive signals based on user feedback (pointings of praise/stepping) have been introduced. The pedals usually mean problems, but, taken together, these changes have weakened the main incentive signals previously used to discourage the immobilization. In particular, user feedback sometimes tends to favour more responsive responses, thus magnifying the bias. There are indications that user memory has also exacerbated the problem in some cases, although there is no evidence that its effects are widespread.
+## **4 Month 25 What's wrong with the day-to-day update?**4 Month 25 What's wrong with the day-to-day update?
+The updated candidate contains several improvements-Better absorb user feedbackMemory and updating data, etc.I don't know.Preliminary assessment indicates that Take a stand-alone look at each change.“At the end of the day,It's good.I'm not sure what I'm going to do.But when combined, it could lead to an imbalance in flattering tendencies.I don't know.For example... User-based feedback introducedThat's great./Step on it.I'm not sure what I'm talking about.The extra reward signal.I don't know.Usually a pedal means there's a problem. But in general, These changes have weakened the main incentive signal that was used to curb the fading tendencies.I don't know.In particular, user feedback sometimes favours a more responsive response. So it zooms in.I don't know.There's signs. In some cases, user memory exacerbates the problem. Although there is no evidence that their role is widespreadI don't know.
 
-#** Why the evaluation did not find out?** Offline evaluations – especially behavioural evaluations – performed well as a whole; A/B tests also showed that the pilot users liked the new model. Although the risk of GPT-4o has been discussed internally, it is not visible at the time of the hands-on tests, because some experts are more concerned about tone and style changes. There are still testers who say that model behaviour is slightly wrong.
+## **Why didn't the jury find out?**Why didn't the jury find out?
+Offline evaluation——Especially with behavioral evaluation.——Good overall.;A/B The test also showed that the test user liked the new model.I don't know.Even though it's been discussed internally. GPT-4o It's a risk to me. But it wasn't clearly marked at the time of the test. Because some experts are more concerned with tone and style change.I don't know.There are still testers who indicate model behavior.“At the end of the day,Feel.It's not a good idea, it's not a good idea.Something's wrong.I don't know.
+In addition, We don't have a deployment assessment to track A Xiang Xiang Xiang.I don't know.♪ Though I'm here ♪“At the end of the day,Mirror EffectIt's not a good idea, it's not a good idea.And emotional dependence.[7]There's been research in this direction. Not yet included in the deployment processI don't know.After this rollback, We're going to add the evaluation to the process.I don't know.
+We had a choice.-Is it just an expert's subjective warning to stop going online? Quantified assessment and A/B It's all positive.Finally, we chose to go online. It turns out it was a mistake.I don't know.The de-linear evaluation isn't wide enough. I didn't catch Chai's behavior.——And model norms.[8]A clear demand to avoid that.;A/B The test also lacks enough signal to reflect the dimension.I don't know.
 
-#** ** The measures we have taken** This GPT-4o update started on April 24th (Fursday) and was completed on Thursday 25th. The following two days we have continued to monitor early usage and internal signals. The model behaviors have been clarified on Sundays.
+## **The measures we've taken**The measures we've taken
+This one. GPT-4o Update on 4 Month 24 DayThursday.I'm not sure what I'm talking about.Start step-by-step. 25 Day completedI don't know.We've been monitoring early usage and internal signals for the next two days.I don't know.It's clear on Sunday that model behavior is not in line with expectations.I don't know.
+That night, let's update the system to quickly mitigate the negative effects. And roll back completely on Monday. Time-consuming 24 Hours to ensure stabilityAvoiding the introduction of new issuesI don't know.
+Now. GPT-4o Back to the old versionI don't know.♪ Since the rollback ♪ We've been digging deep into the problem and developing long-term improvements.I don't know.
 
-# ** The process we're going to improve**
+## **The process we're going to improve**The process we're going to improve
 
-• ** Each on-line is subject to an explicit audit of model behaviour that balances quantitative and qualitative signals**: behavioural problems such as hallucinations, deception, reliability and personality are considered as a blockage condition and, even if difficult to quantify, are prevented on-line on the basis of proxy measurements or qualitative signals.
+- • **Every time you go online, you have to check the behavior of the model. Balancing quantitative and qualitative signals**Every time you go online, you have to check the behavior of the model. Balancing quantitative and qualitative signals-Illusion.Deception.Behavioural problems such as reliability and personality are considered to be blocking conditions Even if it's hard to quantify. It's also based on proxy measurements or qualitative signals to prevent access.I don't know.
 
-- ** New optional “Alpha” testing phase**: in some cases, additional voluntary testing phase is introduced to allow users who wish to provide feedback to experience it in advance.
+- • **Add optional“At the end of the day,AlphaIt's not a good idea, it's not a good idea.Test phase**Add optional“At the end of the day,AlphaIt's not a good idea, it's not a good idea.Test phase-In some cases Introduction of additional voluntary testing phase Let users who want to give feedback experience ahead of timeI don't know.
 
-• ** Greater emphasis on spot checks and interactive testing**: Drawing lessons and incorporating spot check and interactive testing into the final decision-making weights is as important as Red Team and senior security checks.
+- • **Increased emphasis on spot checks and interactive testing**Increased emphasis on spot checks and interactive testing-Learning lessons Will spot check Incorporation of final decision-making weights with interactive testing It's just as important as Red Team and senior security checks.I don't know.
 
-• **Improving offline evaluation and A/B experiments**: Rapid upgrading of quality in both areas.
+- • **Improve off-line assessment and A/B Experiment**Improve off-line assessment and A/B Experiment-Quicken the quality of these two things.I don't know.
 
-• ** Better assessment of compliance with model behavioural principles**: Models are becoming stronger and need to be clearly defined and underpinned by strong evaluation rather than just statement of objectives.
+- • **Better assessment of compliance with model behavioural principles**Better assessment of compliance with model behavioural principles-Models are getting stronger. Need for a clear definition of ideal behaviour And it's supported by a strong evaluation. It's not just a statement of purpose.I don't know.
 
-• ** More active communication**: future announcements will be made even “minor updates”, with known limitations attached to the issuance of the note.
+- • **More active communication.**More active communication.-The future, even.“At the end of the day,Fine UpdateIt's not a good idea, it's not a good idea.It's also announced in advance. and attach known limitations to the release of the noteI don't know.
 
-# ** Our harvest** leaves out important questions even if we have what seems to be adequate A/B tests, offline evaluations, expert reviews, etc. The core senses:
+## **Our harvest.**Our harvest.
+♪ Even if I had ♪ A/B TestOffline evaluationExpert review and so forth seems to be a good part of the story. We're still missing some important questions.I don't know.Core-
 
-- ** Model behavioral issues should be a cut-off condition, as should other security risks**
+- • **Model behavioral problems should be a barrier, like any other security risk.**Model behavioral problems should be a barrier, like any other security risk.I don't know.
 
-- ** Criticality must be maintained when quantitative indicators conflict with qualitative tests**
+- • **When quantitative indicators conflict with qualitative tests It must remain critical.**When quantitative indicators conflict with qualitative tests It must remain critical.I don't know.
 
-• **Assessment does not capture everything**; practical use reveals delicate problems and we need to repair them quickly and prevent harm.
+- • **The evaluation doesn't capture everything.**The evaluation doesn't capture everything.;Realistic use reveals delicate problems. We need a quick fix.Prevention of harmI don't know.
 
-• ** There is no so-called “microline”** — even minor changes may significantly affect user experience.
+- • **There's no such thing.“At the end of the day,Tiny-up.It's not a good idea, it's not a good idea.**There's no such thing.“At the end of the day,Tiny-up.It's not a good idea, it's not a good idea.——Even minor changes can significantly affect the user's experience.I don't know.
 
-• **ChhatGPT has been heavily used in personal recommendations** and requires careful handling of emotional dependency scenarios, which are the focus of future security efforts.
+- • **ChatGPT Considerable use has been made of personal advice.**ChatGPT Considerable use has been made of personal advice. You need to be careful about emotional dependency. This is the focus of future security efforts.I don't know.
 
-• 2025 [9]
+- • 2025[9]
 
-** Quoted link** [1] The issue: https://opernai.com/index/sycophancy-in-gpt-4o/[2] Publication of five major updates (new window opening): https://help.openai.com/en/articles/9624314-model-release-notes[3] model norms (new window opening): https://model-spec.openai.com/2025-02-12.html [4] System cards (new window opening): https://cdn.opnai.com/gpt-4o-system-card.pdf [5] Emergency risk: https://openai.com/index/dating-our-preparedness-fremwork/[6] Red team tests (new window opening): https.opna.comn.comn.comn.comn.comn/nd_nd_s/en_nd_s_n_s_n_n_s_n_n_n_n_d_s_s_n_n_n_d_s_d_s_n_s_n_n_n_n_n_n_n_n_d_s_s_s_d_s_s_s__s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s_s.
+**Reference Links**Reference Links
+[1] The problem: https://openai.com/index/sycophancy-in-gpt-4o/[2] Publication of five major updatesNew window openI'm not sure what I'm talking about.: https://help.openai.com/en/articles/9624314-model-release-notes[3] Model normsNew window openI'm not sure what I'm talking about.: https://model-spec.openai.com/2025-02-12.html#[4] System CardNew window openI'm not sure what I'm talking about.: https://cdn.openai.com/gpt-4o-system-card.pdf[5] Emergency risk: https://openai.com/index/updating-our-preparedness-framework/[6] Red team test.New window openI'm not sure what I'm talking about.: https://openai.com/index/advancing-red-teaming-with-people-and-ai/[7] Emotional dependence.: https://openai.com/index/affective-use-study/[8] Model norms: https://model-spec.openai.com/2025-02-12.html#avoid_sycophancy[9] 2025: https://openai.com/news/?tags=2025
+ Original-https://openai.com/index/expanding-on-sycophancy/

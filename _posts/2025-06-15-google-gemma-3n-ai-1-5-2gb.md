@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google Gemma 3n-A new generation of lightweight multimoderated AI models with a response speed increase of about 1.5 times 2GB memory cell phones running.
+title: GoogleRelease Gemma 3n-A new generation of lightweight multimodules. AI Model Respond speed up the contract. 1.5 Multiply 2GBMemory cell phones are running.
 date: 2025-06-15 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-gemma-3n-ai-1-5-2gb_1.jpg
@@ -9,120 +9,149 @@ icon: link
 * content
 {:toc}
 
-**Gemma 3n** ("n" means Nano or Next-gen) is the latest lightweight open source AI model launched by Google, which aims to achieve the three objectives of "**on-device+ multi-module perception + low-efficiency delay**" and is the first prototype of a model architecture to optimize mobile devices** following the Gemma 3 series (support to desktop/coated reasoning)** and also forms the technical basis of the next generation **Gemini Nano series model**.
+**Gemma 3n**Gemma 3n (")nIt's not a good idea, it's not a good idea.Meaning Nano or Next-genI'm not sure what I'm talking about.Yes. Google Newly launched lightweight open source AI Model Aim at achieving“At the end of the day,**Device Local Runon-deviceI'm not sure what I'm talking about.+ Multimodular Perceptions + Efficient and low delays**Device Local Runon-deviceI'm not sure what I'm talking about.+ Multimodular Perceptions + Efficient and low delaysIt's not a good idea, it's not a good idea.Three objectives.I don't know.
+It's going on. Gemma 3 SeriesSupport desktop/The cloud's reasoning.I'm not sure what I'm talking about.Behind**First preview of model architecture optimized for mobile devices**First preview of model architecture optimized for mobile devices And it's the next generation. **Gemini Nano Series Model**Gemini Nano Series Model Technical basisI don't know.
 
-- Parameters size: 5B and 8B (5 billion and 8 billion parameters, respectively)
+- Parameter Size-5B and 8BWe'll split up.50100 million and80Billion parametersI'm not sure what I'm talking about.
 
-- Support of patterns: text, images, audio (voice recognition and translation), video (to be opened)
+- Support Model-TextImageAudioVoice recognition and translation.VideoWe're about to open.I'm not sure what I'm talking about.
 
-~ (https://assets-v2.circle.so/hnczcohntm5qbb9qlgslbwgln) # Core Point Function (compatibility of performance, efficiency and privacy)
+![](https://assets-v2.circle.so/hnczcohntm5qbb9qlgsrlcbwgcln)
+## Core Bright Point FunctionCompatibility of performanceEfficiency and privacyI'm not sure what I'm talking about.
 
-# # 1. Extremely light and quick response
+### ✅ 1. Extremely light and quick response
 
-- **The response speed is about 1.5 times higher ** (cf. Gemma 3 4B) to achieve a <500ms delay in the first word on the high end Android mobile phone.
+- **Respond speed up the contract. 1.5 Multiply**Respond speed up the contract. 1.5 MultiplyContrast Gemma 3 4BThis is the first time I've ever seen you.At the high end Android It's on the phone.<500ms Postponement of the first wordI don't know.
 
-**Per-Layer Embeddings (PLE)**, which benefited from Deepmind innovation, has been significantly reduced in memory occupancy; although the model parameters are: 5B (5 billion) and 8B (8 billion);
+- Beneficiary. DeepMind It's innovative. **Per-Layer EmbeddingsPLEI'm not sure what I'm talking about.**Per-Layer EmbeddingsPLEI'm not sure what I'm talking about. Technology Memory occupancy has been significantly reduced;
+Although model parameters are-
+5B50BillionsI'm not sure what I'm talking about. and 8B80Billions);
 
-The memory required at the time of actual operation is only:
+The memory required when actually running is only-
 
-- **~2GB (5B model)**
+- **~2GB5BModelI'm not sure what I'm talking about.**~2GB5BModelI'm not sure what I'm talking about.
 
-- **~3GB (8B model)**
+- **~3GB8BModelI'm not sure what I'm talking about.**~3GB8BModelI'm not sure what I'm talking about.
 
-This means that:** middle-end Android mobile phones can also run large model reasoning** without cloud support. Fit to mobile hardware platforms such as Qualcomm, MediaTek, Samsung, etc.
+That means...-**Centre Android Cell phones can also run large models of reasoning.**Centre Android Cell phones can also run large models of reasoning. Don't need cloud support.I don't know.
+Fitness QualcommMediaTekSamsung Waiting for mobile hardware platformsI don't know.
 
-##2. Dynamic modifiable model structure (Mix'n'Match architecture) "**Mix'n'Match**" structure allows the 5B model to automatically switch to an embedded 2B submodel;
+### ⚙️ 2. Dynamic adjustable model structureMix'n'Match StructureI'm not sure what I'm talking about.
+“At the end of the day,**MixnMatch**MixnMatchIt's not a good idea, it's not a good idea. Structure 5B Models automatically switch to embedded ones. 2B Submodel;
 
-- The model structure embedded an embedded submodel (2B active memory model embedded in the 4B master model), which the developer can ** dynamic adjustment accuracy and reasoning speed** and adapt to different use scenarios;
+- There's an embedded submodel embedded in the model structure.2B Active memory model embedded in 4B in the main modelThis is the first time I've ever seen you.Developer can**Dynamic adjustment accuracy and reasoning speed**Dynamic adjustment accuracy and reasoning speed Adapting to different use scenarios;
 
-- A balance between accuracy and speed, depending on the capacity of the equipment or the user's needs;
+- Balance between accuracy and speed, depending on equipment capacity or user needs dynamically;
 
-- Such a structure would achieve "one model covering multiple scenarios"
+- This architecture is achievable.“At the end of the day,One model covers multiple scenes.It's not a good idea, it's not a good idea.
 
-- Excellent performance in energy consumption and control, especially for battery-sensitive equipment (cell phones, glasses, headphones, peripherals).
+- You've done a great job in power control. Specially suitable for battery-sensitive equipmentCell phone.Glasses.HeadphonesEdge DeviceI'm sorry, I don't know.
 
-# # 3. Full local operation, privacy priority
+### 🛡️ 3. Completely Local Run Privacy priority
 
-- The operation of the reasoned task without the need for networking;
+- You don't have to network to run a reasoned task.;
 
-- All data are processed on the equipment, not on the cloud, and the privacy of users is guaranteed;
+- All data processed on the device Don't pass the clouds. Guaranteeing user privacy;
 
-- For mobile phones, notebooks, peripherals, etc.
+- It's for cell phones.Notebook.Edge devices, etc.I don't know.
 
-## Multi-modular capacity enhancement Gemma 3n is one of the most advanced currently available ** mobile multi-module open source models in Google**, supported by: [x] [https://assets-v2.circle.so/cpksy3sc0xplnt493agu9jpuq523] #model uses: building the next generation of “aside-intelligent experiences”  expected application scenes![] (https://assets-v2.circle.so/g7c93o6x5jnbec10e85xlig94a8f) #how the sex can **the natural language task ** Google described its model as “high ahead” in the Chatbot Arena row, in the user preference:
+## Multi-module capacity enhancement
+Gemma 3n Right now. Google Most advanced.**Move one of the open source models of multimodule end**Move one of the open source models of multimodule end Its scope of support includes:-
+![](https://assets-v2.circle.so/cpksy3sc0xplnt493agu9jpuq523)
+## Model uses-To build the next generation.“At the end of the day,Walking intelligence experience.It's not a good idea, it's not a good idea.
+📱 Expected application scenario
+![](https://assets-v2.circle.so/g7c93o6x5jnbec10e85xlig94a8f)
+## How's it going?
+📊**Natural language missions**Natural language missions
+Google ♪ Called its model ♪ Chatbot Arena Showing in rows“At the end of the day,TopI'm not sure what I'm going to do.In user preference rating-
 
-- Comparable to mainstream open source models such as **Mistral 7B, Phi-3, LLama 3**;
+- It's like a mainstream open source model. **Mistral 7BPhi-3LLaMA 3**Mistral 7BPhi-3LLaMA 3;
 
-- To demonstrate stability in the bilingual Chinese and English missions, particularly in dealing with the multi-round dialogue**, the production of long texts, and the logical question-and-answer**.
+- Stabilized in bilingual Chinese and English missions Especially when dealing with it.**Multi-round dialogueLong Text GenerationLogical Questions and Answers**Multi-round dialogueLong Text GenerationLogical Questions and AnswersAspectsI don't know.
 
-(a) Multilingual performance:
+🌐 Multilingual performance-
 
-- Scores in multilingual benchmark (e.g. **WT24+**, ChrF) **50.1%**;
+- It's in multiple languages. benchmarkLike **WMT24++**WMT24++, ChrFI'm not sure what I'm talking about.Score **50.1%**50.1%;
 
-- Special performance in the ** Japanese, German, Korean, French, Spanish** tasks;
+- Yes. **JapaneseGermanKoreanFrenchSpanish**JapaneseGermanKoreanFrenchSpanish You've done a great job waiting for a language mission.;
 
-- This suggests that it is superior to many Western-led models in terms of the adaptability of international markets.
+- This suggests that it is superior to many Western-led models in terms of the adaptability of international markets.I don't know.
 
-#one of the key technology bright spots for the elaboration of the Gemma 3n with ** significant reduction of memory occupancy during operation** is achieved in three ways:
+![](https://assets-v2.circle.so/q3gqwbs882gpmx3zb9py5cjm05n7)**Compared to the same model**Compared to the same model
+![](https://assets-v2.circle.so/m7wgcgosr55t605rfggtwzbn1x93)
+## Core technical detail
+Gemma 3n One of the key technological highlights**Significant reduction in memory occupancy while running**Significant reduction in memory occupancy while running Achieved in three ways:-
 
-#1 Per-Layer Embedding (PLE)
+### 1️⃣ Per-Layer EmbeddingPLEI'm not sure what I'm talking about.
 
-- ** What**: a new embedded strategy proposed by Google Deepmind;
+- **What is it?**What is it?-It's a kind of cause. Google DeepMind New embedded strategies proposed;
 
-- ** Activation**: Each layer uses an independent low-dimensional embedding vector instead of a full model sharing of embedding tables;
+- **Role**Role-Each layer uses an independent low-dimensional embedding vector instead of full model sharing embedding Table;
 
-- **Success**: Reduction of memory replication;
+- **Advantages**Advantages-
+Reduce Memory Copy;
 
-- Better compression of the expression space;
+- Better condensed expression space;
 
-- Support for loading on demand (lazy load);
+- Support loading on demandlazy loading);
 
-**Efficacy**: Reduce the dynamic running memory of the 5B/ 8B parameter model to **approximately 2GB/ 3GB**;
+**Effect**Effect-Ambassador 5B / 8B The dynamic running memory of the parameter model is reduced to **- I'm sorry. - I'm sorry. 2GB / 3GB**- I'm sorry. - I'm sorry. 2GB / 3GB;
 
-- Runs a lightweight version similar to a 2B or 4B " disguise " of the large model.
+- It's kind of like a big model.“At the end of the day,Fake.It's not a good idea, it's not a good idea.Make it one. 2B or 4B A lightweight version to runI don't know.
 
-#2Key-Value Cache Sharing (KVC Sharing)
+### 2️⃣ Key-Value Cache SharingKVC SharingI'm not sure what I'm talking about.
 
-- ** What**: Transformer models need to store intermediate results of attention mechanisms in their reasoning (Key and Value);
+- **What is it?**What is it?-Transformer Models need to store intermediate results of attention mechanisms when reasoningKey and Value);
 
-- ** Activation**: multiple layers or steps to share this cache, reducing double counting and memory redundancy;
+- **Role**Role-Share this cache on multiple layers or steps Reduction of double counting and memory redundancies;
 
-- **Success**: Reduction of the intellectual memory expense;
+- **Advantages**Advantages-
+Reducing the cost of reasoning memory;
 
-- Speed up sequence generation and increase multiple rounds of interactive experience.
+- Speed up sequence generation. Increase the multi-round interactive experience.I don't know.
 
-#3 Advanced Activation Quality (AAQ)
+### 3️⃣ Advanced Activation QuantizationAAQI'm not sure what I'm talking about.
 
-- ** What**: Quantify intermediate activation values (e.g. from float32 to int8 or infourth);
+- **What is it?**What is it?-Quantification of intermediate activation valuesFrom, for example, float32 Down to int8 or int4);
 
-- ** Activation**: Significant reduction of model computing and memory bandwidth requirements;
+- **Role**Role-Significant reduction of model computing and memory bandwidth requirements;
 
-- **Success**: Keeping models accurate while reducing size;
+- **Advantages**Advantages-
+Keep model accuracy while reducing volume;
 
-- Supporting the efficient operation of models on mobile chips (Qualcomm, MediaTek);
+- Support models are moving chips.QualcommMediaTekI'm not sure what I'm talking about.Go up and run efficiently.;
 
-- In conjunction with PLE, KVC, further compressed to acceptable levels of mobile equipment.
+- and PLEKVC Joint use Can be further compressed to acceptable levels for mobile devicesI don't know.
 
-## Mixed architecture design: Mix'n'Match mechanism ** “A set of models, multiple capabilities”** Gemma 3n internalized through the **MatFormer training strategy** achieved an embedded submodel mechanism: model structure function exemplifies that the main model (e.g. 4B) has a high-precision reasoning submodel (e.g. 2B) performance light, response rapid dynamic switching based on task complexity, automatic selection of the operational path sub-models' weights for equipment resources are shared by the main model, avoiding duplication of deployment, and this structure has the following advantages:
+### Mixed architecture design-MixnMatch Mechanisms
+**🧩 “At the end of the day,A set of models. Multiple capabilitiesIt's not a good idea, it's not a good idea.**🧩 “At the end of the day,A set of models. Multiple capabilitiesIt's not a good idea, it's not a good idea.
+Gemma 3n Internal passage **MatFormer Training strategy**MatFormer Training strategy A mosaic model mechanism has been achieved.-
+Model structure function description of the main modelLike 4BI'm not sure what I'm talking about.Submodels with high-precision reasoning abilitiesLike 2BI'm not sure what I'm talking about.Performance LightnessRespond to rapid dynamic switching according to mission complexityAuto-selection of running path sub-models for device resources to inherit sub-model weights shared by the main model Avoidance of deployment
+This structure has the following advantages:-
 
 - Developers do not need to deploy multiple model versions;
 
-- The trade-off between dynamic reconciliation quality and delay at running (e.g. navigational assistant vs semantic translation);
+- Trade-off between dynamic reconciliation quality and delay at runningLike-Navigation Assistant vs Semantic translation);
 
-- Improve energy consumption control capabilities and adapt to high-end low-end equipment.
+- Enhancing energy consumption control capabilities Fit to high-end low-end equipmentI don't know.
 
-# How to use Gemma 3n? Google is open in two ways for different groups: Mode 1: **AI Studio (web version)**
+![](https://assets-v2.circle.so/feusty2yr9s1s7qcz5dzvsw6tmy9)
+## How? Gemma 3n
+Google Opened two ways It's for different groups of people.-
+Mode one.-**AI StudioWeb versionI'm not sure what I'm talking about.**AI StudioWeb versionI'm not sure what I'm talking about.
 
-- Without installation, to experience text interpretation and generation of the model directly in the browser;
+- Do not install Experience model text interpretation and generation directly in the browser;
 
-- Fit for product managers, developers to preview model effects.
+- Suitable for product managersDeveloper Preview Model EffectsI don't know.
 
-Address: Google AI Studio (google account required) Mode II: **Google AI Edge**** (local development tool)**
+👉 Address-Google AI StudioYes. Google AccountI'm not sure what I'm talking about.
+Mode two-**Google AI Edge**Google AI Edge**Local Development ToolI'm not sure what I'm talking about.**Local Development ToolI'm not sure what I'm talking about.
 
-- Fit for developers to integrate models into APPs, local systems, hardware equipment;
+- Suitable developers want to integrate models. APPLocal systemsHardware equipment;
 
-- Provide SDK, documents, code examples to support the deployment of text and image models;
+- Provision SDKDocumentCode Example Support text and image model deployment;
 
-- Support for Android, Chrome, embedded equipment, etc.
+- Support AndroidChromeEmbedded devices, etc.I don't know.
 
-## Detailed presentation: Official presentation: https://developments.googleblog.com/en/introduction-gemma-3n/
+### Detailed presentation-
+Official presentation-https://developers.googleblog.com/en/introducing-gemma-3n/

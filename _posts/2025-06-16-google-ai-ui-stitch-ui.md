@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google AI UI Design Tool Brightness-Stitch Word Generates Full UI and Full Frontend Code
+title: Google It's all new. AI UI Design Tool Brightness-Stitch A single sentence is generated in its entirety. UI And complete front-end code
 date: 2025-06-16 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-ai-ui-stitch-ui_1.jpg
@@ -9,54 +9,65 @@ icon: web
 * content
 {:toc}
 
-On Google I/O 2025, the Google Labs team announced the launch of a new generation of UI design generation tools **Stitch**, an upgraded version of the previous Galileo AI acquired by Google. Stitch combines the latest model of Google Deepmind (e.g. Gemini and Imagen) to allow developers and designers to generate, modify, translate, export complete product interfaces and front-end codes through text commands alone.
+Yes. Google I/O 2025 Let's go. Google Labs The team announced the launch of a new generation. UI Design Generation Tool **Stitch**Stitch This is the front. Galileo AI By Google Upgrade version after acquisitionI don't know.
+Stitch It's a combination. Google DeepMind Newest ModelsLike Gemini and ImagenThis is the first time I've ever seen you.Allow developers and designers to pass text commands only GenerateModifyTranslationExport complete product interface and front-end codeI don't know.
 
-One sentence creates the full UI.
+- ✍️ A single sentence is generated in its entirety. UI
 
-- Gemini + Imogen Enabling Content and Visual Personalization
+- 🪄 Gemini + Imagen Enabling content and visual personality
 
--  Multilingual localization key completed
+- 🌐 Multilingual localization key completed
 
--  Export clean code directly developed
+- 💻 Export clean code direct development
 
-- Gemini, Google Labs Ecology![] (https://assets-v2.circle.so/5jj4ocreok9w3r2v6qzmxbe3hn4e)
+- 🧩 Deep Integration GeminiGoogle Labs Ecology
+![](https://assets-v2.circle.so/5jj4ocreok9w3r2v6qzmxbe3hn4e)
 
-# What do you think Stitch can do?
+## 🎨 Stitch What can I do?Function Shortcut
 
-##1. Generate UI design and product interface (in a single sentence) Stitch is an AI tool ** for text-based UI and product page**:
+### 1. 🔧 Generate UI Design and product interfaceJust say one word.I'm not sure what I'm talking about.
+Stitch It's a piece.**Text-based generation UI and product pages**Text-based generation UI and product pagesIt's... it's... it's... AI Tools-
 
-- Enter a description of the product, which automatically generates a draft interface that conforms to the design specifications
+- Enter product description To automatically generate a draft interface that conforms to the design specifications
 
-- Support for fast-changing layouts, components, colour schemes
+- Support for fast-regulating layoutsComponentColour Scheme
 
-- Modern styles, structures are available, with almost no need for a second modification
+- Modern StylesStructure Available There's hardly any need for a second modification.
 
-##2.  Call Gemini and Imogen for custom updates
 
-- Change the subject style of the App (e.g. from "business blue" to "environmental green")
+### 2. 🪄 Call Gemini and Imagen Make custom updates
+👉 Use Gemini-
 
-- Auto-generated texts adapted to different contexts/festivities/user types
+- Modify App Theme StyleFrom“At the end of the day,Business BlueIt's not a good idea, it's not a good idea.Become“At the end of the day,Green.It's not like it's going to happen.
 
-Auto-adjusted colour and content  Use Imogen:
+- Auto Generate appropriate settings/Holidays/User-type files
 
-- Replacing pictures of products
+📹 Automatically adjust colour and content
+👉 Use Imagen-
 
-- Generate appropriate visual material according to context.
+- Replace Product Pictures
 
-Auto-translation of languages and scripts
+- Generate appropriate visual material according to context
 
-- Request Gemini to automatically update copies to different languages.
+📹 Automatically switch languages and files
 
-##3. Key export front-end code after completion of design, user can:
+- Request Gemini Automatically update copies to different languagesI don't know.
 
-- Export high-quality, deployable front-end codes (HTML, CSS, React, etc.)
 
-- To embed design directly into the development process without the need for "hand-reducing UI"
+### 3. 💻 One key export front-end code
+After completion of the design Users can-
 
-# Stitch's predecessor was Galileo AI
+- Export QualityDeployable frontend codeHTMLCSSReact Wait.I'm not sure what I'm talking about.
 
-- Stitch is an evolution from **Galileo AI**, a start-up product with a text-generation interface at its core
+- Embedded design directly into the development process I don't have to.“At the end of the day,Manual restoration UIIt's not a good idea, it's not a good idea.
 
-- **Galileo AI has been officially acquired by Google**
 
-- Founder Arnaud Benard joined Google to create Stitch together with Gemini team![] (https://assets-v2.circle.so/64ybh3a8yovodxemltc0zbz019hv) Visit: https://stitch.withgoogle.com/
+## Stitch The one before him was...Galileo AI
+
+- Stitch From **Galileo AI It's an evolution.**Galileo AI It's an evolution. The latter is a piece.“At the end of the day,Text Generation InterfaceIt's not a good idea, it's not a good idea.It's a core start-up product.
+
+- **Galileo AI Has been Google Formal acquisitions**Galileo AI Has been Google Formal acquisitions
+
+- Founder Arnaud Benard Accession Google and Gemini Team-building. Stitch
+![](https://assets-v2.circle.so/64ybh3a8yovodxemltc0zbz019hv)
+Visits-https://stitch.withgoogle.com/

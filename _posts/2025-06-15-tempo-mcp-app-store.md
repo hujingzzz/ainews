@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tempo launched MPCP App Store to quickly connect its application to a third party service
+title: Tempo Launched MCP App Store You can quickly connect your application to a third-party service.
 date: 2025-06-15 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/tempo-mcp-app-store_1.jpg
@@ -9,58 +9,71 @@ icon: image
 * content
 {:toc}
 
-Tempo (YC S23 hatching) launched **MCP App Store** - Allows users to quickly connect their applications to third-party services, such as payments, messages, etc. (e.g. OpenAI, Stripe, Slack, Supabase, etc.). One key integration 40+ hot tools and services ** Supported integrated services include:**
+TempoYC S23 IncubationI'm not sure what I'm talking about.Launched **MCP App Store**MCP App Store —— Allow users to quickly connect their applications to third-party services If paidCan not open messageFor example... OpenAIStripeSlackSupabase Wait.I'm sorry, I don't know.
+One key integration 40+ Hot tools and services
+**Supported integrated services include:-**Supported integrated services include:-
 
-- Stripe: payment system
+- Stripe-Payment system
 
-- OpenAI: Generating AI Capability
+- OpenAI-Generate AI Capacity
 
-- Firecrawl: Web reptiles
+- Firecrawl-Web-based reptiles
 
-- ExaAI: AI Assistant/Research Tool
+- ExaAI-AI Assistant/Research tools
 
-- Gemini: Personal AI application
+- Gemini-Personal AI Apply
 
-- And 40 plus more...
+- And... 40+ More...
 
-Tempo is an AI-driven web application development platform that helps you design, generate and edit React sites or applications more quickly. You can:
 
-- Drag components and adjust styles like using design software;
+## Tempo What's it for?
+Tempo It's one. AI Web application development platform driven **Help you design faster.Generate and edit React Website or application**Help you design faster.Generate and edit React Website or applicationI don't know.You can.-
 
-- You can also write codes and edit items with VSCode;
+- Drag components like design software.Adjust Styles;
 
-- Enter a sentence or upload a map that will generate a web page or even an application structure for you;
+- You can write code.Use it. VSCode Edit Item;
 
-- Support the delivery of the generated content to GitHub and continue collaborative development.
+- Enter a sentence or upload a diagram It can generate you a web page or even a whole application structure.;
 
-** Suitable to the population**: people wishing to develop rapid prototypes, low-codes or uncoded websites, such as start-up companies, independent developers, product managers, UI designers, etc.
+- Support to push the generated content to GitHub And continue to develop collaboratively.I don't know.
 
-# Tempo ** MCP App Store ** solved what problems?
+**Fit for the crowd.**Fit for the crowd.-Start-up companyIndependent DeveloperProduct ManagerUI Designer and others hope for rapid prototype development.People with low or no code to build websitesI don't know.
 
--  Good-bye document copying paste
+## Tempo **MCP App Store **MCP App Store What's the problem?
 
-It's not working. It's not working. It's not working.
+- 🛑 Copy Paste for the farewell document
 
-- Uh, plug-in.
+- 🛑 Good-bye debugging failed. promptWaste. token
 
--  AI Autoconstruct logic
+- ✅ Plugin Access
 
-You focus on the product function itself.
+- ✅ AI Autobuild Logic
 
-#Tempo **MCP App Store ** How to use **Prepared for access**
+- ✅ You focus on the function of the product itself.
 
-- **Tempo Project**: You must have created a project on the Tempo platform.
+## Tempo **MCP App Store **MCP App Store How do you use it?
+**Get ready for access.**Get ready for access.
 
-- **third-party service account + API Key**: an account needs to be created for each service you want to connect and the corresponding API key is obtained.
+- **Tempo Item**Tempo Item-You must be already. Tempo Created a project on the platformI don't know.
 
-- **Supabase accounts and projects**: used to connect to a sustainable database.
+- **Third-party service account + API Key**Third-party service account + API Key-Could not close temporary folder: %s ♪ And get the corresponding ♪ API KeyI don't know.
 
-** Add integration (approximately 60 seconds)** Open MPCP App Store selects the services you want to access, e.g. OpenAI, Stripe, Slack. One key is installed in your project Paste API Key: Get keys from the backstage of the service provider (usually the path is: Set  Developer  API Keys) and saves them. A simple profile (e.g., "Access to Stripe Pay") platform is automatically completed:
+- **Supabase Accounts and projects**Supabase Accounts and projects-To connect to a sustainable databaseI don't know.
+
+**Add IntegrationRequirements60secI'm not sure what I'm talking about.**Add IntegrationRequirements60secI'm not sure what I'm talking about.
+Open MCP App Store
+Select the service you want to access. For example...-OpenAIStripeSlackI don't know.
+One key is installed in your project.
+Paste API Key-Backstage from the service provider.Normal Path is-Settings → Developer → API keysI'm not sure what I'm talking about.Get Keys and SaveI don't know.
+Here. AI A simple one. promptFor example...“At the end of the day,Access Stripe PaymentIt's not like it's going to happen.
+Platform auto-completed-
 
 - Delegation of authority process processing
 
-- API Request Preparation
+- API Request for preparation
 
-- Output structure docking
+- Output Structure Consort
 
-Upon completion, the integration will be available for use in your Tempo project canvass (canvas) and Tempo Agent. Web site: https://www.tempo.new/ MCP App Store Introduction of follow-up cases:**https://tempolabsinc.mintlify.app/MCP/overview**
+After completion The integration is for you. Tempo Project canvascanvasI'm not sure what I'm talking about.and Tempo AgentI don't know.
+Official Network-https://www.tempo.new/ 
+MCP App Store Introduction of follow-up cases-**https://tempolabsinc.mintlify.app/MCP/overview**https://tempolabsinc.mintlify.app/MCP/overview

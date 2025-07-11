@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google has updated Gemini 2.5 Pro.
+title: Google It's updated. Gemini 2.5 Pro Version The performance continues to leap. Responsive style optimization
 date: 2025-06-16 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-gemini-2-5-pro_1.jpg
@@ -9,42 +9,52 @@ icon: game
 * content
 {:toc}
 
-Google released an upgrade preview for **Gemini 2.5 Pro,** which will be launched in the next few weeks as **the generic version of enterprise level (GA)** ** "Breather, faster, more stable, more creative."** This is the position of Google on its new generation of big models, Gemini 2.5 Pro. It not only tops many AI rankings, but also for the first time opened up the "thinking budget" function for developers, making AI no longer a "black box" but a controlled, customized smart tool.
+Google Issued **Gemini 2.5 Pro Upgrade preview version of the **Gemini 2.5 Pro Upgrade preview version of the The version will be used in the next few weeks.**Universally available version at the enterprise levelGAI'm not sure what I'm talking about.**Universally available version at the enterprise levelGAI'm not sure what I'm talking about.Launch
+**“At the end of the day,Smarter.Faster.It's more stable.More creative.We're not going to be able to do that."**“At the end of the day,Smarter.Faster.It's more stable.More creative.We're not going to be able to do that."It's... Google ♪ To the big models of their new generation ♪ Gemini 2.5 Pro PositioningI don't know.It's not just in a lot of places. AI Top of the list For the first time, it's open to developers.「Thinking about the budget.」Functions Jean. AI Not anymore.“At the end of the day,Black BoxI'm not sure what I'm going to do.It's controlled.Customable Smart ToolI don't know.
 
-The latest Gemini 2.5 Pro model has made remarkable progress in several authoritative evaluations:
+### The performance continues to leap.
+Newest Gemini 2.5 Pro The model has made significant progress in a number of authoritative assessments.-
 
-- Elo scores have risen by 24 points to reach **1470** on the language understanding competency assessment platform **LMalena** and remain at the top of the list;
+- Sensitization assessment platform for language comprehension **LMArena**LMArena Let's go. Elo The score's up. 24 Points Achieved **1470 min**1470 min Stay on top of the list.;
 
-- In the Web programming capacity test **WebDevArena**, the score rose by 35 points to **1443**, with the same number first;
+- Yes. Web Programming capability test **WebDevArena**WebDevArena Medium The score's up. 35 Points Achieved **1443 min**1443 min I'm in the top position, too.;
 
-- Continuing to lead the way in coding capacity, particularly in the difficult multi-linguistic programming test **Aider Polyglot**;
+- He's still leading the way in coding. Especially in difficult multi-linguistic programming tests. **Aider Polyglot**Aider Polyglot He's got a good record.;
 
-- At the same time, the highest levels are shown in rigorous comprehensive assessments, such as **GPQA** and **Humanity's Last Exam (HLE)**, which mainly examine the capabilities of the models in the fields of mathematics, science, common sense and reasoning**.
+- At the same time. **GPQA**GPQA and **Humanity's Last ExamHLEI'm not sure what I'm talking about.**Humanity's Last ExamHLEI'm not sure what I'm talking about. The top levels are also reflected in a rigorous, comprehensive assessment. The main models of these measurements are:**MathematicsScienceCommon sense and reasoning**MathematicsScienceCommon sense and reasoningcapacity, etc.I don't know.
 
-(https://assets-v2.circle.so/drllippjmppgb3h6k9iukyujl) [] [https://assets-v2.circle.so/xjse0mvpj45vvp7w8abqf4xa7lx) - **LMalena 1)
+![](https://assets-v2.circle.so/drlliplpcjmppqgb3h6k9iukyujl)![](https://assets-v2.circle.so/xjse0mvpj45lcvp7w8abqf4xa7lx)
+- **Language understanding and capacity for dialogue**Language understanding and capacity for dialogueLMArena FirstI'm not sure what I'm talking about.
 
-- ** Web programming and front-end development capability** (WebDevArena I)
+- **Web programming and front-end development capability**Web programming and front-end development capabilityWebDevArena FirstI'm not sure what I'm talking about.
 
-- ** Complex, multilingual code generation** (Aider Polyglot)
+- **ComplexMultilingual code generation capability**ComplexMultilingual code generation capabilityAider PolyglotI'm not sure what I'm talking about.
 
-- **The ability to solve problems in academic/rative categories** (GPQA + HLE)
+- **Academic/The ability of the reasoning class to solve problems**Academic/The ability of the reasoning class to solve problemsGPQA + HLEI'm not sure what I'm talking about.
 
-## Response style optimization Google, targeting user feedback, especially optimizing the model ' s expression style and format control:
+### Responsive style optimization
+Google User-specific feedback In particular, the model ' s expression style and format control capabilities were optimized-
 
-- ** More structured structure**: The answers are clearer and suitable for generating reports, instructions, curricula.
+- **A more structured structure.**A more structured structure.-The answer is clearer. Suitable for generating reportsNotesAcademyI don't know.
 
-- ** Stronger creative expression**: support for diverse needs such as literary style, content rewriting, advertising, etc.
+- **More creative expression.**More creative expression.-Support literary styleRewriteThere's a variety of needs, like advertising.I don't know.
 
-- ** Response format is more professional**: Lists, code blocks, references can be generated with structures, more suitable for engineering scenarios.
+- **Response format is more professional**Response format is more professional-Generates lists with structuresCode blockReference More suitable for the engineering scene.I don't know.
 
-This means that Gemini is not just a “talker”, but ** knows what you're going to do** and gives ** a more usable result**.
+That means... Gemini It's not just that.“At the end of the day,He can talk.I'm not sure what I'm going to do.It's just...**You know what you're gonna do?**You know what you're gonna do? ♪ And give ♪**More Available Content Outcomes**More Available Content OutcomesI don't know.
 
-# Add a new feature: Thinking Budgets, a new feature that is now a unique Gemini control mechanism, means:
+### Add Functions-「Thinking about the budget.Thinking BudgetsI'm not sure what I'm talking about.」
+This new feature is the present. Gemini A unique control mechanism It means...-
 
-- You can define how much to think about each call to AI (calculating resource consumption);
+- You can customize every call. AI Hour“At the end of the day,How much to think about?I'm not sure what I'm talking about.Calculation of resource consumption);
 
-- Balance ** Quality of generation, response time and cost**;
+- Balance **Generate massResponse time and cost**Generate massResponse time and cost;
 
-- Very suitable for tool-type products, cost-sensitive applications.
+- It's perfect for tool-type products.Cost-sensitive applicationsI don't know.
 
-## Access Method Developer now has access to Gemini 2.5 Pro: **Google AI Studio** **Vertex AI** Gemini 2.5 Pro integrated **Gemini application (Android / iOS / Web) ** [] (https://assets-v2.circle.so/x6a3ob35lvpttoygqgkki9wpddjb)
+### Access Method
+Developers now have access in two ways. Gemini 2.5 Pro-
+**Google AI Studio**Google AI Studio
+**Vertex AIGoogle CloudI'm not sure what I'm talking about.**Vertex AIGoogle CloudI'm not sure what I'm talking about.
+Gemini 2.5 Pro Integrated **Gemini ApplyAndroid / iOS / WebI'm not sure what I'm talking about.**Gemini ApplyAndroid / iOS / WebI'm not sure what I'm talking about.
+![](https://assets-v2.circle.so/x6a3ob35ljvpttoygqgki9wpdvjb)

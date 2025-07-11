@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google I/O 2025 Gemini 2.5 series model update-Deep Think, Original Audio Interactivity, Computer Operating Capability, Support to MCP...
+title: Google I/O 2025 Release Gemini 2.5 Update of the series model-High-level reasoning mode Deep Think Native Audio IntersectionComputer capacitySupportMCP...
 date: 2025-06-09 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-i-o-2025-gemini-2-5-deep-think-mcp_1.jpg
@@ -9,106 +9,115 @@ icon: note
 * content
 {:toc}
 
-At the Google I/O 2025 Congress, Google announced **Gemini 2.5 Pro and Flash functional enhancements** and introduced a number of breakthrough capabilities, including:
+Yes.Google I/O 2025 General Assembly Google It's announced. **Gemini 2.5 Pro and Flash Function Enhancements**Gemini 2.5 Pro and Flash Function Enhancements At the same time, a number of breakthroughs were introduced. Including-
 
-- High-level reasoning **Deep Think**
+- High-level reasoning mode **Deep Think**Deep Think
 
-- Native audio interactive capability
+- Original audio interactive capability
 
 - Multilingual voice generation
 
-- Project Mariner
+- Computer capacityProject MarinerI'm not sure what I'm talking about.
 
 - Security and development experience optimization
 
-#Gemini 2.5 Pro: Universal Large Model for Full Upgraded
+![](https://assets-v2.circle.so/hv5w2hc9u8evu8kqrqmj59qejmeg)
+## Gemini 2.5 Pro-A full-scale upgraded generic model
 
-♪ ♪ ooh ooh ooh ooh ooh ♪ ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh
+### ✅ More intelligent behavior.
 
-- ** Significant improvement in academic and practical capacity**: The highest ELO rating of 1415 (website development task) in **WebDev Arena** row;
+- **Academic and practical competencies have increased significantly.**Academic and practical competencies have increased significantly.-
+Yes. **WebDev Arena**WebDev Arena Take the highest in line ELO Rating 1415Web Development Tasks);
 
-- Multiple dimensions are at the top of the human preference rating for **LMARENA**;
+- Yes. **LMArena**LMArena Human preference rating. Multiple dimensions take the lead.;
 
-**1 million token context window**:
+**100 Million token Context Window**100 Million token Context Window-
 
-- Support complex multiple rounds of dialogue, lengthy document processing, video-by-college understanding.
+- Supporting complex multiple rounds of dialogueLong document processingVideo by frame.I don't know.
 
-# # The preferred model of the educational scene #
+### 📚 The preferred model for the educational scene
 
-- Integration of LearnLM (trained in collaboration with educational experts): better able to interpret knowledge and guide learning;
+- Integration LearnLMTraining by educational experts in collaboration:
+I'm better at explaining knowledge.Lead learning;
 
-- Beyond competitions such as GPT-4 and Claude in teaching dialogue, human evaluation.
+- Teaching dialogueHuman evaluation. Beyond GPT-4 and Claude It's a competition.I don't know.
 
-- Become one of the most appropriate generic models for learning and teaching scenes at present.
+- Become one of the most suitable models for learning and teaching today.I don't know.
 
-# Deep Think: Experimental "Deep Thinking" mode
+## Deep Think-Experimental“At the end of the day,Deep thinking.It's not a good idea, it's not a good idea.Mode
 
-# # # high-level logic #
+### 🧠 High-level logical ability
 
-- **Deep Think** is a new experimental feature of Gemini 2.5 Pro, supporting the model “Multi-supposition parallel reasoning”, simulating multi-path thinking before answering;
+- **Deep Think**Deep Think Yes. Gemini 2.5 Pro A new experimental feature. Support Model“At the end of the day,More hypothetical parallel reasoning.I'm not sure what I'm going to do.Simulate multi-path thinking before answering.;
 
-**USAMO 2025** (American Mathematics Olympics): leading results;
+- We've already done excellent work on the following difficult tasks:-
+**USAMO 2025**USAMO 2025American Mathematical Olympics:Leads;
 
-- **LiveCodeBench** (Code Capability Competition Task): ranked first;
+- **LiveCodeBench**LiveCodeBenchCode Capability Competition Task:Number one.;
 
-- **MMMU** (multimodular reasoning): Accuracy **84.0%**.
+- **MMMU**MMMUMulti-module reasoning:Accuracy achieved **84.0%**84.0%I don't know. 
 
-(https://assets-v2.circle.so/pvfua0ppm3ghplamfcigqotdl1)
+![](https://assets-v2.circle.so/pvfua0ppm3ghplallmfcigqotdl1)
+### ⚠️ Current status
 
-- To “trusted developers” only;
+- Open only to“At the end of the day,Can not open messageI'm not sure what I'm talking about.trusted testers);
 
-- More rigorous security assessments are under way and gradual liberalization is expected in the future.
+- We're under a more rigorous security assessment. It's expected to be gradually liberalized in the future.I don't know.
 
-# Gemini 2.5 Flash: Light and efficient "AI tool motor"
+## Gemini 2.5 Flash-Lightly and efficiently.“At the end of the day,AI Tool motorIt's not a good idea, it's not a good idea.
 
-♪ ♪ Faster, cheaper, smarter ♪
+### ⚡ Faster.It's cheaper.Smarter.
 
-- Design objectives: ** Low delay + High throughput + Low cost **;
+- Design objectives-**Low delay + High throughput. + Low Cost**Low delay + High throughput. + Low Cost;
 
-- Full speed in reasoning, multimodel processing, long text tasks;
+- It's the reasoning.Multi-module processingFull Speeding in Long Text Tasks;
 
-- Token use reduction **20-30%**, significantly reducing reasoning costs.
+- Token Reduction in use **20–30%**20–30% Significant reduction in the costs of reasoningI don't know.
 
-~ (https://assets-v2.circle.so/82gsc6ceven2s72axe1yb4qvmgg5)
+![](https://assets-v2.circle.so/82gsc6ceven2s72axe1yb4qvmgg5)
+### 📦 Use Channels
 
-- Developmenters and the public have been made available through Google AI Studio, Vertex AI and Gemini App.
+- Has been adopted Google AI StudioVertex AI and Gemini App Open to developers and the publicI don't know.
 
-# Original audio capacity: Dialogue is more natural and emotional
+## Native Audio Capability-It's more natural to talk.More emotional.
 
-# # New feature bright spot #
+### 🔊 New Highlights
 
-- **Native Audio Output**: Supports natural voice generation, controls tone, emotions, speech style;
+- **Native Audio Output**Native Audio Output-
+Support natural voice generation Controllable toneEmotion.Talk style.;
 
-- Fitting 24+ languages to support seamless transliteration of multiple languages;
+- Fitness 24+ Languages Support multi-language seamless switching;
 
-**Text-to-Speech (TTS) upgrade**:
+**Text-to-SpeechTTSI'm not sure what I'm talking about.Upgrade**Text-to-SpeechTTSI'm not sure what I'm talking about.Upgrade-
 
-- Producing two-fold voice for dialogue, softly nuanced, emotional ups and downs;
+- Generates two-fold conversation voice Be quiet and whisper.Emotional ups and downs.;
 
-**Live API Extension**:
+**Live API Extension**Live API Extension-
 
-- **Affective Dialogue**: recognition of user sentiment and matching of feedback;
+- **Affective Dialogue**Affective Dialogue-Identify user sentiment and match feedback;
 
-- **Proactive Audio**: Auto-shield background noise, smart judgement whether to respond.
+- **Proactive Audio**Proactive Audio-Auto-shield background murmuring Smartly judge whether or not to respondI don't know.
 
-# Project Mariner: Let Gemini control your computer
 
-# The key power #
+## Project Mariner-Jean. Gemini Control your computer.
 
-- The ability to introduce “simulating human manipulation computers”: clicking, filling in forms, web interaction;
+### 🖱️ Key capabilities
 
-- Testing has been carried out in cooperation with the following enterprises: **Automation Anywhere, UiPath, Browserbase, etc.**;
+- Introduction“At the end of the day,Simulate the human operation computerIt's not a good idea, it's not a good idea.Capacity-ClickFill out the form.Web-based interactive;
 
-More API test privileges will be opened to developers during the summer.
+- Collaboration testing has been conducted with the following enterprises:-
+**Automation AnywhereUiPathBrowserbase Wait.**Automation AnywhereUiPathBrowserbase Wait.;
 
-# I've got a lot of security upscaling
+It'll be more open to developers in the summer. API Test PermissionsI don't know.
 
-# To defend against new attacks #
+## I've got a major security upgrade.
 
-- Gemini 2.5 significantly enhance protection against “**Indirect Injection”**;
+### 🛡️ Defense against new types of attack
+
+- Gemini 2.5 Visible strengthening“At the end of the day,**Indirect tip injection into attack.Indirect Prompt InjectionI'm not sure what I'm talking about.**Indirect tip injection into attack.Indirect Prompt InjectionI'm not sure what I'm talking about.It's not a good idea, it's not a good idea.Protection.;
 
 - Enhancement of the system ' s robustness in the use of tools through new testing mechanisms;
 
-- It's currently Google's safest version of the model.
+- Current Google The safest version of the model.I don't know.
 
-Google has also added to Gemini API the original SDK support for the definition of the model context protocol (MCP) to allow easier integration with open source tools.
+GoogleHe's still here. Gemini API A protocol for the context of the model has been added. (MCP) Original by definition SDK Support So that we can integrate more easily with open source tools.I don't know.

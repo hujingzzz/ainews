@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's 3D video communication platform-Google Beam makes video calls like real face-to-face conversations
+title: Google Publish a whole new one. 3D Video communications platform-Google Beam Let the video talk like a real face-to-face conversation.
 date: 2025-06-21 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-3d-google-beam_1.jpg
@@ -9,76 +9,88 @@ icon: chat
 * content
 {:toc}
 
-Google announced at its I/O 2025 General Assembly that **Project Starline**, which existed as a research project, had formally evolved into a new 3D video communication platform - **Google Beam**, which built on Google Cloud and advanced AI technology to work towards a more natural, immersed video talk experience.
+Google In I/O 2025 as announced by the General Assembly Used to exist as a research project **Project Starline**Project Starline It's officially brand-new. 3D Video communications platform —— **Google Beam**Google BeamI don't know.
+The platform depends on it. Google Cloud And advanced. AI Technology I'm trying to be more natural.A immersed video talk experience.I don't know.
 
-**What does it do?**Google Beam is a 3D effect that allows remote video calls to look like real face-to-face chatting, using artificial intelligence to capture the 2D image "Change" found on a regular camera.
+- **What does it do?**What does it do?Google Beam It's a platform that makes remote video calls look like real face-to-face conversations. A.I.D.'d the regular camera.2DImage“At the end of the day,Transform.It's not a good idea, it's not a good idea.Founded3DEffectI don't know.
 
-- ** What are the main functions?** 3D video calls (without equipment)
+- **What's the main function?**What's the main function?
+3DVideo call.No need to wear equipment.I'm not sure what I'm talking about.
 
-- Real-time voice translation (retention of tone, expression)
+- Real-time voice translationKeep the tone.ExpressionI'm not sure what I'm talking about.
 
 - Natural eye contact and expression.
 
 - Compatibility with enterprise-level workflows
 
-- ** What problem does it solve?** The “dissociation” and language barriers of cross-geographic communication make remote collaboration more like being physically present.
+- **What did it solve?**What did it solve?Cross-geographical communication“At the end of the day,The sense of alienation.It's not a good idea, it's not a good idea.and language barriers Make remote collaboration more like a personal experience.I don't know.
 
-- ** What's it using?** Build a volume video model through AI + optical display technology.
+- **What's the way it works?**What's the way it works?Pass.AIBuild a volume video model + Light field display technologyI don't know.
 
-- ** What has been achieved?** A immersion, high level of integrity and humanization of remote communication has been achieved, especially in the context of business teleconferencing, client exchanges, etc.
+- **What's the effect?**What's the effect?It's immersed.Kobok-jin.It's a human experience of remote communication. Specially suitable for enterprise teleconferencingClient exchanges, etc.I don't know.
 
-Initially,**Project Starline** was a front-line research project launched by Google a few years ago, aimed at creating an experience of remote video communication as if it were in its immediate vicinity. Its core objective is:** to break physical space and achieve a sense of face-to-face communication** and not to rely on any additional equipment, such as VR helmets or 3D glasses.
+Original **Project Starline**Project Starline Yes. Google A front-line research project started a few years ago. It's designed to create an experience that allows remote video communication to take place as it does.I don't know.Its core objective is:-**Breaking the limits of physical space A sense of face-to-face communication.**Breaking the limits of physical space A sense of face-to-face communication. And don't rely on any extra equipment. LikeVRHelmet or3DGlasses.I don't know.
+Now. Google Declaration of a full upgrade of the project and named **Google Beam**Google Beam —— ♪ One by one ♪ **Artificial intelligence driven3DVideo communications platform**Artificial intelligence driven3DVideo communications platform It marks an important turning point in its deployment from laboratory research to commercialization.I don't know.
 
-# Core technical capability 1. **AI-driven "Volumetage Video Model"** The core of Google Beam is an advanced AI model capable of automatically reconstructing 3D images with depth and stereo sense from a normal 2D video stream. This means:
+## Core technical capacity
+1. **AIDrivered“At the end of the day,Volume Video ModelI'm not sure what I'm talking about.Volumetric Video ModelI'm not sure what I'm talking about.**AIDrivered“At the end of the day,Volume Video ModelI'm not sure what I'm talking about.Volumetric Video ModelI'm not sure what I'm talking about.
+Google Beam The core is an advanced one. AI Model Can be from normal.2DThe video stream automatically recreates deep and stereo senses.3DImageI don't know.That means...-
 
-- Users can see each other in real proportions, angles, light without wearing any equipment, as if there was a person sitting across the street.
+- Users can wear no devices. In real proportionAngle♪ I'm watching each other ♪ It's like sitting alone across the street.I don't know.
 
-- Support for a more natural and flexible interaction from an arbitrary perspective.
+- Supports viewing from any angle Make interaction more natural.FlexibleI don't know.
 
-** The Light Field Display displays a real spatial sense** coupled with a video from the AI model, Beam creates a very compelling depth through the optical display technology:
+2. **“At the end of the day,Optical MonitorI'm not sure what I'm talking about.Light Field DisplayI'm not sure what I'm talking about.Show a sense of real space.**“At the end of the day,Optical MonitorI'm not sure what I'm talking about.Light Field DisplayI'm not sure what I'm talking about.Show a sense of real space.
+Co-operation AI Video of model output Beam Show technology through the field It creates a very, very, very deep feeling.-
 
-- Real eye communication**, unlike the traditional video, which is “not in line”;
+- Achieved**Real eye contact.**Real eye contact. It's not like traditional video.“At the end of the day,It's not good for sight.); and
 
-- Capable of capturing and transmitting subtle** facial expressions and physical movements**, which contribute to understanding, building trust and resonance.
+- It captures and transmits subtle things.**Face and body movement.**Face and body movement. It helps to understand.Confidence-building and resonanceI don't know.
 
-3. **AI real-time voice translation: a natural bridge for cross-linguistic communication** Google Beam is integrating ** real-time voice translation** and is currently applied in Google Meet:
+3. **AI Real-time voice translation-A natural bridge for cross-linguistic communication**AI Real-time voice translation-A natural bridge for cross-linguistic communication
+Google Beam Integration **Real-time voice translation**Real-time voice translation It's already there. Google Meet Applying in-
 
-- Support for “almost real-time” translations;
+- Support“At the end of the day,Almost real time.It's not a good idea, it's not a good idea.Translation;
 
-- ** Retain original tone, tone and emotional expression**;
+- **Keep original toneSpeech and emotional expression**Keep original toneSpeech and emotional expression;
 
-- Allowing users of different languages to speak the same language,** maximizing a return to the true feelings of face-to-face dialogue**
+- Let the users of different languages speak the same language. **To restore to the greatest extent the real feelings of face-to-face dialogue.**To restore to the greatest extent the real feelings of face-to-face dialogue.I don't know.
 
-This is a crucial step towards realizing Google's vision of “global accessibility communication”.
+It's... Google Achieved“At the end of the day,Global accessible communicationIt's not a good idea, it's not a good idea.A key step in the visionI don't know.
 
-# Enterprise-level outreach: From laboratory to conference room Google is working with a number of well-known businesses to introduce Google Beam to actual use scenes: 1. ** Device partners: HP first roll-out of Beam hardware**
+## Enterprise-level outreach-From laboratory to conference room
+Google We're working with a number of well-known companies. Will Google Beam Introduction of the actual use scene-
+1. **Equipment partners-HP First Launch Beam Hardware equipment**Equipment partners-HP First Launch Beam Hardware equipment
 
-- HP will show the first Google Beam devices at the InfoComm exhibition in 2025;
+- HP ♪ Will be ♪ 2025 Yearly. InfoComm The first one was shown at the show. Google Beam Equipment;
 
-- It will be open to selected business clients during the year.
+- It will be open to some of its clients in the course of the year.I don't know.
 
-2. **Technology integration and distribution network**
+2. **Technology integration and distribution networks**Technology integration and distribution networks
 
-- Google, in collaboration with Zoom, plans to integrate Beam functions into the Zoom platform;
+- Google and Zoom Cooperation The plan will... Beam Function Integration To Zoom Platform;
 
-- Working with AVI-SPL, a leading global audio-visual integrator, to promote Beam's landing among corporate clients.
+- Illustrated with the world's leading audio-visuals. Diversified and AVI-SPL Cooperation Promote Beam Location deployment among business clientsI don't know.
 
-3. ** Lead client pilot business** includes the following globally recognized institutions that have been involved in the pilot or expressed willingness to cooperate:
+3. **Lead client pilot enterprise**Lead client pilot enterprise
+Including the following globally renowned institutions that have been involved in piloting or expressing their willingness to cooperate-
 
-- **Deloitte** considers Beam to be “the next generation of technology that connects humanity”, not only as a tool, but also as a new concept of connectivity;
+- **DeloitteDeloitte.I'm not sure what I'm talking about.**DeloitteDeloitte.I'm not sure what I'm talking about.Considers Beam Yes.“At the end of the day,The next generation of technology that connects humans.I'm not sure what I'm going to do.It's not just a tool. It's a new connection.;
 
-- **Salesforce, Citadel, NEC, Duolingo, Recruit** have been deployed internally or have expressed a high level of interest;
+- **SalesforceCitadelNECDuolingoRecruit**SalesforceCitadelNECDuolingoRecruit They've been deployed internally or expressed a high level of interest.;
 
-- Clients in the medical sector such as **Hackensack Meridian Health** are also exploring their potential in telemedicine.
+- **Hackensack Meridian Health**Hackensack Meridian Health Waiting for medical clients to explore their potential in telemedicine.I don't know.
 
-## The actual application scene and vision Google Beam was originally designed to “** from anywhere to achieve the same communication experience as together**”. Its future application orientation includes but is not limited to:
 
-- Teleconferencing, client visits, staff training;
+### Practical application of the scene and vision
+Google Beam The design was designed to...“At the end of the day,**From anywhere. I want to be able to communicate as I am together.**From anywhere. I want to be able to communicate as I am together.The future direction of its application includes, but is not limited to,-
+
+- Enterprise teleconferencingClient visitsStaff training;
 
 - Quality interaction between teachers and students in educational scenes;
 
 - In-depth communication between doctors and remote patients in the medical profession;
 
-- It may even extend to online recruitment, cultural exchanges, cross-border business negotiations, etc.
+- It might even expand to online recruitment.Cultural exchangeCross-border commercial negotiations, etc.I don't know.
 
-Read more on beam.google
+Please visit. beam.google Further information
