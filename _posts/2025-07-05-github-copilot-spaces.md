@@ -9,62 +9,33 @@ icon: image
 * content
 {:toc}
 
-GitHub introduces a new feature **Copilot Spaches**, which enhances Copilot’s ability to understand the context of the project. This function allows developers** to centralize the context of the project**, thereby allowing GitHub Copilot to provide more **relevant and intelligent code advice and support**. The engineering team often faces a fundamental problem:** knowledge fragmentation**. Information such as code, document, design description, development decision-making is spread over multiple locations (or in the brain of team members) to make it difficult for developers to quickly access a project or collaborate efficiently. **Copilot Spaches is designed to address this problem**. It provides more precise, relevant advice and support through ** construction of the context centre (context hub)**, allowing GitHub Copilot to have a deeper, systematic understanding of the project, thus providing more precise, relevant advice and support. # Core function[s] (https://assets-v2.circle.so/lhnqn2nz6ndzdzddz7x5wa).
-
-## 1. ** Contextual perception: let Copilot understand "What are you doing"** Copilot Spaces allows you to merge the following into a "Space":
-
+GitHub introduces a new feature **Copilot Spaches**, which enhances Copilot's ability to understand the project context. This feature allows developers** to centrally manage the project context**, thus allowing GitHub Copilot to provide more **relevant and intelligent code advice and support**.Engineering teams often face a fundamental problem: ** Knowledge fragmentation**. Information such as codes, documents, design descriptions, development decisions etc. is spread across multiple locations (or within the brain of team members) to make it difficult for developers to move quickly to a project or to collaborate efficiently.**Copilot Spaches is designed to solve this problem. It provides more precise, relevant advice and support by ** constructing the context centre (context hub)** to give GitHub Copilot a deeper and systematic understanding of the project.![](https://assets-v2.circle.so/lhncn2wqo6nz8ddzla0w7xo9wwaa)# Core function
+# 1. ** Context perception: let Copilot understand "What are you doing"?**Copilot Spaces allows you to combine the following elements in a "Space":
 - Source code (directly binding GitHub repository)
-
 - Project documents, instructions, design specifications (specs)
-
 - Remarks, guidance or FAQ
-
 - Custom Commands
-
-In this way (https://assets-v2.circle.so/2pbmx4i7bw384a4i9utmo5v44o28), Copilot is no longer “simple guessing” but, like an in-house developer who knows everything about the project, can answer:
-
+![](https://assets-v2.circle.so/2pbmx4i7bw384a4i9utmo5v44o28) In this way, Copilot is no longer an “isolated guess” but an in-house developer who knows the project well enough to answer:
 - What does this module do?
-
 - Why do you use this structure?
-
 - Is there an example code?
-
 - Is some kind of best practice followed?
-
-##2. **Organization sharing: Team-level knowledge recovery accelerator** You can create one or more Copilot Spaces for the whole organization:
-
+##2. **Organization sharing: team-level knowledge reuse accelerator**You can create one or more Copilot Spaces for the whole organization:
 - Immediately upon joining, colleagues are given a unified context and no longer “be aware of the code library from scratch”
-
 - Support rapid onboarding, knowledge inheritance, cross-sectoral collaboration
-
 - More structured than a document library, more intelligent than README
-
 This leaves Copilot not just as a personal assistant, but as a team's “situation AI collaborators”.
-
-##3. **Automated synchronization: No manual maintenance of code copy** You do not need to copy paste files, but only bind the warehouse**, Copilot Space can automatically:
-
+##3. **Automated synchronization: no manual maintenance of code copy**You don't need to copy paste files, you just need to ** bind the warehouse**, Copilot Space can automatically:
 - Get the latest version of the code and document
-
 - Autosync with project updates (real time to reflect changes)
-
 - Keep an accurate understanding of the current state
-
-This ensures that Copilot always responds to questions on the basis of “up-to-date, real” projects. # (https://assets-v2.Circle.so/f5xvhuhqyj5irlrn0s91irrk5wqsii)
-
+This ensures that Copilot always responds to questions on the basis of “up-to-date, real” projects.![](https://assets-v2.circle.so/f5xvhuhqyj5irlrn0s91rk5wqsii)# Billing and permission description
 - **Online**: Full opening since 4 June
-
-- **Who can use**: All Copilot users have access to Spaches
-
+- ** Who can use **:Spaches available to all Copilot users
 - Business users need to use this function by the organizational administrator
-
 ** Costing rules**:
-
-- Pay user (Pro, Pro+, Business, Enterprise): one dialogue per dialogue when using "premium"
-
+- Pay user (Pro, Pro+, Business, Enterprise):Write each dialogue when using the Advanced Model (premium) premium consumption
 - The use of the base model is free of charge.
-
 Free user:
-
 - Up to 50 times a month (including Copilot Chat)
-
-The peak period may trigger speed limits Access to github.com/ copilot/spaces to experiment with Copilot Spaces. This is an early preview version. Copilot Spaces document
+The peak period may trigger speed limits.Visit github.com/copilot/spaces to test the Copilot Spaces. This is an early preview.Copilot Spaches Documentation
