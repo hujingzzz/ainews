@@ -2587,22 +2587,27 @@ a.navbar-logo span {
     }
     @media (max-width: 700px) {
         .navbar-container {
-          flex-direction: column !important;
-          align-items: stretch !important;
+          display: flex !important;
+          flex-direction: row !important;
+          align-items: center !important;
+          justify-content: space-between !important;
         }
         .navbar-search {
-          width: 100% !important;
-          margin: 8px 0 0 0 !important;
-          display: block !important;
-          text-align: center;
+          flex: 1 1 auto !important;
+          margin-left: 0 !important;
+          margin-right: 8px !important;
+          min-width: 0 !important;
         }
         #global-search-input,
         .search-input {
-          width: 95vw !important;
-          max-width: 98% !important;
+          width: 100% !important;
+          min-width: 0 !important;
           font-size: 16px !important;
-          padding: 10px 12px !important;
+          padding: 8px 10px !important;
           box-sizing: border-box !important;
+        }
+        .navbar-mobile-menu {
+          flex: 0 0 auto !important;
         }
       }
 }
