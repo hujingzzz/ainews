@@ -2559,23 +2559,50 @@ a.navbar-logo span {
     margin-bottom: 22px
 }
 
-@media (max-width: 768px) {
-  .navbar-top {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 0 12px;
-  }
-  .navbar-search {
-    display: block;
-    width: 100%;
-    padding: 8px 12px 0 12px;
-    box-sizing: border-box;
-  }
-  .search-input {
-    width: 100%;
-    font-size: 16px;
-    padding: 10px 12px;
-    box-sizing: border-box;
-  }
+@media (max-width: 1080px) {
+    .post-container {
+        width: 100%;
+        padding: 0 10px
+    }
+
+    .post-container .navigation {
+        display: none
+    }
+
+    .post-container .post-content {
+        width: 100%
+    }
+
+    .post-container-full {
+        width: 100%;
+        padding: 0 10px
+    }
+
+    .post-container-full .navigation {
+        display: none
+    }
+
+    .post-container-full .post-content {
+        width: 100%
+    }
+    @media (max-width: 700px) {
+        .navbar-container {
+          flex-direction: column !important;
+          align-items: stretch !important;
+        }
+        .navbar-search {
+          width: 100% !important;
+          margin: 8px 0 0 0 !important;
+          display: block !important;
+          text-align: center;
+        }
+        #global-search-input,
+        .search-input {
+          width: 95vw !important;
+          max-width: 98% !important;
+          font-size: 16px !important;
+          padding: 10px 12px !important;
+          box-sizing: border-box !important;
+        }
+      }
 }

@@ -1,6 +1,5 @@
-<header>
-  <div class="navbar-top">
-    <div class="logo">
+<header id="header" class="header bg-white">
+    <div class="navbar-container">
         <a href="{{ '/' | prepend: site.baseurl }}" class="navbar-logo">
             <img src="{{ '/style/image/logo.png' | prepend: site.baseurl }}" alt="{{ site.name }}" />
             <span>{{ site.name }}</span>
@@ -15,16 +14,15 @@
             </form>
             -->
         </div>
+        <div class="navbar-search" style="display:inline-block; vertical-align:middle; margin-left:32px;">
+            <input id="global-search-input" type="text" placeholder="🔍 search..." style="width:180px; padding:6px 12px; font-size:15px; border-radius:5px; border:1.5px solid #ddd; outline:none; background:#fafbfc; transition:box-shadow .2s;">
+        </div>
+        <div class="navbar-mobile-menu" onclick="">
+            <span class="icon-menu cross"><span class="middle"></span></span>
+            <ul>
+                <li><a href="{{ '/archives' | prepend: site.baseurl }}">Archives</a></li>
+                <li><a href="{{ '/about' | prepend: site.baseurl }}">About</a></li>
+            </ul>
+        </div>
     </div>
-    <div class="navbar-mobile-menu" onclick="">
-      <span class="icon-menu cross"><span class="middle"></span></span>
-      <ul>
-        <li><a href="{{ '/archives' | prepend: site.baseurl }}">Archives</a></li>
-        <li><a href="{{ '/about' | prepend: site.baseurl }}">About</a></li>
-      </ul>
-    </div>
-  </div>
-  <div class="navbar-search">
-    <input id="global-search-input" class="search-input" type="text" placeholder="🔍 search...">
-  </div>
 </header>
