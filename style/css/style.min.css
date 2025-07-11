@@ -2589,7 +2589,7 @@ a.navbar-logo span {
         .navbar-search {
             order: 2;
             margin: 10px 15px 0;
-            width: 20px;
+            width: 40%;
         }
         #global-search-input {
             width: calc(100% - 40px) !important;
