@@ -2604,11 +2604,15 @@ a.navbar-logo span {
     }
 }
 
-/* 首页文章标题单行省略号，防止覆盖icon和category */
+/* 首页文章标题最多显示两行，超出部分省略号 */
 .post-list-item-container .item-label .item-title a {
-  display: block !important;
-  white-space: nowrap !important;
-  overflow: hidden !important;
-  text-overflow: ellipsis !important;
-  max-width: 75% !important; /* 可根据实际布局调整 */
-}
+    display: -webkit-box !important;
+    -webkit-box-orient: vertical !important;
+    -webkit-line-clamp: 2 !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    white-space: normal !important;
+    max-width: 100% !important; /* 可根据实际布局调整 */
+    line-height: 1.4 !important;
+    height: 2.8em !important;   /* 2行高度，1.4*2=2.8 */
+  }
