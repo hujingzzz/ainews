@@ -2585,29 +2585,18 @@ a.navbar-logo span {
     .post-container-full .post-content {
         width: 100%
     }
-    @media (max-width: 700px) {
-        .navbar-container {
-          display: flex !important;
-          flex-direction: row !important;
-          align-items: center !important;
-          justify-content: space-between !important;
-        }
+    @media (max-width: 768px) {
         .navbar-search {
-          flex: 1 1 auto !important;
-          margin-left: 0 !important;
-          margin-right: 8px !important;
-          min-width: 0 !important;
+            order: 2; 
+            margin: 10px 15px 0;
         }
-        #global-search-input,
-        .search-input {
-          width: 100% !important;
-          min-width: 0 !important;
-          font-size: 16px !important;
-          padding: 8px 10px !important;
-          box-sizing: border-box !important;
+        #global-search-input {
+            width: calc(100% - 30px) !important;
+            margin: 0 15px;
         }
         .navbar-mobile-menu {
-          flex: 0 0 auto !important;
+            order: 1;
+            margin-left: auto;
         }
-      }
+    }
 }
