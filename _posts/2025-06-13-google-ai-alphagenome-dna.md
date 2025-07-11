@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GoogleRelease “At the end of the day,Genetic understandingAI@Ambassin: #Jan25 #Jan25 #Jan25AlphaGenome It's for forecasting. DNA The effect of medium variability on genetic regulation
+title: Google releases' Gene Understanding AI-AlphaGenome specifically designed to predict the impact of variations in DNA on gene regulation
 date: 2025-06-13 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-ai-alphagenome-dna_1.jpg
