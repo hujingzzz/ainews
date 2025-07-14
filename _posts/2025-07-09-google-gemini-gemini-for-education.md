@@ -1,120 +1,120 @@
 ---
 layout: post
-title: Google Introduction of new programmes for students and educators Gemini Tools-Gemini for Education
+title: Google Launch a new Gemini tool for students and educators-Gemini for Education
 date: 2025-07-09 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-gemini-gemini-for-education_1.jpg
 icon: chat
 ---
-* content
+♪ Come on, come on, come on, come on, come on, come on ♪
 {:toc}
 
- Google Introduction of new programmes for students and educators Gemini Tools-**Gemini for Education**Gemini for Education  It's a piece. **Artificial intelligence assistants specifically designed for education**Artificial intelligence assistants specifically designed for educationI don't know.
-It's based on Google Newest **Gemini 2.5 Pro Model + LearnLMLarge learning modelI'm not sure what I'm talking about.**Gemini 2.5 Pro Model + LearnLMLarge learning modelI'm not sure what I'm talking about. Focusing on understanding in the field of educationAbility to generate and interactI don't know.
-You can help the teacher.Students and school staff working and learning more efficientlyI don't know.
-It's... **It's free.**It's free. As long as it's in school. Google Educational Tool PackagesGoogle Workspace for EducationI'm not sure what I'm talking about.It'll work.I don't know.
+Google launched a new Gemini tool for students and educators: **Gemini for Education**, an artificial intelligence assistant designed specifically for education**.
+It is based on Google's latest **Gemini 2.5 Pro Model + LearnLM (Learning Large Model)** and focuses on understanding, generating and interacting in the field of education.
+Teachers, students and school staff can be helped to work and learn more efficiently.
+It is ** free** and can be used as long as schools use Google Worksspace for Education.
 
-- More than 30 New seed. AI Teaching tools
+- More than 30 new AI teaching tools
 
-- Support **40+ Languages**40+ LanguagesOverwrite **230+ National areas**230+ National areas
+- Support **40+ languages**, coverage **230+ national areas**
 
-- Educational editions are available to all age usersUse of the exclusive mode by minorsI'm not sure what I'm talking about.
+- Educational editions are open to users of any age (predominant mode of use by minors)
 
 
-## 📚 What can it do?
-**✅ It's a useful function for a teacher.-**✅ It's a useful function for a teacher.-
-![](https://assets-v2.circle.so/q5appj1elksvfz3hbvruswj8d26r)**Quick Writing Teaching Programme**Quick Writing Teaching Programme-It'll be a few minutes to generate the program. You don't have to start from the beginning.I don't know.
-**Personalized content**Personalized content-For example, to produce different educational materials for students at different levels.I don't know.
-**Auto-out of test papers and jobs**Auto-out of test papers and jobs-It also gives the answer automatically.I don't know.
-**I'm looking for inspiration.**I'm looking for inspiration.-You can ask it.“At the end of the day,How to make maths more interesting.I'm not sure what I'm going to do.It'll give you advice.I don't know.
+# What can it do?
+** Features useful to teachers:**
+(https://assets-v2.circle.so/q5appj1elsvfz3hbvruswj8d26r)** Quick Write Teaching Plan: ** A few minutes to generate the curriculum without starting it.
+** Personalized content**: For example, different educational materials are produced for students at different levels.
+** Automatic examination papers and operations**: also self-responsive.
+** Learning inspiration**: You can ask it, "How to make math classes more interesting," and it will give you advice.
 
-- **If you buy it, Gemini Payment functions for educational editionsGoogle AI ProThis is the first time I've ever seen you.You'll get more power. AI Tools**If you buy it, Gemini Payment functions for educational editionsGoogle AI ProThis is the first time I've ever seen you.You'll get more power. AI ToolsI don't know.
+- ** If you buy the Google AI Pro for Gemini, you'll get more powerful AI tools**.
 
-- Teachers can.-
-Use it. Veo 3Google It's... it's... it's... AI Video Generation ToolI'm not sure what I'm talking about.Quick Create 8 Second Short Video Suitable for a promotional film or course presentationI don't know.
+- Teachers can:
+Creates a quick 8-second short video using Veo 3 (AI video generation tool for Google) suitable for promotional films or course presentations.
 
-- Yes. Google FormsFormI'm not sure what I'm talking about.Use Gemini AI Quick Quick QuestionI'm doing an investigation.I don't know.
+- Use Gemini AI for quick questions and surveys in Google Form.
 
-- Put it on. WordPPT or PDF Turn one key into a form.I don't know.
+- Convert a Word, PPT or PDF key into a form.
 
-- Completion results of the automated matrix Saving timeI don't know.
-![](https://assets-v2.circle.so/5v0gkf7hi4zgyuhkuvzphxhu7nxe)
-**✅ Features useful to students-**✅ Features useful to students-
-![](https://assets-v2.circle.so/tbrg8bz1j58lu2i90yfupcpta26j)Writing.ReviewChecking for information-I'll write for you.Studying notes.Scrubbing test priorities.I don't know.
-Turn learning materials into voice podcasts.-You can listen while you walk. It's like listening to a podcast.I don't know.
-Voice and Chat Knowledge-Asking questions like talking.Explaining the problem.I don't know.
-Gemini Canvas Automation of tests and visual interpretationI don't know.
-Acceptable teachers ' assignments Gems and NotebookLM ContentsI don't know.
-Add a video overview feature Translating learning materials into a talk-and-speech videoI don't know.
+- Savings of time by completing the results of the automated matrix.
+(https://assets-v2.circle.so/5v0gkf7hi4zgyuhkuvzphxhu7nxe)
+** Features useful to students:**
+(https://assets-v2.circle.so/tbrg8bz1j58lu2i90yfupcpta26j) Writing, refreshing, researching information: writing for you, taking notes and preparing the priorities of the examination.
+Turning learning materials into voice podcasts: they can be heard as they walk, as they are listening to podcasts.
+Voice chats: asking questions and explaining problems like chats.
+Gemini Canvas automatically generates tests and visual interpretation.
+The content of Gems and NotebookLM distributed by teachers can be accepted.
+A new video overview feature will be added to translate the learning materials into a presentation video.
 
-## Advanced Functions
+# Advanced functionality
 
-### ✅ [Gems] Custom AI Assistant
+# [Gems] Custom AI Assistant
 
-- User-Creative**Personalization of specific areas of knowledge Gemini Entities**Personalization of specific areas of knowledge Gemini Entities
+- Users can create ** personalized Gemini entities with specific areas of knowledge**
 
-- It's also available. Google Predefined types of education“At the end of the day,GemIt's not a good idea, it's not a good idea.
+- Also use Google pre-positioned educational category “Gem”
 
-### ✅ [Canvas] AI Space for collaboration
+# [Canvas] AI Collaboration Space
 
-- Yes. Canvas Centre Gemini Written in real time/Generate-
+- Written/generated in real time with Gemini in Canvas:
 A quiz.
 
-- Learning Guide
+- Study guide
 
-- Timeline
+- Timeline.
 
-- Snippets
+- Snippets.
 
-- Visualized prototypes, etc.
+- Visualize prototypes, etc.
 
-### ✅ [Deep Research] In-depth studies
+# #  [eep Research] In-depth study
 
-- Input Problem Automatically generate studies with references and references
+- Input questions, automatically generating studies with references and references
 
-### ✅ [Audio Overviews] File Converter
+# #  [Audio Overviews] File change podcast
 
-- Automatically convert content such as studies to voice podcasts I'll listen to you any time.
+- Automatically convert content such as studies to voice podcasts and listen to them at any time.
 
-### ✅ [Gemini Live] Real-time voice interaction
+# #  [Gemini Live] Real-time voice interaction
 
-- Use it. Gemini Rehearsal lecturesExplaining dilemmasRestatement of the concept
+- Use Gemini for lectures, explaining dilemmas, recapitulating concepts.
 
-- Shareable Screens or Cameras Obtain specific feedback
+- Can share screens or lenses and get specific feedback
 
-## 🔐 Data and security
+# Data and security
 
-- **Data not used for training AI**Data not used for training AI
+- ** Data not used for training AI**
 
-- **No manual view of user content**No manual view of user content
+- ** No manual view of user content**
 
-- **Internalization of juvenile protection mechanisms<18 AgeI'm not sure what I'm talking about.**Internalization of juvenile protection mechanisms<18 AgeI'm not sure what I'm talking about.
+- ** Incorporated youth protection mechanisms (<18 years)**
 Restrict certain functions
 
-- Enhanced AI Nutritional education materials
+- Enhanced AI Quality Education Materials
 
-**Based on enterprise-level safety standards**Based on enterprise-level safety standards and GmailDocs Wait. Google Educational tools share a system of privacy
+** Based on enterprise-level safety standards**, sharing a privacy system with Google educational tools such as Gmail, Docs and others
 
-## 💸 Cost justification
+# Cost description
 
-- **Basic version Gemini for Education-It's free.**Basic version Gemini for Education-It's free. Include in all Google Workspace In Educational Version
+- ** Base edition Gemini for Education: ** Free, included in all Google Workspace educational versions
 
-- **Google AI Pro for EducationPayment enhancement version:**Google AI Pro for EducationPayment enhancement version:
-Will Gemini Function Integration GmailDocs Wait. Workspace Tools
+- **Google AI Pro for Payment Enhancement:**
+Integrating Gemini functions into the Workspace tool for Gmail, Docs, etc.
 
 - Provide greater model access
 
 - Increased number of in-depth studies generated
 
-- Provision NotebookLM Wait. AI Tool access rights
+- Provide access to NotebookLM and other AI tools
 
-## 🏫 Management functional support
-The admin can.-
+#  Management support
+Administrators can:
 
-- Enable/Close Gemini Functions
+- Enable/close Gemini functionality
 
-- Review of the content of the dialoguePass. VaultI'm not sure what I'm talking about.
+- Review of the content of the dialogue (through Vault)
 
-- View User Use ActiveIdentification of severe or low-activity users
+- View user activity, identify severe user or low active user
 
-Visits-https://edu.google.com/ai/gemini-for-education/
+Visit: https://edu.google.com/ai/gemini-for-education/

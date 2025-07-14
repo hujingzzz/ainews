@@ -1,84 +1,84 @@
 ---
 layout: post
-title: Google Release Search Live Voice search You can talk to the search engine directly through your voice. Conduct a continuous search.
+title: Google releases Search Live voice search, which can be done directly by talking to the search engine.
 date: 2025-07-08 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-search-live_1.jpg
 icon: chat
 ---
-* content
+♪ Come on, come on, come on, come on, come on, come on ♪
 {:toc}
 
-Google Officially issued **Search Live**Search Live It's a brand-new thing.**Voice search experience mode**Voice search experience modeI don't know.
-**Search Live**Search Live It's integrated.AITechnologyGemini ModelI'm not sure what I'm talking about.And the ability of traditional search engines So you can interact with the search engine like a conversation.I don't know.
-Compared to tradition“At the end of the day,Enter Keywords→Look at the search results.I'm not sure what I'm going to do.Search Live You're allowed to use it.**Voice QuestionsListen to the voice. And keep asking questions and follow-up.**Voice QuestionsListen to the voice. And keep asking questions and follow-up. It's like the whole thing's going on with someone.“At the end of the day,Smart AssistantIt's not a good idea, it's not a good idea.Real-time communicationI don't know.
-Currently in the U.S. Android and iOS _Other Organiser“At the end of the day,AI ModeExperimentIt's not a good idea, it's not a good idea.Form LaunchI don't know.
+Google officially released **Search Live**, which is a brand-new **Voice Experience **.
+**Search Live** integrates the capabilities of the Genesis AI technology (Gemini Model) and the traditional search engine, allowing you to interact with the search engine like a dialogue.
+Compared to the traditional "Input keywords to look at the search results", Seech Live allows you to ask questions, listen to voice answers and follow up on questions on a continuous basis** The whole process is like communicating in real time with a "intellectual assistant".
+It is currently being launched in the form of an “AI Mode experiment” among Android and iOS users in the United States region.
 
-## Core functions include:-
+# Core functions include:
 
-- and Google Search Conduct**Naturally.A smooth voice conversation.**Naturally.A smooth voice conversation.;
+- A natural, fluid voice conversation with GoogleSearch**;
 
-- MoveablePack.It's used seamlessly in multitasking scenes like housekeeping.;
+- It can be used seamlessly in multitasking contexts, such as moving, packing and household chores;
 
-- Support a question-and-answer-and-require.;
+- Support for continuous follow-up on a question-to-answer basis;
 
-- At the same time,**Show relevant web links**Show relevant web linksFor further browsing;
+- Presenting links to relevant web pages** for further browsing;
 
-![](https://assets-v2.circle.so/77qt7jogrlw97j8aqfwy71gndqei)
-### 🔍 Example scenario-How do you use it in reality?
-**📦 When you pack your bags,**📦 When you pack your bags,_Other OrganiserWhat am I supposed to do to keep my frinkles off?♪ We're not going to be able to do it ♪→ AIDirect voice response. And give us a web link.I don't know.
-**🍳 During the cooking.**🍳 During the cooking._Other OrganiserI only have tomatoes and eggs in the fridge. What's the quick move?♪ We're not going to be able to do it ♪→ I'll cook and I'll listen to the advice. You can read the recipe page.I don't know.
-**🚗 On the way.**🚗 On the way._Other OrganiserWhat's going on in Chicago today?♪ We're not going to be able to do it ♪→ You don't need to see a cell phone to get advice.I don't know.
+!" (https://assets-v2.circle.so/77qt7jogrlw97j8aqfwy71gndqei)
+Example scene: How do you use it in reality?
+** When packing, **: "How do I take the saliva to be unwrinkled?" ** AI directs the voice response and gives the web link.
+** When I was cooking **: "What's the quickest way to go with the tomatoes and the eggs in the fridge?" ** Cooking and listening to advice and reading the recipe page.
+** On the way to the car**: "What's going on in Chicago today?"
 
-### 🔮 Features to be supported
-Google Plans for further upgrades in the coming months Search Live Mode Accession **Visual recognition**Visual recognition-
-📷 Users can use the camera.“At the end of the day,PresentationIt's not a good idea, it's not a good idea.What I saw. Google The response will be combined with voice input and visual images.I don't know.
-This will allow the search experience to enter.“At the end of the day,Multimodular InteractionsIt's not a good idea, it's not a good idea.Phase It's not just you.AIAnswer It's just... **“At the end of the day,You tell me.+Look. AILet's understand.It's not a good idea, it's not a good idea.**“At the end of the day,You tell me.+Look. AILet's understand.It's not a good idea, it's not a good idea.I don't know.
+# # The power to be supported #
+Google plans to further upgrade the Seech Live mode in the coming months by adding **Visual recognition**:
+Users can “show” what they see by the camera, and Google will respond in combination with voice input and visual images.
+This will bring the search experience into the "multi-model interaction" phase, not just you ask, AI answers, but ** "You say + you see, AI understands together."**
 
-## 📱 How do you use it?
+# How do you use it?
 Open Google App;
-Click on the new **“At the end of the day,LiveIt's not a good idea, it's not a good idea.Icon**“At the end of the day,LiveIt's not a good idea, it's not a good idea.Icon;
-Just ask the question. For example..._Other OrganiserHow do you prevent acne skirts from wrinkling in the trunk?? ???????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
-Receive AI Audio ReplyPostponable questions_Other OrganiserWhat if it's still wrinkled?♪”;
+Click on the new **Live icon**;
+Directly asking questions such as: “How do we prevent the fetters from wrinkle in the trunks?”
+Receive an AI audio response (for continuation: "What if it is still wrinkled?");
 View text or continue typing questions;
-Yes.“At the end of the day,AI ModeHistoryIt's not a good idea, it's not a good idea.Keeping the dialogue under review;
+Recall dialogue at all times in the “AI Mode history record”;
 
-## 🎙️ The technology behind it.-Gemini + SearchSystem integration
-✅ Based on Gemini A voice-generated model for the
+# The technology behind it: Gemini+Search integration
+Gemini-based voice-generated model
 
-- Understanding contextGenerate high-quality voice responses;
+- Understanding the context and generating high-quality voice responses;
 
-- The answer is natural language fluidity and logical integrity.;
+- A natural language fluidity and logical integrity of the answer;
 
-✅ The search engine system supports the source of information.
+Search engine system supports the source of information
 
-- All answers depend on them. Google Search database and web ecology;
+- All responses based on Google search databases and web ecology;
 
-- Provision**It's real.**It's real.Can not delete folder: %s: No such folderAISubjective expression;
+- Provision of information links** that are genuinely accessible** and not limited to the subjective expression of AI only;
 
-✅ “At the end of the day,Query Fan-outIt's not a good idea, it's not a good idea.Technology
+“Query Fan-out” technology
 
-- Generate multiple query directions for one question Provide a richer web content result;
+- Generate multiple query directions for one question and provide a richer web content result;
 
-- Users not only“At the end of the day,Get an answer.I'm not sure what I'm going to do.It's okay.“At the end of the day,Expanding Awareness); and
+- Users not only get answers but also “expand awareness”;
 
-## 🧭 Significance to user experience and industry
-**🚀 Search from keywords → Real-time dialogue interactive**🚀 Search from keywords → Real-time dialogue interactive
+# The meaning of user experience and industry
+** Search from keyword ** real-time dialogue interactive**
 
-- Search It's no longer a cold check box. It's a kind of...“At the end of the day,Accompaniment Assistant Experience); and
+-Search is no longer an ice-cold query box, but a "accompanied assistant experience";
 
-- AI It's more complicated.Respond to and make recommendations in a more vague contextI don't know.
+- AI can respond and make recommendations in a more complex and vague context.
 
-**📚 Lower threshold for access to information**📚 Lower threshold for access to information
+** Lower threshold for access to information**
 
-- It's for the busy.The situation where the hand is unable to operate the device.;
+- Fits for busy situations in which equipment cannot be operated by hand;
 
-- Weaking users ' reliance on keyword tectonic techniques It's more natural to communicate with the search system.I don't know.
+- Reduced user reliance on keyword tectonic techniques and more natural interaction with search systems.
 
-**🧱 Safeguarding the credibility of information**🧱 Safeguarding the credibility of information
+** The assurance of the credibility of the information**
 
-- ♪ With some pure ♪AIThe chat system is different. Search LiveStill rely on web resources to provide a clear source of authentication;
+- Unlike some purely AI chat systems, Search Live continues to rely on web resources to provide clear and verifiable sources;
 
-- Achieved“At the end of the day,GenerateAI+Real NetworkIt's not a good idea, it's not a good idea.The hybrid interactive experience.I don't know.
+- To achieve a mixed interactive experience of the Generated AI+ Real Network.
 
-Try-https://labs.google.com/search/experiment/22 We need to switch to America.IPI'm not sure what I'm talking about.
+Try: https://labs.google.com/search/Experiment/22 (need to switch to US IP)
