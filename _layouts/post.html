@@ -14,7 +14,7 @@ layout: default
             {% endif %}
         </div>
         
-        <!-- 显示标签 -->
+        <!-- Display Tags -->
         {% if page.tags %}
         <div class="post-tags">
             {% for tag in page.tags %}
@@ -35,54 +35,60 @@ layout: default
             {{ content }}
         </article>
         
-        <!-- 上一篇/下一篇导航 -->
+        <!-- Previous/Next Navigation -->
         <div class="post-navigation">
             {% if page.previous.url %}
             <div class="nav-previous">
-                <span class="nav-label">← 上一篇</span>
+                <span class="nav-label">← Previous</span>
                 <a href="{{ page.previous.url | prepend: site.baseurl }}" class="nav-title">{{ page.previous.title }}</a>
             </div>
             {% endif %}
             
             {% if page.next.url %}
             <div class="nav-next">
-                <span class="nav-label">下一篇 →</span>
+                <span class="nav-label">Next →</span>
                 <a href="{{ page.next.url | prepend: site.baseurl }}" class="nav-title">{{ page.next.title }}</a>
             </div>
             {% endif %}
         </div>
         
-        <!-- 相关文章推荐 -->
+        <!-- Related Posts -->
         {% if page.tags %}
         <div class="related-posts">
-            <h3>相关文章</h3>
+            <h3>Related Posts</h3>
             <div class="related-posts-list">
-                {% assign related_posts = site.posts | where_exp: "post", "post.url != page.url" %}
                 {% assign related_count = 0 %}
-                {% for post in related_posts %}
-                    {% if related_count >= 10 %}
-                        {% break %}
-                    {% endif %}
-                    
-                    {% assign common_tags = post.tags | where_exp: "tag", "page.tags contains tag" %}
-                    {% if common_tags.size > 0 %}
-                        {% assign related_count = related_count | plus: 1 %}
-                        <div class="related-post-item">
-                            <a href="{{ post.url | prepend: site.baseurl }}" class="related-post-title">{{ post.title }}</a>
-                            <div class="related-post-meta">
-                                <time>{{ post.date | date: "%Y-%m-%d" }}</time>
-                                <span class="common-tags">
-                                    {% for tag in common_tags limit: 3 %}
-                                    <span class="common-tag">{{ tag }}</span>
-                                    {% endfor %}
-                                </span>
+                {% for post in site.posts %}
+                    {% unless post.url == page.url %}
+                        {% assign has_common_tag = false %}
+                        {% for post_tag in post.tags %}
+                            {% if page.tags contains post_tag %}
+                                {% assign has_common_tag = true %}
+                                {% break %}
+                            {% endif %}
+                        {% endfor %}
+                        
+                        {% if has_common_tag and related_count < 10 %}
+                            {% assign related_count = related_count | plus: 1 %}
+                            <div class="related-post-item">
+                                <a href="{{ post.url | prepend: site.baseurl }}" class="related-post-title">{{ post.title }}</a>
+                                <div class="related-post-meta">
+                                    <time>{{ post.date | date: "%Y-%m-%d" }}</time>
+                                    <span class="common-tags">
+                                        {% for tag in page.tags %}
+                                            {% if post.tags contains tag %}
+                                                <span class="common-tag">{{ tag }}</span>
+                                            {% endif %}
+                                        {% endfor %}
+                                    </span>
+                                </div>
                             </div>
-                        </div>
-                    {% endif %}
+                        {% endif %}
+                    {% endunless %}
                 {% endfor %}
                 
                 {% if related_count == 0 %}
-                <p class="no-related">暂无相关文章</p>
+                <p class="no-related">No related posts found</p>
                 {% endif %}
             </div>
         </div>
@@ -95,7 +101,7 @@ layout: default
 </div>
 
 <style>
-/* 文章标签样式 */
+/* Post Tags Styles */
 .post-tags {
     margin-top: 1rem;
     display: flex;
@@ -117,7 +123,7 @@ layout: default
     background: #005a9e;
 }
 
-/* 分类样式 */
+/* Category Styles */
 .post-category {
     background: #f0f0f0;
     padding: 0.2rem 0.5rem;
@@ -126,7 +132,7 @@ layout: default
     margin-left: 1rem;
 }
 
-/* 上一篇/下一篇导航样式 */
+/* Previous/Next Navigation Styles */
 .post-navigation {
     display: flex;
     justify-content: space-between;
@@ -167,7 +173,7 @@ layout: default
     color: #007acc;
 }
 
-/* 相关文章样式 */
+/* Related Posts Styles */
 .related-posts {
     margin: 3rem 0;
     padding: 2rem;
@@ -238,7 +244,7 @@ layout: default
     font-style: italic;
 }
 
-/* 响应式设计 */
+/* Responsive Design */
 @media (max-width: 768px) {
     .post-navigation {
         flex-direction: column;

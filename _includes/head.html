@@ -22,23 +22,28 @@
     {% if page.description %}
         <meta name="description" content="{{ page.description | strip_html | truncate: 200 }}">
     {% elsif page.excerpt %}
-        <meta name="description" content="{{ page.excerpt | strip_html | truncate: 200 }}">
+        <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 200 }}">
     {% elsif page.content %}
-        <meta name="description" content="{{ page.content | strip_html | truncate: 200 }}">
+        {% assign content_description = page.content | strip_html | strip_newlines | truncate: 200 %}
+        {% if content_description != "" %}
+            <meta name="description" content="{{ content_description }}">
+        {% else %}
+            <meta name="description" content="{{ site.description | default: 'AI News and Technology Information' | truncate: 200 }}">
+        {% endif %}
     {% else %}
-        <meta name="description" content="{{ site.description | truncate: 200 }}">
+        <meta name="description" content="{{ site.description | default: 'AI News and Technology Information' | truncate: 200 }}">
     {% endif %}
     
     <!-- SEO优化的keywords，限制100个字符 -->
     {% if page.keywords %}
         <meta name="keywords" content="{{ page.keywords | truncate: 100 }}">
-    {% elsif page.tags %}
+    {% elsif page.tags and page.tags.size > 0 %}
         {% assign keywords = page.tags | join: ', ' %}
         <meta name="keywords" content="{{ keywords | truncate: 100 }}">
     {% elsif page.category %}
-        <meta name="keywords" content="{{ page.category }}, {{ site.name }}">
+        <meta name="keywords" content="{{ page.category }}, {{ site.name | default: 'AI News' }}">
     {% else %}
-        <meta name="keywords" content="AI, 人工智能, 科技新闻, {{ site.name }}">
+        <meta name="keywords" content="AI, Artificial Intelligence, Technology News, {{ site.name | default: 'AI News' }}">
     {% endif %}
     
     <!-- 作者信息 -->
