@@ -9,20 +9,250 @@ layout: default
         </h1>
         <div class="post-data">
             <time itemprop="datePublished">{{ page.date | date: "%b %d, %Y" }}</time>
+            {% if page.category %}
+            <span class="post-category">{{ page.category }}</span>
+            {% endif %}
         </div>
+        
+        <!-- 显示标签 -->
+        {% if page.tags %}
+        <div class="post-tags">
+            {% for tag in page.tags %}
+            <a href="{{ '/tags/' | append: tag | append: '.html' | prepend: site.baseurl }}" class="tag-link">{{ tag }}</a>
+            {% endfor %}
+        </div>
+        {% endif %}
     </div>
 </article>
+
 <div class="main-container">
     <div class="post-container">
         <div class="navigation" id="navigation">
             <h1>Contents</h1>
             <ul class="nav sidenav"></ul>
         </div>
-        <article class="post-content">
+        <article class="post-content" itemprop="articleBody">
             {{ content }}
         </article>
+        
+        <!-- 上一篇/下一篇导航 -->
+        <div class="post-navigation">
+            {% if page.previous.url %}
+            <div class="nav-previous">
+                <span class="nav-label">← 上一篇</span>
+                <a href="{{ page.previous.url | prepend: site.baseurl }}" class="nav-title">{{ page.previous.title }}</a>
+            </div>
+            {% endif %}
+            
+            {% if page.next.url %}
+            <div class="nav-next">
+                <span class="nav-label">下一篇 →</span>
+                <a href="{{ page.next.url | prepend: site.baseurl }}" class="nav-title">{{ page.next.title }}</a>
+            </div>
+            {% endif %}
+        </div>
+        
+        <!-- 相关文章推荐 -->
+        {% if page.tags %}
+        <div class="related-posts">
+            <h3>相关文章</h3>
+            <div class="related-posts-list">
+                {% assign related_posts = site.posts | where_exp: "post", "post.url != page.url" %}
+                {% assign related_count = 0 %}
+                {% for post in related_posts %}
+                    {% if related_count >= 10 %}
+                        {% break %}
+                    {% endif %}
+                    
+                    {% assign common_tags = post.tags | where_exp: "tag", "page.tags contains tag" %}
+                    {% if common_tags.size > 0 %}
+                        {% assign related_count = related_count | plus: 1 %}
+                        <div class="related-post-item">
+                            <a href="{{ post.url | prepend: site.baseurl }}" class="related-post-title">{{ post.title }}</a>
+                            <div class="related-post-meta">
+                                <time>{{ post.date | date: "%Y-%m-%d" }}</time>
+                                <span class="common-tags">
+                                    {% for tag in common_tags limit: 3 %}
+                                    <span class="common-tag">{{ tag }}</span>
+                                    {% endfor %}
+                                </span>
+                            </div>
+                        </div>
+                    {% endif %}
+                {% endfor %}
+                
+                {% if related_count == 0 %}
+                <p class="no-related">暂无相关文章</p>
+                {% endif %}
+            </div>
+        </div>
+        {% endif %}
+        
         <!-- <div class="post-content">
          {% include comment.html %}
         </div> -->
     </div>
 </div>
+
+<style>
+/* 文章标签样式 */
+.post-tags {
+    margin-top: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.tag-link {
+    background: #007acc;
+    color: white;
+    padding: 0.2rem 0.5rem;
+    border-radius: 4px;
+    text-decoration: none;
+    font-size: 0.8rem;
+    transition: background 0.2s ease;
+}
+
+.tag-link:hover {
+    background: #005a9e;
+}
+
+/* 分类样式 */
+.post-category {
+    background: #f0f0f0;
+    padding: 0.2rem 0.5rem;
+    border-radius: 4px;
+    font-size: 0.8rem;
+    margin-left: 1rem;
+}
+
+/* 上一篇/下一篇导航样式 */
+.post-navigation {
+    display: flex;
+    justify-content: space-between;
+    margin: 3rem 0;
+    padding: 2rem 0;
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+}
+
+.nav-previous,
+.nav-next {
+    flex: 1;
+    max-width: 45%;
+}
+
+.nav-next {
+    text-align: right;
+}
+
+.nav-label {
+    display: block;
+    font-size: 0.9rem;
+    color: #666;
+    margin-bottom: 0.5rem;
+}
+
+.nav-title {
+    display: block;
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: #333;
+    text-decoration: none;
+    line-height: 1.4;
+    transition: color 0.2s ease;
+}
+
+.nav-title:hover {
+    color: #007acc;
+}
+
+/* 相关文章样式 */
+.related-posts {
+    margin: 3rem 0;
+    padding: 2rem;
+    background: #f9f9f9;
+    border-radius: 8px;
+}
+
+.related-posts h3 {
+    margin: 0 0 1.5rem 0;
+    color: #333;
+    font-size: 1.3rem;
+}
+
+.related-posts-list {
+    display: grid;
+    gap: 1rem;
+}
+
+.related-post-item {
+    background: white;
+    padding: 1rem;
+    border-radius: 6px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    transition: transform 0.2s ease;
+}
+
+.related-post-item:hover {
+    transform: translateY(-2px);
+}
+
+.related-post-title {
+    display: block;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #333;
+    text-decoration: none;
+    margin-bottom: 0.5rem;
+    line-height: 1.4;
+}
+
+.related-post-title:hover {
+    color: #007acc;
+}
+
+.related-post-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.8rem;
+    color: #666;
+}
+
+.common-tags {
+    display: flex;
+    gap: 0.3rem;
+}
+
+.common-tag {
+    background: #e0e0e0;
+    padding: 0.1rem 0.3rem;
+    border-radius: 3px;
+    font-size: 0.7rem;
+}
+
+.no-related {
+    text-align: center;
+    color: #999;
+    font-style: italic;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+    .post-navigation {
+        flex-direction: column;
+        gap: 2rem;
+    }
+    
+    .nav-previous,
+    .nav-next {
+        max-width: 100%;
+        text-align: left;
+    }
+    
+    .related-posts {
+        padding: 1rem;
+    }
+}
+</style>
