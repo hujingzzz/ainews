@@ -6,7 +6,7 @@ category: Frontier Trends
 thumbnail: /style/image/google-gemini-gemini-for-education_1.jpg
 icon: chat
 ---
-♪ Come on, come on, come on, come on, come on, come on ♪
+* content
 {:toc}
 
 Google launched a new Gemini tool for students and educators: **Gemini for Education**, an artificial intelligence assistant designed specifically for education**.

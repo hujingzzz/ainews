@@ -6,7 +6,7 @@ category: Frontier Trends
 thumbnail: /style/image/deepseek-deepseek-r1-0528_1.jpg
 icon: book
 ---
-♪ Come on, come on, come on, come on, come on, come on ♪
+* content
 {:toc}
 
 DeepSeek released **DeepSeek R1-0528 update,** which was communicated last night to the WeT community as “** small pilot upgrade**” and was open for testing.

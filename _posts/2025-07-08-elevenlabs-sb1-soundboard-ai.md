@@ -6,7 +6,7 @@ category: Frontier Trends
 thumbnail: /style/image/elevenlabs-sb1-soundboard-ai_1.jpg
 icon: book
 ---
-♪ Come on, come on, come on, come on, come on, come on ♪
+* content
 {:toc}
 
 **ElevenLabs Launched SB1 Soundboard, an AI-based custom-made soundboard tool** that allows users to generate custom sound through natural language descriptions and organize them into soundboards (soundboard). It combines the functions of soundboards, drums and environmental noise generators to support real-time play, loop play and save presets, suitable for many creative scenes.

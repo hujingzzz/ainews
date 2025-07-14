@@ -6,7 +6,7 @@ category: Frontier Trends
 thumbnail: /style/image/google-search-live_1.jpg
 icon: chat
 ---
-♪ Come on, come on, come on, come on, come on, come on ♪
+* content
 {:toc}
 
 Google officially released **Search Live**, which is a brand-new **Voice Experience **.
