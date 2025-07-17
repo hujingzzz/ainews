@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google Search Switch to Full AI ModeMode Google Search full.AISmart Search
+title: GoogleSearch fully switch to AI Mode Google search thoroughly into AI smart search
 date: 2025-07-04 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-search-ai-mode-google-ai_1.jpg
@@ -9,77 +9,77 @@ icon: code
 * content
 {:toc}
 
-Yes. I/O 2025 Let's go. Google Declares that its search experience will be carried in by traditional information retrievals.“At the end of the day,The Age of Smart Response
-Through integration **Gemini 2.5 Model**Gemini 2.5 Model Google Search It's more powerful. **AI Mode**AI Mode To give search more in-depth reasoning.Real-time interactionsMultidimensional capabilities such as personalized analysis and automated task processingI don't know.
+On I/O 2025, Google announced that its search experience would move from traditional information retrieval to the "intellectual response age".
+By integrating the **Gemini 2.5 model**, GoogleSearch officially launched a stronger **AI Mode**, giving search more in-depth reasoning, real-time interaction, personalized analysis and multidimensional capabilities such as automatic task processing.
 
-### 🧠**A more intelligent question-and-answer experience.**A more intelligent question-and-answer experience.
+# # more intelligent question-and-answer experience**
 
-- Support ComplexMultiple wheelsMultimodular Questions;
+- Supporting complex, multi-wheel, multi-model questions;
 
-- There's more to the response. It's also accompanied by a web link. Help users explore further;
+- There are not only answers but also web links to help users explore further;
 
-- Pass. **“At the end of the day,query fan-outIt's not a good idea, it's not a good idea.Mechanisms**“At the end of the day,query fan-outIt's not a good idea, it's not a good idea.Mechanisms Split questions automatically into multiple sub queries In-depth search for broader web resources;
+- Through the **query fan-out mechanism**, the issue is automatically deconstructed into multiple sub-references and an in-depth search for a wider web resource;
 
-- Integration **Gemini 2.5 Custom version**Gemini 2.5 Custom version Increased comprehension.Accuracy and logical structure of the responseI don't know.
-
-
-## 🔬 Deep Function Extension
-
-### 🔹 **Deep Search-Automatically generate expert-level studies**Deep Search-Automatically generate expert-level studies
-
-- For complex queriesSuch as the study of papersTechnical themeThis is the first time I've ever seen you.AI Mode Can initiate hundreds of auto-searches;
-
-- SummaryLogic and formation.**Completely quoted in-depth reports**Completely quoted in-depth reports Saved several hours of research time;
-
-- Fit for higher educationBusiness research and academic exploration sceneI don't know.
+- Integration **Gemini 2.5 customized version**, enhancing understanding, responsiveness accuracy and logical structure.
 
 
-## 📸 Multi-module and real-time interactions-Search for real“At the end of the day,I can see that.It's not a good idea, it's not a good idea.
+# Xiao Xiao, deep function extension
 
-### 🔸 **Search Live-Camera real-time visual question-and-answer**Search Live-Camera real-time visual question-and-answer
+## **DeepSearch: Auto-generated expert-level studies**
 
-- Integration **Project Astra**Project Astra Capacity Users can use the camera with AI Interaction;
+- AI Mode can initiate hundreds of automatic searches for complex queries (e.g. essay studies, technical subjects);
 
-- Support“At the end of the day,I'll ask him if he sees it.@Ambassin: #Jan25 #Jan25 #Jan25Take a picture of some device.Plant or street view AI Real-time feedback interpretation and links;
+- Aggregation, reasoning and formation of ** fully quoted in-depth reports**, saving several hours of research time;
 
-- It can be a learning tool.For travel assistant or trouble recognition assistantI don't know.
-
-
-## 🤖 Smart AgentAgentic Capabilities:AI I'm working for you.
-
-### 🔹 Auto Job ExecutionProject MarinerI'm not sure what I'm talking about.
-
-- Example:_Other OrganiserGet me two tickets to the bottom watch this Saturday Reds game.I'm not sure what I'm going to do.AI Auto searchableContrastAnalysis and recommendation of results;
-
-- Current support-Purchase of ticketsOrdering.Appointments More scenes in the future.;
-
-- and TicketmasterStubHubResy Waiting for platform cooperation Synchronize information with account closure transferI don't know.
+- Fits for higher education, business research and academic exploration.
 
 
-## 🛍️ AI A shopping assistant.
+#  Multimodels and real-time interactions: search for real "visible"
 
-- Utilization Shopping Graph + Gemini Provision of personalized product screening and purchase advice;
+# #  **Search Live: camera real-time visual question-and-answer**
 
-- Support **Virtual Test-Fork Functions**Virtual Test-Fork Functions-If you upload a picture, you'll be able to simulate the mix in billions of costumes.;
+- Integration **Project Astra** capabilities, with users interacting with AI via camera;
 
-- Price alarm and automatic closure instructions can be setUser permission required);
+- Support for “see and ask”: photographing a device, plant or street view, AI real-time feedback explaining and linking;
+
+- May be used as a learning tool, travel assistant or trouble recognition assistant.
 
 
-## 👤 Personal search experience
+# Agentic Capabilities: AI works for you
 
-- Selectable Connections Gmail Wait. Google Apply Allow AI Use in a given context**Personal context information**Personal context information;
+# Project Mariner
 
-- For example...-Search“At the end of the day,This weekend. Nashville The music and the food.I'm not sure what I'm going to do.AI It's a combination of a user's restaurant preferences.A personal recommendation is given for booking and accommodation.;
+- Example: “Find me two low-level watch tickets for the Saturday Reds competition”, AI can automatically search, compare, analyse and recommend results;
 
-- All Information Use Processes**User-controlled**User-controlled It's open at any time./Close personal data accessI don't know.
+- Current support: purchase of tickets, booking of meals, appointments, further development of the scene in the future;
 
-## 📊 Custom Charts and Data Analysis
+- Work with platforms such as Ticketmaster, StubHub and Resy to synchronize and close the information.
 
-- AI Mode Automatically generate charts based on specific questionsFor example...-A comparison of the two baseball teams' main game.);
 
-- Support for sportReal-time data visualization in areas such as financeI don't know.
+#  AI Shopping Assistant
 
-**AI Mode It's all online in the U.S.**AI Mode It's all online in the U.S. No need to join Labs Experiment;
-New FunctionsLike Deep SearchSearch LiveSmart AgentI'm not sure what I'm talking about.We'll be back online in stages in the next few weeks. Labs User Priority Experience;
-Could not close temporary folder: %s Google App or search for page to switch to“At the end of the day,AI ModeIt's not a good idea, it's not a good idea.Label UseI don't know.
-Official presentation-https://blog.google/products/search/google-search-ai-mode-update/#ai-mode-search
+- Use of Shopping Graph + Gemini to provide personalized product screening and purchase advice;
+
+- Support ** Virtual Test-Cutting**: A photo can be uploaded to simulate the mix effect in billions of costumes;
+
+- Price alerts and automatic closure instructions could be set (with user authorization);
+
+
+# The personal search experience #
+
+- Select to connect Google applications such as Gmail, allowing AI to use ** personal context information in a given context**;
+
+- For example: search for “The Music and Food Events at Nashville this weekend”, AI makes personal recommendations in relation to the preferences of the user's restaurant, the booking of tickets and the location of accommodation;
+
+- All information use processes** are self-controlled by users** and personal data access can be activated/deactivated at any time.
+
+#  Custom chart and data analysis
+
+- AI Mode can automatically generate charts based on specific questions (e.g. comparison of the success rate of the two baseball teams);
+
+- Support the visualization of real-time data in areas such as sports, finance, etc.
+
+**AI Mode is fully online in the United States** and does not need to join the Labs experiment;
+New features (e.g. DeepSearch, Search Live, Smart Agent) will be introduced in phases over the next few weeks, with Labs users giving priority to experience;
+Users can switch to the " AI Mode " tab on Google App or on a search page.
+Official presentation: https://blog.google/products/search/google-search-ai-mode-update/#ai-mode-search

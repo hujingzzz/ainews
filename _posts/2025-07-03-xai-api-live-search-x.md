@@ -1,6 +1,6 @@
 ---
 layout: post
-title: xAI Launch Web SearchAPI-Live Search Real-time dynamic search X PlatformData sources such as the Internet and news
+title: xAI Launch Web Search API-LiveSearch is a real-time dynamic search for data sources such as X Platforms, Internet and News
 date: 2025-07-03 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/xai-api-live-search-x_1.jpg
@@ -9,73 +9,73 @@ icon: design
 * content
 {:toc}
 
- xAI Launch Web SearchAPI-Live Search Integrating into it Grok AI Model Permission granted. API Real-time dynamic search X PlatformData sources such as the Internet and news So that's a more time-bound and accurate answer.I don't know.
+xAI Launchs a web search for API: LiveSearch, integrated into its Grok AI model, allowing real-time dynamic search of data sources such as X platforms, Internet and news through API, thus achieving more time-bound and accurate answers.
 
-### Core Functions
+# Core function
 
-- **Real-time data search**Real-time data search-Grok Accessible X PostWeb pages and trend news Reply to updated information-based queriesI don't know.
+- ** Real-time data search**: Grok has access to X posts, web pages and trend news to answer queries based on the latest information.
 
-- **Flexible control**Flexible control-Developer can get through API Set Search Parameters For example...-
-Enable/Disable Searchsearch_parameters.modeI'm sorry, I don't know.
+- **Flexible controls**: Developers can set search parameters through API, e.g.:
+Enables/disables search (search_parameters.mode).
 
-- Limit the number of search resultsmax_search_resultsI'm sorry, I don't know.
+- Limit the number of search results (max_search_resources).
 
-- Specify time frameDomain NameIncluding X PlatformI'm not sure what I'm talking about.or whether to include a referenceI don't know.
+- Specifies the time frame, domain name (including X platform) or whether to include references.
 
-**Transparency reasoning**Transparency reasoning-Combining DeepSearch Functions Grok Shows the search and reasoning process. Provide a clear source of answersI don't know.
+**Transparent reasoning**: In conjunction with DeepSearch functionality, Grok can demonstrate the search and reasoning process and provide a clear source of answers.
 
-### Usage
+# Use the way #
 
-- **API Visits**API Visits-xAI Provision Live Search API **It's free right now. Beta PhaseAs at 2025 Year 6 Month 5 DayI'm not sure what I'm talking about.**It's free right now. Beta PhaseAs at 2025 Year 6 Month 5 DayI'm not sure what I'm talking about.I don't know.Developer can get through xAI Official Networkx.ai/apiI'm not sure what I'm talking about.Get API Key and start building applicationI don't know.
+- **API Access**: xAI provides LiveSearch API,** is currently in the free Beta phase (as of 5 June 2025)**. Developers can access the API key via xAI official network (x.ai/api) and start building applications.
 
-- **Python SDK**Python SDK-Support for adoption Python Integration Setup required XAI_API_KEY Environment variables and installation SDKI don't know.
+- **Python SDK**: Supporting integration through Python requires setting of XAI_API_KEY environment variables and installing SDK.
 
-- **GUI Tools**GUI Tools-Community development Python ApplyLike xAI Live Search AppI'm not sure what I'm talking about.Provide GUI Facilitating testing and interactionI don't know.
+- **GUI tool**: Community-developed Python applications (e.g. xAI LiveSearch App) provide graphical interfaces to facilitate testing and interaction.
 
-### Apply scene
+# Apply the scene #
 
-- **Real-time information query**Real-time information query-As in the press summarySocial media dynamics or market trendsI don't know.
+- ** Real-time information query**: e.g. news summaries, social media developments or market trends.
 
-- **Research support**Research support-Quickly aggregate multi-source data Support for academic or business analysisI don't know.
+- **Auxiliary research**: Rapid aggregation of multi-source data to support academic or business analysis.
 
-- **Developer innovation**Developer innovation-Builds based on real-time data AI Apply Like chat robots or information aggregation toolsI don't know.
+- **Developer Innovation**: Build AI applications based on real-time data, such as chat robots or information aggregation tools.
 
-![](https://assets-v2.circle.so/t3d3brramkgact4ubme7f00pr0yv)
-## Working mechanisms
+(https://assets-v2.circle.so/t3d3bramkgact4ubme7f00pr0yv)
+# Working mechanisms
 
-### ✅ Core strengths
+# # The core advantage #
 
-- A search logic or tool chain is not required to be manually managed by the user;
+- There is no need for manual user management of search logic or tool chain calls;
 
-- Whether or not to search inside the modelWhen do you search?Search for what?;
+- Whether or not to search, when to search and what to search for within the model;
 
-- Support for qualified data sourcesDate RangeRegionCustomise parameters such as quantityI don't know.
+- Support customisation of parameters such as data source, date range, area, quantity, etc.
 
-### 📥 Start With
-Yes. chat completions Add Fields to Request-
-"search_parameters": {
+♪ ♪ ♪ ♪ ♪ The way to open it ♪
+Add fields to the chat requests:
+"Search_parameters": {
 "mode": "on" / "auto" / "off"
-}![](https://assets-v2.circle.so/roc5lmfiu4eazyhex4o6rll0d6ei)🌐 Type of accessible data sourcePass. sources Field AssignmentsI'm not sure what I'm talking about.
-![](https://assets-v2.circle.so/zbgvky8i40gicgmor357yibhyquq)Example:-Allow models to search for news+X Platform content-
-"sources": [
-{ "type": "news" },
-{ "type": "x" }
-]⚙️ Advanced Parameter Configuration Support
-![](https://assets-v2.circle.so/9hclggzg6ilg9c8ooouica1jkl9c)
-## 📤 Output Behavior Description
+} [] (https://assets-v2.circle.so/roc5lmfiu4eazyhex4o6rll0d6ei)  Available data source type (as specified by source field)
+Example < [https://assets-v2.circle.so/zbgvky8i40gicgmor357yibhyquq: Allow models to find news+X platform content:
+"sources": [ Chuckles ]
+{"type": "news"}
+{"type": "x"}
+Advanced Parameter Configuration Support
+(https://assets-v2.circle.so/9hclggg6ilg9c8ooouica1jkl9c)
+#  out of behavioral description
 
-- A current response.streamingI'm not sure what I'm talking about.Medium citations Fields only in the last paragraphchunkI'm not sure what I'm talking about.Back;
+- In streaming responses, the fields return only in the last (chunk);
 
-- All requests for structural support Python requests Example callI don't know.
+- All requests for structural support for Python examples call.
 
-payload = {
-"messages": [{"role": "user", "content": "What's trending in tech news today?"}],
-"search_parameters": {
-"mode": "auto",
-"sources": [{"type": "news"}],
-"return_citations": True,
-"from_date": "2025-05-20",
+Payload = {
+"Messages": ["Role": "user", "content": "What's trying in tech news today"?]
+"Search_parameters": {
+"Mode": "auto,"
+"Sources": [{"type": "news"},
+"Return_citations": True,
+"From_date": "2025-05-20",
 "to_date": "2025-05-21"
-},
+♪ I'm so sorry ♪ ♪ I'm so sorry ♪
 "model": "grok-3-latest"
-}Visits-https://docs.x.ai/docs/guides/live-search
+https://docs.x.ai/docs/guides/live-search

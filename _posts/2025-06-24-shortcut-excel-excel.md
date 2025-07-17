@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shortcut-It's super strong. Excel Assistant Automatically through natural language dialogueExcelTable
+title: Shortcut-Excel Assistant automatically processes Excel tables through natural language dialogue
 date: 2025-06-24 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/shortcut-excel-excel_1.jpg
@@ -9,60 +9,60 @@ icon: design
 * content
 {:toc}
 
-**Shortcut**Shortcut It's a special purpose. **ExcelAutomation of work**ExcelAutomation of work DesignedAITool PlatformI don't know.It allows a user to tell in a natural language.AII'm on my own.ExcelCould not close temporary folder: %s ShortcutYou will automatically complete these form tasks Just like the one.“At the end of the day,AI ExcelAssistant
-It can understand what you're saying.English/ChineseThis is the first time I've ever seen you.And then it's like one.ExcelI'll help you with the operation as well as the best. Like what?-
+**Shortcut** is an AI tool platform designed to automate **Excel's work**. It allows users to tell AI in natural language what they want to do in Excel, and Shortcut automatically completes these form tasks, like an AI Excel assistant.
+It can understand what you're saying, and then it does it like an Excel expert, for example:
 
-- Data calculationSummary
+- Data calculation, aggregation
 
-- Perspective Table
+- A visual.
 
-- Cleaning data
+- Cleaning the data.
 
-- Make Charts
+- Making charts.
 
-- Formulating
+- Formulate.
 
 - Autofill Cells
 
-- Format Adjustments, etc.
+- Format adjustments, etc.
 
-It can be solved at ten times the speed of the human champion.ExcelThe case of the Financial Model World Cup.I don't know.
-ShortcutandExcelIt's almost identical. You can open up the existing ones.ExcelFiles operate or export them And you can do most of the work with one key. Then I'll come back and check on the results.I don't know.
+It solves the case of Excel and the Financial Model World Cup at ten times the speed of the human champion.
+Shortcut functions are almost identical to Excel, and you can open existing Excel files to operate or export them, and you can do most of the work with one key and then come back to see the results.
 
-## Main functions
-![](https://assets-v2.circle.so/3d6kdkcnj74ko3j6xmi700x5ambx)
-### And tradition.ExcelComparison of use methods
-![](https://assets-v2.circle.so/u0gpaocurz5thobj60x62d1zuv39)
-## Use Process
-🔹 Steps 1-Enter Interface
-Visits tryshortcut.ai  We're still checking it out. Could not close temporary folder: %sI'm not sure what I'm talking about.
-🔹 Steps 2-Import or NewExcelDocumentation
-You can upload your own. .xlsx Documentation Or click. **“At the end of the day,New FileIt's not a good idea, it's not a good idea.**“At the end of the day,New FileIt's not a good idea, it's not a good idea. New empty workbookI don't know.
-🔹 Steps 3-Enter task command in dialogue box
-For example...-
+# Main function
+(https://assets-v2.circle.so/3d6kdcnj74ko3j6mi 700xambx)
+# Compared to the traditional Excel usage
+!" (https://assets-v2.circle.so/u0gpaocurz5thhobj60x62d1zuv39)
+# Use process
+Step 1: Entering the interface
+Access tryshortcut.ai
+Step 2: Import or create a new Excel file
+You can upload your own .xx file, or click **New File** to create a new empty workbook.
+Step 3: Enter task command in dialogue box
+For example:
 
-- “At the end of the day,Total sales in different countriesIt's not a good idea, it's not a good idea.
+- “Statistics of total sales in different countries”
 
-- “At the end of the day,Finds that the order is higher than1000RecordsIt's not a good idea, it's not a good idea.
+- "Find records of orders above 1000"
 
-- “At the end of the day,Converts all text in the first column to uppercaseIt's not a good idea, it's not a good idea.
+- “Transfer all first column text to capital letters”
 
-- “At the end of the day,Draw a line chart showing trends in profitsIt's not a good idea, it's not a good idea.
+- “Draw a line chart showing trends in profits”
 
-🔹 Steps 4-AIAutomatically execute and update tables
-You'll see the forms change instantaneously. Compute complete.Chart Generated **You don't need to operate any functional bar.**You don't need to operate any functional bar.I don't know.
+Step 4: AI auto-execut and update tables
+You see the table changes instantaneously, the calculations are complete, the chart is generated,** you do not need to operate any functional bar**.
 
-## Applicable population
+# Applies to the crowd
 
-- **Non-technical office staff**Non-technical office staff-You don't write formulas. But someone who has to deal with a lot of data.
+- ** Untechnical staff**: No formula, but those who need to process large amounts of data
 
-- **FinancialSalesOperator**FinancialSalesOperator-It's used every day.ExcelBut the task is repeated.
+- ** Finance, sales, operators**: Excel is used daily but tasks are duplicated
 
-- **Freelance workers and managers**Freelance workers and managers-Wishing to save sheet operating time
+- **Liberal & Regulatory **: Desire to save PV operating time
 
-- **Students and researchers**Students and researchers-Data analysisTable cleaning and other tasks
+- ** Students and researchers**: tasks such as data analysis, table cleaning, etc.
 
-### Cases-
-ShortcutCan't make it.10A full day's work with a professional lawyer in a minute. Clean it up faster than humans.Edit and analyse dataI don't know.
-Right through.Y CombinatorAll companies5000Okay.CSVData analysis It's not only quick to provide insight. It also created charts and dashboards.I don't know.It's a study. Most companies are still in operation. They're mostly...B2BCompany But consumer markets have higher rates of success.I don't know.ShortcutIt's done now.80%Yes.ExcelHuman work. And it's still growing.I don't know.
-![](https://assets-v2.circle.so/vlvt1bs0b2a6kbnsapqdzkhh7pvs)Case View-https://www.tryshortcut.ai/shortcut?file-id=1751519340590-yc-companies.xlsx
+# Case:
+Shortcut was able to complete a full day of work by professional lawyers in less than 10 minutes, cleaning, editing and analysing data faster than humans.
+By analysing 5,000 rows of CSV data from all Y Combinator companies, it not only quickly provided insights, but also created charts and dashboards. Research shows that most companies are still operating, mainly B2B, but consumer markets are more successful. Shortcut is now up to 80% of human work on Excel, and its capacity is constantly improving.
+See https://assets-v2.circle.so/vlvt1bs0b2a6kbnsapqdzhh7pvs: https://www.tryshortcut.ai/shortcut?file-id=1751519340590-yc-companies.xx

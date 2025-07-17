@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google Programming Assistant Gemini Code Assist Update Integrated up-to-date Gemini 2.5 Models and support for individual customization
+title: Google Programming Assistant Gemini Code Assist Update Integrating the latest Gemini 2.5 model and supporting personal customization
 date: 2025-06-28 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-gemini-code-assist-gemini-2-5_1.jpg
@@ -9,111 +9,111 @@ icon: design
 * content
 {:toc}
 
-**Gemini Code Assist**Gemini Code Assist Yes. Google Launched paragraph **AI Programming Help Plugins**AI Programming Help Plugins Mainly run on Visual Studio CodeI don't know.
-It depends on it. Google It's home. Gemini Large-language modelLLMThis is the first time I've ever seen you.Provide real-time help in the development of the code Including code generationDebugTest-writingDocument reference and infrastructure management functionsI don't know.
-![](https://assets-v2.circle.so/1r6v04tnsdsmsrresk4vg4ky37ka)Update includes support Gemini 2.5Better personalization and better context management
+** Gemini Code Assist** is a Google-initiated **AI programming support plugin**, mainly run in Visual Studio Code.
+It relies on Google's own Gemini Large Language Model (LLM) to provide real-time assistance in the development of codes, including code generation, debugging, test writing, document reference and infrastructure management.
+The latest update (https://assets-v2.circle.so/1r6v04tnsdsmrsresk4vg4ky37ka) includes support for Gemini 2.5, stronger personalization and better context management!
 
-- **Multilingual support**Multilingual support-Applicable to any mainstream programming languageI don't know.
+- ** Multilingual support**: applies to any mainstream programming language.
 
-- **Multi-environmentally available**Multi-environmentally available-Support for Common IDEGoogle Cloud ServicesI don't know.
+- **Multi-Environmentable**: Supports common IDE, Google Cloud services.
 
-- **Contextal Smart Perceptions**Contextal Smart Perceptions-Response optimized on the basis of the current status of the codeI don't know.
+- ** Contextal intelligence perception**: Response optimized based on the current status of the code.
 
-- **AI It's safe and secure.**AI It's safe and secure.-Enterprise version support complianceThe context of privatizationVPC Security visitsI don't know.
+- **AI and security parallel**: business version support compliance, privatization context, VPC security access.
 
-- **Flexible costing**Flexible costing-Support free trialUpgrade as requiredI don't know.
+- **Flexibility **: support for free probation, promotion as required.
 
-## Upgrade Update
+# Upgrade update
 
-### 1. ✅ Integrated up-to-date **Gemini 2.5 Model**Gemini 2.5 Model
+# 1.  Integrating the latest **Gemini 2.5 model**
 
-- **Greater ability to reason.**Greater ability to reason.-Lead in multiple programming mission benchmarking tests LMArena Top of the listI don't know.
+- ** Greater reasoning**: leading in multiple programming task benchmarking tests, LMARENA tops the list.
 
-- **A more intelligent conversation experience.**A more intelligent conversation experience.-Capable of dealing with more complex issues and debugging requestsI don't know.
+- ** More intelligent chat experience**: able to handle more complex issues and debugging requests.
 
-- **Code generation and re-engineering are more reliable**Code generation and re-engineering are more reliable-Generate FunctionsMore accurate when modeling or structural re-engineeringI don't know.
+- ** Code generation and re-engineering are more reliable**: more accurate when generating functions, templates or structural re-engineering.
 
-- **GitHub Code Review Upgrade**GitHub Code Review Upgrade-Pull Request More in-depth analysis. Questions are more clearly identified.I don't know.
+- **GitHub Code Review Upgrade**: Pull Request More in-depth analysis and clearer problem identification.
 
 
-### 2. 🧩 Support**Personalized customisation**Personalized customisation
-1I'm not sure what I'm talking about.Custom CommandsCustom CommandsI'm not sure what I'm talking about.
+##2.  Support** personalization**
+(1) Custom Commands
 
-- User can create its own quick command For repetitive tasksIf component is rapidly generatedTest code, etc.I'm sorry, I don't know.
+- Users can create their own quick commands for repeat tasks (e.g. fast generation components, test codes, etc.).
 
-- Yes. VS Code or JetBrains IDE It's... it's... it's... Gemini Configuration in settingsI don't know.
+- It can be configured in the Gemini settings of VS Code or Jet Brains IDE.
  
-2I'm not sure what I'm talking about.Project rulesRulesI'm not sure what I'm talking about.
+(2) Project Rules (Rules)
 
-- Allows the user to set the coding specifications for the items Like“At the end of the day,All functions must be matched to the generation unit test
+- Allows users to set coding specifications for items, such as "All functions must be matched to generation unit tests. "
 
-- These rules will be automatically effective every time the code is generated. Project consistency maintainedI don't know.
- 
-
-### 3. 💬 Chat Interface Enhancement
-📁 More flexible context management-
-
-- **Support entire folder/Add context throughout the workspace**Support entire folder/Add context throughout the workspace Background window available **100Million tokens**100Million tokensI don't know.
-
-- Use @ A symbol can add a specific file precisely/ContentsI don't know.
- 
-📂 Context drawerContext Drawer:
-
-- Add a new visual panel to display the files and paths of the current dialogue Add with one key/RemoveI don't know.
- 
-🧠 Multisession support-
-
-- The upper right corner of the chat window opens more than one sessionI don't know.
-
-- All historical conversations will automatically be saved Supports one key recoveryI don't know.
+- These rules are automatically effective at each generation of the code and maintain project consistency.
  
 
-## Core Functions
+##3.  Chat interface enhanced
+• More flexible context management:
 
-### Overview of core functions
+- ** Supports entire folders/workspaces to add context**, with context windows to **1 million tokens**.
 
-### 1. **IDE Integration-Smart Code Assistant**IDE Integration-Smart Code Assistant
+- Use a @ symbol to add a specific file/dir precisely.
+ 
+Background drawer (Context Drawer):
 
-- Support Visual Studio CodeJetBrains IDEIntelliJPyCharm.Android StudioFirebaseColabBigQuery Wait.I don't know.
+- Adds a visual panel showing the files and paths currently involved in the dialogue, which can be added/removed by one key.
+ 
+Multi-session support:
 
-- Automatic CompletionGenerate and modify codesI don't know.
+- The upper right corner of the chat window opens more than one session.
 
-- Use chat interface to understand context Auxiliary developmentI don't know.
+- All historical conversations will be automatically saved to support a key recovery.
+ 
 
-### 2. **Large context window support**Large context window support
+# Core function
 
-- Maximum available use **100 Million token context window**100 Million token context window Perceptible project as a wholeContents of multiple filesI don't know.
+## Overview of Core Functions
 
-- Respond to the current state of the better-suited project Fits for medium-sized and large-scale engineeringI don't know.
+#1. **IDE Integration: Smart Code Assistant**
 
-### 3. **Automation of code reviewGitHub IntegrationI'm not sure what I'm talking about.**Automation of code reviewGitHub IntegrationI'm not sure what I'm talking about.
+- Support for Visual Studio Code, Jet Brains IDE (IntelliJ, PyCharm), Android Studio, Firebase, Colab, BigQuery, etc.
 
-- It's automatic. Pull Request Review Found Bug And style issuesI don't know.
+- Automatically complete, generate and modify codes.
 
-- Adoption of comments /gemini Requestable recommendations Improve code quality and save evaluation timeI don't know.
+- Use chat interfaces to understand context and support development.
 
-### 4. **Firebase Depth Integration**Firebase Depth Integration
+##2. **Big context window support**
 
-- Auto Generate/Optimize the front-and-end codeI don't know.
+- Use context window** with a maximum of **1 million token to sense the contents of the entire project, multiple files.
 
-- Parse errorPerformance indicatorsI don't know.
+- Respond to better fit the current state of the project and fit for medium-sized and large-scale engineering.
 
-- Generated in natural languages Firebase schema and GraphQL QueryI don't know.
+##3. **Censorship Automation (GitHub Integration)**
 
-### 5. **Cloud platform development support**Cloud platform development support
+- Can automatically review Pull Request and find Bug with style problems.
 
-- Yes. Google Cloud ShellPreconfiguration EnvironmentI'm not sure what I'm talking about.It's free of charge. Weekly 50 HoursI don't know.
+- Through comments/gemini, recommendations may be requested to improve the quality of the code and save evaluation time.
 
-- Support Cloud RunApigeeBigQueryCloud WorkstationsInfrastructure as CodeLike TerraformI'm not sure what I'm talking about.Wait.I don't know.
+##4. **Firebase depth integration**
 
-### 6. **Database development assistance**Database development assistance
+- Automatically generate/optimize the front-and-end code.
 
-- Generate SQL QueryI don't know.
+- Analysis of errors, performance indicators.
 
-- Analysis of existing queries Provision of recommendations on performance optimizationI don't know.
+- Generate Firebase schema and GraphQL queries in natural languages.
 
-- Support schema SensitivityQuery explanation etc.I don't know.
+##5. ** Cloud platform development support**
 
-## Contrast with different versionsFor different usersI'm not sure what I'm talking about.
-![](https://assets-v2.circle.so/28yihula0w8t6fx4gbvukcibdgay)Official Network-https://codeassist.google/
-Visualstudio Plugin Download-https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist
+- It is available free of charge in Google Cloud Shell (pre-arrangement environment) for 50 hours per week.
+
+- Support for Claude Run, Apiegee, Big Query, Claude Works, Infrastructure as Code (e.g. Terraform).
+
+##6. **Database Development Support**
+
+- Generate SQL queries.
+
+- Analyse existing queries and provide recommendations for performance optimization.
+
+- Support schema perception, query interpretation, etc.
+
+# Different versions of comparison (for different users)
+https://assets-v2.circle.so/28yihula0w8t6fx4gbvukcidgay: https://codeassist.google/
+Visualstudio plugin download: https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist

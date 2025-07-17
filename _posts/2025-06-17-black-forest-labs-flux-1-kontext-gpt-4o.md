@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Black Forest Labs A new generation of multi-model image generation and editing models launched-FLUX.1 Kontext It's achievable.GPT 4oImage Capability
+title: A new generation of multi-model image generation and editing models launched by Black Forest Labs-FLUX.1 Kontext can achieve GPT 4o image capability
 date: 2025-06-17 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/black-forest-labs-flux-1-kontext-gpt-4o_1.jpg
@@ -9,121 +9,121 @@ icon: book
 * content
 {:toc}
 
-Black Forest Labs A new generation.**Multi-model image generation and editing models-FLUX.1 Kontext**Multi-model image generation and editing models-FLUX.1 Kontext It's different from the traditional graphic model. Kontext And I understand.**Text and Image**Text and ImageInput ♪ Can make it real ♪“At the end of the day,**Context generation and editing**Context generation and editing
-Tradition. **text-to-imageText Generate ImagesI'm not sure what I'm talking about.Model**text-to-imageText Generate ImagesI'm not sure what I'm talking about.Model Like DALL·EStable Diffusion ♪ When it's strong ♪ But there's a lot of limits.-
+A new generation of ** multi-modular image generation and editing models launched by Black Forest Labs: FLUX.1 Kontext**, unlike the traditional text-map model, Kontext understands ** text and image** input to achieve true ** context generation and editing**.
+Traditional **text-to-image (text generation image) models**, such as DALL E, Stable Diffusion, although powerful, have many limitations:
 
-- Only by word control Unable to combine pictures with context;
+- Only by word control, which does not allow for a flexible combination of pictures as context;
 
-- Unable to continuously edit or retain character features Lack“At the end of the day,Cognitive continuity); and
+- The inability to continuously edit or retain character features and the lack of “cognitive continuity”;
 
-- Local editing requires a complex mask or finetuning;
+- Local editing requires complex masking or ginturing;
 
-- It's often a decomposition of images after multiple rotations.Frustration.The style is missing.);
+- Frequent deterioration of images after multiple rounds of operation (frustration, loss of style);
 
-- Edit Slow Unable to meet real-time interactive needsI don't know.
+- Slow editing and failure to meet real-time interactive needs.
 
-### 🔍 FLUX.1 Kontext Objective-
-♪ Build a real ♪ **“At the end of the day,Context PerceptionI'm not sure what I'm talking about.context-awareI'm not sure what I'm talking about.**“At the end of the day,Context PerceptionI'm not sure what I'm talking about.context-awareI'm not sure what I'm talking about. Image Generation and Edit EnginesI don't know.
-Which means...-**You can be like... Photoshop + GPT It's as natural as it is.“At the end of the day,Figure+Man.It's not a good idea, it's not a good idea.Control image generation and modification FlexibleEfficient ♪ And keep the character alive ♪Style ConsistencyI don't know.**You can be like... Photoshop + GPT It's as natural as it is.“At the end of the day,Figure+Man.It's not a good idea, it's not a good idea.Control image generation and modification FlexibleEfficient ♪ And keep the character alive ♪Style ConsistencyI don't know.
-It's a hit.-
+## FLUX.1 Kontext Target:
+Builds an image generation and editing engine that really **Context-aware**.
+In other words:** you can naturally control image generation and modification with "Chart + Text" like Photoshop + GPT, be flexible, efficient, and keep people and style consistent.**
+It's about:
 
-- **The ability to understand the image context**The ability to understand the image contextNot only does it generate images from text I can understand the image and modify it.I'm not sure what I'm talking about.
+- **The ability to understand the image context** (not only to generate the image from the text, but also to understand it and modify it)
 
-- **Quick-interactive editing capability**Quick-interactive editing capabilityLow delayStep-by-stepI'm not sure what I'm talking about.
+- ** Rapidly interactive editing capacity** (low delay, step-by-step)
 
-- **Role coherenceLocal EditPower such as style migration**Role coherenceLocal EditPower such as style migration
+- **Role consistency, local editing, style migration, etc.**
 
-![](https://assets-v2.circle.so/rgixc9ist6r5iybm8t6v5gk8bbiz)
-### Kontext What's the bright spot?
-**Role coherence**Role coherence-It keeps people or elements consistent in multiple scenarios.
-**Local Edit**Local Edit-Edit only specific parts of the image Without prejudice to other regions
-**Style References**Style References-Creates a new scene in a specified style
-**Quick interaction.**Quick interaction.-Quick ReciprocalThe delay is extremely low.
+(https://assets-v2.circle.so/rgixc9ist6r5iybm8t6v5gk8bbiz)
+# Kontext, what's the bright spot?
+**Coherence of roles**: Consistency of persons or elements can be maintained in multiple scenarios
+** Partial editing**: editing only specific parts of the image, without prejudice to other regions
+** Style reference**: new scenes can be generated in specified styles
+** Rapid interaction**: rapid rotation, extremely low delay
 
-### Model version-
-![](https://assets-v2.circle.so/o3ypo0yueuvboee3ktkd0p4fqbm1)
-- **FLUX.1 Kontext [pro]**FLUX.1 Kontext [pro]Fit to fast-interval editing to support continuous editing Keep the role.IdentityConsistency of style and features in multiple scenarios
+# Model version:
+!" (https://assets-v2.circle.so/o3ypo0yuueuvboee3ktkd0p4fqbm1)
+- **FLUX.1 Kontext [pro]** Fits for fast-track iterative editing to support continuous editing, maintaining consistency of roles, identities, styles and features in multiple scenarios
 
-- **FLUX.1 Kontext [max]**FLUX.1 Kontext [max]High Performance Version Greater ability to follow hintsBetter layout performance and consistency
+- **FLUX.1 Kontext [max]** High-performance version with greater ability to follow hints, better layout performance and consistency
 
-- **FLUX.1 Kontext [dev]**FLUX.1 Kontext [dev]The open-source weight version of our most advanced image editing model is currently in place.**The private phase.private betaI'm not sure what I'm talking about.**The private phase.private betaI'm not sure what I'm talking about.
+- **FLUX.1 Kontext [dev]** Open source weight version of our state-of-the-art image editing model is currently in ** private beta**
 
-## Main functions
+# Main function
 
-### 📌 1. Synchronization ControlsText + Image PromptI'm not sure what I'm talking about.
-Images can be generated not only from text You can upload images as well.Change it with text.I don't know.
-![](https://assets-v2.circle.so/8ba8rqxwqxaec0mfmbpxtr5o0563)
-![](https://assets-v2.circle.so/miiwix7vpuucq6gzrj3018dod67r)
-### 🎯 2. Local EditLocal EditingI'm not sure what I'm talking about.
+##  1. Text + Image Prompt
+Images can be generated not only by text, but also by uploading images and modifying them with text.
+!" (https://assets-v2.circle.so/8ba8rqxwqxaec0mfmfmptr5o0563)
+(https://assets-v2.circle.so/miiwix7vpuucq6gzrj3018dod67r)
+##  2. Local Edition
 
-- Yeah.**Accurately modify a part of the image**Accurately modify a part of the image It doesn't affect the whole style or any other area.I don't know.
+- It can be ** accurate to modify a part of the image** without affecting the overall style or other area.
 
-- There's no need for a mask.Layer or image labelingI don't know.
+- There is no need for masking, stratification or image labelling.
 
-🧠 That means...-**You can be like a strategist. Only“At the end of the day,Move where you want to move.**You can be like a strategist. Only“At the end of the day,Move where you want to move.
-![](https://assets-v2.circle.so/pxbjoiptu5i3m09saytcuxig78oy)**Left-**Left- Enter Image;** Medium ** Medium -Edit according to input_Other OrganiserWillI'm not sure what I'm talking about.YOU HAD ME AT BEERAmend to readI'm not sure what I'm talking about.YOU HAD ME AT CONTEXT** Right Diagram-** Right Diagram- “At the end of the day,Change the scene to a nightclubIt's not a good idea, it's not a good idea.
+This means that:** You can, like a mechanic, just "move wherever you want."**
+(https://assets-v2.circle.so/pxbjoiptu5i3m09saytcuxig78oy)** left chart:** input image;** medium chart: ** edited according to input: “Replace `YOU HAD ME AT BEER' with `YOU HAD ME AT CONTEXT'”,** right figure: ** “Replace the scene to a nightclub”
 
-### 👥 3. Consistency between character and styleCharacter & Style ConsistencyI'm not sure what I'm talking about.
+#3 3. Consistency between character and style (Character & Style Consistency)
 
-- No matter how many different scenes you create, Just give the same reference or description. Models automatically keep people's faces.EmoticonsConsistency.I don't know.
+- Regardless of how many different scenes you generate, the model automatically maintains the person's face, face and posture, provided that the same reference map or description is provided.
 
-- That's right.It's like moving around.Write.WatercolorI'm not sure what I'm talking about.I can also maintain a unified expression.I don't know.
+- A uniform expression of style (e.g., cartoons, writings, water colours) can also be maintained.
 
-🧠 To build continuous visual contentLike a comic book character.Virtual spokespersonI'm not sure what I'm talking about.Very valuable.I don't know.
-![](https://assets-v2.circle.so/9zeemiyp08z2hnmne91ny2pvpc33)![](https://assets-v2.circle.so/yvo2psmzrkd0utcn38z2l6mvhvgb)
-![](https://assets-v2.circle.so/2ao6j32x4odz72vvrcun6yz7izlv)
-### 🔄 4. Multiple rounds of continuous editingIterative EditingI'm not sure what I'm talking about.
+The visual content used to construct continuous content (e.g. comic characters, virtual spokespersons) is very valuable.
+(https://assets-v2.circle.so/9zeemiyp08z2hnmne91ny2pvpc33) [] (https://assets-v2.circle.so/yvo2psmzrkd0utcn38z2l6mvvvgb)
+(https://assets-v2.circle.so/2ao6j32x4odz72vrcun6yz7izlv)
+# #  4. Iterative Edition
 
-- You can add changes to the same graph repeatedly_Other OrganiserLet her laugh first. → And sunglasses. → We'll change the background. → We'll change the clothes and the words.It's not a good idea, it's not a good idea.
+- You can change it over and over again to the same figure: "Let her laugh first, then put on the sunglasses, then change the background, then change the clothes."
 
-- Each step is based on the previous round.I don't know.
+- Each step of change is based on the retention of the previous round.
 
-💡This is the first model system that allows multiple rounds of natural language to drive visual modification.I don't know.
-![](https://assets-v2.circle.so/dv035pl7xxypwhjbcz8dttl9158k)**Left-**Left- Enter Image;** Medium ** Medium -Edit according to input_Other OrganiserTurn her head towards the camera.I'm not sure what I'm going to do.** Right Diagram-** Right Diagram- “At the end of the day,Let her laugh.It's not a good idea, it's not a good idea.
+This is the first model system that allows multiple rounds of natural language to drive visual modification.
+(https://assets-v2.circle.so/dv035pl7xxxypwhjbcz8dtttl9158k)** left chart: ** Enter image; ** medium chart: ** Edited by input: “Stick her head towards the lens”,** right figure: ** “Let her laugh”
 
-### ⚡ 5. Quick! Quick!It's interactive.Low Latency InferenceI'm not sure what I'm talking about.
+# # 5. Low Latency Infence
 
-- The speed of reasoning is as high as the current mainstream model. 8 Multiply;
+- 8 times as fast as the current mainstream model;
 
-- EditingIt's a near-realistic process.“At the end of the day,Real-time feedbackI'm not sure what I'm going to do.Fit to user Quick Test Errors and AdjustmentsI don't know.
+- Close to “real-time feedback” can be achieved during editing and generation, which is suitable for fast test errors and adjustments by users.
 
-## How's the evaluation going?Whether or not you're in the lead.
-Black Forest Labs A new test set was proposed.-**KontextBench**KontextBench Model capacity to measure context-driven image tasksI don't know.FLUX.1 The models are in six dimensions.**Lead performance.**Lead performance.-
-**Accuracy of text-guided editing**Accuracy of text-guided editing
-**Image authenticity is consistent with style**Image authenticity is consistent with style
-**The image of the role remains constant in multiple images.**The image of the role remains constant in multiple images.
-**Text layout and content fit**Text layout and content fit
-**Stability in multi-cycle editing**Stability in multi-cycle editing
-**Speed of response and efficiency of reasoning**Speed of response and efficiency of reasoning
-The results show...-
+# How's the evaluation going? Is the performance leading?
+Black Forest Labs has proposed a new test set: **KontextBnch** to measure the modelling capability of the image task in context driven. The FLUX.1 model has a leading performance in six dimensions **:
+** Accuracy of text-guided editing**
+** Image authenticity is consistent with style**
+** The image of the role remains unchanged in multiple images**
+** Chart layout and content fit**
+** Stability in multiple rounds of editing**
+** Speed of response and efficiency of reasoning**
+The results showed that:
 
-![](https://assets-v2.circle.so/cxabocmyo9w3lx4sj7p0tw56zw9g)✅ **FLUX.1 Kontext [pro] Yes.“At the end of the day,Role coherenceIt's not a good idea, it's not a good idea.and“At the end of the day,Text Edit PrecisionIt's not a good idea, it's not a good idea.The two core tasks are one of the best models of current performance.I don't know.**FLUX.1 Kontext [pro] Yes.“At the end of the day,Role coherenceIt's not a good idea, it's not a good idea.and“At the end of the day,Text Edit PrecisionIt's not a good idea, it's not a good idea.The two core tasks are one of the best models of current performance.I don't know.
+(https://assets-v2.circle.so/cxabocmyo9w3lx4sj7p0tw56zw9g) **FLUX.1 Kontext [pro] is one of the best models of current performance on the core tasks of “role coherence” and “text editing accuracy”.**
 
-## They also launched an interactive interface.
+# They've also launched an interactive interface
 
-### 💻 FLUX Playground Introduction-
-One for the developer.The originals prepared it. **Graphical interface platform**Graphical interface platform No code or integration required You can use it quickly. FLUX ModelI don't know.
-✅ Characteristics-
+# FLUX Playgroup Introduction:
+A ** graphical interface platform for developers, creators**, which does not require any code or integration, allows for the rapid use of the FLUX model.
+Characteristics:
 
-- Enter text or upload image Real-time experience to generate and modify effects;
+- Enter text or upload images and experience the generation and modification of effects in real time;
 
-- Multiple rounds of editing are available View each step in comparison;
+- Multiple rounds of editing can be performed to see the comparison of each step;
 
-- Prototype and capability demonstration for presentation to clients or decision makers;
+- A prototype and capability demonstration to be presented to clients or decision makers;
 
-🔗 Address- https://playground.bfl.ai/ 
+Address: https://playground.bfl.ai/
 
-## Current restrictions and concerns
-BFL It's also an honest list of the current model limits.-
+# Current restrictions and concerns
+BFL also honestly lists the current model limitations:
 
-- After several consecutive modifications There's a possible deterioration in the quality of the image.It's like a shadow of color.The details are blurry.);
+- The possible deterioration of the quality of the image (e.g., colour pseudo-portrait, vague details) after several consecutive revisions;
 
-- In individual cases Model understanding of text deviates from or ignores certain requirements;
+- In individual cases, the model ' s interpretation of the text deviates from or ignores certain requirements;
 
-- Yeah.“At the end of the day,Knowledge of the worldIt's not a good idea, it's not a good idea.It's a weak understanding.For example, it's possible to draw an unstructured scene.);
+- A weak understanding of “world knowledge” (e.g., the possibility of creating an unstructured scenario);
 
-- Some of the details may be lost during the model compression distillation.Impact on high-fisibility applicationsI'm sorry, I don't know.
+- Some details may be lost during the model compression distillation process (impact on high authenticity applications).
 
-That means it.**Better for image creativity.Concept chartPrototype of productNeeds such as scenario maps It's not the final phase of mapping.I don't know.**Better for image creativity.Concept chartPrototype of productNeeds such as scenario maps It's not the final phase of mapping.I don't know.
-**Official presentation-**Official presentation-**https://bfl.ai/announcements/flux-1-kontext**https://bfl.ai/announcements/flux-1-kontext
-**Technical report-**Technical report-Read the full tech report
+This suggests that it** is better suited to the needs of graphic creativity, conceptual drawings, product prototypes, landscape mapping, etc., rather than the final stages of fine-tuning.**
+** Official presentation: *** https://bfl.ai/announsets/flux-1-kontext**
+** Technical report:** Read the full tech report

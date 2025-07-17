@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google releases' Gene Understanding AI-AlphaGenome specifically designed to predict the impact of variations in DNA on gene regulation
+title: Google publishes Gene Understanding AI-AlphaGenome specifically designed to predict the effects of mutations in DNA on genetic regulation.
 date: 2025-06-13 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-ai-alphagenome-dna_1.jpg
@@ -9,122 +9,122 @@ icon: book
 * content
 {:toc}
 
-We know.-
+We know:
 
-- Human. DNA It's like a huge note.I don't know.
+- The human DNA is like a huge statement.
 
-- Some of them.“At the end of the day,EncodingIt's not a good idea, it's not a good idea.Protein But actually... **98% Yes.“At the end of the day,Non-coded areaIt's not a good idea, it's not a good idea.**98% Yes.“At the end of the day,Non-coded areaIt's not a good idea, it's not a good idea. These areas are responsible for controlling when the genes are.In what cells?I don't know.
+- Some of these are “coded” proteins, but in fact **98% are “non-coded areas”** which are responsible for controlling when and in what cells the genes are expressed.
 
-- The functions of these areas are unpredictable A small mutation could have a major impact on health.Like some cancers or rare diseases.I'm sorry, I don't know.
+- The functions of these regions are difficult to predict, and small variations can have a significant impact on health (e.g. certain cancers or rare diseases).
 
-AlphaGenome It's a new type. AI Model It's meant to be more accurate.Full-scale prediction of individual DNA Effects of variability on genetic regulation processes Pay particular attention to non-coded areasPossession of the genome98%I'm not sure what I'm talking about.Control function for theI don't know.
-**It's more accurate to reveal the function of these non-coded areas and their performance in different cells. And the possible consequences of variability.I don't know.**It's more accurate to reveal the function of these non-coded areas and their performance in different cells. And the possible consequences of variability.I don't know.
-![](https://assets-v2.circle.so/k10qs8x4lxf6x4905802yz2cq8eb)You can imagine it's like a... “At the end of the day,Genetic Control RadarI'm not sure what I'm going to do.It scans millions of grades.DNASequence I'll tell you what.-
+AlphaGenome is a new AI model that aims to predict more accurately and comprehensively the effects of individual DNA variations on genetic regulation processes, with particular attention to the regulatory function of non-coded areas (98 per cent of the genome).
+** It provides a more accurate picture of the functioning of these non-coded areas and their performance in different cells, as well as the possible consequences of variation**
+!" (https://assets-v2.circle.so/k10qs8x4lxf6x4905802yz2cq8eb) You can imagine it as a "genetic control radar" capable of scanning millions of DNA sequences and telling you:
 
-- Could a mutation cause an accidental activation of a cancer gene?
+- Does a mutation cause an accidental activation of a cancer gene?
 
-- Which one of the clipping points could be damaged. It leads to genes.“At the end of the day,Wrong spell.What's the matter with you?
+- Which clipping point could be destroyed, leading to a genetic "wrong"?
 
-- Which sequence is appropriate?“At the end of the day,CustomIt's not a good idea, it's not a good idea.Use it in the nerve cells.
+- Which sequence is suitable for "customization" for use in neurocells?
 
-Compared to previous models AlphaGenome Yes. DNA Sequence LengthSignificant breakthroughs in predictive resolution and modeling capabilitiesI don't know.It builds a unified framework. It can be used to study genetic expression.CutProtein combination site, etc.I don't know.
+AlphaGenome has made a major breakthrough in DNA sequence length, predictive resolution, and multi-model modelling capabilities compared to previous models. It has built a unified framework that can be used to study regulatory mechanisms such as genetic expression, cutting, protein combinations, etc.
 
-## What can it do?
-AlphaGenome Yeah.-
+# What can it do?
+AlphaGenome can:
 
-### ✅ 1. Inputs are too long DNA Sequence
+# #  1. Enter super-long DNA sequence
 
-- Analytic **♪ Long ♪100Ten thousand bases.DNALetterI'm not sure what I'm talking about.**♪ Long ♪100Ten thousand bases.DNALetterI'm not sure what I'm talking about. Sequence of the —— It's a lot farther than the old model.More comprehensiveI don't know.
+- Analysable ** sequences of 1 million bases (DNA letters)** -- more remote and comprehensive than previous models.
 
-### ✅ 2. Projection of thousands of regulatory properties
-Including-
+2. Predict thousands of regulatory properties
+These include:
 
-- Which locations could be gene start or end point?;
+- Which locations may be genetic starting or endpoints;
 
-- Which regions will participate RNA CutImportant biological processes);
+- Which areas would be involved in RNA clippings (significant biological processes);
 
-- Which ones? DNA The region is attractive to certain proteins.;
+- Which DNA areas are attractive to certain proteins;
 
-- In different cell types RNA Activeness of expressionI don't know.
+- The extent to which RNA expressions are active in different cell types.
 
-### ✅ 3. Rapid assessment of the impacts of variability
+3. Rapid assessment of the effects of variability
 
-- Compare sequence predictions before and after mutation;
+- Comparison of sequence predictions before and after mutation;
 
-- To be able to tell that this mutation may not cause illness.To influence genetic expression or disrupt the regulatory functionI don't know.
+- The ability to determine that this variation may not cause disease, affect genetic expression or disrupt the regulatory function.
 
-### ✅ 4. Overwrite cut mutation predictions
+# 4. Overwrite clipping mutation predictions
 
-- It's an important breakthrough. Especially in understanding. **A rare genetic disease.**A rare genetic disease. It's very useful. Like spinal muscle atrophy.I don't know.
+- It's an important breakthrough, especially in understanding ** rare genetic diseases**, like spinal muscle atrophy, etc.
 
 
-## Technical principles-How did it happen?
-**Technical architecture**Technical architecture
+# Technology: How does it happen?
+** Technological architecture**
 
-- **Volume Layer**Volume Layer-Test Short Sequence ModeLikeDNAIt's... it's... it's...motifI'm not sure what I'm talking about.
+- **roll layer**: detection of short-sequence patterns (e.g. motif of DNA)
 
-- **Transformer**Transformer-Create global information flows in super-long sequences
+- **Transformer**: Create global information flows in super-long sequences
 
-- **Efficient training**Efficient training-UseTPUCluster Only needed4Hours Calculation of resources as forwardEnformerHalf of it.
+- ** Efficient training**: Using TPU clusters, it takes only 4 hours to calculate half of the resources from the previous Enformer
 
-AlphaGenome More than one has been used AI Advanced technologies in the field of human rights and fundamental freedoms-
-![](https://assets-v2.circle.so/xo0mz5avlik88bsflzzrp6m3jrin)**Model Performance and Validation**Model Performance and Validation
+AlphaGenome uses advanced technology in several AI fields:
+(https://assets-v2.circle.so/xo0mz5avlik88bsflzzrp6m3jrin)** Model performance and validation**
 
-- Yes.24One.DNASequential Forecasting Tasks **AlphaGenomeBeyond the current optimal model22Item**AlphaGenomeBeyond the current optimal model22Item;
+- Of the 24 DNA sequence prediction missions,** AlphaGenome exceeded the current optimal model by 22**;
 
-- Yes.26_Other Organiser **Match or exceed the best available model24Item**Match or exceed the best available model24Item;
+- Of the 26 variant prediction missions, ** matches or exceeds 24 of the best available models**;
 
-- Models of all predictive models for the first one that can be uniformly modeled;
+- A model for the first single model for all predictive models;
 
-- Support **APICall**APICall Provide scientists with the capability to predict trans-module integrationI don't know.
-![](https://assets-v2.circle.so/sapyrb9qm11yjqrlsww123wduz2b)
+- Support for **API call** to provide scientists with the capability to predict trans-modular integration.
+!" (https://assets-v2.circle.so/sapyrb9qm11yjrlsww123wduz2b)
 
-## Practical application scene
-AlphaGenome It's not just a theoretical tool. It has a very strong application value.-
+# Practical application scene
+AlphaGenome is not just a theoretical tool, it has a strong application value:
 
-### 🔬 1. Research on disease mechanisms
+1. Research on disease mechanisms
 
-- It can be used to reveal which mutations affect genetic expression. This could lead to cancer or rare genetic diseases.I don't know.
+- May be used to reveal which mutations affect genetic expression and may lead to cancer or rare genetic diseases.
 
-- Official presentation-Forecasted T-ALL Certain mutations in leukemia are activated. TAL1 Cancer gene. Simulation of known mechanismsI don't know.
+- Official display: predicts that specific mutations in T-ALL leukemia will activate the TAL1 cancer gene and simulate the known mechanisms.
 
-### 🧫 2. Synthetic biology
+# #  2. Synthetic biology
 
-- Help design specific functions DNA ShapesLike a starter that only starts in a nerve cell.I'm sorry, I don't know.
+- Help design DNA components with specific functions (e.g. starters only in neurocells).
 
-### 🧠 3. Gene function mapping
+# #  3. Gene function mapping
 
-- Assist scientists in systematically mapping genetic control mechanisms in different cellsI don't know.
+- Assisting scientists in systematically mapping genetic control mechanisms in different cells.
 
-## Why is it a breakthrough?
-It's solved a number of key constraints.-
-![](https://assets-v2.circle.so/9jncqcluw5uuxrvcp2zjawyeit10)AlphaGenome Yes. 24 Among the projected missions 22 A model that goes beyond the current best model. It's also prominent in mutation predictions.I don't know.
+# Why is it a breakthrough?
+It addresses several key constraints:
+AlphaGenome (https://assets-v2.circle.so/9jncqcluw5uuxrvcp2zjawyeit10) out of 24 prediction missions, 22 are above current best models and feature prominently in variant predictions.
 
-## Limitations and future developments
-Despite the progress made, But... AlphaGenome No, it's not.“At the end of the day,Almighty.@Ambassin: #Jan25 #Jan25 #Jan25
+# Limits and future development
+Despite the remarkable progress made, AlphaGenome is not "one-size-fits-all":
 
-- 📏 Yeah. **Super-remote control.**Super-remote control.>100kbI'm not sure what I'm talking about.It's still difficult.;
+- Still difficult for **super-distance regulation** (> 100kb);
 
-- 🧫 Some **Organization-specific forecasting capability**Organization-specific forecasting capability Still improving.;
+- Certain ** tissue-specific forecasting capabilities** are still improving;
 
-- ❌ Not applicable**Personal clinical genetic predictions**Personal clinical genetic predictions;
+-  does not apply to individual clinical genetic predictions**;
 
-- 🌱 Complex FormLike the environment or multigenesis.I'm not sure what I'm talking about.Still need to be analysed in conjunction with other toolsI don't know.
+- Complex forms (e.g. environmental or multigenic interactions) still need to be analysed in conjunction with other tools.
 
-The future. DeepMind Plans to expand training dataSupport more species and functional models And gradually open up the whole model.I don't know.
-Current **AlphaGenome Pass. API For global non-commercial use by scientists**AlphaGenome Pass. API For global non-commercial use by scientistsI don't know.Researchers can.-
+In the future, Deepmind plans to expand training data, support more species and functional models and gradually open up complete models.
+Currently, **AlphaGenome is available for non-commercial use to scientists worldwide through API**. Researchers can:
 
-- Test variants in different biological projects;
+- Testing of variations in different biological projects;
 
-- Quick presentation and validation of mechanism assumptions;
+- Rapid presentation and validation of mechanism assumptions;
 
-- Build your own downstream model or task;
+- Build their own downstream models or tasks;
 
-Official presentation-https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/ 
+Official presentation: https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-gender/
 
-- **Read our preprint**Read our preprint
+- ** Read our preprint**
 
-- **Use the AlphaGenome API**Use the AlphaGenome API
+- **Use the AlphaGenome API**
 
-- **Join the community forum**Join the community forum
+- **Join the community forum**
 

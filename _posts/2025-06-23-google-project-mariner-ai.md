@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google Project Mariner-Quick deployment of one or more by natural language AI Smart Agent Simulate humans to perform complex tasks in the browser environment
+title: Google Project Mariner-Rapidly dispatch one or more AI smart agents through natural languages to simulate human performance of complex tasks in the browser environment
 date: 2025-06-23 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-project-mariner-ai_1.jpg
@@ -9,50 +9,50 @@ icon: web
 * content
 {:toc}
 
-Project Mariner Yes. DeepMind For the future. AI Prototype project launched by automated workflow It controls multiple smart bodies in natural languages and carries out simultaneous tasks in virtual browsers.I don't know.
-✅ **Core objectives**Core objectives
-The system is designed to allow users to pass instructions in natural languages. Quick schedule one or more AI Smart Agent Simulate humans to perform complex tasks in the browser environmentI don't know.
-Mariner The meaning of the name comes from“At the end of the day,A navigator.I'm not sure what I'm going to do.Symbol AI It's capable of information.“At the end of the day,Oceans and seasIt's not a good idea, it's not a good idea.Central Autonomous Navigation and TaskingI don't know.
-✅ **Task Type**Task Type
+Project Mariner is a prototype project launched by Deepmind for the future AI automated workflow, which controls multiple intelligent bodies in natural languages while working in virtual browsers.
+** Core objective**
+The system is designed to allow users to quickly deploy one or more AI smart agents through natural language instructions and simulate humans to perform complex tasks in the browser environment.
+Mariner's name comes from the name of the navigator, the symbol of AI's ability to navigate and perform autonomously in the message of the ocean.
+** Mandate type**
 
-- Information retrievalSearchThat's right.FilterI'm not sure what I'm talking about.
+- Information retrieval (search, match, filter)
 
-- Web-based interactiveClickForm completedScrollCopy etc.I'm not sure what I'm talking about.
+- Interactive web pages (clicks, forms, scrolling, copying, etc.)
 
-- Data entry and integrationFor example, extracting structured information from multiple pagesI'm not sure what I'm talking about.
+- Data entry and integration (e.g., extracting structured information from multiple pages)
 
-- Multitask scheduleSend more than one window or tabI'm not sure what I'm talking about.
-
-
-## System capabilities and modus operandi
-
-### 1. **Language Driver Control**Language Driver Control
-Users describe tasks in natural languages The system transforms it into an implementable planI don't know.For example...-
-“At the end of the day,Please help me find the three families.2023Provided in the yearAIUniversity website of the course And sort out the title of the course.School fees and official web linksWe're not going to be able to do that."
-The system does not require step-by-step guidance from users It's just...**Autonomous understanding of the mission structure and planning of the implementation process**Autonomous understanding of the mission structure and planning of the implementation processI don't know.
-![](https://assets-v2.circle.so/iidzbbb2btziubmdr1xu0kp7ajk7)
-### 2. **Virtual Browser Operating Environment**Virtual Browser Operating Environment
-
-- All tasks are performed in virtual browsers by simulation of real user behaviour;
-
-- Intelligent is available. DOM Operation If clickInputDragNavigationSubmit forms, etc.;
-
-- Browser running in sandbox Support task separation and synthesizingI don't know.
-
-### 3. **Multitask parallel scheduling**Multitask parallel scheduling
-Project Mariner Yes.**Multiple sub-tasks in parallel**Multiple sub-tasks in parallelmulti-agent concurrent execution:
-
-- Run each task in the stand-alone browser instance;
-
-- Control module coordination of task execution orderData sharing and progress tracking;
-
-- Dynamicly generatedTermination or adjustment of the conduct of the agent of the missionI don't know.
+- Multitask schedule (and send multiple windows or tabs)
 
 
-### **4.Enhancing learning and task feedback mechanisms**4.Enhancing learning and task feedback mechanisms
+# System capabilities and working methods
 
-- The system supports learning from user feedbackI don't know.
+# 1. **Language-driven control**
+The user describes the task in a natural language, and the system converts it into an implementable plan. For example:
+“Please help me find the three university websites offering the AI course in 2023 and collate the course names, tuition fees and web links.”
+The system does not require step-by-step user guidance, but rather an autonomous understanding of the mission structure and the planning of the implementation process**.
+!" (https://assets-v2.circle.so/iiidzbbb2btziubmdr1xu0kp7ajk7)
+##2. ** Virtual browser operating environment**
 
-- Introduction of incentive signals and reward mechanisms to optimize mission implementation strategiesI don't know.
+- All task operations are carried out in virtual browsers by simulation of real user behaviour;
 
-I've got details.-https://deepmind.google/models/project-mariner
+- Smart bodies can perform DOM operations such as clicking, input, drag, navigation, submission of forms, etc.;
+
+- The browser runs in the sandbox and supports the task segregation and distribution.
+
+## 3. ** Multitask parallel dispatch**
+Project Mariner can ** perform multiple sub-tasks in parallel** (multi-agent concerned example):
+
+- Each task runs in the case of an independent browser;
+
+- Control modules to coordinate task implementation sequences, data sharing and progress tracking;
+
+- May dynamically generate, terminate or adjust the conduct of the agent of the mission.
+
+
+##4 **4. Enhanced learning and task feedback mechanisms**
+
+- The system supports learning from user feedback.
+
+- Introduction of incentive signals and reward mechanisms to optimize mission implementation strategies.
+
+Further information: https://deepmind.google/models/project-mariner

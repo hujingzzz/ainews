@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Luma Labs Release Modify Video-You can modify any object in the video at any time. One shot. Infinite Variation
+title: Luma Labs Release Modify Video-Any object in the video can be changed at any time, infinity
 date: 2025-06-02 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/luma-labs-modify-video_1.jpg
@@ -9,130 +9,130 @@ icon: image
 * content
 {:toc}
 
-In traditional video production processes If you want to change the scene,From day to night, for example. Or from the office to the fantasy world.This is the first time I've ever seen you.It often takes a reshoot.Rewrite Even a whole set of tools.I don't know.It's not just expensive.It's a long time. It also limits the imagination of the creator.I don't know.
-Luma Labs The core idea that was put forward is:-**It's not ruining the original show.ActionsThe camera and the character. Allow users to overhaul the world in the video**It's not ruining the original show.ActionsThe camera and the character. Allow users to overhaul the world in the videoI don't know.This new tool is called **“At the end of the day,Modify VideoIt's not a good idea, it's not a good idea.**“At the end of the day,Modify VideoIt's not a good idea, it's not a good idea. It allows you to keep something really important in the camera.Like character moves and facial expressions.This is the first time I've ever seen you.We're redesigning the scene at the same time.StyleThe material and even the character of the role.I don't know.
+In traditional video production processes, changing the scene (e.g. from day to night, from office to fantasy world) often requires reshooting, rewrite, or even replace a whole set of tools. Not only is it costly, time-consuming, but it also limits the imagination of the creators.
+The core idea put forward by Luma Labs is: ** Allows users to rewrite the world in the video without damaging the original performances, movements, lenses and roles. ** This new tool is called **Modify Video**, which allows you to retain something really important in the lens (such as character moves and facial expressions) while redesigning the scene, style, material quality and even the character of the role.
 
-## Detailed description of main functions
+# The main function is detailed
 
-### 1. 🎭 Action capture + Driver for a new roleMotion & PuppeteeringI'm not sure what I'm talking about.
+##1.  Action capture + Driver New Role
 
-- Automatically extract from original video **All-round movement.Synchronization of facial expressions and lip-shaped messages**All-round movement.Synchronization of facial expressions and lip-shaped messages;
+- Automatically extracting information from the original video ** all body movements, facial expressions and lip synchronisation**;
 
-- And then... These.“At the end of the day,Action DataIt's not a good idea, it's not a good idea.It can be used to drive a new character or object.——♪ Either way ♪CGRoleThe props or the cameras.;
+- These “action data” can then be used to drive new characters or objects — be they CG characters, props or cameras;
 
-- Example:-You can put an actor on the show.“At the end of the day,TransferIt's not a good idea, it's not a good idea.To a monster. Or let a table move along the dance rhythm.I don't know.
-
-
+- For example, an actor could be “transferred” to a monster or a table could move along a dance rhythm.
 
 
 
-### 2. 🌆 World/Style ReplaceRestyle & World SwapI'm not sure what I'm talking about.
-
-- Don't change character and movement. But it's okay.**It's a complete change of scenery and material.**It's a complete change of scenery and material.;
-
-- For example...-
-Change the garage to a spaceship.;
-
-- Turn the sun into the night.;
-
-- To turn the cavity into a movie-grade realism.;
-
-All changes are based on an understanding of the original structure. To avoid a false image or a breakdown of time.I don't know.
 
 
-### 3. 🧩 Local element modificationIsolated EditsI'm not sure what I'm talking about.
+##2. #WorldSwap
 
-- Yeah.**Only modify an element of the video**Only modify an element of the video And don't destroy the rest of it.;
+- Do not change the person and the movement, but can ** completely change the appearance and material quality of the scene**;
 
-- Like what?-
-Change the dress color of the role;
+- For example:
+Change the garage to a spaceship;
 
-- Replace facial featuresLike changing an actor's face.);
+- Turning the sun into the night vision;
 
-- Adding Flying Objects to the SkyLikeUFO);
+- To transform the carpenter into a film-grade sense of truth;
 
-The point is...-**There's no need for a green curtain.We don't need a frame-by-frame tracking.**There's no need for a green curtain.We don't need a frame-by-frame tracking. Modifying the natural integration sceneI don't know.
+All changes are based on an understanding of the original structure, avoiding distortion of the image or confusion of time.
 
-## IIIMode of use and freedom of creation
 
-### **Three preset styles**Three preset styles
-“At the end of the day,Modify VideoIt's not a good idea, it's not a good idea. Three different preset modes of conversion are provided Allows users to adjust the freedom of video creation to the needs of the userI don't know.These patterns are...-
-![](https://assets-v2.circle.so/9rshz3lgfan0b28h3j1v71bea2fo)**AdhereMatch ModeI'm not sure what I'm talking about.**AdhereMatch ModeI'm not sure what I'm talking about.This model is minimally modified by maintaining the original video structure. It's mostly for the scene.**Styles and Textures**Styles and TexturesAdjustmentsI don't know.For example... You can change the background color or texture in the video. But the movement of people.Emoticons and lens angles are basically the same.I don't know.This model is very suitable for projects that need to be repaired or aligned at a later stage. For example, it's consistent with visual style between multiple lenses.I don't know.
-**FlexFlexible ModeI'm not sure what I'm talking about.**FlexFlexible ModeI'm not sure what I'm talking about.The model retains key elements.It's like a character move.Face expression, et cetera.I'm not sure what I'm talking about.At the same time, Allow more creative adjustmentsI don't know.It's a balanced pattern. Creative re-engineering can be done while maintaining input integrity.I don't know.For example... You can change the original scene slightly to a different style. Or people's costumes.We'll replace the props, etc. It applies to situations where there is a need for a rapid switch between multiple creative options. For example, it's a quick preview of clients in different styles.I don't know.
-**ReimagineReconstruct modeI'm not sure what I'm talking about.**ReimagineReconstruct modeI'm not sure what I'm talking about.It's the most creative model. Allows you to completely re-engineer the scene or the character. It can even transform a person into a non-human form.Like monsters or fantasy creatures.I'm sorry, I don't know.This model prioritizes**Freedom of creativity.**Freedom of creativity. Fits for projects that require bold re-engineering. It's like art.Concept short or special effect productionI don't know.In this mode, You can completely change the appearance of a scene or a character. To create an imaginative and super-realistic effect.I don't know.
+##3.  Local element modification (Issolated Edits)
 
-### **Freedom of creation-How to choose a suitable model**Freedom of creation-How to choose a suitable model
-Depending on project needs The creator can choose a different way to adjust the video content.I don't know.In cases where there is a need to retain raw material **Adhere**Adhere Models are ideal choices. Because it's focused on fine-tuning the original video.I don't know.
-For projects that need to balance creativity and realism **Flex**Flex The pattern is capable of maintaining the trueness of the movement. We're doing a modest creative re-engineering.I don't know.
-And for those that are challenging and demanding highly innovative projects, **Reimagine**Reimagine Models can achieve a fundamental visual re-engineering. It's a complete release of the creator's imagination.I don't know.
+- May ** modify only one element of the video** without destroying other parts;
 
-## Strengths over other tools
-♪ And the tradition ♪“At the end of the day,Hint Generation VideoIt's not a good idea, it's not a good idea.Or a static filter. Modify Video The point is...**Time sequence understanding and action retention**Time sequence understanding and action retention-
+- Like:
+Change the dress colour of the role;
 
-- High-level signal used.It's like a gesture.EmoticonsStructureI'm not sure what I'm talking about.To distinguish between what elements should be retained What can be redesigned?;
+- Replacing facial features (e.g. changing the face of an actor);
 
-- **Video-level high-security control.**Video-level high-security control. It's not just a frame. It's about understanding the whole thing.;
+- Adding flying objects to the sky (e.g. UFO);
 
-- **Output results are more consistent**Output results are more consistent Especially on the face.Body actionIt's a matter of time.;
+The key is that:** there is no need for green curtains, no need for framework-by-frame tracking** to modify the natural integration landscape.
 
-- Official test shows Modify Video Better in visual authenticity than in behavioral consistency Runway It's... it's... it's... V2V ToolsI don't know.
-![](https://assets-v2.circle.so/0udra1xvnlkugw713tcinmo57c23)![](https://assets-v2.circle.so/frdre9bymerfb91mxldyudm668li)
+# III. Usage and freedom of creation
 
-## How do you use it?
-Modify Video %1 %1 %1 %2 %2 %2 %2 %2 %2 %2 %2 %2 %2 %2 %2 %2 %2 %2 %2 %2 %2 %2 %2 %2 %2 %2 %1 %2 %2 %2 %2 %2 %2 %1 %2 %1 %1 %1 %2 %2 %2 %2 %2 %1 %2 %1 **Luma Dream Machine: Ray 2**Luma Dream Machine: Ray 2 Medium For the longest **10 Snippets of seconds**10 Snippets of secondsI don't know.
-The process is very simple.-
-Upload a video;
-Select a conversion presetAdhere / Flex / Reimagine);
-Whether to provide a first frame image or a visual style tip;
-If there's a hint,-Describe the video changes you want.The more specific, the better.I'm not sure what I'm talking about.
-Selection“At the end of the day,Modify Strength@Ambassin: #Jan25 #Jan25 #Jan25To determine the extent of the change in the image
-Tools automatically generate multiple versions For quick selection or reprocessing.I don't know.
-Applicable scenes include, but are not limited to,-
+# ** Three preset styles**
+"Modify Video" provides three different preset models for conversion that allow users to adjust the degree of freedom of creation of the video to suit their needs. These models are:
+** (https://assets-v2.circle.so/9rshz3lgfan0b28h3j1v71bea2fo)**Adhere** the model is minimally modified on the basis of maintaining the original video structure, mainly for the ** style and texture** of the scene. For example, you can change the background colour or texture in the video, but the person's movements, emotics and lenses remain essentially the same. This model is well suited for projects that require restoration or consistency at a later stage, such as consistency in visual style between multiple lenses.
+**Flex (flexible model)** While retaining key elements (e.g., character moves, facial expressions, etc.), the model allows for more creative adjustments. This is a balanced model that allows creative re-engineering while maintaining input integrity. For example, you can change the original scene slightly to another style, or replace people’s clothing, props, etc., for cases where there is a need for a rapid shift between multiple creative options, such as a quick preview of different styles for clients.
+**Reimagine** This is the most creative model that allows you to completely re-engineer the scene or the role and even transform the person into a non-human form (e.g. a monster or an illusional creature). This model prioritizes ** freedom of creativity** and is suitable for projects that require bold re-engineering, such as artistic creation, short-conceptive films or special-effect production. Under this model, you can completely change the appearance of a scene or role, creating imaginative and more realistic effects.
 
-- Concept testingPrevis);
+# ** Freedom of creation: how to choose the right pattern**
+Depending on the project’s needs, creators can choose different models to adjust video content. For cases where raw material is needed, the **Adhere** model is ideal because it focuses on fine-tuning the original video.
+For a number of projects that require a balance between creativity and realism, the **Flex** model is capable of modest creative re-engineering while maintaining the authenticity of the movement.
+For those challenging and highly creative projects, the **Reimagine** model is capable of achieving a fundamental visual re-engineering that fully unleashes the imagination of the creators.
 
-- Proposals/Style Samples;
+# Advantages over other tools
+Unlike the traditional "tips generate video" or static filters, the key to Modify Video is ** time sequence understanding and motion retention**:
 
-- Quick-changed final piece deliveryI don't know.
+- Advanced signals (e.g. postures, emoticons, structures) are used to distinguish between elements that should be retained and those that can be redesigned;
 
-### 🧠 The technique of writing tipsPrompt How do you write it?I'm not sure what I'm talking about.
-Modify Video The effect depends to a large extent on your input.“At the end of the day,DescriptionI'm not sure what I'm going to do.It's like you're with a guy. AI The group communicates.-
+- ** Video-level high-security control**, not just looking at a frame, but understanding the entire footage;
 
-- **A positive description. Don't use it.“At the end of the day,Don't.It's not a good idea, it's not a good idea.Expression**A positive description. Don't use it.“At the end of the day,Don't.It's not a good idea, it's not a good idea.Expression;
+- ** Results of output are more consistent**, especially with regard to face, body movement, time continuity;
 
-- Describe what you want to see. Instead of running away from what?;
+- Official tests show that Modify Video is better than Runway 's V2V tool for visual authenticity and action consistency.
+_ (https://assets-v2.circle.so/0udra1xvnlkugw713tcinmo57c23) _ (https://assets-v2.circle.so/frdre9bymerfb91mxldyudm668li)
 
-- It's like writing a script or a camera language. The stronger the picture, the better.I don't know.
+# How to use
+Modify Video has been integrated into **Luma Dream Machine: Ray 2** for video clips of up to **10 seconds**.
+The process is very simple:
+Uploading a video;
+Select a conversion preset (Adhere / Flex / Reimagine);
+Whether to provide the first frame image or visual style tips;
+If there's a hint: describe the video changes you want (the more specific the better)
+Select " Modified strength": determines the degree of change in the image
+The tool automatically generates multiple versions that you can quickly select or reprocess.
+The context of application includes, but is not limited to:
 
-**Example:-**Example:-
+- Concept testing (Previs);
 
-- Change your clothes._Other OrganiserA woman in a blue dress.It's not a good idea, it's not a good idea. → AI It'll automatically change the original.;
+- Proposals/synthetic samples;
 
-- Change of scene._Other OrganiserA Saberpenk street full of neon lights and flying cars.); and
+- Quick-changed final piece delivery.
 
-- Special effects_Other OrganiserThe purple magic flame spins out of her hand.); and
+# #  # # # # # # # # # # # # # # # # # # # # # # # # # # # # # how to write # # # # # # how to write # # # # # # # how to write # # # # # # how to write # # # # # # how to write # # # # # how to write # # # # # # how to write # # # # how to write # # # # # how to write # # # # how to write # # # # how to write # # # # # how to write # # how to write # # # how to write # # how to write # # # how to write # # # # #
+The effectiveness of Modify Video depends to a large extent on the "description" you typed, just like you're communicating with an AI play group:
 
-- Change of props._Other OrganiserA light sword instead of a stick. # The light shines #
+- ** To describe it positively and not to use the word “no”**;
 
-### 🎥 The proposal before the video shoots.
+- Describe what you want to see, not avoid it;
 
-- Keep the video as steady as possible.Don't shake so hard.);
+- Like writing a script or a camera language, the stronger the picture is.
 
-- It'll be as simple as possible.Like white walls or open land.);
+** Example:**
 
-- Short video works best.Recommendations 5-10 sec);
+- Change of clothes: "A woman in a blue dress"  AI will automatically change the original person;
 
-- High video resolution The results are even better.I don't know.
+- Change of scene: “A Saberbunk street full of neon lights and flying cars”;
 
-### 🚫 What's the limit?
+- Gat effect: "The purple magic flame spins out of her hand."
 
-- You can't overtake the material every time you upload it. **10 sec**10 sec;
+- Alternatives: “Place a light sword instead of a stick, bright light”.
 
-- Fuzzy or low-resolution material can be compromised.;
+# # The advice before you shoot the video #
 
-- If it's in the picture,**A lot of fast-moving objects.**A lot of fast-moving objects. It might not be stable enough.;
+- The video should be as stable as possible (don't be violent);
 
-- It's suggested that long videos be broken into multiple segments.I don't know.
+- A clean and concise background as best possible (e.g. white walls or open areas);
 
-Website-https://dream-machine.lumalabs.ai/ 
-Guide to entry-https://lumalabs.ai/learning-hub/how-to-use-modify-video
+- The short video is the best (recommendations 5-10 seconds);
+
+- The video's clear and the results are even better.
+
+What's the limit?
+
+- No more than **10 seconds per upload**;
+
+- Differing or low-resolution material effects;
+
+- If there are ** many fast-moving objects in the picture, ** it may not be stable enough;
+
+- It is proposed that long videos be broken into multiple segments.
+
+Website: https://dream-machine.lumalabs.ai/
+Guide to Practice: https://lumalabs.ai/learning-hub/how-to-use-modify-video

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenAI Responses API Major upgrade-Support image generationCode InterpreterRemote MCP New tools
+title: OpenAI Responses API major upgrade-supports new tools such as image generation, code interpreter, remote MCP
 date: 2025-06-30 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/openai-responses-api-mcp_1.jpg
@@ -9,110 +9,110 @@ icon: web
 * content
 {:toc}
 
-OpenAI Declared correct. **Responses API**Responses API Significant functional extension Open more modular capabilities for developers Make construction multi-modelIt's a complex task chain. AI It's easier to apply.It's more manageable.More powerful.I don't know.
-Responses API For the most part.**Build Smartagentic applicationsI'm not sure what I'm talking about.**Build Smartagentic applicationsI'm not sure what I'm talking about. That's what I'm talking about.“At the end of the day,Thinking on your own. + Tool CallIt's not a good idea, it's not a good idea.Smart applications of competenceI don't know.
-**📦 It's with tradition. ChatGPT API What's the difference?**📦 It's with tradition. ChatGPT API What's the difference?
-![](https://assets-v2.circle.so/8ugtnecd6as5d6n7fuyln3hbxkvl)
-## ⚙️ What can it do?
-**✅ Basic Functions**✅ Basic Functions
+OpenAI announced a major functional extension of **Responses API** to open up more modular capabilities to developers, making AI applications to construct multi-model, complex task chains easier, more manageable and stronger.
+Responses API is used mainly for **building intelligent applications, i.e. intelligent applications with the ability to "think for themselves + call for tools".
+** What's the difference between it and the tradition ChatGPT API?**
+(https://assets-v2.circle.so/8ugtnecd6as5d6n7fuyln3hbxkvl)
+# What can it do?
+** Basic function**
 
-- Answer the question.ChatWriting.Summary, etc.Similar ChatGPT APII'm not sure what I'm talking about.
+- Answer questions, chats, writings, summaries, etc. (like ChatGPT API)
 
-**🔧 Add“At the end of the day,Tool CallIt's not a good idea, it's not a good idea.CapacityTool CallingI'm not sure what I'm talking about.**🔧 Add“At the end of the day,Tool CallIt's not a good idea, it's not a good idea.CapacityTool CallingI'm not sure what I'm talking about.
-It's okay. AI Automatically call the following tools-
+** Add Tool Calling**
+The following tools can be automatically called by AI:
 
-- 🔍 WebSearch-Find up-to-date information in real time
+-  Web search: real-time search for up-to-date information
 
-- 📂 File Search-Finds and analyzes the files uploaded by the user
+-  File search: search and analyse files uploaded by users
 
-- 💻 Code Interpreter-Run CodePaintingMathematical questions
+- Code Interpreter: running code, drawing, math
 
-- 🖼 Image Generation Tool-Generate pictures from text
+-  Image Generation Tool: Images generated from text
 
-- 🌐 Remote MCP Tools-Connect to other systemsLike StripeShopifyTwilio Wait.I'm not sure what I'm talking about.
+- Remote MCP tool: Connect to other systems (e. g. Stripe, Shopify, Twilio, etc.)
 
-**🧠 Enhanced“At the end of the day,Smart thinking.It's not a good idea, it's not a good idea.**🧠 Enhanced“At the end of the day,Smart thinking.It's not a good idea, it's not a good idea.
+** The enhanced “intelligent thinking”**
 
-- Models can work.“At the end of the day,Chain thinking.I'm not sure what I'm talking about.Chain of ThoughtThis is the first time I've ever seen you.There's a lot of reasoning in one answer.A phased call toolI don't know.
+- Models can be “chained thinking” (Chain of Thought), multi-step reasoning and phased-in tools in one response.
 
-- Support **Reasoning Summary**Reasoning Summary-Look at how the model gets the answer one step at a time.I don't know.
+- Support **Reasoning Summer**: Seeing how models step by step to come up with answers.
 
-**⏱ Backstage ModeBackground ModeI'm not sure what I'm talking about.**⏱ Backstage ModeBackground ModeI'm not sure what I'm talking about.
-It's okay. AI Stepping up a complex task.Like a long search.AnalysisDrawingThis is the first time I've ever seen you.Don't worry about the time-out.I don't know.
+** Backstage mode (Background Mode)**
+AI can be allowed to do complex tasks (such as long search, analysis, drawing) without fear of time-lapse.
 
-### 🧪 Let me give you an example.-Responses API Usage
-You can use it. Responses API Build one“At the end of the day,Finance consultant AII'm not sure what I'm going to do.It can do it.-
-Read your upload. Excel ReportsSearch through file);
-Analyse data and generate graphsPass. Code Interpreter);
-Search for recent financial news.Pass. Web search);
-Final export of a professional financial analysis reportI don't know.
-You just have to call once. API It will automatically complete all tasks in stages.I don't know.
+# Let me give you an example: the use of Responses API
+You can build a "financial consultant AI" with Responses API, which can do:
+Read your Excel report uploaded (searched through file);
+Analyse the data and generate graphs (by Code Interpreter);
+Search for recent financial news (through Web search);
+Finally, a professional financial analysis report is produced.
+You just call the API once, it'll automatically phase out all the tasks.
 
-## 🧩 Add a new function at a glance-
+#  Add a new feature at a glance:
 
-### 1. ✅ **Remote MCPModel Context ProtocolI'm not sure what I'm talking about.Server support**Remote MCPModel Context ProtocolI'm not sure what I'm talking about.Server support
+## 1.  ** Remote MCP server support**
 
-- Now the developers can put the context in.ContextI'm not sure what I'm talking about.Expand from Local to Remote MCP Services
+- Developer can now extend context (Context) from local to remote MCP service
 
-- Connect models to any of them through several lines of code MCP Server Hosting ToolI don't know.
+- A tool to connect the model to any MCP server hosted through several lines of code.
 
-- It's good to build a big one.Multi-sourceDistribution AI Apply
+- To build large, multi-source, distributed AI applications
 
-- Make context construction more modularSafer.Shareable
+- Making context construction more modular, safer and shared
 
-- OpenAI I'm in. MCP It's... it's... it's... steering committee Advancing the development of the agreementI don't know.
+- OpenAI also joined MCP's steering committee to push the deal forward.
 
-- Supported MCP Suppliers included-CloudflareStripeTwilioShopifyPayPalZapier Wait.I don't know.
-![](https://assets-v2.circle.so/d8ahy7o3kc02n7qgjcvekmm08flf)![](https://assets-v2.circle.so/kvuse3uufh4ro1kyr16xukbw133d)
+- MCP suppliers supported include: Cloudflare, Stripe, Twilio, Shopify, PayPal, Zapier, etc.
+_ (https://assets-v2.circle.so/d8ahy7o3kc02n7qgjkvekmk08flf) _ (https://assets-v2.circle.so/kvuse3ufh4ro1kyr16xukbw133d)
 
-### 2. 🖼️ **Image Generation Function Access Responses API**Image Generation Function Access Responses API
+##2.  ** Image Generations Access Responses API**
 
-- gpt-image-1 Model image generation can be used as a tool in collaboration with language models
+- gpt-image-1 model image generation can be used as a tool in collaboration with language models
 
-- Will gpt-image-1 Models as built-in tools Support real-time preview and multi-cycle editingI don't know.
+- Use the gpt-image-1 model as an in-house tool to support real-time preview and multi-cycle editing.
 
-- Developer can call image generation directly in the reasoning process And gradually optimise the results.I don't know.
+- Developers can directly call for image generation in the reasoning process and progressively optimize results.
 
-- Support**Fluid Preview Images**Fluid Preview Images-Real-time visualization of the generation process
+- Supports **stream preview of images**: generating processes that can be visualized in real time
 
-- **Support multi-wheel image editing**Support multi-wheel image editing-Gradually fine-tune image details Fits for creative scenes.
+- **In support of multi-wheel image editing**: step-by-step refinement of image details to fit the creative scene
 
 
-### 3. 🧮 **Code InterpreterAdvanced Code ToolI'm not sure what I'm talking about.Access Responses API**Code InterpreterAdvanced Code ToolI'm not sure what I'm talking about.Access Responses API
+#3  **Code Interpreter (Advanced Code Tool) Access Responses API**
 
-- Through Responses API Use Data analysis availableImage Processingsolves complex math and programming problemsI don't know.
+- Data analysis, image processing, complex mathematical and programming problems can be solved using Responses API.
 
-- For-
+- For:
 Data analysis
 
-- Math Operations
+- Mathematical operations.
 
-- Programming Calculating
+- Programming calculations
 
-- **Image Understanding Task**Image Understanding TaskLike“At the end of the day,Look at the chart and think.It's not like it's going to happen.
+- **Image understanding task** (e.g., “Look at the picture thinking”)
 
-Support OpenAI o3 and o4-mini Increased chain reasoning.Chain-of-ThoughtI'm not sure what I'm talking about.
-📎 Official note
+Support OpenAI o3 and o4-mini, upgrade chain reasoning (Chain-of-Thought)
+• Official statements
 
-### 4. 📂 **File Search Support Upline**File Search Support Upline
+##4.  ** File search support online**
 
-- The relevant document paragraphs can be found using the reasoning modelchunkI'm not sure what I'm talking about.
+- The relevant document paragraph (chunk) can be found using the reasoning model
 
-- Support-
-**Two vector databases searched simultaneously**Two vector databases searched simultaneously
+- Support:
+** Two vector databases searched simultaneously**
 
-- **Properties FilterArray-based Attribute FilteringI'm not sure what I'm talking about.**Properties FilterArray-based Attribute FilteringI'm not sure what I'm talking about.
+- **Array-based Attribute Filtering**
 
-📎 View File Search Example
+View file search examples
 
-### 5. ⚙️ **Add Developer Support**Add Developer Support
+##5. **New Developer Support**
 
-- **🔙 Background mode**🔙 Background modeRun asynchronous tasks There is no need to block the current request.📎 Description Document
+- **Background mode** running an asynchronous task without blocking the current request to specify the document
 
-- **🧠 Reasoning Summaries**🧠 Reasoning SummariesQuick view the path of reasoning within the model Facilitating debugging and evaluation
+- **Reasoning Summers** quick look at the path of reasoning within the model to facilitate debugging and evaluation
 
-- **🔐 Encrypted Reasoning Items**🔐 Encrypted Reasoning ItemsAllow in ZDRZero Data RetentionI'm not sure what I'm talking about.Organisation cross-requests re-use reasoning📎 More information
+- **Encryped Reasoning Items** allows cross-requesting re-use of reasoning in ZDR (Zero Data Retion)
 
-## 💰 Prices and availability
-![](https://assets-v2.circle.so/5d3nio1529mzyc1mvy8wlya65rlw)Support Model-GPT-4o SeriesGPT-4.1 SeriesOpenAI o1/o3/o4-mini SeriesI don't know.Image generation function only o3 Medium supportI don't know.
-Official presentation-https://openai.com/index/new-tools-and-features-in-the-responses-api/
+# Prices and availability
+[] (https://assets-v2.Circle.so/5d3nio1529mzyc1mvy8wlya65rlw) support models: GPS-4o series, GPS-4.1 series, OpenAI o1/ o3/o4-mini series. Image generation functions are supported only in o3.
+Official presentation: https://openai.com/index/new-tools-and-features-in-the-responses-api/

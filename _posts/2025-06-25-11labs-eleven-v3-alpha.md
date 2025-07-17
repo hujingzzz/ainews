@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 11Labs Launch Eleven v3Alpha VersionI'm not sure what I'm talking about. —— The most powerful text-to-speech model ever. “At the end of the day,It's not just talking. It's still acting.It's not a good idea, it's not a good idea.
+title: 11Labs Launched Eleven v3 (Alpha Version) - The most powerful text-to-speech model ever-"Not only speak, but act."
 date: 2025-06-25 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/11labs-eleven-v3-alpha_1.jpg
@@ -9,78 +9,78 @@ icon: link
 * content
 {:toc}
 
-* content
+♪ Come on, come on, come on, come on, come on, come on ♪
 {:toc}
-ElevenLabs A new generation of text-to-sounding models were launched **Eleven v3Alpha VersionI'm not sure what I'm talking about.**Eleven v3Alpha VersionI'm not sure what I'm talking about. That's the most powerful thing you've ever done. TTS One of the models. Support 70 MultilingualismNatural dialogue among multiple actors ♪ And pass through ♪ [sad][whispers][laughs] When audio tags accurately control voice emotion and non-verbal expressionI don't know.
-Compared to old version v3 Increased ability to understand texts It simulates a break in the real conversation.Emotional changes and tone adjustmentsI don't know.It makes it very suitable for video creation.Sounded book production and media tool developmentI don't know.
-**Characteristics**Characteristics-
+Eleven Labs has launched a new generation-wide text-to-language model **leven v3 (Alpha version)**, which is one of the most powerful TTS models at present, supporting natural dialogue between multiple languages and actors, as well as precision control of speech sentiment and non-language expression through audio labels such as [sad], [whopers], [laghs].
+V3 has a stronger text-comprehensive ability to simulate interruptions, emotional changes, and tone adjustments in real conversations than in the old version. This makes it very suitable for video creation, audio book production, and media tool development.
+** Features**:
 
-- Support **70+ Languages**70+ Languages
+- Support **70+ Language**
 
-- Support **Multi-role dialogue**Multi-role dialogue
+- Support ** Multi-Role Dialogue**
 
-- Support**Audio Label**Audio LabelLike [sad][laughs][whispers] Wait.I'm not sure what I'm talking about.To control emotions and performance.
+- Support** audio tags** (e.g. [sad], [lughs], [whisters] etc.) to control emotions and performance
 
-- v3 It's a research preview. Need a higher level of hint project But it worked very well.
+-V3 is a research preview, requiring a higher level of alert work, but it's very good at generating it.
 
-- The new architecture has a deeper understanding of the text It's a more expressive voice.
+- The new architecture has a deeper understanding of the text and allows for a more expressive voice
 
-- Simulation of reality dialogue**Emotion.Interrupt.Changes in tone**Emotion.Interrupt.Changes in tone
+- Simulation of emotions, interruptions, tone changes in the reality dialogue**
 
-- We're about to open. API Interface Support for creators and developers
-
-
-## 🌟 V3Main upgrade bright spot overview
-
-### ✅ 1. **Emotion.+Command+Sound → It's more serious.**Emotion.+Command+Sound → It's more serious.
-v3 Support a whole new one.「**Audio Labelaudio tagsI'm not sure what I'm talking about.**Audio Labelaudio tagsI'm not sure what I'm talking about.」 The developers or creators can control the voice.-
-
-- Emotion.Angry.Happy.Nervous.Calm down and wait.I'm not sure what I'm talking about.
-
-- ♪ The emphasis and the tone ♪
-
-- PauseSpeed of speechSound MixLike“At the end of the day,Laughing.I'm sorry, I'm sorry, I'm sorry, I'm sorry.Screaming.It's not like it's going to happen.
-
-🌈 Example:-You can generate something. From「Keep your voice down.」Transition「Laughing hysteria.」 Add background sound Let the listener immerse himself in it.I don't know.
-
-### ✅ 2. **Multiple rolesCross-cutting capacity for dialogue**Multiple rolesCross-cutting capacity for dialogue
-
-- Support **Two or more roles**Two or more rolesNatural interaction;
-
-- Support**Synchronization of context and emotional alignment**Synchronization of context and emotional alignment;
-
-- You can set a break in the dialogue.I'm talking to you.Humorous and so on.;
-
-- Simulate the real human conversation scene. It's more fluid than any previous version.I don't know.
+- I'm about to open the API interface to support creators and developers
 
 
-### ✅ 3. **Language overwrite-70+ Language support**Language overwrite-70+ Language support
-Compare to v2 It's... it's... it's... 29 Languages **v3 More than currently supported 70 Languages**v3 More than currently supported 70 Languages Overwrite-
+#  V3 main upgrade highlights
 
-- All mainstream languagesEnglishChineseFrenchSpanishArabic, etc.I'm not sure what I'm talking about.
+# # 1. ** Emotion + Command + Sound *
+v3 Supports a new version of "**audio tags"**, where developers or creators can control voice:
 
-- Small regional languagesSinhalaKyrgyzUrdu, etc.I'm not sure what I'm talking about.
+- Emotions. (Anger, happy, nervous, calm, etc.)
 
-🎯 Use- Non-English podcastsGlobal soundingLocalize Audio Content GenerationI don't know.
-![](https://assets-v2.circle.so/oip0q3rh4t0m30zen48zsw7btzj4)
-### ✅ 4. **Text to DialogueText to DialogueI'm not sure what I'm talking about.New Mode**Text to DialogueText to DialogueI'm not sure what I'm talking about.New Mode
-It's... v3 One of the most powerful.-
+- Emphasis and tone.
 
-- Adoption of plain text Automatically separate rolesVoiceSound Shape「Dialogue Audio」;
+- Pauses, speeds, mixes of sound (e.g. laughter, screams)
 
-- There's no need to mark roles or tone at the end of the sentence. The system will automatically judge.;
+Example: You can generate a piece that moves from a "low voice" to a "hysteric laugh" and adds a background sound that allows the listener to immerse in it.
 
-- The resulting dialogue is extremely productive and consistent. It's for audio plays.Game dialogueAdvertisement, etc.I don't know.
+# 2. ** Multi-player, cross-interruptment of dialogue**
+
+- Support for natural interactions ** two or more roles**;
+
+- Support for **synchronous context and emotional matching**;
+
+- Interruption, talk-making, humor, etc., can be set up in the dialogue;
+
+- Simulation of real human dialogue scenes that are more fluid than any previous version.
 
 
-## v2 and v3 Contrast
-![](https://assets-v2.circle.so/o6z3wxmbhc7u7e8ysxwhy9bzkn24)
-### **Which labels are supported**Which labels are supported
+##  3. ** Language coverage: 70+ Language support**
+Compared to the 29 languages in v2, **v3 currently supports more than 70 languages** and covers:
 
-- Emotional-[ANGRY], [LAUGHS], [WHISPERS]
+- All mainstream languages (English, Chinese, French, Spanish, Arabic, etc.)
 
-- Action class-[SHOUTING], [SIGHING]
+- Small regional languages (Sanjaro, Kyrgyz, Urdu, etc.)
 
-- Sound Class-[EVIL LAUGH], [GIGGLE]Detailed Label Reference-Prompting Guide 🔗
+Use: Non-English podcast, global sounding, localised audio content generation.
+!" (https://assets-v2.circle.so/oip0q3rh4t0m30zen48zsw7btzj4)
+# 4. ** Text to Dialogue New Mode**
+This is one of the most powerful capabilities in v3:
 
-Official presentation-https://elevenlabs.io/v3
+- Automatically woven different roles, tone and sound into "dialogue audio" through plain text;
+
+- Without the need to mark the role or tone of each sentence, the system will automatically judge;
+
+- The dialogue generated is extremely active and consistent and applies to audio dramas, game dialogue, advertising, etc.
+
+
+# v2 versus v3
+!" (https://assets-v2.circle.so/o6z3wxmbhc7u7e8ysxwhy9bzkn24)
+# ** Which labels do you support?**
+
+- Emotions: [ANGRY], [LAUGHS], [WHISPERS]
+
+- Action class: [SHUTING], [SIGHING]
+
+- Sound class: [EVIL LAUGH], [GIGGLE] Label detail: Promising Guide
+
+Official presentation: https://elevenlabs.io/v3

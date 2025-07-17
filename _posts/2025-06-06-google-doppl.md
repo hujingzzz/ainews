@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GoogleIt's got a new name. Doppl New Test Appliance Uploading photos or screenshots makes it possible to try any costume. It'll keep you moving.
+title: Google has launched a new pilot app called Doppler.
 date: 2025-06-06 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-doppl_1.jpg
@@ -9,60 +9,60 @@ icon: design
 * content
 {:toc}
 
-Google Labs It's got a new name. **Doppl**Doppl New applications It's designed to help users upload photos or screenshots. Virtually trying on any costume. And better explore and express personal style.I don't know.
-All you have to do is take a picture. Or a screenshot of a dress you saw on social media. Upload to Doppl It will automatically put this dress in.“At the end of the day,Wear it.It's not a good idea, it's not a good idea.To an animated version of you. It's even moving. Just like you walked in front of the mirror. Look at the effect of the top of the dress.I don't know.
-Its main features.-
+Google Labs has launched a new application called **Doppl**, which aims to help users to upload photos or screens, to virtualize random clothing and to better explore and express their personal style.
+You just take a picture, or you take a screenshot of a dress you saw in the social media, and you upload it to Doppler, and it'll automatically “dress” it to an animated version of you, and even move, like you walk in front of the mirror, and look at the effect of the top.
+Its main features are:
 
-- **Try anything.**Try anything.-See what you like. Take a picture or a screenshot and try it.I don't know.
+- ** Try any clothes**: See what you like, take a picture or a screenshot.
 
-- **Generate Dynamic Video**Generate Dynamic Video-It's not just pictures. It'll show you the effect of wearing it like a short video.I don't know.
+- ** Generate dynamic video**: not just photos, but also wear effects like short videos.
 
-- **Support saving and sharing**Support saving and sharing-Satisfied shapes can be saved or distributed directly to friends.I don't know.
+- ** Supports conservation and sharing**: Satisfactory models can be saved directly or sent to friends.
 
-- **It's only available in the United States.**It's only available in the United States. Support iOS and AndroidI don't know.
+- ** Currently available only in the United States**, supporting iOS and Android.
 
 
-### Doppl What can I do?
-**Try it on at any time.**Try it on at any time.-You saw a nice suit on social media. Or find someone in the street with a nice dress. Just take a picture or a picture. You can upload it. Doppl Try it on right now to see if it suits you.I don't know.
-![](https://assets-v2.circle.so/4tjlf3vvqk77u07immaxg452so6a)**Generate animated effects**Generate animated effects-Doppl Not just static pictures. It's still going through. AI Technology makes a short video of the spin-off effect. Show you the dynamic properties of clothes when they move. Like the fabric swings.Overall contour changes, etc.I don't know.
-![](https://assets-v2.circle.so/qvub5fq5idpozy9wnwcnigi6tier)**Record and share your style.**Record and share your style.-If you try to wear a satisfactory look, It can be saved. Or share it directly with friends.I don't know.
-![](https://assets-v2.circle.so/6htv7je2cle6jbk9fgh1xpqf1ck4)
-### What's the difference between it and the virtual dress before?
-Google Yes. 2024 I've been there since the year. Google Shopping It's a virtual audition. But it was characterized by the fact that it was only possible to test the product supplied by the merchants. It's a static image.I don't know.Now. Doppl Could not close temporary folder: %s It's introduced a few important changes.-
+# What can Dopl do?
+** At any time **: You see a nice outfit in social media or you find someone's clothes in the street that you can upload to Dopl and try it right now.
+(https://assets-v2.circle.so/4tjlf3vvvqk77u07immaxg452so6a)** Generates animated effects**: Dopp not only display static images, but also make the mix effect short video via AI technology to show the dynamic properties of clothes as they move in the body, such as fabric swings, changes in overall contours, etc.
+(https://assets-v2.circle.so/qvub5fq5idpozy9wwcnigi6tier)** Record and share your style**: if you try to wear a satisfactory pattern, you can either save it or share it directly with your friends for information.
+!" (https://assets-v2.circle.so/6htv7je2cle6jbk9fgh1xpqf1ck4)
+# How is it different from the previous virtual dress?
+Google was already online in Google Shopping in 2024, but it was characterized by a commercial product and static images. The Doppler is now a further upgrade, which introduced several important changes:
 
-- **Unlimited brands or platforms**Unlimited brands or platforms-Any form of clothing and photographs can be tried on. It's no longer limited to the power provider platform itself.I don't know.
+- ** Unlimited brands or platforms**: photos of clothing from any source can be tested and are no longer limited to the electric platform itself.
 
-- **From static image to dynamic representation**From static image to dynamic representation-AI It'll generate an animated version of you. Makes it more real.I don't know.
+- ** From static images to dynamic representation**: AI will generate animated versions of you, making the test clothes more real.
 
-- **Emphasis on style exploration and personal expression**Emphasis on style exploration and personal expression-Not only does it serve“At the end of the day,Buy clothes.I'm not sure what I'm going to do.It's about guiding users into what they like.For what?I don't know.
+- ** Emphasis on style exploration and personal expression**: Not only does it serve to “buy clothes”, but it guides users to what they like and what they fit.
 
-### What's missing or something that needs attention?
-Current Doppl It's still in the experimental phase. So there are limitations.-
+# What's lacking or something that needs attention?
+Doppl is still in the experimental phase, so there are some limitations:
 
-- **It's limited.**It's limited.-Sometimes the clothes show the material.It doesn't necessarily match the layout or the color. Especially in light.ColourIn a situation where the body's more complex.I don't know.
+- ** Limited degree of authenticity**: Sometimes the material, layout or colours of the clothes are not necessarily and actually matched, especially in light, colour, and physical postures that are more complex.
 
-- **Data privacy issues**Data privacy issues-It's not clear. But uploading personal photos for use AI Model analysis and generation There are some privacy issues involved. Especially the use of face and body images.I don't know.
+- ** Data privacy**: Although not specified, uploading personal photographs for AI model analysis and generation may involve a number of privacy issues, in particular the use of face and body images.
 
-- **Area restrictions**Area restrictions-It's only in the U.S. for now. Other countries not yet openI don't know.
+- **Regular restrictions**: Currently only in the United States and not yet in other countries.
 
-**🚫 Current unsupported type**🚫 Current unsupported type
+**  Type not currently supported**
 
-- Shoes.Undergarments.Swimming suit.Decorations
+- Shoes, lingerie, swimsuits, accessories.
 
-- Religious or traditional national dressComplex or culturally sensitive costumes like role-playing costumes.
+- Complex or culturally sensitive clothing such as religious or traditional ethnic dress, role-playing clothing, etc.
 
-- Visual dress or violation AI Clothing for content policy
+- Visual dress or clothing that violates the AI content policy
 
-- Doppl It will automatically complete the missing parts. Like you just uploaded the top. It may automatically add pants and shoes to form a complete shape.
+- Doppler will automatically fill the missing parts, like you uploaded the top, and it may automatically add pants and shoes to make a complete shape.
 
-### What scenes can it use?
+# What scenes can it use?
 
-- **A pre-shopping match-check.**A pre-shopping match-check.-Reducing the likelihood of return due to inappropriatenessI don't know.
+- ** pre-shopping match certification**: reduced likelihood of return due to inappropriateness.
 
-- **I'm going to get a sense of what I'm going to do.**I'm going to get a sense of what I'm going to do.-Make the user dare to try more different styles To judge quickly what's right for you.I don't know.
+- ** Get in touch with inspiration**: Makes users dare to try more different styles and quickly judge what suits themselves.
 
-- **Content creation or fashion sharing**Content creation or fashion sharing-For content creators. It's a more efficient way to show the effects of the costume.I don't know.
+- ** Content creation or fashion sharing**: For content creators, dress effects can be shown more efficiently.
 
-- **Auxiliary decision-making**Auxiliary decision-making-DateTake a picture.You can use it before you travel. Doppl Let's make a couple of shapes to choose.I don't know.
+- **Auxiliary decision-making**: Dates, photographs, travels can be selected using Doppl's first set of models.
 
-![](https://assets-v2.circle.so/4f0as19nyxocffnf35vsi1bnva9b)Doppl It's now in the United States. iOS and Android Platform onlineI don't know.
+Dopl (https://assets-v2.Circle.so/4f0as19nyxocfffff35vsi1bnva9b) is now online on iOS and Android platforms in the United States.

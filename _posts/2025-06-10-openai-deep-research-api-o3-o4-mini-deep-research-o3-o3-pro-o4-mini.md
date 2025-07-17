@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenAI Launch Deep Research API ♪ And publish ♪o3/o4 mini-Deep-Research Model o3o3-pro and o4-mini Network search is now supported
+title: OpenAI rolls Deep Research API and publishes o3/o4 mini-Dept-Research models O3, o3-pro and o4-mini now supports web search
 date: 2025-06-10 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/openai-deep-research-api-o3-o4-mini-deep-research-o3-o3-pro-o4-mini_1.jpg
@@ -9,63 +9,62 @@ icon: game
 * content
 {:toc}
 
-Deep Research API Yes. OpenAI Advanced level provided API Interface For**AutomationStructured and real information-based research missions**AutomationStructured and real information-based research missions Support for complex missions-
+Deep Research API is an advanced API interface provided by OpenAI to support complex tasks ** Automation, structuralization and real information-based research missions**:
 
-- Rationale.Reasoning);
+- Resoning;
 
-- PlanningPlanning);
+- Planning;
 
-- Synthesis of informationSynthesis);
+- Synthesis;
 
-- Real-time search and data processingWeb Search + Code Interpreter);
+- Real-time search and data processing (WebSearch + Code Interpreter);
 
-- Quoting labelling and source transparencyCitation-Backed Reports);
+- Citation of labels and transparent sources (Citation-Backed Reports);
 
-- Multistep mission trackingAgent-like execution tracing);
+- Multiple-step mission tracking;
 
-It's a...“At the end of the day,Agentic Research PipelineI'm not sure what I'm going to do.♪ To provide far beyond ♪ ChatGPT Research controlI don't know.
-![](https://assets-v2.circle.so/cbn4lqh4wotyraksqz4xptvq6wtk)OpenAI Two more were introduced specifically for in-depth research missions. API Model
+It is a “Agentic Research Pipeline” that provides far more research control than ChatGPT.
+(https://assets-v2.circle.so/cbn4lqh4wotyraksqz4xptvq6wtk) OpenAI also launched two API models specifically designed to optimize in-depth research missions
 
-- **o3-deep-research06-25I'm not sure what I'm talking about.**o3-deep-research06-25I'm not sure what I'm talking about.-Based on o3 Model Applicable to tasks requiring in-depth analysis and high-quality output Slower.I don't know.Pricing per100Ten thousand in tokens.10United States dollars Every100Ten thousand-out tokens.40United States dollarsI don't know.
-![](https://assets-v2.circle.so/qnvinzyitibihf7d8vqueadc3yo5)
-- **o4-mini-deep-research06-25I'm not sure what I'm talking about.**o4-mini-deep-research06-25I'm not sure what I'm talking about.-Based on o4-mini Model Provide faster.More economical choices Fits for application sensitive to delayI don't know.Pricing per100Ten thousand in tokens.2United States dollars Every100Ten thousand-out tokens.8United States dollarsI don't know.
-![](https://assets-v2.circle.so/70w78ynckh16ngkavly9ala39ggu)
-These two models can automatically plan sub-problems. Tools such as web search and code execution Generate StructureReport with citation Applicable to financeScientific researchAreas such as policy analysisI don't know.
-These two models are...ChatGPTIn-depth study functiono3ando4-miniPost-training version of the modelI don't know.They support advanced functions. LikeMCPSearch/Get.Code Interpreter And can be accessed through the Internet or through the Internet.MCPSynthetic information from user data introduced by the connectorI don't know.They are designed for complex multi-step research missions.I don't know.
-Details-
-https://platform.openai.com/docs/models/o3-deep-research 
+- **o3-deep-research (06-25)**: Based on o3 models, for tasks requiring in-depth analysis and high-quality output, at a slower pace. Pricing is $10 per million in a currency, at $40 per 1 million output.
+(https://assets-v2.circle.so/qnvinzyitibihf7d8vqueadc3yo5)
+- **o4-mini-deep-research (06-25)**: Based on the o4-mini model, provide faster and more economical options suitable for a delayed-sensitive application. Pricing is $2 per million input, at $8 per 1 million output.
+(https://assets-v2.circle.so/70w78ynchkh16ngkavly9ala39ggu)
+These two models allow for automatic planning of sub-problems, using tools such as web search and code enforcement to generate structured and referenced reports that apply to areas such as finance, scientific research and policy analysis.
+These models are later training versions of the o3 and o4-mini models used in the ChatGPT in-depth research function. They support advanced functions such as MCP (search/access), code interpreter, and can synthesize information from user data imported through the Internet or through the MCP connector. They specialize in complex multi-step task design.
+Details:
+https://platform.openai.com/docs/models/o3-deep-research
 https://platform.openai.com/docs/models/o4-mini-deep-research
 
-## **Network Search Enhancement-**Network Search Enhancement- 
+# **Web search enhanced:**
 
-- o3o3-pro and o4-mini Network search is now supported Allow them to do web searches in the process of their thinking chain.I don't know.
+- o3, o3-pro and o4-mini have now supported web searches, allowing them to perform web searches in the course of the thinking chain.
 
-- **Pricing**Pricing-Yeah. o3o4-mini and its in-depth study version Call cost per web search tool 1,000 Sub-calls $10
+- ** Pricing**: For o3, o4-mini and its in-depth research version, page search tool calls cost $10 per 1,000 calls
 
-- 4oand4.1The price of the model's web search is reduced to every1000Number of times25United States dollars Search for ContentstokenBased on model ratesEvery1,000Sub-calls10United States dollarsThis is the first time I've ever seen you.Addo3ando4-miniCurrency rate for model inputI don't know.
+- Web search prices for the 4o and 4.1 models have been reduced to $25 per 1,000 and search content totoken at model rates (US$ 10 per 1,000 calls) plus currency input rates for the o3 and o4-mini models.
 
-- This allows developers to use web search features. Cost is more manageable Suitable for building applications that require real-time access to informationI don't know.
+- This makes the costs more manageable for developers when using web search features and is appropriate for building applications that require real-time access to information.
 
-Details-https://platform.openai.com/docs/guides/tools-web-search?api-mode=responses
+Further details: https://platform.openai.com/docs/guides/tools-web-search?api-mode=responses
 
-## Assembled incident processing support Webhooks
-OpenAI API Supported for adoption now Webhooks We're going to do an asymptomatic process.I don't know.
+# Atrocity processing supports Webhooks
+OpenAI API now supports an asynchronous incident management through Webhooks.
 This means you can receive a real-time notification when the following events occur:
 
-- Batch task complete.
+- Batch work done.
 
-- Backstage response generation
+- Backstage response generation.
 
-- Fine-tuning job complete.
+- Fine-tuning done.
 
-By Settings Webhook Your system can be informed as soon as the incident occurs. There's no need for a continuous round of questioning. API And that's what makes it more efficient.I don't know.
-Details-https://platform.openai.com/docs/guides/webhooks 
+By setting up Webhook, your system can be informed as soon as an incident occurs, and there is no need for a continuous round-up of APIs, thereby increasing efficiency.
+Further details: https://platform.openai.com/docs/guides/webbooks
 
-## **Activity announcements-**Activity announcements-
-OpenAI DevDay 2025To be determined2025Year10Month6In San Francisco.I don't know.
-This event is considered to be the largest so far. It's expected to exceed.1,500Developer attends.I don't know.
-The event will include live opening keynote addressesA hands-on build-up with the latest models and toolsMultistage displays and more demonstrationsI don't know.
-![](https://assets-v2.circle.so/1e71n5fut684tx0a0hu1oe719cln)Registration-https://www.devday.openai.com/
+# ** Activity bulletin:**
+OpenAI DevDay 2025 is scheduled to take place in San Francisco on 6 October 2025.
+The event is considered the largest to date and is expected to involve more than 1,500 developers.
+The event will include live opening keynote addresses, hands-on build-up with up-to-date models and tools, multistage presentations and more presentations.
+https://assets-v2.circle.so/1e71n5fut684tx0a0hu1oe719clm)
 
-### 
-
+# I'll be right back #

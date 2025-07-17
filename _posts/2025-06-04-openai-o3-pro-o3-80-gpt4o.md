@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenAI Introduction of a new generation model o3-Pro It's a huge improvement in performance. o3Prices are falling.80% By comparisonGPT 4o It's cheap.
+title: OpenAI to launch a new generation of models for o3-Pro performances that are significantly improved by 80% below the price of o3 that is cheaper than GPT 4o
 date: 2025-06-04 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/openai-o3-pro-o3-80-gpt4o_1.jpg
@@ -9,75 +9,75 @@ icon: book
 * content
 {:toc}
 
-OpenAI Formal launch of the new generation model o3-pro It's now available to all ChatGPT Professional editions and API User Open It will soon be extended to the corporate and educational versions.I don't know.Compared to previous versionLike o3 and o1-proThis is the first time I've ever seen you.o3-pro Significant improvements have been achieved in a number of areasI don't know.The expert judges highly value it in science.EducationData analysisCapacity in areas such as writing and programming And it says it's expressing clarity.Content integrityGreater compliance with instructions and accuracyI don't know.
+OpenAI officially launched a new generation model, O3-Pro, which is now open to all ChatGPT professional and API users and will soon be extended to the corporate and educational versions. Compared to previous versions (e.g. o3 and o1-Pro), O3-Pro has achieved significant improvements in a number of ways. The expert review highly evaluated its capabilities in the fields of science, education, data analysis, writing and programming, and noted that it is more excellent in terms of clarity, integrity of content, compliance with directives and accuracy.
 
-- **The expert assessment indicates that**The expert assessment indicates that-Compare o3 o3-pro Improved performance in a number of key areas Including science.EducationProgrammingData analysis and writingI don't know.
+- ** The expert assessment indicates** that performance is better than that of o3,o3-pro in a number of key areas, including science, education, programming, data analysis and writing.
 
-- o3-pro Yes.**ClarityComprehensivenessHigher ratings in command compliance and accuracy**ClarityComprehensivenessHigher ratings in command compliance and accuracyI don't know.
+- O3-Pro rated higher ** clarity, comprehensiveness, command compliance and accuracy**.
 
-- Similar o1-pro **o3-pro Mathematics in academic evaluation.Excellent scientific and programming performance**o3-pro Mathematics in academic evaluation.Excellent scientific and programming performanceI don't know.
+- Similar to O1-Pro, **o3-Pro, excellent in mathematics, science and programming in academic assessment**.
 
-- Used OpenAI It's... it's... it's...“At the end of the day,**4/4 Reliability assessment**4/4 Reliability assessmentIt's not a good idea, it's not a good idea.To test model stability.——It's only successful if all the answers are correct four times.I don't know.
+- OpenAI's “**4/4 Reliability Assessment**” was used to test model stability - only if all of the four responses were correct will it be successful.
 
-- o3-pro It's working. ChatGPT Advanced Tools for the-**Network SearchDocumentation analysisImage recognitionPython ProgrammingPersonalization of memory, etc.**Network SearchDocumentation analysisImage recognitionPython ProgrammingPersonalization of memory, etc.I don't know.
+- O3-Pro has access to ChatGPT advanced tools: **Web search, file analysis, image recognition, Python programming, personalization of memory, etc.**
 
-- **o3-pro Default model to become a professional and team-based user from the very beginning Replace o1-pro**o3-pro Default model to become a professional and team-based user from the very beginning Replace o1-pro;Users of the corporate and educational versions will be granted access next weekI don't know.
+- **o3-Pro to become a default model for professional and team-based users from this very day on, replacing o1-pro**; users of enterprise and educational versions will be granted access next week.
 
-## Performance assessment
-In expert assessment It's more popular among judges. o3-pro Compare to o3 Emphasis on science.EducationProgrammingImproved performance in key areas such as data analysis and writingI don't know.
-o3-pro In ClarityComprehensivenessInstruction understanding and executionHigher scores in terms of content accuracy, etc.I don't know.
-![](https://assets-v2.circle.so/2tqnm5fltvhbxan3e6ti53ajyw4f)and o1-pro Similar o3-pro Mathematics.Scientific and programming excellence. This has been validated by the academic evaluation.I don't know.
-![](https://assets-v2.circle.so/6yt5p5yk0z3s5qw5e6jntrn14myf)
-### It's more stable.-4/4 Reliability criteria
-To verify the stability of the model OpenAI Used what's known as“At the end of the day,4/4 reliabilityI'm not sure what I'm talking about.All right in four.I'm not sure what I'm talking about.C. Criteria for critical assessmentI don't know.Only models can answer questions correctly in four consecutive attempts. That's why I think it's really reliable.I don't know.
-In this assessment, o3-pro It's more than smart, as it turns out. And stable.I don't know.
-![](https://assets-v2.circle.so/p78uv7u0jx6qj41ha8b3m5uulv4y)
-### **It's a good match to mainstream models.**It's a good match to mainstream models.
+# Performance assessment
+In expert assessments, evaluators generally prefer o3-pro to o3, emphasizing performance enhancement in key areas such as science, education, programming, data analysis and writing.
+O3-Pro obtained higher scores in terms of clarity, comprehensiveness, command understanding and execution, accuracy of content, etc.
+Similar to O1-Pro (https://assets-v2.circle.so/2tqnm5fltvhbxan3e6ti53ajyw4f), o3-pro has performed well in mathematics, science and programming, as demonstrated by the academic evaluation.
+!" (https://assets-v2.circle.so/6yt5p5yk0z3s5qw5e6jntrn14myf)
+# # More stable: 4/4 reliability standards
+In order to verify the stability of the model, OpenAI uses a rigorous evaluation criterion called "4/4 response" (all answers are correct in four). Only if the model is able to answer the question correctly in four consecutive attempts is it considered to be truly reliable.
+In this assessment, O3-Pro's performance proved not only that it was smart, but that it was stable.
+!" (https://assets-v2.circle.so/p78uv7u0jx6qj41ha8b3m5uulv4y)
+# ** Shows good against mainstream models**
 
-- Performance versus **Gemini 2.5 Pro**Gemini 2.5 Pro Quite. Smartness index is consistent in the assessment
+- Performance is comparable to **Gemini 2.5 Pro** and is consistent with the intelligence index in the evaluation
 
-- Smart is better than **Claude 4 Sonnet Thinking**Claude 4 Sonnet Thinking Units token Less cost.
+- Smart is better than **Claude 4 Sonnet Tinking**, but the unit cost is lower
 
-- It's the style of the answer. **How about that? Claude 4 Opus Long**How about that? Claude 4 Opus Long But...**By comparison Gemini 2.5 Pro and DeepSeek R1 It's simpler.**By comparison Gemini 2.5 Pro and DeepSeek R1 It's simpler.
-![](https://assets-v2.circle.so/69vzfr4ixlfoms8z32imyuihkljq)
+** Less concise than Claude 4 Opus** but ** than Gemini 2.5 Pro and DeepSeek R1**
+!" (https://assets-v2.circle.so/69vzfr4ixlfoms8z32imyuihkljq)
 
-## Tools Integration-It's not just a language model. He's a smart assistant.
-o3-pro It's more than that.“At the end of the day,Chatting.It's not a good idea, it's not a good idea.It's... it's... it's... AI It's a collection. ChatGPT All Advanced Tools To make it a truly multi-skilled, multi-skilled intellectual assistant.-
+# Tool integration: not only language models, but also intelligent assistants
+O3-pro is much more than "chat chat" AI, which brings together all the high-level tools of ChatGPT, making it a truly multi-skilled intellectual assistant:
 
-- 🔍 **Network Search**Network Search-Quick search and integration of real-time information
+-  **Web search**: quick search and integration of real-time information
 
-- 📁 **Documentation analysis**Documentation analysis-Reads and understands the contents of the upload
+-  Document analysis**: available for reading and understanding the contents of the uploaded document
 
-- 🧠 **Image recognition**Image recognition-Processable visual input Understand Images
+-  Image recognition**: capable of processing visual input and understanding images
 
-- 🐍 **Python Programming capacity**Python Programming capacity-Directly Run CodeProcessing of dataDraw drawings, etc.
+-  **Python programming capability**: direct operation code, data processing, drawing, etc.
 
-- 🧷 **Personal memory.**Personal memory.-Remember user preferences Continuously optimized interactive experience
+-  Personalized memory**: Keeping in mind user preferences and continuously optimizing interactive experiences
 
-## **o3Prices have fallen.80% By comparisonGPT 4oIt's even lower.**o3Prices have fallen.80% By comparisonGPT 4oIt's even lower.
+# **o3 prices down 80% below GPT 4o **
 
-- ✅ **OpenAI Will o3 The price of the model has been substantially reduced. 80%**OpenAI Will o3 The price of the model has been substantially reduced. 80%-Enter from per million/Output token It's... it's... it's... $8/$40 Down to $2/$8 Concurrently enter a cache token Provision **75% Discounts**75% DiscountsI don't know.o3 Pro Prices-Input-$2 / 100 A thousand medals. Output-$8 / 100 A thousand medals.
-o1-pro-600 United States dollars 
-o3-pro-20 United States dollars  
-o3-pro It's better than anything else. o1-pro Faster.SmarterMore powerful.I don't know.
-And it's cheap. 30 MultiplyI don't know.
-![](https://assets-v2.circle.so/3ta4garf7dffm1wc8827btng9fyn)
-- 🧮 **o3 Every token Cost already equals GPT-4.1 Pair**o3 Every token Cost already equals GPT-4.1 Pair-Price harmonization between reasoning and non-extremination models But because... o3 **The average output is... GPT-4.1 It's... it's... it's... 7 More or less.**The average output is... GPT-4.1 It's... it's... it's... 7 More or less. The actual cost per request is still higherI don't know.
+- **OpenAI substantially reduced the price of the o3 model 80%: from $8.40 per million input/output token to $2/ $8, while providing a **75% discount for cache input token**. o3Pro price: input: $2/ 1 million
+o1-Pro: $600
+o3-Pro: $20
+O3-Pro is better than O1-Pro in every way, faster, smarter and stronger.
+And it's 30 times cheaper.
+(https://assets-v2.circle.so/3ta4garf7ffm1wc8827btng9fyn)
+- **o3 The cost per token is equal to GPT-4.1**: The price is uniform between reasoning and non-extremistic models, but the actual cost per request is still higher due to o3 **the average output is about 7 times the GPT-4.1 **.
 
-**o3 Unit token Cost and cost GPT-4.1 Watch it.**o3 Unit token Cost and cost GPT-4.1 Watch it.
+**O3 unit token cost aligned to GPT-4.1**
 
-- Both of them.“At the end of the day,Every one. tokenIt's not a good idea, it's not a good idea.The price is the same.
+- The two are at the same price as "each token".
 
-- But it's better than that.GPT 4oIt's a lot lower.
+- But it's a lot lower than GPT 4o.
 
-- But because... o3 **Generated token Quantity approximately GPT-4.1 It's... it's... it's... 7 Multiply**Generated token Quantity approximately GPT-4.1 It's... it's... it's... 7 Multiply So...**It's more expensive to have a full query.**It's more expensive to have a full query.
+- But since the number of tokens generated by o3 ** is about 7 times as high as GPT-4.1 **,** the cost of a full query is higher**
 
-![](https://assets-v2.circle.so/9llcsb9v5m7vixufd3xj1oo7dak5)📉 **AI Smart costs are dropping fast.**AI Smart costs are dropping fast.-
+(https://assets-v2.circle.so/9llcsb9v5m7vifd3xj1oo7dak5) **AI smart costs are falling rapidly **:
 
-- GPT-4 The price of grade intelligence has been reduced since it was released. **100 More than**100 More than
+- GPT-4 level smarts have declined since their release **100 times more **
 
-- Trained to reach“At the end of the day,Advanced Smart ThresholdIt's not a good idea, it's not a good idea.Models of the Their economic thresholds continue to fall.
+- Trained models that meet the “advanced intelligence threshold” and whose economic thresholds continue to fall
 
-- User deployment AI The marginal cost of services continues to decline Promote more landing scenes.
-![](https://assets-v2.circle.so/36fqnt8j9grjvyx2dxx7ft9ohca1)![](https://assets-v2.circle.so/zpjc67nsj2vwt2zwp8rnllxu00an)![](https://assets-v2.circle.so/9j1aq7wac5milo5xum4cutiwk952)
-That means higher performance. AI Models are becoming more usable.Better suited for commercial integration and large-scale useI don't know.
+- The marginal cost of the AI service continues to decline for the user deployment, contributing to more landing scenarios
+_ (https://assets-v2.circle.so/36fqnt8j9grjvyx2dx7ft9ohca1) _[] (https://assets-v2.circle.so/zpjc67nsj2vwt2zwp8rnlxu00an) _ (https://assets-v2.circle.so/9j1aq7wac5milo5xum4cutiwk952)
+This means that the higher-performance AI model is becoming more usable and better suited for commercial integration and large-scale use.

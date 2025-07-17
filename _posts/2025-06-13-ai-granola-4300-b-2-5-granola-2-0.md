@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AINotewareGranolaDeclared4300 United States dollars B Wheel financing Valuations reached2.5Billions. It's been published at the same time.Granola 2.0Version
+title: The AI Notebook software Granola announced $43 million in B. Wheel financing, valued at $250 million, and released its Granola version 2.0.
 date: 2025-06-13 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/ai-granola-4300-b-2-5-granola-2-0_1.jpg
@@ -9,93 +9,93 @@ icon: web
 * content
 {:toc}
 
- AINotewareGranolaDeclared4300 United States dollars B Wheel financing Valuations reached2.5Billions.  It's been published at the same time.Granola 2.0Version
+The AI Notebook software Granola announced $43 million in round B financing, valued at $250 million, and released its Granola version 2.0.
 
-- **Financing**Financing-Completed 4300 United States dollars B Wheel financing By Nat Friedman & Daniel Gross Take the lead. Lightspeed and Spark Follow the pitch.
+- ** Finance **: $43 million has been completed B Rounded Finance, led by Nat Friedman & Daniel Gross, Lightspeed and Spark
 
-- **Investor background**Investor background-Coverage VercelReplitShopifyRampIntercom Waiting for the first-line technology product company's core.
+- **Investor background**: covers the core of First Line Technology Products Vercel, Replit, Shopify, Ramp, Intercom, etc.
 
-- **Strategic vision**Strategic vision-Will Granola It's caused.“At the end of the day,Smart collaboration platform based on a real-time business contextI'm not sure what I'm going to do.Not just to support the work. More supportive of thinking.
+- **Strategic vision**: Create Granola as an “intelligent collaborative platform based on a real-time business context” that not only supports work, but also supports thinking
 
-Granola 2.0 It's not just a meeting recording tool. It's just...**Translator of meetingsAIIntegration of analysis and team knowledge management**Translator of meetingsAIIntegration of analysis and team knowledge management Build one**“At the end of the day,Interactive conference knowledge systemIt's not a good idea, it's not a good idea.**“At the end of the day,Interactive conference knowledge systemIt's not a good idea, it's not a good idea.I don't know.
-![](https://assets-v2.circle.so/wwp68vmgj1he55qu2llnuuh9cnxz)It's a goal.-**Let's not lose the conversation that happens every day in the organization. It's captured systematically.Structured and used to support team decision-making and collaborationI don't know.**Let's not lose the conversation that happens every day in the organization. It's captured systematically.Structured and used to support team decision-making and collaborationI don't know.
-Yeah.-
+Granola 2.0 is not a mere meeting recording tool, but** integrates the meeting transcription, AI analysis and team knowledge management** and builds a ** “interactive conference knowledge system”**.
+(https://assets-v2.circle.so/wwp68vmgj1he55qu2llnuuh9cz) Its objective is to:** keep the daily dialogue in the organization from losing away, but be systematically captured, structured and used to support team decision-making and collaboration.**
+Could:
 
-- Automatically record the content of the meeting
+- Auto-record the content of the meeting
 
-- Points for extraction and action items
+- Extract points and action items
 
-- Smart analysis across multiple meetings
+- Intelligent analysis across multiple meetings
 
-- Provision of reference sourcesJump in Context
+- Provide reference sources, context jumps
 
  
-## Granola 2.0 The key function details.
+#Granola 2.0 Key Functions Detailed
 
-### 1️⃣ Shared Team Folder-Structural access to conference knowledge
+#1 Sharing team folders: structured portals to conference knowledge
 
-- Teams can be based on themes.Like“At the end of the day,Sales call.@Ambassin: #Jan25 pic.twitter.com/m3Client feedback@Ambassin: #Jan25 pic.twitter.com/m3Technical meetingsIt's not a good idea, it's not a good idea.Wait.I'm not sure what I'm talking about.Create Shared Folder
+- Teams can create shared folders based on themes (e.g., “sale calls” “client feedback” “technical meetings” etc.)
 
-- Contents in folders support full-text search andAIDialogue Access and query without installation of a member's account
+- The contents in the folder support full-text search dialogue with AI and access and query without the member having an account number
 
-- Keep reference to all messages Enhancing the transparency of information and the credibility of decision-making
-![](https://assets-v2.circle.so/7boey3iwz58v5hqs58g3v9nuh72e)
-✅ Examples of scenes-The product manager can ask questions directly.“At the end of the day,What's the function that most users complain about lately? Automatically summarize and indicate relevant session segmentsI don't know.
+- Retain references to all information and enhance transparency of information and the credibility of decision-making
+!" (https://assets-v2.circle.so/7boy3iwz58v5hqs58g3v9nuh72e)
+Examples of scenarios: product managers can ask directly “What is the most recent user complaints function?” and the system automatically summarizes and identifies relevant session segments.
 
-### 2️⃣ Project-type Collaboration Folder-Agile response to important scenes.
+##2 Project collaboration folder: Agile response to important scenes
 
-- User can drag related meetings into a new folder Generate one quickly“At the end of the day,Space for collaborationIt's not a good idea, it's not a good idea.
+- Users can drag related meetings into a new folder and quickly generate a “collaborative space”
 
-- Applicable to preparation of financingRelease planningKey business nodes for client follow-up
+- Key business nodes applicable to financing preparation, release planning, customer follow-up, etc.
 
-- Everyone saw exactly the same thing. Save redundant communication and copy pasting time
-![](https://assets-v2.circle.so/wvsus96h5f8wvlhlcddlkn0jgq25)
+- Full consistency of content seen by everyone, saving time for redundant communication and replication of paste
+!" (https://assets-v2.circle.so/wvsus96h5f8wvlllddlkn0jgq25)
 
-### 3️⃣ “At the end of the day,DialogueIt's not a good idea, it's not a good idea.Knowledge analysis-Cross Session Smart Q & Questions
+#3 “Dialogue-type” knowledge analysis: an intelligent cross-chamber question-and-answer session
 
-- Users can not only search keywords It's okay.**Question the entire folder in natural language**Question the entire folder in natural language Like...“At the end of the day,Ask a team assistant with a clear memory.It's not a good idea, it's not a good idea.
+- Users can not only search keywords, but can also ask the entire folder in natural language**, like, "Ask a team assistant with a clear memory."
 
-- Reply with Context Link You can just skip to the original session of the dialogue.
+- The answer is linked to the context and can be transferred directly to the original dialogue position of the meeting
 
-- Especially suited to the need to identify trends from multiple meetingsThe role of synthesizing patternsLike a product.SalesRecruitment, etc.I'm not sure what I'm talking about.
-![](https://assets-v2.circle.so/7i0xwfs9ck6aotqtdgmaeeap5n1j)
+- Roles (e.g. products, sales, recruitment, etc.) that need to identify trends, summarize patterns from multiple meetings
+!" (https://assets-v2.circle.so/7i0xwfs9ck6aotqdgmaeeap5n1j)
 
-### 4️⃣ Multi-model support-It's a higher level of reasoning. Switchable autonomously
+##4 Multi-model support: reasoning is of higher quality and can switch autonomously
 
-- Support for mainstream modelsLikeOpenAIAnthropicGoogleWait.I'm not sure what I'm talking about.
+- Support for mainstream models (e.g. OpenAI, Anthropic, Google, etc.)
 
-- Users can select models according to the nature of the task Also authorized.GranolaAutomatically select the best
+- Users can select models depending on the nature of the task, or they can authorize Granola to choose the best automatically
 
-- That's especially good.**Capacity for multi-session integration and reasoning**Capacity for multi-session integration and reasoning Enhancing the accuracy of complex problem analysis
-![](https://assets-v2.circle.so/473ev6if023tn3ew56tkwrbqswxr)
+- Increased capacity for integration and reasoning of ** multi-session content** and improved accuracy of analysis of complex issues
+(https://assets-v2.circle.so/473ev6if023tn3ew56tkwrbqswxr)
 
-### 5️⃣ Enterprise-level directory browsing-Improve cross-team synergies
+##5 Enterprise-level directory browsing: Increased teamwork across teams
 
-- Business users have access to all of the company's contents“At the end of the day,Public FolderI'm not sure what I'm going to do.For example, sales databaseClient Support Issues LibraryTraining records, etc.
+- Business users have access to all “public folders” in the company, such as sales databases, customer support questions databases, training records, etc.
 
 - Helping to increase transparency of information and the efficiency of cross-sectoral collaboration
 
-### 6️⃣ Smart Collapse Recommendations-Reduction in the cost of manual categorisationI'm about to go online.I'm not sure what I'm talking about.
+##6 Smart collation proposal: reduce the cost of manual cataloguing (coming online)
 
-- The system will be based on the title of the meetingParticipantsThe most appropriate folder for historical behavioral predictions
+- The most appropriate folder for the system based on meeting titles, participants, historical behavior predictions
 
-- User only needs one key to confirm Avoid“At the end of the day,UnarchivedIt's not a good idea, it's not a good idea.The meeting was missed.
+- User only needs one key confirmation to avoid missing “unarched” meetings
 
-### 7️⃣ Slack Auto-publish integration-Incision into the workflow.
+#7Slack Auto-promotion integration: seamless entry into workflow
 
-- At the end of each meeting. Granola Will specify Slack Autodistribution in Channels-
+- After each meeting, Granola will automatically post on the designated Slack channel:
 Brief summary
 
 - To-dos
 
-- “At the end of the day,Links to dialogue sessionsIt's not a good idea, it's not a good idea.
+- “Linkable dialogue session”
 
-Even if the member does not use it Granola Also able to keep abreast of the outcome of meetings and engage in further collaboration
-![](https://assets-v2.circle.so/8ezb7znaajr19bkixkzhba2kn4l0)
-### 8️⃣ Template Launch Support-Quick-start and harmonize collaborative processes
+Even if members do not use Granola, they can keep abreast of the outcome of the meeting and engage in further collaboration
+(https://assets-v2.circle.so/8ezb7znajr19bkixkzhba2kn4l0)
+##8 Template start support: Quick-starter harmonized collaborative processes
 
-- Provision such as“At the end of the day,User interviews@Ambassin: #Jan25 pic.twitter.com/m3Sales cycle@Ambassin: #Jan25 pic.twitter.com/m3Interview processIt's not a good idea, it's not a good idea.Waiting for preset templates
+- Provide predefined templates such as “user interview” “sale cycle” “interview process”
 
-- Including structurePermission Configuration & &AIDialogue Hints Team can do it.“At the end of the day,First day.It's not a good idea, it's not a good idea.Use it efficiently.
-![](https://assets-v2.circle.so/8e5wolxkrmi8xami4bwbmrgj79ol)
-Website-https://www.granola.ai/
+- Includes structure, permission configuration and AI dialogue tips, which can be used efficiently by the team on the first day
+!" (https://assets-v2.circle.so/8e5worldxkrmi8xami4bwbmrgj79ol)
+Website: https://www.granola.ai/

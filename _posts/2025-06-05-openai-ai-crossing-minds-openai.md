@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenAI Declaration of acquisitions AI Recommended Systems Inc. Crossing Minds His entire team has joined. OpenAI
+title: OpenAI announced the acquisition of AI Reference Systems Inc. Crossing Minds, whose entire team has joined OpenAI.
 date: 2025-06-05 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/openai-ai-crossing-minds-openai_1.jpg
@@ -9,43 +9,43 @@ icon: web
 * content
 {:toc}
 
-OpenAI Today, the acquisition is officially announced. AI Recommended Systems Inc. **Crossing Minds**Crossing Minds His entire team has joined. OpenAII don't know.
-**Crossing Minds**Crossing MindsOne focused on e-commerce. AI Pioneer start-up company for recommended systemsI don't know.This isn't a direct one.“At the end of the day,Acquisition companiesI'm not sure what I'm going to do.It's about integrating its core members. OpenAII don't know.
-This acquisition is intended to strengthen OpenAI Recommended in PersonalisationRetrieval enhancement generationRAGI'm not sure what I'm talking about.Capacity in key areas such as real-time user modelling Accelerating common artificial intelligenceAGII'm not sure what I'm talking about.Landing in practical applicationI don't know.
-![](https://assets-v2.circle.so/k2bihhhpptnld7s9yjhy5rcklimh)
-## Crossing Minds Introduction
+OpenAI officially announced today the acquisition of AI Reference Systems Inc. **Crossing Minds**, whose entire team has joined OpenAI.
+**Crossing Minds** A pioneer start-up company focusing on e-commerce A.I.'s referral system. This time, it's not a direct “buy-up company” but it's integrating its core members into OpenAI.
+The acquisition was aimed at strengthening the capacity of OpenAI in key areas such as personalization referral, retrieval enhancement (RAG) and real-time user modelling, and accelerating the landing of General Artificial Intelligence (AGI) in practical applications.
+!" (https://assets-v2.circle.so/k2bihhppnld7s9yjhy5rclimh)
+# Crossing Minds Introduction
 
-- Focus on the development of electrical platforms **Individualized recommended systems based on behavioural data**Individualized recommended systems based on behavioural data
+- Focus on the development of ** behavioral data-based recommended systems for electronics platforms**
 
-- Respect for privacy.-Master!**Without relying on user identification information**Without relying on user identification informationUnderstanding user preferences
+- Focus on privacy: main call** understands user preferences without relying on user identification information**
 
-- On behalf of clients-**IntuitAnthropicUdacityChanel**IntuitAnthropicUdacityChanel
+- On behalf of clients: **Intuit, Anthropic, Udacity, Chanel**
 
-- Obtaining more than **1350US$ million financing**1350US$ million financing Investments include:-
-Index Ventures
+- Obtaining more than **13.5 million in financing**, with the following investors:
+IndexVentures
 
-- Shopify
+-Shoppy.
 
-- Plug and Play
+- Plug and Play.
 
-- Radical Ventures
+- Radical Ventures.
 
-Crossing Minds Created2016Year Headquarters is in San Francisco. With the Toronto and Paris offices. Working on real-time behavioral data analysis Provision of highly personalized shopping advice to usersI don't know.They're recommending the engine.A wealth of experience has been gained in real-time machine learning infrastructure and information retrieval technology It's a recognized personality in the industry. AI One of the pioneers in the application.I don't know.
-Crossing Minds I've had more than that before.1350US$ million in financing Investments include: Index VenturesShopifyPlug and Play and Radical VenturesI don't know.
-Current Crossing Minds The network has made it clear that**No more new clients.**No more new clients. One of the founders. **Alexandre Robicquet**Alexandre Robicquet I've already put it in. LinkedIn Title Updates to “At the end of the day,Research, Post-training and Agents at OpenAII'm not sure what I'm talking about.OpenAI ResearchPost-training and representationI'm sorry, I don't know.
+Crossing Minds, founded in 2016 and based in San Francisco and with offices in Toronto and Paris, is committed to providing users with highly personalized shopping advice through real-time behavioral data analysis. They have accumulated extensive experience in recommending engines, real-time machine learning infrastructure, and information retrieval technology, and are one of the recognized pioneers of personalizing AI applications in industry.
+Crossing Minds had previously received more than $13.5 million in financing from investors such as Index Ventures, Shopify, Plug and Play and Radical Ventures.
+Currently, the Crossing Minds network has made it clear that ** will no longer accept new clients** and that one of the founders **Alexandre Robicquet** has also updated its LinkedIn title to “Research, Post-training and Agents at OpenAI”.
 
-## Strategic intent-Reshaping AI Apply scene
-This acquisition is not just a technological consolidation. More than that. OpenAI An important step in the strategic layoutI don't know.According to analysts, OpenAI It's meant to pass. Crossing Minds Core technologies achieve the following objectives:-
-**Enhancing real-time referral capacity**Enhancing real-time referral capacity-Crossing Minds It's... it's... it's... In-Context-Learning Retrieval BenchmarkICLERBI'm not sure what I'm talking about.Technical support for real-time updating of large language models Make them more adaptable in a dynamic environmentI don't know.It's going to be a huge boost. ChatGPT In the context of electronic commercePerformance in the context of content recommendation Create a more accurate user experienceI don't know.
-**Extortion of e-commerce AI Market**Extortion of e-commerce AI Market-With GooglePerplexity Wait for the competition to add up. AI Recommended system OpenAI Through acquisition Crossing Minds Increased competitiveness in this high-growth sectorI don't know.Its technology can provide seamless personalized shopping experiences for retail brands Help. OpenAI Take advantage of the market.I don't know.
-**Speed up. AGI Research and development**Speed up. AGI Research and development-Crossing Minds Team expertise in understanding user intentions and real-time data processing Will OpenAI It's... it's... it's... AGI Research injects new kinetic energy.I don't know.Co-founder of the United Nations Alexandre Robicquet Organisation_Other OrganiserWe believe that. It's real. AI The assistant needs to understand the user's needs.I don't know.Accession OpenAI Let's be able to integrate this vision. AGI The grand goal.We're not going to be able to do that."
-**To guard against competition.**To guard against competition.-X Platform discussion shows Business guesses. OpenAI This might be an attempt to stop it. Anthropic Wait for the competition to buy it first. Crossing Minds To ensure that its technology serves its sole purpose OpenAI EcosystemsI don't know.
-Introduction Crossing Minds Team It'll help. OpenAI-
+# Strategic intent: reshaping AI applications
+The acquisition is not only a technological consolidation, but also an important step in the OpenAI strategic layout. Analysts point out that OpenAI is intended to achieve the following through the core technology of Crossing Minds:
+** Strengthening real-time referral**: In-Context-Learning Retrieval Benchmark (ICLERB) of Crossing Minds supports real-time updating of large language models to make them more adaptable in a dynamic environment. This will significantly enhance ChatGPT’s performance in e-commerce, content referral, etc., and create a more accurate user experience.
+** Taking advantage of e-commerce AI Market**: With competitions such as Google, Percy, and others, the AI referral system, OpenAI has consolidated its competitiveness in this high-growth area by acquiring Crossing Minds. Its technology can provide seamless personalized shopping experiences for retail brands, helping OpenAI to take advantage of the market.
+**Accelerating AGI R & D**: The expertise of the Crossing Minds team in understanding user intentions and real-time data processing will inject new energy into the AGI study of OpenAI. The co-founder, Alexandre Robicquet, said, “We believe that a true AI assistant needs a deep understanding of user needs. Joining OpenAI will allow us to integrate this vision into AGI's ambitious goals.”
+**The pro-competitive layout**: X platform discussion shows that industry guesses that OpenAI may be intended to prevent competitors such as Anthropic from pre-empting Crossing Minds and ensuring that their technology is exclusively serving OpenAI's ecosystem.
+Introduction of Crossing Minds team will help OpenAI:
 
-- It's reinforced. **Personalized Modelling**Personalized Modelling and **Recommended system for the electric power sector**Recommended system for the electric power sector Capacity
+- Strengthening its capacity in the area of **personal modeling** and ** electric commerce recommended systems**
 
-- Outreach ChatGPT It's a commercial setting.
+- To expand the commercialization of ChatGPT.
 
-- Advance Post-trainingPost-training phaseI'm not sure what I'm talking about.User-to-be and behavioral comprehension system in place
+- Promotion of user-friendliness and behavioural understanding systems in Post-Training
 
-Crossing Minds Announcement-https://www.crossingminds.com/
+Crossing Minds Bulletin: https://www.crossingminds.com/

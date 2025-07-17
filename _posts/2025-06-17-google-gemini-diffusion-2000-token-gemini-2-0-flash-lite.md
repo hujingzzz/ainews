@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GoogleRelease Gemini Diffusion Models based on proliferation mechanisms Quick as you can. 2000 token/sec It's comparable to the performance.Gemini 2.0 Flash-Lite
+title: Google releases Gemini Diffusion's diffusion-based model at a speed of 2000 token/seconds comparable to Gemini 2.0 Flash-Lite
 date: 2025-06-17 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-gemini-diffusion-2000-token-gemini-2-0-flash-lite_1.jpg
@@ -9,105 +9,105 @@ icon: image
 * content
 {:toc}
 
-Yes. Google I/O 2025 Let's go.Google DeepMindIt's the first time it's made public the cutting-edge technology that it's developing. —— **Gemini Diffusion**Gemini Diffusion It's a whole new way of applying diffusion models to language modelling.I don't know.
+In Google I/O 2025, Google Deepmind first made public the cutting-edge technology it was developing - **Gemini Diffusion**, a new way of applying proliferation models to language modelling.
 
-## What is it? Gemini Diffusion
+# What's Gemini Diffusion?
 
-- Traditional language modelsLike GPTI'm not sure what I'm talking about.Adoption**Self-ReturnautoregressiveI'm not sure what I'm talking about.Mechanisms**Self-ReturnautoregressiveI'm not sure what I'm talking about.Mechanisms Generate one at a time tokenI don't know.
+- Traditional language models (e.g. GPT) produce one token at a time using the **autoregressive** mechanism.
 
-- **Gemini Diffusion**Gemini Diffusion From the image generation field“At the end of the day,Proliferation modelsIt's not a good idea, it's not a good idea.Mechanisms——Generate the full output by gradually de-noise.I don't know.
+- **Gemini Diffusion** draws on the “proliferation model” mechanism in the field of image generation - to produce complete output through gradual noise removal.
 
-This kind of non-cause.non-causalI'm not sure what I'm talking about.The method of reasoning brings with it two major advantages.-
-**It's amazing how fast it's being generated.**It's amazing how fast it's being generated.-Koda! **2000 token/sec**2000 token/sec Including tokenizationPrefillAll computational processes such as filteringI don't know.
-**More global reasoning.**More global reasoning.-Do not rely on step-by-step production Can think of the whole thing.I don't know.
+This non-negative (non-causal) reasoning gives rise to two major advantages:
+** Amazing rate of generation**: available **2000 token/sec**, including all computational processes such as tokenization, prefilling, filtering, etc.
+** Stronger global reasoning**: not dependent on step-by-step production, capable of thinking in a holistic way.
 
-### Modeling principles
-🆚 Distinction from traditional self-regression models
+# Modular principles #
+The difference between traditional self-regression models
 
-- **Self-regression models**Self-regression modelsLike GPTPaLM Wait.:
-Predict the next word sequentiallytokenThis is the first time I've ever seen you.One after the other.I don't know.
+- ** Self-regression model** (e.g. GPT, PaLM, etc.):
+Forecasts the next word (token) sequentially, one after the other.
 
-- Advantages-It's a simple structure.Wider applicationI don't know.
+- Advantages: simple structure and extensive application.
 
-- Disadvantages-Generate slowGlobal coherence limitedI don't know.
+- Deficiencies: slow generation and limited global coherence.
 
-**Gemini Diffusion Model**Gemini Diffusion ModelProliferation-based mechanisms:
+** Gemini Diffusion model** (based on proliferation mechanisms):
 
-- Core idea-**Step-by-step from random noises“At the end of the day,Go on, go on.It's not a good idea, it's not a good idea.Generate text**Step-by-step from random noises“At the end of the day,Go on, go on.It's not a good idea, it's not a good idea.Generate text Similar to image diffusion modelsLike Stable DiffusionI'm sorry, I don't know.
+- Core idea: ** Gradual “noise” from random noise to produce text**, analogous to image diffusion models (e.g. Stable Diffusion).
 
-- Each step is not a direct generation of words. It's about fine-tuning and correcting the content that is currently being generated.I don't know.
+- Each step is not a direct generation of words, but rather a fine-tuning and correction of the content currently generated.
 
-- It's faster to build content. and can correct errors in the process of generationerror correctionI'm sorry, I don't know.
+- Be able to achieve content construction faster and to correct errors during generation.
 
-![](https://assets-v2.circle.so/4zhk4403d7hrdz94va677utgcq9h)
-### Main advantages
+!" (https://assets-v2.circle.so/4zhk4403d7hrdz94va677utgcq9h)
+# The main advantage #
 
-- Working methods-I'll take one first.“At the end of the day,Full text expressionIt's not a good idea, it's not a good idea.Add noise damage And then the training model step by step.“At the end of the day,Go on, go on.I'm not sure what I'm going to do.Restore to Reasonable TextI don't know.
-Advantages-
-**Allow whole generation**Allow whole generation-You can start with a broad draft. And then it's changed over and over again.;
+- Methods of work: After adding a “complete text expression” to noise damage, the training model is gradually “noise” and restored to a reasonable text.
+Strengths:
+** Allows corporate generation**: a broad draft can be generated from the outset and then repeatedly improved;
 
-- **Natural support for error correction and editing**Natural support for error correction and editing-Because, in essence, every step is there.“At the end of the day,AdjustmentsIt's not a good idea, it's not a good idea.Contents;
+- **Natural support for error correction and editing**: since each step is essentially “adapted”;
 
-- **Fits for complex structure generation**Fits for complex structure generation-It's like math.Programming Language Requires structural and semantic rigourI don't know.
+- **According to the generation of complex structures**: for example, mathematics, programming languages, the structure and semantic rigour are required.
 
-**🧩 Natural mechanisms for correcting errors**🧩 Natural mechanisms for correcting errors
+** Natural mechanisms for correcting errors**
 
-- Errors in traditional model generation require external tool detection and rewritingI don't know.
+- Errors in the generation of traditional models require external tool detection and rewriting.
 
-- The proliferation regime itself includes a step-by-step process of amendment Makes the output more fluid.AccurateI don't know.
+- The proliferation mechanism itself consists of a gradual process of amendment that makes the output more fluid and accurate.
 
-🧮 Mathematical and code-processing skills
+Mathematics and code processing skills.
 
-- Gemini Diffusion Yes.“At the end of the day,Verifiable structural contentIt's not a good idea, it's not a good idea.He's doing well.I don't know.
+- Gemini Diffusion is superior in terms of “verifiable structural content”.
 
-- For example...-Math ExpressionProgram Code Need to satisfy syntax correctness and logical consistency Proliferation models are better at this.“At the end of the day,Edit Generation
+- For example, mathematical expressions, program codes that satisfy syntax correctness and logical consistency, and diffusion models are better at such “editorial generation”.
 
-![](https://assets-v2.circle.so/7mpk1mdhiceh2l8ouulzibi9chrj)
-## Case Presentation
+(https://assets-v2.circle.so/7mpk1mdhiceh2l8uulzibi9chrj)
+# Case demonstration
 
-### 1. **The programming scene was excellent.**The programming scene was excellent.
-Gemini Diffusion Specially good at code generation. Brendan It's called...“At the end of the day,**vibe coding**vibe codingIt's not a good idea, it's not a good idea.Experience-It's almost a real-time high-quality code.I don't know.
-Actual velocity reached. **2000 tokens/sec**2000 tokens/sec That's the speed involved.-
+# 1. **The programming scene was excellent**
+Gemini Diffusion is particularly good at code generation, and Brendan calls it the "**vibe counting**" experience: it's almost real-time high-quality code writing.
+Actual velocity **2000 tokens/sec**, which includes:
 
-- tokenization
+- Tokenize
 
-- PrefillprefillI'm not sure what I'm talking about.
+- Prefill (prefill)
 
-- Security Filter
+- Safe filter.
 
-- Output Synthesis
+- Output synthesis
 
-👉 Contrast GPT-4/Claude Waiting for self-regression models The speed increase is remarkable. Fits for high-frequency interactions or low-delayed scenariosLike Code EditorTalking robots, etc.I'm sorry, I don't know.
+Compared to self-regression models such as GPT-4/Claude, the speed increase is significant and suitable for high-frequency interactions or low-delayed scenarios (e.g. code editor, chat robots, etc.).
 
-### 2. **It's easy to solve complex math problems.**It's easy to solve complex math problems.
-Traditional language modelsLike GPT-4oI'm not sure what I'm talking about.I'm face-to-face.“At the end of the day,Answer first and then answer later.I'm sorry, I'm sorry, I'm sorry, I'm sorry.Cross-step logicIt's not a good idea, it's not a good idea.It's easy to fail in math questions. Because they're predictive. Every step will magnify the previous mistake.I don't know.
-Gemini Diffusion Introduction of a non-causal structure Yeah.“At the end of the day,**Construct the logical framework for the complete answer first Fill in the details.**Construct the logical framework for the complete answer first Fill in the details.
-📌 Example questions 1-**Title**Title-「(√(81) * (2/3))² + (15 - 3) / (2²)」Please give the answer before the process is deduced.I don't know.**Answer**Answer-39
-✅ Gemini Diffusion Correctly completed GPT-4o UnsolvedI don't know.📹 
+# 2. ** Complex math problems can be easily solved**
+Traditional language models (e.g. GPS-4o) are prone to failure in the face of mathematical questions such as “answer first”, “cross-step logic”, because they are predictive and each step magnifies previous mistakes.
+Gemini Diffusion uses a non-causal structure that “** builds the logical framework for the full answer and fills the details**”.
+Example Question 1: ** Title **((81)* (2/3))2 +(15-3)/(22)” Please give answers before the process.** Answer **: 39
+Gemini Diffusion correctly completed, GPT-4o failed to solve.
 
-### 3. **Non-linearMultistep reasoning capability**Non-linearMultistep reasoning capability
-📌 Example questions 2-**Title**Title-「150 Present. 250 How many prime numbers are there?Quantities of first output All prime numbers are listed again.I don't know.」**Answer**Answer-18 Number of primes List Output As [151, 157, ..., 241, 251]
-✅ Gemini Diffusion Accurately completed GPT-4o Same failure.I don't know.📹 
+## 3. ** Non-linear, multistep reasoning**
+Example Question 2: ** Title **: "How many prime numbers do you have between 150 and 250? " ** Answer ** 18 prime numbers, list output [151, 157, ..., 241, 251]
+Gemini Diffusion precisely completed and GPS-4o also failed.
 
-### 4. **Non-self-return structures = No more reasoning.“At the end of the day,OrderIt's not a good idea, it's not a good idea.Limits**Non-self-return structures = No more reasoning.“At the end of the day,OrderIt's not a good idea, it's not a good idea.Limits
-The non-return characteristics of the proliferation mechanism allow models to**Global optimization of the answer structure**Global optimization of the answer structure To address those needs.“At the end of the day,Let's get to the end and start.It's not a good idea, it's not a good idea.Tasks Breaking the tradition. token-by-token LimitsI don't know.
+##4. ** Non-repatriation structure = reasoning is no longer limited by the order**
+The non-regression characteristics of the proliferation mechanism allow the model to ** optimize the structure of the answer across the board**, address the tasks that require “know the end before write the beginning” and break the traditional token-by-token limit.
 
-## Application prospects and impacts
+# Applying perspectives and impacts
 
-### ✅ Apply scene
+♪ ♪ ♪ ♪ apply the scene ♪
 
-- High-reliability language generationSuch as financeLawMedical textI'm not sure what I'm talking about.
+- High-reliability language generation (e.g., financial, legal, medical texts)
 
-- Programming HelperCode GenerationError fixesI'm not sure what I'm talking about.
+- Programming aids (code generation, error fixes)
 
-- A mathematical question solves automatically
+- A mathematical question.
 
-- Text EditRhythm.Rewrite Tasks
+- Text editing, colouring, rewriting tasks
 
-### 🚀 Technology outlook
+# The future of technology #
 
-- Expectations and Images/Multi-modular diffusion models of voice and so on blend;
+- It is expected to be integrated with multi-model diffusion models such as images/sounds;
 
-- Breaking the existing large language model paradigm Form“At the end of the day,♪ Back to the times ♪It's not a good idea, it's not a good idea.A new generation of architecture;
+- Breaking the existing paradigm of large language models and forming a new generation of “post-return-era” structures;
 
-Official presentation-https://deepmind.google/models/gemini-diffusion/
+Official presentation: https://deepmind.google/models/gemini-diffusion/

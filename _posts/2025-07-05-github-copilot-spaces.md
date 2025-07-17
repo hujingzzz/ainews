@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GitHub Introduction of new functionality Copilot Spaces Allow developers to centrally manage all information on the project
+title: GitHub introduces new functionality Copilot Spaches allows developers to centralize all information on the project
 date: 2025-07-05 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/github-copilot-spaces_1.jpg
@@ -9,24 +9,24 @@ icon: image
 * content
 {:toc}
 
-GitHub Introduction of new functionality **Copilot Spaces**Copilot Spaces Enhancement Copilot Capacity to understand project contextI don't know.This feature allows developers**Centrally managed project context**Centrally managed project context ♪ So let's go ♪ GitHub Copilot Provide for more**RelevantSmart code advice and support**RelevantSmart code advice and supportI don't know.
-The engineering team often faces a fundamental problem.-**Fragmentation of knowledge**Fragmentation of knowledgeI don't know.CodeDocumentDesign descriptionInformation such as development decision-making is spread over multiple locationsOr in the head of a team member.This is the first time I've ever seen you.Makes it difficult for developers to move quickly to a project or to collaborate efficientlyI don't know.
-**Copilot Spaces It was designed to solve this problem.**Copilot Spaces It was designed to solve this problem.I don't know.♪ It's through ♪**Build Context Centrecontext hubI'm not sure what I'm talking about.**Build Context Centrecontext hubI'm not sure what I'm talking about. Jean. GitHub Copilot More in-depth on the project.Understanding of the system It's more precise.Related recommendations and supportI don't know.
-![](https://assets-v2.circle.so/lhncn2wqo6nz8ddzla0w7xo9wwaa)
-## Core Functions
+GitHub introduces a new feature **Copilot Spaches**, which enhances Copilot's ability to understand the project context. This feature allows developers** to centrally manage the project context**, thus allowing GitHub Copilot to provide more **relevant and intelligent code advice and support**.
+Engineering teams often face a fundamental problem: ** Knowledge fragmentation**. Information such as codes, documents, design descriptions, development decisions etc. is spread across multiple locations (or within the brain of team members) to make it difficult for developers to move quickly to a project or to collaborate efficiently.
+**Copilot Spaches is designed to solve this problem. It provides more precise, relevant advice and support by ** constructing the context centre (context hub)** to give GitHub Copilot a deeper and systematic understanding of the project.
+!" (https://assets-v2.circle.so/lhncn2wqo6nz8dzla0dzla0w7xo9wwaa)
+# Core function
 
-### 1. **Context Perceptions-Jean. Copilot I understand.“At the end of the day,What are you doing?It's not a good idea, it's not a good idea.**Context Perceptions-Jean. Copilot I understand.“At the end of the day,What are you doing?It's not a good idea, it's not a good idea.
-Copilot Spaces Allow you to combine the following elements into one.“At the end of the day,SpaceIt's not a good idea, it's not a good idea.Medium-
+# 1. ** Context perception: let Copilot understand "What are you doing"?**
+Copilot Spaces allows you to combine the following elements in a "Space":
 
-- SourceYou can just tie it up. GitHub WarehouseI'm not sure what I'm talking about.
+- Source code (directly binding GitHub repository)
 
-- Project DocumentNotesDesign specificationsspecsI'm not sure what I'm talking about.
+- Project documents, instructions, design specifications (specs)
 
-- RemarksGuide or FAQ
+- Remarks, guidance or FAQ
 
-- Custom Commandscustom Copilot instructionsI'm not sure what I'm talking about.
+- Custom Commands
 
-![](https://assets-v2.circle.so/2pbmx4i7bw384a4i9utmo5v44o28)Here. Copilot Not anymore.“At the end of the day,Isolated speculation.I'm not sure what I'm going to do.It's like an in-house developer who knows everything about the project. You can answer that.-
+In this way (https://assets-v2.circle.so/2pbmx4i7bw384a4i9utmo5v44o28), Copilot is no longer “simple guessing” but, like an in-house developer who knows everything about the project, can answer:
 
 - What does this module do?
 
@@ -34,50 +34,50 @@ Copilot Spaces Allow you to combine the following elements into one.“At the en
 
 - Is there an example code?
 
-- Compliance with some best practice
+- Is some kind of best practice followed?
 
-### 2. **Organisation-Team-level knowledge recovery accelerator**Organisation-Team-level knowledge recovery accelerator
-You can create one or more for the whole organization. Copilot Space-
+##2. **Organization sharing: team-level knowledge reuse accelerator**
+You can create one or more Copilot Spaces for the whole organization:
 
-- Once a colleague joins, he gets a unified context. Not anymore.“At the end of the day,We'll get the code library from scratch.It's not a good idea, it's not a good idea.
+- Immediately upon joining, colleagues are given a unified context and no longer “be aware of the code library from scratch”
 
-- Support Quick onboardingKnowledge successionCross-sectoral collaboration
+- Support rapid onboarding, knowledge inheritance, cross-sectoral collaboration
 
-- More structured than document library By comparison README Smarter
+- More structured than a document library, more intelligent than README
 
-Let's go. Copilot It's not just personal assistants. It's for the whole team.“At the end of the day,Contextualization AI Collaborators
+This leaves Copilot not just as a personal assistant, but as a team's “situation AI collaborators”.
 
-### 3. **AutoSync-No manual maintenance of a copy of the code**AutoSync-No manual maintenance of a copy of the code
-You don't have to copy paste files. Just...**Tie the warehouse.**Tie the warehouse. Copilot Space It's automatic.-
+##3. **Automated synchronization: no manual maintenance of code copy**
+You don't need to copy paste files, you just need to ** bind the warehouse**, Copilot Space can automatically:
 
 - Get the latest version of the code and document
 
-- AutoSync as Item UpdateReal-time reflection of changesI'm not sure what I'm talking about.
+- Autosync with project updates (real time to reflect changes)
 
 - Keep an accurate understanding of the current state
 
-It's a sure thing. Copilot Always by“At the end of the day,LatestIt's real.It's not a good idea, it's not a good idea.to answer questions on the basis ofI don't know.
-![](https://assets-v2.circle.so/f5xvhuhqyj5irlrn0s91rk5wqsii)
-## 💰 Billing and description of authority
+This ensures that Copilot always responds to questions on the basis of “up-to-date, real” projects.
+(https://assets-v2.circle.so/f5xvhuhqyj5irlrn0s91rk5wqsii)
+# Billing and permission description
 
-- **Online time**Online time-6Month4It's open from now on.
+- **Online**: Full opening since 4 June
 
-- **Who can use it?**Who can use it?-
-All Copilot User-accessible Spaces
+- ** Who can use **:
+Spaches available to all Copilot users
 
-- Enterprise users need to use this function by the organizational administrator
+- Business users need to use this function by the organizational administrator
 
-**Rule on costing**Rule on costing-
+** Costing rules**:
 
-- Pay-as-you-go usersPro, Pro+, Business, Enterprise:
-Use“At the end of the day,Advanced ModelI'm not sure what I'm talking about.premiumI'm not sure what I'm talking about.Once a time for each conversation. premium Consumption
+- Pay user (Pro, Pro+, Business, Enterprise):
+Write each dialogue when using the Advanced Model (premium) premium consumption
 
-- Using the base model is no charge.
+- The use of the base model is free of charge.
 
-Free users-
+Free user:
 
-- Maximum monthly availability 50 Number of timesHam Copilot ChatI'm not sure what I'm talking about.
+- Up to 50 times a month (including Copilot Chat)
 
 The peak period may trigger speed limits.
-Immediate access github.com/copilot/spaces Trial Copilot SpacesI don't know.It's an early preview.I don't know.
-Copilot Spaces Document
+Visit github.com/copilot/spaces to test the Copilot Spaces. This is an early preview.
+Copilot Spaches Documentation

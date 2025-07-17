@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenAudio Post up-to-date voice-generated model-S1 They claim to be pro-sounding and natural.
+title: OpenAudio publishes the latest voice-generated model-S1 claims to be pro-sounding and natural.
 date: 2025-06-25 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/openaudio-s1_1.jpg
@@ -9,95 +9,95 @@ icon: design
 * content
 {:toc}
 
-OpenAudio Announce the release of the latest voice-generated model —— **S1 Model**S1 Model The goal is...**To achieve the performance and nature of a professional voice actor.**To achieve the performance and nature of a professional voice actor.I don't know.The model by Hanabi AI Research lab development under the flag And through the product platform. **Fish Audio**Fish Audio External publicationI don't know.
-S1Availability-
+OpenAudio announced the release of the latest speech-generation model - **S1 model**, with the goal of ** achieving the performance and nature of a professional voice actor**. The model was developed by the Hanabi AI research laboratory and released through the product platform ** Fish Audio**.
+S1 has:
 
-- Height is natural.The sound of the flow.
+- High natural, fluid sound.
 
-- It's rich in tone and emotional control.
+- A rich tone and emotional control.
 
-- Powerful command to follow.instruction followingI'm not sure what I'm talking about.
+- Strong command follower
 
-Its training data exceeded that of **200 A million-hour audio.**200 A million-hour audio. Model parameters as high as **40 BillionsS1I'm not sure what I'm talking about.**40 BillionsS1I'm not sure what I'm talking about. It's a landmark.I don't know.
-**Model version**Model version
-![](https://assets-v2.circle.so/mn0l9us6san94gdshu33xfjpe2us)Both support emotions.Amologize labelsAll functions for synthesizing control The difference is mainly between quality and performance.I don't know.
+Its training data exceed **2 million hours of audio**, with model parameters as high as **4 billion (S1)**, a landmark product.
+** Model version**
+(https://assets-v2.circle.so/mn0l9us6san94gdshu33xfjpe2us) both support all functions such as emotions, tone labels, sculption control, etc. The difference is mainly between quality and performance.
 
-## Main functional characteristics
-![](https://assets-v2.circle.so/tmn0pikgdjqw84n0bgptwsipps82)
-### Maximum bright spots-It's like a voice-acting actor.“At the end of the day,Play.It's not a good idea, it's not a good idea.
-S1 The biggest innovation in the world. It can understand and act.“At the end of the day,**The mood and tone of the talker.**The mood and tone of the talker.I'm not sure what I'm going to do.It's like a professional sounding actor.I don't know.
-**🗣️ How did it do that?**🗣️ How did it do that?
-OpenAudio First I trained a self-researcher. **Voice recognition modelSTTI'm not sure what I'm talking about.**Voice recognition modelSTTI'm not sure what I'm talking about. It automatically recognizes the voice.-
+# Main functional characteristics
+(https://assets-v2.circle.so/tmn0pikgdjqw84n0bgptwsipps82)
+# Maximum light: act like a sounding actor
+The greatest innovation of S1 is that it understands and plays “** the emotions and tone of the person who speaks**”, just like a professional voicewriter.
+♪ How did it do it? ♪
+OpenAudio first trained a self-researched **Stt)** to automatically recognize voice:
 
-- Emotion.Like-Sad.Angry.Happy.Same thing.It's sarcasm.I'm not sure what I'm talking about.
+- Emotions (e.g. grief, anger, joy, common sense, sarcasm, etc.)
 
-- VoiceLike-Quick!Softly.Shout!Screaming and waiting.I'm not sure what I'm talking about.
+- Voice (e.g. rush, whisper, shout, scream, etc.)
 
 - Talker's character information.
 
-And then... Use these.“At the end of the day,Voice LabelIt's not a good idea, it's not a good idea.It's marked. **More than 10 A million-hour voice data.**More than 10 A million-hour voice data. As a... S1 Training input forI don't know.
-**🧩 Supported voice control tags-**🧩 Supported voice control tags-
-![](https://assets-v2.circle.so/2j383de2jg7tqv6dsoa02nifzo5u)S1 The most remarkable ability is its**Rich voice expression control tag system**Rich voice expression control tag system Including-
-🎭 1. Emotional labelEmotion Markers:
-Like (angry) (sad) (joyful) (sarcastic) (empathetic) Wait.
-🎤 2. Organisation/Amologize labelsTone Markers:
-Like (in a hurry tone) (whispering) (shouting) (soft tone)
-💬 3. Special LabelSpecial Markers:
-(laughing) (sighing) (sobbing) (crowd laughing) It's about human non-linguistic behavior.
-Support**Pronounce word tags**Pronounce word tags-Like Ha,ha,haLaughing.I'm not sure what I'm talking about.Hmm,hmmSmile.I'm not sure what I'm talking about.
-These functions come from... OpenAudio Self-researched. **Emotional voice recognition STT Model**Emotional voice recognition STT Model Automatically labels those who speak in audioEmotion.Information such as tone Further Upgrade TTS Instruction understanding and restoration capabilityI don't know.
-These labels can be inserted in the text Guide AI Synthesizing a pro forma voice.I don't know.For example...-
-(speaker 1) (concerned) Honey, what's wrong?  
-(speaker 2) (pretend to be tough) Nothing. I just said goodbye to Sanjay.
-### Native Multilingual SupportGlobalizationI'm not sure what I'm talking about.
-S1 Provides native support in the following languages: Ensure consistency in voice output for global applications-
+Then, using these voice tags, **more than 100,000 hours of voice data** was marked as S1 training input.
+** Supported voice control tag:**
+S1 (https://assets-v2.circle.so/2j383de2jg7tqv6dsoa02nifzo5u) is the most prominent capability of its **rich voice expression control tag system**, including:
+1. Emotional Markers:
+e. g. (angry) (sad) (joyful) (sarcastic) (empathetic) et al.
+2. Tone Markers:
+(in a hurry tone) (whispering) (souting) (soft tone)
+3. Special Markers:
+(lugging) (sighing) (crowd laughing)
+Support** word-marking**: e.g. Ha, ha, ha Hmm, hmm
+These functions are derived from OpenAudio's self-researched ** Emotional Voice Recognition STT Model**, which can automatically mark the voice, emotion, tone, etc. of the audio and further enhance the TTS command understanding and restoration capability.
+These labels can be inserted into the text to guide AI to synthesize expressions of expression. For example:
+Honey, what's wrong?
+I just said good bye to Sanjay.
+# # Native multilingual support (globalization)
+S1 Provides original support in the following languages to ensure consistency in voice output for global applications:
 
-- EnglishChineseJapaneseGermanFrenchSpanish
+English, Chinese, Japanese, German, French, Spanish
 
-- KoreanArabicRussianDutchItalianPolishPortuguese
+- Korean, Arabic, Russian, Dutch, Italian, Polish, Portuguese
 
-## How to achieve quality
-S1 High performance comes from the following key designs:-
-**📦 Data and training strategy-**📦 Data and training strategy-
+# How to achieve quality?
+S1 high performance from the following key designs:
+** Data and training strategy:**
 
-- **200 A million-hour audio data**200 A million-hour audio dataOne of the largest industries in the world.I'm not sure what I'm talking about.
+- **2 million hours of audio data** (one of the largest industries)
 
-- Self-research. **Incentive modelreward modelI'm not sure what I'm talking about.**Incentive modelreward modelI'm not sure what I'm talking about. To optimize performance
+- Self-research **reward model** used to optimize performance
 
-- **Enhanced online learning RLHFUse GRPO AlgorithmsI'm not sure what I'm talking about.**Enhanced online learning RLHFUse GRPO AlgorithmsI'm not sure what I'm talking about.-For model fine-tuning Increase speech authenticity and hearing quality
+- **Intensible online learning RLHF (using GRPO algorithms)**: used to fine-tune models to enhance sound authenticity and hearing quality
 
-### 🧱Model structure and reasoning optimization
+# # The model structure and reasoning optimizes #
 
-- Structure-Based on Qwen3 Multimodel architecture Support future extension to audio question-and-answerText Q & AnswerMission speech recognition, etc.Currently only open TTS FunctionsI'm not sure what I'm talking about.
+- Structure: based on Qwen3 multi-model architecture, supporting future expansion to audio question and answer, text and voice recognition tasks (currently only TTS functionality is open)
 
-- Audio Decoding-Self-study Descript Audio Codec System + Transformer Structure
+- Audio decoding: Self-research Descripto Audio Codec system + Transformer structure
 
-- Optimizing technology-Use Online RLHF Enhanced learningBased on GRPO PolicyI'm not sure what I'm talking about.Optimizing voice performance
+- Optimizing technology: Optimizing voice performance using online RLHF for enhanced learning (based on GRPO strategy)
 
-### **📊 Global lead on multiple indicators-**📊 Global lead on multiple indicators-
-![](https://assets-v2.circle.so/7zmgi0hwrwprli2xab50oki71ta5)
-- HuggingFace TTS-Arena-V2 Number One. 1Human subjectivity.I'm not sure what I'm talking about.
+# ** Multiple indicators lead the world: **
+!" (https://assets-v2.circle.so/7zmmgi0hwprli2xab50oki71ta5)
+- Hugging Face TTS-Arena-V2 ranking 1 (human subjective rating)
 
-- Word Error RateWord error rate:**0.008**0.008 It's better than the industry model.
+- Word Error Rate: **0.008**, far better than industry models
 
-- Character Error RateWord error rate:**0.004**0.004
+- Character Error Rate (word error rate): **0.004**
 
-- It's a very low pseudo.Wrong word.It's common to have a bad tone. TTS Problem
+- A very low level of pseudo-verbals, miswords, misrepresentations, common TTS problems.
 
-![](https://assets-v2.circle.so/wmdrgycb38ykikg36wh5u83d5fri)S1 Even in voice expression.Voice ClearnessOverall beyond existing models, for example, for linguistic consistencyI don't know.
+S1 (https://assets-v2.circle.so/wmdrgycb38ykikg36wh5u83d5fri) even exceeds the existing model across the board in terms of voice expression, voice clarity, speech consistency.
 
-## It's very low. Available to all
-S1 It's the most valuable quality in the current market. TTS Model-
+# The price is very low, available to everyone
+S1 is the most high-quality TTS model in the current market:
 
-- **Only $15/Millibytes**Only $15/Millibytes
+- **$15/million bytes only**
 
-- That's about it. **$0.8/Hours**$0.8/Hours Audio cost
+- Corresponds to approximately **$0.8 hours** audio costs
 
-- It's clearly below the market mainstream.Like ElevenLabsPlayHT Wait.I'm not sure what I'm talking about.
+- significantly below the market mainstream (e.g. ElevenLabs, PlayHT, etc.)
 
-![](https://assets-v2.circle.so/wveop82lo8wc01cx45m4dl6myg3q)Developers can deploy large-scale voice applications at very low cost. Including guest-serving robots.Podcast GenerationAI Role sounds, etc.I don't know.
+Developmenters of [https://assets-v2.circle.so/wveop82lo8wc01cx45m4dl6myg3q) can deploy large-scale voice applications at very low cost, including passenger robots, podcast generation, AI role mix, etc.
 
-## How to experience it.
-You can pass. OpenAudio Voice platform for the **Fish Audio Playground**Fish Audio Playground Online experience of the model's voice effectsCurrently only open TTS Functions The future will be supported. STTTextQAAudioQA Wait.I'm sorry, I don't know.
-🔗 https://openaudio.com 
-Yes. Fish Audio Playground Go through it.
+# How do you experience it?
+You can experience the voice effects of the model online through OpenAudio's voice platform **Fish Audio Playgroup** (TTS currently available only, future support for TT, TextQA, AudioQA, etc.).
+https://openaudio.com
+Experience on Fish Audio Playgroup

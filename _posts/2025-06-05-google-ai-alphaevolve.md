@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google It's a brand-new thing. AI Encoding Agent-AlphaEvolve He can write his own code.Self-assess the test.And then improve yourself.
+title: Google has released a brand-new AI coding agent-AlphaEvolve, which can write the code itself, evaluate the test itself, and then improve itself.
 date: 2025-06-05 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-ai-alphaevolve_1.jpg
@@ -9,152 +9,152 @@ icon: book
 * content
 {:toc}
 
-Google DeepMindIt's a brand-new thing. AI Encoding Agent-AlphaEvolve It can automatically optimize algorithms and make scientific discoveries.
-**AlphaEvolve**AlphaEvolve The core position is...-
-**A model based on a large languageLLMsI'm not sure what I'm talking about.+ Evolution Algorithms + General algorithms for auto-assessments to identify and optimize platformsI don't know.**A model based on a large languageLLMsI'm not sure what I'm talking about.+ Evolution Algorithms + General algorithms for auto-assessments to identify and optimize platformsI don't know.
-It doesn't just write the code. It also automatically evaluates the performance of these codes. Then adjust the strategy according to the results of the evaluation.Turns out to be a better solution.I don't know.The process is essentially...**Simulate“At the end of the day,Algorithms evolve naturally.It's not a good idea, it's not a good idea.**Simulate“At the end of the day,Algorithms evolve naturally.It's not a good idea, it's not a good idea.I don't know.
+Google Deepmind has released a brand-new AI coding agent: AlphaEvolve, which can automatically optimize algorithms and make scientific discoveries
+**AlphaEvolve** Core position:
+** A common algorithm discovery and optimization platform based on the large language model (LLMs)+ Evolution algorithm + AutoAssessor.**
+It not only writes the code, it automatically evaluates its performance, then adjusts the strategy to the results of the assessment and produces a better formula. This process is essentially ** simulations of “natural evolution of algorithms”**.
 
-### Where is it?
+# Where is it?
 
-- There's no need for humans to write an optimist. It's...**You want to change the law.Test it yourself.Make your own improvements.**You want to change the law.Test it yourself.Make your own improvements.I don't know.
+- There is no need for a human step-by-step optimisation programme, which** wants to adapt, test itself, improve itself**.
 
-- Compared to otherAIIt's stronger. It can be modified.**The whole program.**The whole program. It's not just one or two functions.I don't know.
+- More than any other AI, it can modify the whole program**, not just one or two functions.
 
-- It learns to use different strategies under different issues. Like a search algorithm for complex issues. Structured problems by tectonic methodsI don't know.
+- It learns to use different strategies under different issues, such as search algorithms for complex issues and tectonics for structural problems.
 
-- It's already done.**Real input.GoogleLarge-scale production use**Real input.GoogleLarge-scale production use It's not a lab toy.I don't know.
+- The results have been ** genuinely invested in Google ' s mass production and use**, not laboratory toys.
 
-It's understood that it's a super.“At the end of the day,AIProgrammerI'm not sure what I'm going to do.It can.-
+It can be understood that it is a super "AI programmer" that can:
 
-- Automatically write code to solve complex problems;
+- Automatically write codes to solve complex problems;
 
-- Test your own code.;
+- Test their own codes;
 
-- If it doesn't work. Automatically improve and try new methods;
+- Automatically improve and try new methods if they do not work well;
 
-- ♪ Eventually it's like ♪“At the end of the day,EvolutionismIt's not a good idea, it's not a good idea.Same thing. Sifting out the best algorithmsI don't know.
+- Eventually, like the theory of evolution, the best algorithms were screened.
 
-It's already in use.-
+It has been used in:
 
 - Improving the efficiency of Google data centres;
 
-- Speed up.AIModel training;
+- Accelerated AI model training;
 
-- Help mathematicians solve their problems;
+- Helping mathematicians to solve their problems;
 
-- Even for chip designers.VerilogCode proposal
+- And even provide the chip designer with Verilog code advice!
 
-**Let me give you an example.**Let me give you an example.
-It solved one.50No one's been improving for years.——How best to do it.“At the end of the day,4×4Matrix MultiplicationThe old method needs49Minor Multiplication It found something to use.48Second new approach
+** Give me an example! **
+It solved a problem that nobody had improved for more than 50 years -- how best to do the "4x4 Matrix Multiply." The old method took 49 times, and it found a new way to use only 48 times.
 
-## AlphaEvolve With previous AI Fundamental differences in the system
-![](https://assets-v2.circle.so/h2nns3bbkqxbdlgsr905q3mgz5xy)**Universality**Universality- 
+# AlphaEvolve is fundamentally different from the previous AI system
+(https://assets-v2.circle.so/h2nns3bbkqxbdlgsr905q3mgz5xy)** General **:
 
-- and DeepMind Before that. AlphaFoldSpecially for protein foldingI'm not sure what I'm talking about.or AlphaTensorEarmarked for Matrix MultiplicationI'm not sure what I'm talking about.Different AlphaEvolve It's common. AI Application to any problem that can be expressed as code and can be evaluated automaticallyI don't know.
+Unlike AlphaFold before DeepMind (for protein folding) or AlphaTensor (for matrix multiplying), AlphaEvolve is common AI and can be applied to any problem that can be expressed as code and can be evaluated automatically.
 
-- Other“At the end of the day,Search algorithms instead of direct search resolutionIt's not a good idea, it's not a good idea.in a wide range of areas From math to system optimizationI don't know.
+- Its method of “search algorithms rather than direct search solutions” makes it applicable to a wide range of areas, from mathematics to system optimization.
 
-## Detailed description of the working mechanism
-AlphaEvolve It's not just a monolingual model. It's one.**Multi-componentMulti-stage connection system**Multi-componentMulti-stage connection system Include the following core modules-
-![](https://assets-v2.circle.so/qtvapq4duz6hexbd36utghclgpbi)
-### System structure
-AlphaEvolve The overall process consists of multiple modules We built one together. **Evolutional Automated Algorithm Design System**Evolutional Automated Algorithm Design System-
-**1. Input Phase**1. Input Phase
-User-provided-
+# Detailed working mechanisms
+AlphaEvolve does not simply rely on a single language model to complete its task, but is a ** multi-component, multi-stage combined system** containing the following core modules:
+(https://assets-v2.circle.so/qtvapq4duz6hbd36utghclgpbi)
+# System structure
+AlphaEvolve's overall process consists of multiple modules, which together construct a **Evoltic Automated Algorithm Design System**:
+**1. Input phase**
+User-provided:
 
 - Initial program code;
 
-- Definition of issues to be optimized;
+- Definition of issues that need to be optimized;
 
-- AutoAssessment FunctionsLike code performanceOutput correctness, etc.I'm sorry, I don't know.
+- Automation evaluation functions (e.g. code performance, output correctness, etc.).
 
-**2. Core module composition**2. Core module composition
-🧩 Prompt SamplerHint BuilderI'm not sure what I'm talking about.
+**2. Composition of core modules**
+Prompt Sampler (tip builder)
 
-- A combination of historical excellence programmes + Context of the issue Build Complex prompt;
+- Combining historical excellence + questions, building complex prompt;
 
-- Supporting the background knowledge provided by humansFormulaSnippets, etc.;
+- Supporting the background knowledge, formulae, snippets, etc. provided by humans;
 
-- It's also generated.“At the end of the day,Meta-HintI'm not sure what I'm talking about.meta-promptsI'm not sure what I'm talking about.To optimize the quality of the generationI don't know.
+- It can also generate meta-prompts to optimize the quality of the generation.
 
-🤖 LLM EnsembleLLMIntegrationI'm not sure what I'm talking about.
+LLM Ensemble
 
-- Use Gemini Flash Quick generation of a large number of candidate processes;
+- Use Gemini Flash to rapidly generate a large number of candidates;
 
-- Use Gemini Pro Critical recommendations for depth optimization;
+- Optimizing key recommendations using Gemini Pro depth;
 
-- Common Driver“At the end of the day,EvolutionIt's not a good idea, it's not a good idea.Process Proposals for diversity code changesI don't know.
+- To jointly drive the process of “evolving” by proposing changes in the diversity code.
 
-🧪 EvaluatorsAutoEvaluatorI'm not sure what I'm talking about.
+Evaluators (Automated assessor)
 
-- Automatically run and assess the performance of each program in the mission;
+- Automation and evaluation of the performance of each procedure in the context of the mission;
 
-- Support for multiple indicator optimizationCascade assessmentParallelly Distributed Implementation;
+- Support for multi-indicator optimization, cascade assessment and parallel distribution;
 
-- Appendable LLM Auxiliary judgementsIf program readabilitySimpleness, etc.I'm sorry, I don't know.
+- Appendable LLM support judgements (e.g. program readability, brevity, etc.).
 
-📦 Program DatabaseProgram DatabaseI'm not sure what I'm talking about.
+Program Database (Professional Database)
 
-- Storage history programmeEvaluation scoreModify Record;
+- Storage of historical programmes, evaluation scores, modification of records;
 
-- For the construction of a new generation Prompt Achieve similar“At the end of the day,Genetic memory.It's not a good idea, it's not a good idea.Evolution.I don't know.
+- For the construction of a new generation of Prompt, to evolve like “genetic memory”.
 
-### **Evolution AlgorithmsEvolutionary LoopI'm not sure what I'm talking about.**Evolution AlgorithmsEvolutionary LoopI'm not sure what I'm talking about.
-AlphaEvolve At the heart of the story... **LLMDrivered“At the end of the day,Evolution SearchIt's not a good idea, it's not a good idea.**LLMDrivered“At the end of the day,Evolution SearchIt's not a good idea, it's not a good idea.-
+## ** Evolutionary Loop**
+The core of AlphaEvolve is **LLM-driven "evolving search" **:
 
-- Select One“At the end of the day,ParentI'm not sure what I'm going to do.Extracting its optimal structure from the database;
+- Selecting a “father program” to extract its optimal structure from the database;
 
-- Pass. Prompt Builds the current task and context;
+- Build the current task and context through Prompt;
 
-- LLM Generate new code differencesdiff);
+- LLM generates new code differences (diff);
 
-- Application variance formation“At the end of the day,Subprocedure); and
+- Application of differences to form a "subprogram";
 
-- Run the results with an evaluator.Score;
+- Run results and score with an evaluator;
 
-- If the sub-procedure is better than the father's, Repository Next round of evolution continues.I don't know.
+- If the sub-procedure is superior to the parent procedure, enter the library and the next round of evolution continues.
 
-This process is not just an evolution of the code. It's also evolving. prompt It's in itself.Evaluation indicators, etc. Optimize search for high self-adaptationI don't know.
+This process not only evolves the code, but also evolves the prompt itself, evaluates the indicators, etc., to optimize the search for a high degree of self-adaptation.
 
-- The best snippets will be performed.“At the end of the day,Keep it down.I'm not sure what I'm going to do.Inputs for next round generation;
+- To “retain” the best-performing segments of the code for the next round of input generation;
 
-- The system will be introduced.“At the end of the day,VariationIt's not a good idea, it's not a good idea.——Try to solve the existing code by fine-tuning it.;
+- The system would also introduce a “variant” — a small attempt to adapt the existing code to a new solution;
 
-- This process will continue to be optimized. Until there's an optimal or new effective algorithm.I don't know.
+- This process will continue to be optimized over time until the best or novel and effective algorithms are produced.
 
-## Landed applications and results
-AlphaEvolve It's more than just a prototype. It's already.**Deployed in real production systems and produced tangible results**Deployed in real production systems and produced tangible resultsI don't know.The following are some of the key applications:-
+# Landed applications and results
+AlphaEvolve is no longer just studying prototypes, but is already ** deployed in real production systems and producing significant results**. Several key application scenarios are as follows:
 
-### ✅ Data centre dispatch optimizationGoogle Borg SystemI'm not sure what I'm talking about.
+# # Data centre dispatch optimization (Google Borg system)
 
-- Yes. Google It's... it's... it's... Borg The cluster management system designed a scheduling inspiration algorithm. More than a year in use **Sustainable recycling compacts 0.7% Table 1 Calculation of resources by source of funds**Sustainable recycling compacts 0.7% Table 1 Calculation of resources by source of funds
+- Designed a dispatch inspiration algorithm for the Google Borg cluster management system, which has been in use for more than a year,** sustainable recovery of approximately 0.7 per cent of the computational resources**
 
-- It's done.“At the end of the day,The stranded resources.It's not a good idea, it's not a good idea.ProblemFor example, there's no memory, but... CPU AvailableI'm sorry, I don't know.
+- The problem of “grounding resources” has been resolved (e.g. depleted memory but CPU is still available).
 
-- Generated code simple and human readable Facilitation of engineer debugging and deploymentI don't know.
-![](https://assets-v2.circle.so/j9nc9a8ewjzqd1miq145xkjb0817)
+- Generated codes that are simple and human-readable to facilitate the calibration and deployment of engineers.
+!" (https://assets-v2.circle.so/j9nc9a8ewjzqd1miq145xkjb0817)
 
-### ✅ AI Chip design coordinated.VerilogLevelI'm not sure what I'm talking about.
+# AI Chip Design Synergy (Verilog Level)
 
-- Yeah. Google TPU Some of the matrix multiplying circuits were carried out. Verilog Level Rewrite Remove redundancies Keep function correct;
+- Rewrite the Verilog level of a matrix Multiplication Circuit in Google TPU, remove redundancies and maintain functional correctness;
 
-- This proposal has been adopted into the future-generation chip design process. Significant area and energy savingsI don't know.
-![](https://assets-v2.circle.so/t1b7kmis84mjantvb6ttego7lzz8)
+- This proposal has been adopted into the future generation chip design process, resulting in significant savings in area and energy consumption.
+!" (https://assets-v2.circle.so/t1b7kmis84mjantvb6ttego7lzz8)
 
-### ✅ AI Model training accelerated.Including Gemini SelfI'm not sure what I'm talking about.
+# AI model training acceleration (including Gemini itself)
 
-- It's perfect. Gemini Matrix Multiplication kernel in Model Training Speed up. 23% Reduction in overall training time 1% Yes. Google The scale of the calculations has resulted in significant energy and resource savings.I don't know.
+- Optimizing matrix kernels in Gemini model training, accelerating 23 per cent, reducing overall training time by 1 per cent, and saving a lot of energy and resources on the scale of Google calculations.
 
-- Yeah. FlashAttention Low level of kernel GPU Commands are being reconfigured. Speed up. **32.5%**32.5%I don't know.
+- Reconstructed low-level GPU command of the FlashAttention core with a speed increase of **32.5%**.
 
-### ✅ Math and Algorithm Discovery
+# # Mathematics and algorithms found #
 
-- Yes. 50 A math problem.Include GeometryCombining math and other fieldsI'm not sure what I'm talking about.I'm testing it. AlphaEvolve Yes. 75% The best solution we know is to recreate it. Yes. 20% We've found a new solution better than the one we've solved.I don't know.
-![](https://assets-v2.circle.so/xatol7vw96fyyyo3u9phpuf852we)
-- **Contact ball count problem**Contact ball count problem-Yes. 11 %1 %1 %2 %2 %2 %2 %2 %2 %2 %2 %2 %2 %2 %2 %2 %2 %2 %2 %2 %2 %2 %2 %2 %2 %2 %2 %2 %2 %2 %2 %2 %2 %2 %2 %2 %2 %1 Number of balls to be touchedNumber of non-overlapping units of sphere that can be exposed to the central sphere simultaneouslyI'm not sure what I'm talking about.♪ Down from the bottom ♪ 592 Raise to 593 Breaking the existing record.Upwards 868I'm sorry, I don't know.
-![](https://assets-v2.circle.so/3qlxo3a8gljxk5ujnhnibwt6n3rp)
-- **Matrix Multiplication**Matrix Multiplication-I found Bea. 1969 Year Strassen Algorithms are more efficient. 4×4 Complex Matrix Multiply Algorithm Reduction in the number of mark multipliers It's improved computing efficiency.I don't know.
+- In 50 tests for mathematics questions (covering geometry, combination mathematics, etc.), AlphaEvolve recreated the best solution known in 75% of cases and found a new solution better than the one already solved in 20% of cases.
+!" (https://assets-v2.circle.so/xatol7vw96fyyo3u9puf852we)
+- ** Contact ball problems**: In the 11-dimensional space, the lower limit of exposure (the number of non-overlapping units of sphere that can be simultaneously exposed to the central sphere) was raised from 592 to 593, breaking the existing record (upline 868).
+(https://assets-v2.circle.so/3qlxo3a8gljxk5ujnhnibwt6n3rp)
+- ** Matrix Multiply**: A more efficient 4x4 complex matrix multiplier than the 1969 Strassen algorithm was found, reducing the number of marker multipliers and increasing the computational efficiency.
 
 
-Official presentation-https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/ 
+Official presentation: https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algoriths/
 Technical report

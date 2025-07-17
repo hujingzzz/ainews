@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bland AIPublish All New TTS Engine-Direct voice generation using large language models It's just a short audio. Cloning the voice of any human voice
+title: Bland AI releases a new TTS engine-using a large language model to directly generate a voice that only needs a short audio to clone any human voice.
 date: 2025-06-15 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/bland-ai-tts_1.jpg
@@ -9,107 +9,107 @@ icon: image
 * content
 {:toc}
 
-**Bland AIPublish a whole new one.**Bland AIPublish a whole new one.Bland TTS Say it's...**“At the end of the day,The first to cross the valley of terror.Uncanny ValleyI'm not sure what I'm going to do.ProductsI don't know.**“At the end of the day,The first to cross the valley of terror.Uncanny ValleyI'm not sure what I'm going to do.ProductsI don't know.
+**Bland AI released a brand-new **Bland TTS, declaring it to be **the first “Uncanny Valley” product.**
 
-- **Horror Valley.**Horror Valley.-It means... AI The voice or face is closer to the human being.But it's not perfect yet. It makes people uncomfortable or weird.I don't know.Bland TTS He claims to have broken through this. Ambassador AI Sounds like a voice.**It's almost impossible to distinguish from the real person.**It's almost impossible to distinguish from the real person.I don't know.
+- **Treasure Valley**: It means that AI's voice or face is not perfect when it's not perfect. Bland TTS claims it's broken, making AI's voice ** almost impossible to distinguish from the real person**.
 
-Bland TTS**Just a short audio.**Just a short audio.I can.-
+Bland TTS** only requires a short audio ** to:
 
-- Cloning any human voice
+- Cloning any human voice.
 
-- Or another cloned voice style.It's like a tone.RhythmPronunciation, etc.I'm not sure what I'm talking about.Conduct“At the end of the day,Combining.It's not a good idea, it's not a good idea.RecreateI don't know.
+- Or “combined” the other cloned voice style (e.g. tone, rhythm, pronunciation, etc.).
 
-At its core is the use of large language models.LLMI'm not sure what I'm talking about.Direct voice generation Instead of relying on traditional layer-by-storey structures,I don't know.The system has an unprecedented emotional expression.Style ControlA lot of people understand.Equivalence of non-linguistic sound generation And through self-researching audio.TokenSystemSNACI'm not sure what I'm talking about.It's more real.It's more manageable.More context-specific synthesizingI don't know.
+At its core is the use of large language models (LLMs) for direct voice generation, rather than relying on traditional layer-by-storey structures. The system has unprecedented emotional expression, style control, multi-talker understanding, non-verbal sound generation, and has achieved more real, controlled, and contextualized speech synthesis through self-researched audio Token systems (SNACs).
 
-## Function Highlights
+# Activate bright
 
-### 1️⃣ Voice style controlStyle TransferI'm not sure what I'm talking about.
+#1 Style Transfer
 
-- Models can be used. **“At the end of the day,Context learningIt's not a good idea, it's not a good idea.**“At the end of the day,Context learningIt's not a good idea, it's not a good idea. It's an automatic understanding of what it is.“At the end of the day,An exciting tone.It's not a good idea, it's not a good idea.or“At the end of the day,Calm down.); and
+- Models can be understood automatically through ** "Learning in context"** what is an "excited tone" or "cool tone";
 
-- You can also manually add control tags Like-
-<excited> It's a big breakthrough. <calm> Please read the following instructions carefully.I don't know. 
-- Just need to...3~6It's a voice example. The system can synthesize new content in the same style.I don't know.
+- Control labels may also be added manually, such as:
+This is a big breakthrough!
+- It takes 3-6 speech examples for the system to synthesize new content of the same style.
 
-### 2️⃣ Sound GenerationSound EffectsI'm not sure what I'm talking about.
-It's not just a synthetic language. It's okay.**Generate Sound**Generate Sound Like-
-<dog_bark> It's a dog barking. <laughter> Simulate laughter. As long as you've given me an example of a punctuation and audio. Models can remember the relativity.I don't know.
+##2 Sound Generations
+Not only can synthesizing languages, but can also produce sound effects**, such as:
+<dog_bark> simulates laughter on behalf of dog barking <laughter> as long as you provide a punctuated text and audio examples, the model will remember the correspondence.
 
-### 3️⃣ Voice mixVoice BlendingI'm not sure what I'm talking about.
-By providing examples of multiple voices The system is automatic.“At the end of the day,IntegrationIt's not a good idea, it's not a good idea.Make a new sound. We both keep the character of more than one person talking. And there's consistency in the tone.I don't know.Applicable to-
+#3 # Voice Blending
+By providing multiple voice examples, the system automatically “combines” a new voice, preserving the identity of multiple speakers and maintaining a consistent tone.
 
 - Brand voice design;
 
-- Multilingual unified style output;
+- Unanimous multilingual output;
 
-- Virtual image role creationI don't know.
+- Virtual image role creation.
 
-### 4️⃣ Voice-to-mouth understanding.Emotionally AwareI'm not sure what I'm talking about.
-The system isn't anymore.“At the end of the day,Just read it.I'm not sure what I'm going to do.It's really a change of tone based on context.——
+# # 4 #
+The system is no longer word-for-word, but really changes the tone from context to context.
 
-- Technology introductions are more rational.;
+- More rational technical orientation;
 
-- Comfortable content is warmer.;
+- Comfortable content is warmer;
 
-- Questions and answers are more natural.I don't know.
+- Questions and answers are more natural.
 
-## Core technology-Reconstructing traditionsTTSProcess
-**✅ TraditionTTSThe pain.**✅ TraditionTTSThe pain.
-PastTTSIt's a flow line.-
-Text → Soft → Rhythm. → Wave → Synthetic sound
-Every step could go wrong. And it's always the end result.“At the end of the day,Lack of emotion.The sound is cut.It's because of traditional methods.**It's about understanding what's going on. Again.“At the end of the day,ComposingIt's not a good idea, it's not a good idea.Voice**It's about understanding what's going on. Again.“At the end of the day,ComposingIt's not a good idea, it's not a good idea.Voice It's hard to communicate the tone and emotions naturally.I don't know.
-**✅ Bland Programme-Integrated modelling**✅ Bland Programme-Integrated modelling
-Bland AI The new technology that connects the whole process. Adoption **Large language models predict sound directly**Large language models predict sound directly Here's the process.-
-Text Input → Model output“At the end of the day,AudioTokenIt's not a good idea, it's not a good idea. → Revert it back to real sound.
-Like, yeah.“At the end of the day,You tell him what to say. It makes a sound directly from understanding the tone and emotion.I'm not sure what I'm going to do.Instead of a collager, step by step.“At the end of the day,Translation
+# Core technology: reshaping traditional TTS processes
+** The pain of the traditional TTS**
+In the past, TTS was a waterline approach:
+Text # Sylvester # Rhythm # Wave # Synthetic sound
+Each step can be wrong, and the end effect is often “lack of emotion, sound splitting.” This is because traditional methods** are to understand content first and then to “assemble” the voice** and it is difficult to communicate the tone and emotions naturally.
+** Programme Bland: integrated modelling**
+The new Bland AI technology, which connects the entire process, uses ** Large Language Models to directly predict sound**, as follows:
+Text input  Model output " Audio Token" directly and then restore to real sound
+It's like, "You tell it what it says, it makes a voice out of the tone and emotion of understanding" instead of a collator to progressively "translate."
 
-### 🎧 A breakthrough at the data level-A thousand times higher.
-Bottom of any generation system It's all data quality.I don't know.Bland The team thinks... Public voice data isn't enough. Especially in real dialogue modelling.I don't know.
-They built one. **Top industry large-scale dialogue voice dataset**Top industry large-scale dialogue voice dataset Having the following characteristics:-
-![](https://assets-v2.circle.so/b3zzwwxqduz6nfhx1fgvjfxgmxrq)
-## Core of the technical architecture-From Text LLM To voice LLM
+# # A breakthrough at the data level: a thousand times higher
+The bottom of any generation system is data quality. The Bland team believes that public voice data is not enough, especially for real dialogue modelling.
+They constructed a large-scale voice data set for **the industry,** with the following characteristics:
+(https://assets-v2.circle.so/b3zzwwqduz6nfhx1fgvjfxgmrq)
+# Technology architecture core: from text LLM to voice LLM
 
-### 🧠 LLMGeneral thinking
-Tradition LLM It's the way it works.-
-Split Text into Text Token → Learn to predict the next one. Token → Revert to full sentence
-Bland The method.-
-Sever the text. → Predictions correspond to“At the end of the day,Audio TokenIt's not a good idea, it's not a good idea. → Revert to voice wave shape
-Here. **“At the end of the day,AudioTokenIt's not a good idea, it's not a good idea.**“At the end of the day,AudioTokenIt's not a good idea, it's not a good idea. It's passing by. SNACSpectrum-based audio encoderI'm not sure what I'm talking about.Discrete sign for encoding Compromise-
+# # The common thinking of LLM #
+The traditional LLM approach is:
+Cut the text into Token. Learn to predict the next Token to restore it to full sentence.
+Bland's method:
+Sever text to predict the corresponding " Audio Token" and restore it to voice wave form
+Here's ** Audio Token** is a discrete expression of SNAC coding, taking into account:
 
-- Macro beatAs fast as a word.Stop.);
+- Macro beats (e.g. speed of speech, pause);
 
-- Micro DetailsIt's a pronunciation.SoundI'm sorry, I don't know.
+- Micro-details (e.g. pronunciation, sounds).
 
-This way, the model can really be mastered at the same time.“At the end of the day,Contents+OrganisationI'm not sure what I'm going to do.That's right.That's a good one.I don't know.
+This approach allows the model to really master the “content plus expression” at the same time, right and right.
 
-## **Applying scenes and people using them**Applying scenes and people using them
+# **Application scene and user population**
 
-### 1. 🎨 AuthorCreativesI'm not sure what I'm talking about.
+# 1. Creatives
 
-- Convert Text To**I'm serious. AI Voice or sound**I'm serious. AI Voice or sound
+- Turn text into a real AI voice or sound**
 
-- Support**Fine control styles and emotions**Fine control styles and emotions
+- Support** fine control styles and emotions**
 
-- It's for podcasts.SoundAudio novelsCreating scenes for content like videos
+- Design scenes suitable for content such as podcasting, audio programming, audio novels, films, etc.
 
-### 2. 🧑‍💻 DeveloperDevelopersI'm not sure what I'm talking about.
+#2. # Developers
 
-- Through API Connect to your own application
+- Access your application via API
 
-- Products used to build custom voice functionsLike voice help.Educational productsBroadcasting system, etc.I'm not sure what I'm talking about.
+- Products used to construct custom voice functions (e.g. voice assistants, educational products, broadcasting systems, etc.)
 
-### 3. 🏢 Business usersEnterprisesI'm not sure what I'm talking about.
+##3. # Enterprise users
 
-- Construction**AI The customer service system.Telephone assistants, commercial voice services.**AI The customer service system.Telephone assistants, commercial voice services.
+- Construction of commercial voice services such as **AI customer service systems, telephone assistants, etc.**
 
-- The sound is natural. Clients will even keep it as their contact.
+- The sound is natural. The client will even keep it as a contact.
 
-- Available on the website**Try directly with AI Dialogue**Try directly with AI Dialogue
+- A dialogue with AI can be tried directly on the website**
 
-Official presentation-https://www.bland.ai/blogs/new-tts-announcement
-Quick Start Link-
+Official presentation: https://www.bland.ai/blogs/new-tts-announcement
+Quick Start Link:
 
-- Developer portal-https://t.co/qBpGkJh2Gp
+- Developer portal: https://t.co/qBpGkJh2Gp
 
-- Enterprise entrance-https://t.co/Szf9KNwfHs
+- Enterprise portal: https://t.co/Szf9KNwfHs
 

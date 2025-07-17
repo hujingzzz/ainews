@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Genspark Launch“At the end of the day,AI SheetsIt's not a good idea, it's not a good idea.SpreadsheetAITools Automatically complete data searches like chats.CollateAnalysis and visualization
+title: Genspark releases the "AI Sheets" spreadsheet AI tool to automatically complete data search, collation, analysis and visualization like chats
 date: 2025-06-30 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/genspark-ai-sheets-ai_1.jpg
@@ -9,79 +9,79 @@ icon: game
 * content
 {:toc}
 
-Genspark Launch“At the end of the day,AI SheetsIt's not a good idea, it's not a good idea.**New tool for spreadsheets**New tool for spreadsheets Combining large language models and AI Tools Let the user process the data like a dialogueI don't know.
-There's a simple natural language command. Automatically complete data searchCollateScheduleComplete processes such as analysis and visualizationI don't know.
-It doesn't just automatically analyze and generate graphs. It also smartens to find information and process data. Replace complex formula operations in traditional spreadsheetsI don't know.Leveraging. AI Genspark The efficiency and accessibility of data processing has been redefined It's designed to turn everyone into an efficient data analyst.I don't know.
+Genspark releases a completely new tool for “AI Sheets”** spreadsheets**, combining large language models and AI tools to allow users to process data like a dialogue.
+The complete process of data search, collation, tabulation, analysis and visualization can be accomplished automatically through a simple natural language directive.
+It not only automatically analyses and generates graphs, but also intelligently finds information and processes data, replacing complex formulae operating in traditional spreadsheets. Using AI, Genspark redefines the efficiency and accessibility of data processing to turn everyone into an efficient data analyst.
 
-- **📊 Personal Data Analyst**📊 Personal Data Analyst-Automatically analyze and visualize data according to user inputI don't know.
+- ** Personal Data Analyst**: Automatic analysis and visualization of data based on user input.
 
-- **🔎 Automatic data collection**🔎 Automatic data collection-Automatically search for companiesPeople.Products, etc. No manual search or input requiredI don't know.
+- ** Automatic data collection**: Automatic search of companies, people, products, etc. without manual search or input.
 
-- **🪄 AI Alternative formula**🪄 AI Alternative formula-UseAIImage/Video Generator and AI Proxy batch processing data Breaking through the tradition. Excel LimitationsI don't know.
+- ** AI Alternative formula**: batch data processing using AI, image/video generator and AI proxy to break the traditional Excel limit.
 
 
-## Five core competencies-
+# Five core competencies:
 
-### 1️⃣ Generate complete spreadsheets in natural languages
-**Just one word of command. Creates a table with complete data**Just one word of command. Creates a table with complete dataI don't know.For example...-
-“At the end of the day,I want one before Singapore.100Home. AI List of start-up companies Including a brief descriptionRecovery estimatesFinancial situation and network of officialsWe're not going to be able to do that."
+#1 Generate complete spreadsheets in natural languages
+** A single command is required to create a table with complete data**. For example:
+“I would like a list of the top 100 AI start-ups in Singapore, including profiles, revenue estimates, financing and networks.”
 
-AI You can search and generate a complete table of filled data. You don't have to move a line of code or a formula.I don't know.
+AI will search and generate a complete table of filled data without you moving a line code or a formula.
 
-### 2️⃣ Automatic data collection and organization
-There is no need to copy paste from various pagesI don't know.System Automation-
+#2 Automatic data collection and organization
+There is no need to copy paste from the various pages. The system is automated:
 
-- Search for high-quality information online
+- On-line search for high-quality information
 
-- Clear RedundancyConsistent format
+- Clear redundancies and align formats
 
-- It's like having a full-time job.“At the end of the day,Data reptiles + Assistant + Purge expert.
+- Keeping the data source to trace it is like "data reptiles + assistant + cleaning specialists" with a full-time job.
 
-### 3️⃣ Use it. AI Replace Formula Automatically
-Genspark No more dependencies. =SUM() or =VLOOKUP() This is a traditional function. It's for use. AI Greater automation-
+##3 Use AI instead of formula to automate
+Genspark no longer relies on traditional functions such as =SUM() or =VLOOKUP(), but uses AI to automate more strongly:
 
-- Batch generation of personalized mail
+- Bulk generation of personalized mail
 
-- Batch analysis YouTube Video or comment
+- Batch Analysis YouTube Videos or Comments
 
-- Text-to-VoiceLarge-scale image generation
+- Text-to-language, large-scale image generation
 
-- Rip and categorize across document content
+- Cross-document extraction and cataloguing
 
-AI Make spreadsheets become“At the end of the day,**Data Autoprocessing Engine**Data Autoprocessing EngineI'm not sure what I'm going to do.It's not a simple computational tool.I don't know.
+AI Allows spreadsheets to become "** data automatic processing engines** " , which is not a simple computational tool.
 
-### 4️⃣ Everything turn tables.-Document Smart Conversion
-Support for Imports-
+# # 4 Everything turning table: document intelligence conversion
+Support for import includes:
 
-- PDF
+- PDF.
 
 - Word Document
 
-- PicturesOCRIdentification TableI'm not sure what I'm talking about.
+- Picture (OCR recognition form)
 
-- Old edition ExcelAnd then the key is converted to“At the end of the day,Smart AI TableI'm not sure what I'm going to do.We can continue the analysis.Questions and answersVisualizationI don't know.
+- Old Excel then converts the key to " Smart AI Tables " to continue analysis, question-and-answer, visualization.
 
-### 5️⃣ Smart Analysis and VisualizationGoodbye complex functionI'm not sure what I'm talking about.
-No more writing. =IF()=MATCH()I don't know.You can ask questions directly in language.-
+##5 Smart analysis and visualization (separation complex function)
+You can ask questions directly in language:
 
-- “At the end of the day,What's the growth trend in this data?♪ We're not going to be able to do it ♪
+- “What is the growth trend in this data?”
 
-- “At the end of the day,Please help me compare the sales of these two brands.It's not a good idea, it's not a good idea.
+- "Please compare the sales of these two brands."
 
-AI I'll use a chart.+Language Interpretation Return Results It's like you're with someone. **Data Analyst Chat**Data Analyst ChatI don't know.
+AI will explain the results in graph + language, just like you're talking to a **data analyst**.
 
-## 🧪 Example of practical applicationClick to view:
+#  Example of practical application (click to view):
 
-- 🔎 Automatically collect U.S. medical start-up company data
+-  Automatic collection of data on American medical start-up companies
  
-- 🚗 Find$4Less than ten thousand familiesSUVList
-![](https://assets-v2.circle.so/7w3a7z6jjgvgyramdx4bir5deb1f)
+We're looking for a list of family SUVs under $40,000.
+(https://assets-v2.circle.so/7w3a7z6jgvgyramdx4bir5deb1f)
 - Analysis of the performance of marketing activities and visualization of results
  
-- 🎨 Bulk Generation Stanley Posters for the cups
+A mass-generated promotional poster for Stanley Cups.
  
 
-## 👤 For who?
-![](https://assets-v2.circle.so/429lh0u3d1rvn77f3iyef1lp5pyj)
-## ✅ Let's wrap it up.-
-**Genspark AI Sheets Turns spreadsheets into“At the end of the day,A talking autoanalyst.I'm not sure what I'm going to do.Help you say goodbye to the manual search.Copy Paste and Formula Work You can complete the entire data task from the beginning of a sentence.I don't know.**Genspark AI Sheets Turns spreadsheets into“At the end of the day,A talking autoanalyst.I'm not sure what I'm going to do.Help you say goodbye to the manual search.Copy Paste and Formula Work You can complete the entire data task from the beginning of a sentence.I don't know.
+# Who's fit for use?
+(https://assets-v2.circle.so/429lh0u3d1rvn77f3iyef1lp5pyj)
+# Let's wrap it up and say:
+** Genspark AI Sheets transformed the spreadsheet into a “talking autoanalyst” to help you break the manual search, copy paste and formulae to complete the entire data task from the beginning of a sentence.**

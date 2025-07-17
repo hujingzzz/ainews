@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Midjourney Release AI Video Generation Model- V1 Video Model Support 5 to 20 Video generation of seconds
+title: Midjourney release AI video generation model-V1 Video Model supports video generation from 5 to 20 seconds
 date: 2025-06-26 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/midjourney-ai-v1-video-model-5-20_1.jpg
@@ -9,154 +9,153 @@ icon: image
 * content
 {:toc}
 
-Midjourney Formal introduction of the first paragraph AI Video Generation Model —— **V1 Video Model**V1 Video Model Open to subscriptionsI don't know.Supports single image generation**5Video Animation of Seconds**5Video Animation of Seconds User can choose whether to add a hint wordpromptThis is the first time I've ever seen you.And use the animated effect to present the image.“At the end of the day,Let's move.It's not a good idea, it's not a good idea.♪ The visual experience ♪I don't know.
+Midjourney has officially launched the first AI video generation model - **V1 Video Model**, which is now open to subscribers. Supports video animations that generate single images for **5 seconds**, allows users to choose whether to add a hint (prompt) and to use the animated effect to present the visual experience of the image “move”.
 
-- **Generate video from static images**Generate video from static images-Users can upload their own maps or use them Midjourney Images generated One key generates four. 5 Snippets 
+- ** Generate video from static images**: Users can upload their own images or image from Midjourney, with one key generating four 5-second clips
 
-- **Extendable to 20–21 sec**Extendable to 20–21 sec-Initial 5 Second You can add up to four times per video 4 sec Up to the limit. 20or 21I'm not sure what I'm talking about.sec 
+- **extencable to 20–21 seconds**: After initial 5 seconds, up to four additional 4 seconds per video segment, up to 20 (or 21) seconds
 
-- **Animation Control**Animation Control-Two types of support. motion Mode-
-Low move.Low Motion:Fits for fine kinetic effects in static settings 
+- ** Animation Control**: supports two mode of motion:
+Low Motion: Fits for micro-activities in static settings.
 
-- A high sense of motion.High Motion:For larger cameras or character movements I don't know.
+- High Motion: for larger cameras or role movements.
 
-- Select to automatically animate the image or adjust the dynamic effects through texttips I don't know.
+- You can choose animating the image automatically or adjusting it through a texttip.
 
-MidjourneyOrganisation Other AI The goal of the video model is much more than just a Hollywood movie. B-roll Material or commercial advertising for the advertising industryI don't know.Midjourney Chief Executive Officer David Holz Name The... AI Video models are the next step in the company's move towards the ultimate goal. Create“At the end of the day,It's a real-time open world simulation.It's not a good idea, it's not a good idea.It's... it's... it's... AI ModelI don't know.
- Midjourney The long-term goal is to build one.**A real-time open world simulation system**A real-time open world simulation system-
+Midjoourney states that its AI video model aims much more than generating B-roll material for Hollywood films or making commercial advertisements for the advertising industry. Midjoourney’s CEO, David Holz, says that the AI video model is the next step towards the company’s ultimate goal of creating an AI model that “can open the world in real time”.
+Midjourney, the long-term objective is to build an open world simulation system ** produced in real time**:
 
-- User can**3DFree movement in space**3DFree movement in space;
+- Users can move freely in **3D space**;
 
-- The scene and the role.**Dynamic and interactive**Dynamic and interactive;
+- scenes and roles are ** dynamic and interactive**;
 
-- AIThe system is capable of generating images and responding to user operations at real-time speedI don't know.
+- The AI system is capable of generating images and responding to user operations at real-time speed.
 
-To achieve this vision MidjourneyThe following key technical modules will be built gradually:-
-Image ModelCompletedI'm not sure what I'm talking about.
-Video ModelLaunch nowI'm not sure what I'm talking about.
-3DSpace interactive modelsIt's about to start.I'm not sure what I'm talking about.
-Real-time performance optimization modelFuture objectivesI'm not sure what I'm talking about.
+To achieve this vision, Midjourney will progressively build the following key technical modules:
+Image model (completed)
+Video model (now rolled out)
+3D Space Interactive Model (forthcoming)
+Real-time performance optimization models (future targets)
 
-## Core functions and characteristics
-**Image to Video Generation**Image to Video Generation-
+# Core functions and characteristics
+** Image-to-video generation**:
 
-- Users can access Midjourney Platform generates a static imageor upload external imagesThis is the first time I've ever seen you.And then use it.“At the end of the day,AnimateIt's not a good idea, it's not a good idea.button converts it to a videoI don't know.Work flow versus Midjourney Image generation of eco-synchronous connections Support direct video generation from textI don't know.
-![](https://assets-v2.circle.so/hcyum7bxhg3twmz9f29c8kzyuqdn)
-- Provide two main models-
-**Automotive Synthesis**Automotive Synthesis-By AI Automotive EffectsI don't know.
+- Users can generate a static image (or upload an external image) from the Midjourney platform and then convert it to video using the Animate button. This process creates an ecologically seamless connection with Midjourney ' s image, supporting direct video generation from text.
+!" (https://assets-v2.circle.so/hcyum7bxhg3twmz9f29c8kzyuqdn)
+- Provision of two main models:
+** Automotive synthesis**: Automotive effects generated by AI.
 
-- **Custom motion tips**Custom motion tips-Users can describe the movement of elements in the control scenario through text For example, specify the movement of the lens or the dynamics of the objectI don't know.
+- ** Custom motion hint**: Users can describe the movement of elements in the control scenario by text, e.g. by specifying the movement of the lens or the dynamics of the object.
 
-![](https://assets-v2.circle.so/1wcmthmxx9aechnxwi2nnsnhvudg)**Video duration and extension**Video duration and extension-
+(https://assets-v2.circle.so/1wcmthmx9aechnxwi2nnsnhvudg)** video duration and extension**:
 
-- Shorter video length generated by the current model Max. of **20sec**20secI don't know.
+- The current model produces a shorter video length with a maximum of **20 seconds**.
 
-- Support video extension Add each time **4sec**4sec Provide a degree of flexibility to usersI don't know.
+- Support for video extensions, with additional **4 seconds per extension**, to provide a degree of flexibility to users.
 
-**High and Low Dynamic Options**High and Low Dynamic Options-
+** High and low dynamics options**:
 
-- Provision“At the end of the day,High DynamicIt's not a good idea, it's not a good idea.and“At the end of the day,Low DynamicIt's not a good idea, it's not a good idea.Switch Use to generate faster or slower videos, respectively Adapting to different creative needsI don't know.
-![](https://assets-v2.circle.so/brblcfgkc419te4aqpwlos3bt1qz)
-**Cost and accessibility**Cost and accessibility-
+- Provision of "high-dynamic" and "low-dynamic" switches to generate faster or slower-paced videos, respectively, adapted to different creative needs.
+!" (https://assets-v2.circle.so/brblcfgkc419te4aqpwlos3bt1qz)
+** Cost and accessibility**:
 
-- Pricing as **10United States dollars/Month**10United States dollars/Month High value of money. Position As“At the end of the day,To everyone.It's not a good idea, it's not a good idea.Video Generation Tool for Video GenerationI don't know.
+- Pricing at **$10/month**, high value of value and positioning as a “one-person” video-generation tool.
 
-- According to user feedback Generate20One.4Second VideoTotal80secI'm not sure what I'm talking about.About one.“At the end of the day,fast hourI'm not sure what I'm going to do.Cost approximately **4United States dollars**4United States dollars Compared to a competitor, Google It's... it's... it's... Veo 3 More price advantage.I don't know.
+- According to user feedback, the generation of 20 4-second videos (80 seconds in total) consumes approximately one “last hour” at a cost of approximately **$4**, which is more price-effective than the Veo 3 of the competitor such as Google.
 
-**Quality & Style**Quality & Style-
+** Paint quality and style**:
 
-- The video has been inherited. Midjourney High quality and art style in image generation Every frame has a beauty similar to a painting. It's like the director's teaching the dynamic.I don't know.
+- The video inherited the high quality and artistic style of Midjourney in image generation, each of which had the beauty of drawings, as if the dynamic picture had been taught by the director.
 
-- Emphasizing**High-level visual effects**High-level visual effects But the current video resolution and details are likely to compete with the top rivals.Like Luma Labs It's... it's... it's... Dream Machine or MiniMax It's... it's... it's... Hailuo 02I'm not sure what I'm talking about.Quite. No significant leadI don't know.
-![](https://assets-v2.circle.so/l97qc75c8iey8w7ac5qogp4vdgpm)
+- Emphasis** on high-fiscal visual effects**, but current video resolution and details may be comparable to top competitors (e.g. Dream Machine of Luma Labs or Hailuo 02 of MiniMax) with no significant lead.
+!" (https://assets-v2.circle.so/l97qc75c8iey8w7ac5qogp4vdgpm)
 
-### 
+# I'll be right back #
 
+# Limitations
+**No audio generation**:
 
-## Limitations
-**No Audio Generation**No Audio Generation-
+- Unlike Dream Machine of Google Veo 3 or Luma Labs, Midjourney ' s video model does not support the generation of audio orbits or environmental sound, and users need to add tracks manually at a later stage.
 
-- and Google Veo 3 or Luma Labs It's... it's... it's... Dream Machine Different Midjourney Video models do not support the generation of audio orbits or environmental soundings for the time being User needs to manually add tracks at a later stageI don't know.
+** Duration and editorial limitations**:
 
-**Length and Edit Limits**Length and Edit Limits-
+- Video duration is limited to 20 seconds and does not support the continuity of time-axis editing, scenario transition or cross-sections, with lower functionality.
 
-- Video duration limit to:20sec And don't support time-axis editingScene transition or continuity across segments The function is lower.I don't know.
+** Generation speed**:
 
-**Generate Speed**Generate Speed-
+- Rendering time may be slower and less efficient in dealing with complex sports or cinematography than that of some competitors (e.g. Hailu 02 of MiniMax).
 
-- Rendering time may be slower. Compared to some competitors,Like MiniMax It's... it's... it's... Hailuo 02This is the first time I've ever seen you.Less efficient in handling complex sports or cinematography.I don't know.
+# Compared to competition
+Midjourney entered a highly competitive AI video generation market and faced challenges from rivals such as Runway, Luma Labs, Google Veo 3, MiniMax Hailuo 02:
 
-## Comparison with competitors
-Midjourney There's been a very competitive entry. AI Video Generation Market Face RunwayLuma LabsGoogle Veo 3MiniMax Hailuo 02 Waiting for the challenge of the opponent.-
+- ** Strength**: Midjourney relies on its mature image-generation technology and user-friendly interfaces to provide seamless graphics to video workflows at lower cost and suitable for short video experiments and creative exploration.
 
-- **Advantages**Advantages-Midjourney Depending on their mature image-generation techniques and user-friendly interfaces Provide seamless graphics to video workflows Lower cost Fits for short video experiments and creative explorationI don't know.
+- ** Disadvantage**: Lack of audio-generated, shorter video durations and limited editing functions that make them less functionally comprehensive than the products of Runway or Luma Labs.
 
-- **Weaknesses**Weaknesses-Lack of audio generationShorter video durations and limited editing functions make it less comprehensive than Runway or Luma Labs ProductsI don't know.
+# How to generate the video
+1. Use of images generated by Midjourney
 
-## How to Generate Video
-1. UseMidjourneyImages generated
+- When the image is opened in the library, click on the **Animaté Image** button to:
+**Auto**: Automation of video using original diagrams;
 
-- After opening the image in the library Click **“At the end of the day,Animate ImageIt's not a good idea, it's not a good idea.**“At the end of the day,Animate ImageIt's not a good idea, it's not a good idea. Button is fine.-
-**Auto**Auto-Automatically generate video using the original diagram;
+- **Manual**: Allows the editing of hints before generation;
 
-- **Manual**Manual-Allows the editing of hint words before generation;
+The original parameters used to generate the image are automatically removed, without affecting video generation;
+The shortcut entry button is also shown on the image that is suspended on the " Create " page.
+Use of images uploaded by users
 
-The original parameter used to generate the image is automatically removed Does not affect video generation;
-Mouse Suspended“At the end of the day,CreateIt's not a good idea, it's not a good idea.A shortcut entry button is also shown on the image on the pageI don't know.
-2. Use user upload images
+- Uploading images or selecting existing images by **Imagine icon**;
 
-- Pass. **“At the end of the day,ImagineIt's not a good idea, it's not a good idea.Enter an icon for the picture in the bar**“At the end of the day,ImagineIt's not a good idea, it's not a good idea.Enter an icon for the picture in the bar Upload Images or Select Existing Images;
+- To drag images to the Staring Frame area as a starting frame;
 
-- Drag Image to“At the end of the day,Starting FrameIt's not a good idea, it's not a good idea.Regional It can be used as a starting frame.;
+- Locking images allows multiple hints to be repeated;
 
-- Lock images to repeat multiple hint words;
+- The use of images as a “start frame” is limited, and other references such as “Style Regulation” “Image Project” do not support video generation.
 
-- Only use images as images“At the end of the day,Start FrameIt's not a good idea, it's not a good idea.Method of use Other citations such as:“At the end of the day,Style Reference@Ambassin: #Jan25 pic.twitter.com/m3Image PromptIt's not a good idea, it's not a good idea.Waiting for video generation not supportedI don't know.
+# #  output resolution and video dimensions
+The resulting video resolution is fixed at **480p (standard resolution)** and the actual size is influenced by the width ratio of the initial image:
+(https://assets-v2.circle.so/4yx9nc8imtu6dpx4ayl7c701ialc)
+# # # video settings
+Click the settings icon in the 'Imagine 'bar to access:
 
-### 📐 Output Resolution & Video Dimensions
-The resulting video resolution is fixed as **480pStandard ClearnessI'm not sure what I'm talking about.**480pStandard ClearnessI'm not sure what I'm talking about. The actual size is influenced by the width ratio of the initial image-
-![](https://assets-v2.circle.so/4yx9nc8imtu6dpx4ayl7c701ialc)
-### ⚙️ Video Settings
-Click“At the end of the day,ImagineIt's not a good idea, it's not a good idea.Bar settings icon to access-
+- Default **motion mode settings**;
 
-- Default **Motion Mode Settings**Motion Mode Settings;
+- GPU use speed control;
 
-- GPUUse speed control;
+- Stewart Mode (hidden mode);
 
-- Stealth ModeHiding mode);
+Note: Only Pro and Mega users support the production of videos under Relax Mode.
 
-Attention.-OnlyProandMegaPlanned User SupportRelax ModeGenerate video belowI don't know.
-
-### 🔁 Video Play and Extension
+# # # video play and expand
 Playback Control
 
-- Yes.“At the end of the day,CreateIt's not a good idea, it's not a good idea.Page Mouse Suspend Auto Play;
+- Suspend automatic play on the "Create " page;
 
-- Through **Ctrl/Command + Mouse Move**Ctrl/Command + Mouse Move Video progress control achievedscrubbingI'm sorry, I don't know.
+- Video progress control (scrubbing) can be achieved by moving **Ctrl/Command+Mouse**.
 
-Extension VideoUp to21secI'm not sure what I'm talking about.
-Each time renewable **4sec**4sec May be extended up to the maximum **4Number of times**4Number of times Total **21sec**21secI don't know.
+Extension of video (up to 21 seconds)
+** 4 seconds per extension**, up to 4 times**, for a total of ** 21 seconds**.
 
-- **Extend Auto**Extend Auto-Continue automatically with the original hint;
+- **Extend Auto**: continue automatically with the original hint;
 
-- **Extend Manual**Extend Manual-You can edit the hint before extending it.I don't know.
+- **Extend Manual**: A reminder can be edited before extension.
 
-### 🎥 Video motor mode description
+# # # video mode description #
 
-- --motion lowDefault:Minor ActionsStatic sceneSlow actionMinor character movement;
+- --motion low (default): minor movements, static scenes, slow moves, movements of small players;
 
-- --motion high-Large Camera MovesVisible Role ActionsMay cause unnatural or unreality.);
+- --motion high: large-scale camera movement, visible role movements (possibly causing unnatural or unreal phenomena);
 
-- --raw-Turn off system style optimization Respond more accurately to Hint ControlI don't know.
+--raw: Turn off the system to optimize its style and respond more accurately to hint control.
 
-### ⚖️ Use uploading requirementsComplianceI'm not sure what I'm talking about.
+# #  Use uploading requirements (compliance)
 
-- Uploading images requires legal access;
+- Legal access to uploading images;
 
-- It's forbidden to create insults.Pornification or seditious video Especially when it comes to real people.;
+- Prohibition of the production of insulting, pornographic or inflammatory videos, especially against real persons;
 
-- The system automatically filters the content of the violation. **The intercepted video won't be deducted.GPUTime**The intercepted video won't be deducted.GPUTime;
+- The system automatically filters the content of the violation ** the intercepted video does not deduct GPU time**;
 
-- If you do not agree to the provision It is recommended that external images not be used to generate videosI don't know.
+- If it does not agree, it is recommended that external images not be used to generate video.
 
-Official guidelines-https://docs.midjourney.com/hc/en-us/articles/37460773864589-Video
+Official guide: https://docs.midjourney.com/hc/en-us/articles/374707868589-Video

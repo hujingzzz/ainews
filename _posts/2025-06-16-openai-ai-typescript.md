@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenAI Four major updates were issued Upgraded the building. AI Proxy capacity AddTypeScript SupportHuman intervention mechanismsNew voice model
+title: OpenAI has released four major updates to build AI proxy capabilities, add TypeScript support, human intervention mechanisms, new voice models.
 date: 2025-06-16 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/openai-ai-typescript_1.jpg
@@ -9,142 +9,142 @@ icon: link
 * content
 {:toc}
 
-OpenAI Four major updates were issued Upgraded the building. AI Proxy Especially the ability of voice agents.I don't know.Now. Developer can use it. TypeScript Preparation Agents SDK It also supports human approval mechanisms. Increased control and securityI don't know.Newly Launched RealtimeAgent Allow voice agent to run easily on client or service Advanced audio processing capabilityI don't know.
-Traces The dashboard has been upgraded. Support Realtime API Audio Interactive Visualisation Facilitation of debugging and analysisI don't know.speech-to-speech The model was significantly optimized. I've improved command compliance.Tool Call Accuracy And we can adjust the speed of voice broadcast.I don't know.
-**Key points**Key points
+OpenAI has published four major updates that enhance the ability to build AI agents, especially voice agents. Now, developers can use TypeScript to write Agents SDKs while supporting human approval mechanisms, enhancing control and security. The newly launched RealtimeAgent allows voice agents to function easily on their client or service end, with advanced audio processing capabilities.
+Traces dashboards have also been upgraded to support the audio interactive visualization of Realtime API to facilitate debugging and analysis. The speech-to-speech model has been significantly optimized to improve command compliance, tool call accuracy and can adjust voice speed.
+**Key points**
 
-- **Agents SDK Add TypeScript Support**Agents SDK Add TypeScript Support-Possibilities with Python The same core function as the versionhandoffsguardrailstracingMCP Wait.I'm sorry, I don't know.
+- **Agents SDK Adds TypeScript Support**: has the same core functionality as Python (handoffs, guardrails, trading, MCP, etc.).
 
-- **Human approval process**Human approval process-Allow to add to tool calls“At the end of the day,Human ReviewIt's not a good idea, it's not a good idea.Mechanisms SuspendableSave StatusAudited and restoredI don't know.
+- **Human approval process**: Allows the inclusion of a “human review” mechanism in the tool call, which can be suspended, preserved, reviewed and restored.
 
-- **RealtimeAgent Function Publishing**RealtimeAgent Function Publishing-A voice agent can be built on a client or server Support Tool CallAudio ProcessingInterrupt and wait.I don't know.
+- **RealtimeAgent **: Voice agents can be constructed on client or server to support tool calls, audio processing, interruptions, etc.
 
-- **Traces Mechanical Upgrade**Traces Mechanical Upgrade-Support Realtime API Audio Session Visualise Includes input output audioCall ProcessBreak the record.I don't know.
+- **Trace dashboard upgrade**: Supports Realtime API voice session visualization, including input output audio, call process, and interruption of records.
 
-- **Speech-to-speech Model improvements**Speech-to-speech Model improvements-
+- **Speech-to-speech model improvement**:
 Better follow orders.
 
-- A more stable tool to call
+- More stable tools to call.
 
 - More reasonable interruptions.
 
-- Add speed Parameter controls speech speed
+- Adds speed parameters to control speech speed
 
-**Release of new model version**Release of new model version-
+** New model version published**:
 
-- gpt-4o-realtime-preview-2025-06-03For Realtime APII'm not sure what I'm talking about.
+- gpt-4o-realtime-preview 2025-06-03 (for Realtime API)
 
-- gpt-4o-audio-preview-2025-06-03For Chat Completions APII'm not sure what I'm talking about.
+- gpt-4o-audio-preview 2025-06-03 (for Chat Commissions API)
 
-### 🔧 **1. Agents SDK Support TypeScriptDevelopment Tool UpdateI'm not sure what I'm talking about.**1. Agents SDK Support TypeScriptDevelopment Tool UpdateI'm not sure what I'm talking about.
-**Annotations**Annotations-
+##1. Agents SDK Support TypeScript (development tool update)**
+**Note**:
 
-- OpenAI It's... it's... it's... Agents SDK It's not just support now. Python It's been added. TypeScript VersionI don't know.
+- OpenAI's Agents SDK now not only supports Python, but also adds the TypeScript version.
 
-- and Python Version Equivalence Required to support all major build agents“At the end of the day,Original languageI'm not sure what I'm talking about.primitives:
-✅ handoffs-Multi-agent task relay and transfer✅ guardrails-Restrictions and restrictions on the security of conduct✅ tracing-Log logging and analysis of the proxy execution process✅ MCPMulti-component proxy architectureI'm not sure what I'm talking about.
+- Equivalent to the Python version, supporting the "primitives" required for all major build agents:
+Handoffs: task relay and transfer between multi-agents guardrails: behavioral security constraints and restrictions  trading: log recording and analysis of proxy execution  MCP (multi-component proxy structure)
 
-**Meaning**Meaning-
+** Meaning**:
 
-- Face Web and Node.js The developers of ecosystems are more friendly.I don't know.
+- The developers of the Web and Node.js ecosystems are more friendly.
 
-- It's easy to integrate. JavaScript Applying Like a browser voice assistant.Web smart customer service, etc.I don't know.
-![](https://assets-v2.circle.so/gdishg1cqd400xq3406xlph17wgv)
+- Easy to integrate into JavaScript applications, such as browser-end voice assistants, web-smart customer service, etc.
+(https://assets-v2.circle.so/gdishg1qd400xq3406xlph17wgv)
 
-### 👤 **2. Support“At the end of the day,**2. Support“At the end of the day,Human Review**I'm not sure what I'm talking about.Human-in-the-loopI'm not sure what I'm talking about.Mechanisms**I'm not sure what I'm talking about.Human-in-the-loopI'm not sure what I'm talking about.Mechanisms
-**Annotations**Annotations-
+##  2. Support for the Human Review** (Human-in-the-lop) mechanism**
+**Note**:
 
-- Call external tools in proxyFunctions, for exampleAPII'm not sure what I'm talking about.Before Allow manual approvalI don't know.
+- Manual approval is allowed before proxy calls for external tools (e.g. functions, API).
 
-- Support the following operating processes-
-**Suspend tool execution**Suspend tool execution
+- Supports the following operating processes:
+** Suspend tool implementation**
 
-- **Serialize and save proxy status**Serialize and save proxy status
+- **Serialize and save proxy status**
 
-- **Validate the tool 's callAcceptance or rejectionI'm not sure what I'm talking about.**Validate the tool 's callAcceptance or rejectionI'm not sure what I'm talking about.
+- ** Audit of the tool's call (accepted or rejected)**
 
-- **Restoring proxy execution**Restoring proxy execution
+- **Resumed proxy execution**
 
-**Meaning**Meaning-
+** Meaning**:
 
-- Available for high riskManual intervention in sensitive taskse.g. financialMedicalProcessing of customer complaints, etc.I'm sorry, I don't know.
+- Can be used for manual intervention in high-risk, sensitive tasks (e.g. finance, medical care, customer service complaints processing, etc.).
 
-- Improved system reliabilityCompliance and transparencyI don't know.
+- Improving system reliability, compliance and transparency.
 
-### 🔊 **3. RealtimeAgent Functions-New way to build a voice agent**3. RealtimeAgent Functions-New way to build a voice agent
-**Annotations**Annotations-
+## **3. RealtimeAgent function: a new way to build a voice agent**
+**Note**:
 
-- RealtimeAgent It's based on Realtime API Build a high-level voice interactive agentI don't know.
+- RealtimeAgent is a high-level feature based on Realtime API to construct voice interactive agents.
 
-- Runable on client or server Support-
-Tool Callfunction callingI'm not sure what I'm talking about.
+- Runable on client or server, supported by:
+Tool Call (fundaction calling)
 
-- Session HandoverhandoffsI'm not sure what I'm talking about.
+- Hand-over (handoffs)
 
-- Security BarguardrailsI'm not sure what I'm talking about.
+- Security fences (guardrails)
 
-- Auto Audio ProcessingPlayPauseInterrupt.I'm not sure what I'm talking about.
+- Automatic audio processing (playing, paused, interrupted)
 
 - Real-time voice input and response
 
-**Meaning**Meaning-
+** Meaning**:
 
-- Allow developers to define voice agents like build text agentsI don't know.
+- Allow developers to define voice agents like build text agents.
 
-- ♪ Can build like ♪ AI Telephone service.Voice search assistantVoice role plays, etc.I don't know.
-![](https://assets-v2.circle.so/80bug2ystk2lzhe9qr4531km9gyq)
+- Create applications such as AI telephone service, voice search assistants, voice role playing, etc.
+!" (https://assets-v2.circle.so/80bug2ystk2lzhe9qr4531km9gyq)
 
-### 📊 **4. Traces Meter Upgrade-Support voice session visualization**4. Traces Meter Upgrade-Support voice session visualization
-**Annotations**Annotations-
+## **4. Traces dashboard upgrade: support voice session visualization**
+**Note**:
 
-- Traces A tool to debug and monitor the proxy running processI don't know.
+- Traces is a tool for debugging and monitoring proxy operations.
 
-- We can support it now. Realtime API Details of the voice agent running in Including-
-✅ User voice input and model voice output✅ Tools Call and Arguments✅ BreakpointIf the user interruptsI'm not sure what I'm talking about.
+- The details of the voice agent running in Realtime API can now be supported, including:
+User voice input and model voice output  Tool call and parameter  Breakpoint (e.g. user break)
 
-**Meaning**Meaning-
+** Meaning**:
 
-- A more intuitive debugging experience Clearer problem positioning.I don't know.
+- A more intuitive debugging experience, clearer problem positioning.
 
-- Help developer optimize voice-interactive design Improving product stabilityI don't know.
+- Help developers optimize voice-interactive design and improve product stability.
 
 
-### 🧬 **5. Voice model GPT-4o Function Upgrade**5. Voice model GPT-4o Function Upgrade
-**Annotations**Annotations-
+## **5. Voice model GPT-4o upgrade**
+**Note**:
 
-- speech-to-speechVoice to voice.I'm not sure what I'm talking about.The model was upgraded to the core.-
-**More reliable implementation of user instructions**More reliable implementation of user instructions
+- Core upgrade of the speech-to-speech model:
+** More reliable implementation of user instructions**
 
-- **More consistent tools for calling behaviour**More consistent tools for calling behaviour
+- **A more consistent tool call behaviour**
 
-- **More intelligently handle disruptions and speed adjustments**More intelligently handle disruptions and speed adjustments
+- ** More intelligent handling of interruptions and speed adjustments**
 
-Add speed Parameters It controls the speed of voice play.If you're slow to read it,QuickcastI'm not sure what I'm talking about.
-**Model version**Model version-
+Adds a speed parameter to control the speed of sound play (e.g. slow read, fast play)
+** Model version**:
 
-- Yes. Realtime API Available Versions-gpt-4o-realtime-preview-2025-06-03
+- Available version in Realtime API: gpt-4o-realtime-preview-2025-06-03
 
-- Yes. Chat Completions API Version-gpt-4o-audio-preview-2025-06-03
+- Version in Chat Commissions API: gpt-4o-audio-preview-2025-06-03
 
-### **The case of multiple partners.**The case of multiple partners.
-✅ **Perplexity AI**Perplexity AI-
+# ** Field cases of multiple partners**
+**Perplexity AI**:
 
-- Use Realtime API Build Voice Question & Answering AssistantI don't know.
+- Use Realtime API to build voice question-and-answer assistants.
 
-- To benefit from the new model. Its tools are called more precisely. User experience is more fluid and natural.I don't know.
+- A new model, with tools that are more precise and user-friendly.
 
-✅ **IntercomFin VoiceI'm not sure what I'm talking about.**IntercomFin VoiceI'm not sure what I'm talking about.-
+**Intercom (Fin Voice)**:
 
-- Build Phone AI Guests. Support 24/7 automatic listeningI don't know.
+- Build a call for AI service, support the automatic round-the-clock reception.
 
-- The new model will better follow the script. Reduction“At the end of the day,IllustratedIt's not a good idea, it's not a good idea.Answer. Improving the quality of servicesI don't know.
+- The new model will better follow the script, reduce the number of “phantom” answers and improve the quality of services.
 
-✅ **Volley Games**Volley Games-
+**Volley Gomes**:
 
-- Build Based AI The man in the dungeon. RPG Play ExperienceI don't know.
+- Build an AI-based RBG game experience based on a dungeon owner.
 
-- The new model is stronger.“At the end of the day,Rule awarenessIt's not a good idea, it's not a good idea.And a much more imaginative narrative.I don't know.
+- The new model shows a stronger “rule consciousness” and a more imaginative narrative.
 
-Links-
-https://openai.github.io/openai-agents-js/ 
+Links:
+https://openai.github.io/openai-agents-js/
 https://openai.github.io/openai-agents-js/guides/human-in-the-loop/

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google Launch “At the end of the day,Little Language LessonsI'm not sure what I'm talking about.Small language coursesI'm not sure what I'm talking about.Let people use their daily scenes for language practice at all times.
+title: Google introduces "Little Language Lessons" (Little Language Course) to enable people to practice their language at any time or place on a daily basis.
 date: 2025-06-26 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/google-little-language-lessons_1.jpg
@@ -9,199 +9,199 @@ icon: web
 * content
 {:toc}
 
-Google Launched “At the end of the day,Little Language LessonsI'm not sure what I'm talking about.Small language coursesI'm not sure what I'm talking about.It's a group of micro-linguistic learning experiments. It's designed to use the generator. AI ♪ Let people ♪**Language practice at all times and in all places on a daily basis.**Language practice at all times and in all places on a daily basis.I don't know.
-It's not a traditional language learning tool. It's about being around.“At the end of the day,**Live-in learning.**Live-in learning.It's not a good idea, it's not a good idea.Interactive experience of design Encouraging users-
+Google's “Little Language Lessons” is a group of micro-linguistic learning experiments designed to use the generator AI to enable people to practice their language at any time or place using their daily scenes**.
+This is not a traditional language learning tool, but rather an interactive experience designed around “**Immediate life scenario learning**”, encouraging users to:
 
-- Taking advantage of day-to-day opportunities“At the end of the day,I'll learn by hand.It's not a good idea, it's not a good idea.
+- Take advantage of day-to-day opportunities to “student”
 
-- Form a high frequency.Small but continuous learning habits
+- Development of high-frequency, small but continuous learning habits
 
-- Language learning“At the end of the day,Integration into lifeIt's not a good idea, it's not a good idea.No, it's not.“At the end of the day,It's limited to the classroom.It's not a good idea, it's not a good idea.
+- “Integration” of language learning rather than “only in the classroom”
 
-Visits-labs.google/lll
+Visit: Labs.google/lll
 
-## Technical base-Based on Gemini 2.0 Model construction
-All functions are built on. Google It's home. **Gemini 2.0 Large-language model**Gemini 2.0 Large-language model Let's go. Generate natural dialogueAdvanced capabilities such as multimodule processingI don't know.
-Leveraging. Gemini Google It's built.**SmarterInteractively strongLanguage tool with a good sense of context**SmarterInteractively strongLanguage tool with a good sense of context Enhancing user participation and learning efficiencyI don't know.
+# Technology base: built on Gemini 2.0 model
+All functions are based on Google's own **Gemini 2.0 large language model** with advanced abilities to understand context, generate natural dialogue, multi-model processing, etc.
+With Gemini, Google can build ** more intelligent, interactive and contextually sensitive language tools ** to enhance user participation and learning efficiency.
 
-## 🛠 Three. AI Further elaboration of language learning experimental tools
+# Three ALI language learning experimental tools to explain
 
-### 1️⃣ Tiny Lesson – Situationalization short course
-**Functions**Functions-For a specific life scenarioLike“At the end of the day,To the coffee shop.I'm sorry, I'm sorry, I'm sorry, I'm sorry.I'm taking the subway.I'm sorry, I'm sorry, I'm sorry, I'm sorry.Take-out order.It's not like it's going to happen.Provides small phrasesPractical sentencesSimple SyntaxI don't know.
-**Characteristics**Characteristics-
+# 1 x Tiny Lesson - Situational Short Course
+** Function**: Provides small phrases, practical sentences, simple grammatical points for specific life scenarios (e.g., “go to a coffee shop”, “by a subway”, “off-the-shelf”).
+** Features**:
 
-- It's simple and quick. One little theme at a time.
+- It's simple and quick. Just one little theme at a time.
 
-- Emphasis on the application scene Do it now.
+- Focus on the application scene. Let's do it now.
 
-- It helps.**Development of language reaction habits**Development of language reaction habits
-![](https://assets-v2.circle.so/5fn7myjc6chx2anx7ljz8kjjgchl)
+- contributes to the development of language-reaction habits**
+!" (https://assets-v2.circle.so/5fn7myjc6chx2anx7ljz8kjgchl)
 
-### 2️⃣ Slang Hang – Studying dialects and dialects
-**Functions**Functions-Generate**Simulation dialogue in real contexts**Simulation dialogue in real contexts I'm going to help you get your tongue and your mouth out. Like what?_Other OrganiserThats lit!I'm sorry, I'm sorry, I'm sorry, I'm sorry.Im down for it.It's not a good idea, it's not a good idea.
-**Characteristics**Characteristics-
+#2 Slang Hang - Learn tunnels and slang
+** Function**: Generates ** Simulation dialogue in real context** to help you master slang and oral expression, such as: “Th's lit!” (I'm down for it.)
+** Features**:
 
-- Simulate original English-language tone and rhythm
+- Simulate the original English-language tone and rhythm.
 
-- Learning non-textual expressions
+- Studying non-textual expressions
 
-- Enhancement of hearing and natural expression
-![](https://assets-v2.circle.so/pzy38vx15qrl2myfzvfudbvoy165)
+- Upgrades of hearing and natural expression
+!" (https://assets-v2.circle.so/pzy38vx15qrl2myfzvfudbvoy165)
 
-### 3️⃣ Word Cam – A word-reading tool with a camera
-**Functions**Functions-Turn on the cell phone cam. Aim at the object. The system will immediately identify and provide the foreign language name of the item and related usageI don't know.
-**Example:**Example:-
+#3 Word Cam - Use camera word recognition tool
+**Function**: Open cell phone cameras, target the item and the system will immediately identify and provide the foreign language name and related usage of the item.
+**Examples**:
 
-- Shoot.“At the end of the day,Bananas.It's not a good idea, it's not a good idea.→ Present. bananaRelevant phrasesPossible phrases
+- "Bananas." There's a banana, a phrase, a phrase.
 
-- Achieved **In-kind + AI + Word learning**In-kind + AI + Word learning It's an instant closed ring.
+- Realization of ** in-kind + AI + word learning**
 
-**Characteristics**Characteristics-
+** Features**:
 
-- Real-time interactions Watch and learn.
+- Real-time interaction, reading and learning.
 
-- Fits for visual learners
+- Fits for visual learners.
 
-- Strengthen word memory and life.
-![](https://assets-v2.circle.so/1rnfngicjw2xtckccdc6zf7mfkfz)
+- To strengthen the connection between a word's memory and life.
+(https://assets-v2.circle.so/1rnfngicjw2xtckccdc6zf7mfkfz)
 
-## 🎯 Ideas.-Complementary to traditional learning It's not a substitute.
-Google Make it clear.,Little Language LessonsIt's not a good idea, it's not a good idea.It's not a substitute for a textbook or a system. It's just...-
+# Ideas: supplement traditional learning, not substitute
+Google made it clear that “Little Language Lessons” is not a substitute for textbooks or systems, but rather:
 
-- **Supplementary official courses**Supplementary official courses
+- ** Supplementary official course**
 
-- **Encouraging interest-driven learning**Encouraging interest-driven learning
+- ** Encouragement of interest-driven learning**
 
-- **Lower learning threshold and stress**Lower learning threshold and stress
+- ** Lower learning threshold and stress**
 
-- Help the user keep it in debris time“At the end of the day,Language soaking.It's not a good idea, it's not a good idea.
+- Helping users to keep "Language Absorption" in debris time
 
-## 🌱 Meaning and application of education
-This kind of thing. AI Micro-learning tools are perfect.-
+# The meaning and application of education
+This type of AI micro-learning tool is very suitable:
 
-- I don't have time for class.
+- A busy class worker.
 
 - An interested learner who wants to integrate learning into life.
 
-- I want to practice.“At the end of the day,Use of terms of lifeIt's not a good idea, it's not a good idea.and“At the end of the day,Listening to the mouth.It's not a good idea, it's not a good idea.A beginner.
+- beginners who want to practice the terms of life and the words of hearing.
 
 - Users who want to improve the day-to-day functionality of a second language other than their mother tongue
 
-It's perfect.“At the end of the day,**Non-compulsory learning**Non-compulsory learningIt's not a good idea, it's not a good idea.or“At the end of the day,**Interest-driven learners**Interest-driven learners
+Particularly suitable for “** non-compulsory learning**” or “** interest-driven learners**”.
 
-## ✅ Let's wrap it up.-
-Little Language Lessons Pass. Gemini AI Make language learning lighter.It's more fun.I'm closer to the day. Yes.“At the end of the day,Every time I order coffee.Texting.Take a picture.It's not a good idea, it's not a good idea.It makes it possible to become a learning opportunity.I don't know.
-![](https://assets-v2.circle.so/5y3gszjpj0jvsoegr8emo5frkgy6)
-## 🧠 Little Language Lessons How did you do that?
-A set based on Gemini The model's pilot system for personalized language learning
-**🧭 Original purpose of the project-Make language learning like programming.“At the end of the day,ContextIt works.It's not a good idea, it's not a good idea.**🧭 Original purpose of the project-Make language learning like programming.“At the end of the day,ContextIt works.It's not a good idea, it's not a good idea.
-Author Aaron Wade He's a developer and a language lover.I don't know.He's watching. Learning programming often comes from“At the end of the day,Write a runable little projectIt's not a good idea, it's not a good idea.Here we go. And language learning often starts with educational materials that are out of context.I don't know.He wants to change that.-**♪ Let language learn to be ♪“At the end of the day,ContextI'm sorry, I'm sorry, I'm sorry, I'm sorry.Instantly availableI'm sorry, I'm sorry, I'm sorry, I'm sorry.Life DriveIt's not a good idea, it's not a good idea.**♪ Let language learn to be ♪“At the end of the day,ContextI'm sorry, I'm sorry, I'm sorry, I'm sorry.Instantly availableI'm sorry, I'm sorry, I'm sorry, I'm sorry.Life DriveIt's not a good idea, it's not a good idea.I don't know.So I went with a group of colleagues. Based on Google It's... it's... it's... Gemini API We started this experiment.I don't know.
+# Let's wrap it up and say:
+Little Language Lessons, through Gemini AI, has made language learning lighter, more interesting and more up-to-date, and has made it possible for "every coffee, text, photo" to become a learning opportunity.
+!" (https://assets-v2.circle.so/5y3gszjpj0jvsoegr8emo5frkgy6)
+# How did Little Language Lessons do it?
+A pilot system for personalized language learning based on the Gemini model
+** The original purpose of the project is to make language learning “situative, practical” as a programming exercise**
+The author, Aaron Wade, is a developer and a language lover. He observes that learning programming often starts with “writing a runable small project”, while language learning often starts with educational materials that are out of context. He wants to change this:** making language learning “in context”, “in real time”, “life drive”**. So he started this experiment with a group of colleagues, Gemini API, based on Google.
 
-## Three experiments. Three directions.
+# Three experiments, three directions
 
-### 1️⃣ **Tiny Lesson-In the high school language where you need it.**Tiny Lesson-In the high school language where you need it.
-One of the most frustrating things about learning language is that-You're in some sort of situation. I need a word or a sentence. And you haven't learned it yet.I don't know.
-That's what I'm talking about. Tiny Lesson The point of departure.I don't know.You're describing a scene.——Like what?“At the end of the day,Ask for directions.It's not a good idea, it's not a good idea.or“At the end of the day,I lost my passport.It's not a good idea, it's not a good idea.——That's how the system works. Provision of useful terminologyphrases and syntax tipsI don't know.
-**Practice-**Practice-
-User input a sceneLike“At the end of the day,Ask for directions.It's not a good idea, it's not a good idea.or“At the end of the day,Lost your passport.I'm not sure I'm going to do it again.The system will be able to produce the results of the scene.**Key GlossaryCommon phrases and syntax highlights**Key GlossaryCommon phrases and syntax highlightsI don't know.
-**Technology realization-**Technology realization-
+# 1 ** Tiny Lesson: High school language in the scene you need**
+One of the most frustrating things about learning language is that you're in a situation where you need a word or a word, and you haven't learned it yet.
+This is the point of departure for Tiny Lesson. You describe a scene — like a question road or a lost passport — where the system provides useful vocabulary, phrases and syntax tips.
+** Practice:**
+Users enter a scenario (e.g., “questioning” or “lost passport”) that allows the system to export ** key vocabulary, common phrases and syntax elements** from the scene.
+** Technological realization:**
 
-- Use **Gemini API + JSON Output Structure**Gemini API + JSON Output Structure
+- Use **Gemini API+JSON output structure**
 
-- Use the hint wordpromptI'm not sure what I'm talking about.Set As_Other OrganiserYou're a bilingual teacher. Please customize the glossary for the students in this scenario.It's not a good idea, it's not a good idea.
+- Set the word "prompt" to read: "You're a bilingual teacher, customize the vocabulary of the scene for the students."
 
-You're one. {Target language} Tutor. Very good. {Target language} and {Source Language} Expertise in customizing the content of teaching according to the language of the studentI don't know.
-You are a(n) {target language} tutor who is bilingual in {target language} and
-{source language} and an expert at crafting educational content that is
-custom-tailored to students' language usage goals.
-- Here. prompt ♪ And after all ♪ prompt Medium We've all used it. Gemini Provision Structured JSON Output Capacity Define what we'd like to see in the output.-
+You're a {target language} tutor, good at {target language} and {source language} and good at customizing content according to the student's language.
+You are a (n) {target landie} tutu who is bilingual in {target landie} and
+And an expert at craving emergency content that is
+I'm sorry, Master, but I'm sorry, I'm sorry, but I'm sorry.
+- In this prompt and all subsequent prompts, we have used Gemini's ability to provide structured JSON output, defining what we want to produce as follows:
 
-For a given situation of use Generate one with two keys JSON Object-"vocabulary" and "phrases"I don't know.
-"vocabulary" . The value should be a array of objects Each object contains three keys-"term"Words."transliteration"Audio translation."translation"TranslationI'm sorry, I don't know.
-"term" The value should be the most common one in the scene. {Target language} GlossaryI don't know.
-If the language itself uses Latin letters then "transliteration" should be empty stringI don't know.Otherwise, the word should be translated.I don't know.
-"translation" is the value of the word {Source Language} TranslationI don't know.
-...
-- Structure includes:-
-vocabulary-Glossary + Spelling/Audio translation + Translation
+Generates a JSON object with two keys: "vocabulary" and "phrases" for the given use scenario.
+The value of "vocabulary" should be a array of objects, each containing three keys: "term", "translation" and "translation".
+The value for "term" should be the most commonly used word for {target language} in the scene.
+If the language itself uses the Latin alphabet, "translation" should be an empty string. Otherwise, the word should be translated.
+The value of "translation" is the translation of the word {source language}.
+I don't know.
+- The structure includes:
+vocabulary: Vocabulary + Spelling/ Audio Translation + Translation
 
-- phrases-Common sentences
+-phrases: Common sentences.
 
-- grammarTips-Syntax:The other one. promptI'm not sure what I'm talking about.
+- GrammarTips: Syntax Proposal (another proposal)
 
-On the whole. It's a two-time course. Gemini API Call Generation-Generate terms and phrases at once Another generation of relevant syntax pointsI don't know.
-♪ Every single one ♪ prompt _Other Organiser To embed the context content specified by the user Here's the thing.-
-Enter the sceneINPUT usage contextI'm not sure what I'm talking about.: {User Input}
-### 2️⃣ **Slang Hang-Talk like locals.**Slang Hang-Talk like locals.
-**Practice-**Practice-
-To create a reality scene.**Interlocutory dialogue**Interlocutory dialogue If a friend meets.We'll talk on the street.A colleague met and waited on the subway. Start learning words and expressing habits on a line-by-line basis.I don't know.
-When your language learning is going well, Can talk.ExpressionIt's a good time to talk. You'll suddenly realize-You sound like...I'm sorry, I'm sorry.It's so rigid.I don't know.It's too formal.Too stiff.I don't know.
-It's designed. Slang Hang Let's get this over with.I don't know.
-It's a simple idea.-Generate a real native language conversation scene Users learn to express through a reading dialogueI don't know.You can talk about it one by one. At the same time, the system explains unfamiliar expressions.I don't know.
-Slang Hang It's... it's... it's... prompt Foreword:-
-**Technology realization-**Technology realization-
+In general, each course is generated by two Gemini API calls: one to generate vocabulary and phrases and the other to produce relevant syntax points.
+At the end of each prompt, the context content specified by the user will be embedded as follows:
+Enter scene (INPUT user contact): {user input}
+#2 **Slang Hang: Speak like locals**
+** Practice:**
+In a real-life setting,** tunnel dialogues**, such as friends meeting, street chatting, colleagues meeting on the subway, etc., are developed to learn language and expression habits.
+When your language learning is going well and you can talk, express and communicate well, you suddenly realize that you sound too rigid. It's too formal, too rigid.
+Slang Hang was designed to solve this problem.
+The idea is simple: to create a real native-tongue conversation where users can learn to express themselves. You can talk about each sentence, and the system can explain unfamiliar expressions.
+The preface to Slang Hang is as follows:
+** Technological realization:**
 
-- Sets the role of the tipword as“At the end of the day,A playwright with language and culture.It's not a good idea, it's not a good idea.
+- Set up the role of "Language and Culture Writers"
 
-- Use Gemini API Generate the entire structure of the dialogue at onceJSON FormatThis is the first time I've ever seen you.Organisation-
-Background information on the dialoguecontextI'm not sure what I'm talking about.
+- Geneni API to generate the entire dialogue structure (JSON format) at once, including:
+Dialogue background (context)
 
-- Round-by-round dialoguespeaker, message, notesI'm not sure what I'm talking about.
+- Sessional dialogue (speaker, message, notes)
 
-Support for click term interpretationTranslation and flip learning
-Use Google Cloud Translation API Achieving bilingual support
-Slang Hang It's... it's... it's... prompt Foreword:-
-You're a writer. Very good. {Source Language} and {Target language} He's good at an interesting conversation.I don't know.You're also a linguist. I'm familiar with the cultural details that affect natural spoken languages.I don't know.
-You are a screenwriter who is bilingual in {source language} and
-{target language} and an expert and crafting captivating dialogues.
-You are also a linguist and highly attuned to the cultural nuances that
-shape natural speech.Although users can only see one conversation at a time But it includes setting the scene.Complete DialogueEXPLAINING EXPLORATION OF TERMS AND EXPLORATION OF EXPLORATION OF TERMS AND EXPLAMINATION OF EXCEPTIONS AND EXPLAMINATION OF EXCEPTIONS It's all through once. Gemini API Call generatedI don't know.We defined it. JSON Output structure as follows:-
-Generate a short scenario Include two uses {Target language} InterlocutorsI don't know.Returned JSON Object should contain two keys-"context" and "dialogue"I don't know.
-"context"-Use it. {Source Language} A small paragraph of text prepared Description of the sceneIdentities and relationships of interlocutorsI don't know.
-"dialogue"-Clusters for the content of the dialogue Include each object-"speaker"Talker.."gender"Gender."message"Contents of the sentence."notes"Explanatory notesI'm not sure what I'm talking about.
-...The content of the dialogue is targeted language Users can click to translate into their mother tongueThis function is through Cloud Translation API AchievedI'm sorry, I don't know.
-One of the highlights of this experiment is that“At the end of the day,Generate Story NatureIt's not a good idea, it's not a good idea.——I don't repeat every scene. Maybe.-Stewards talk to customers.Two colleagues on the subway met by accident. Or old friends who haven't seen them for years meeting up at the pet show.I don't know.
-**Challenges and constraints-**Challenges and constraints-
-Of course. It also has some questions of accuracy.-Sometimes they're misused or faked.I don't know.After all, the big language model is not perfect. It is recommended that users cross-check the source of terminologyI don't know.
+Support click term interpretation, translation and flip learning
+Use Google Cloud Transport API to achieve bilingual support
+The preface to Slang Hang is as follows:
+You're a screenwriter who's good at {source language} and {target language}, and you're good at an interesting conversation. You're also a linguist who knows the cultural details that affect natural spoken languages.
+You are a scener who is bilingual in {source lineage} and
+And an expert and craving captivating dialogues.
+You are also a linguist and highly attached to the cultural numbers that
+While the user can only see one conversation at a time, all of the elements, including scenario setting, complete dialogue, terminology interpretation, are generated by a Gemini API call. The JSON output structure we define is as follows:
+Creates a short scenario with two interlocutors who use {target language}. The returned JSON object should contain two keys: "context" and "dialogue".
+"Context": a small text that describes scenes, interlocutors' identities and relationships in {source language}.
+"Dialogue": The array for the content of the dialogue, each of which consists of: "speaker", "gender" (gender), "message" (text of sentence), "notes" (interpretation note)
+...the content of the dialogue is targeted in a language that users can click on to translate into their mother tongue (this function is achieved through the Cloud Transmission API).
+One of the highlights of this experiment is “generation storyality” — no scenes are repeated — perhaps: vendors chat with customers, two colleagues on the subway meet by chance, or old friends who have not seen for years meet again at the pet show.
+** Challenges and constraints:**
+Of course, it also has some accuracy problems: sometimes it is misused or fictitious. After all, the larger language model is not perfect, and users are advised to cross-check the source of the term.
 
-### 3️⃣ **Word Cam-Use the lens to swab the vocabulary.**Word Cam-Use the lens to swab the vocabulary.
-Sometimes you just want to know what this thing says in the target language.I don't know.You might say... “At the end of the day,windowWindow.I'm not sure what I'm going to do.But you know... “At the end of the day,Window standIt's not a good idea, it's not a good idea. or “At the end of the day,shutters.It's not a good idea, it's not a good idea. What do you mean?
-Word Cam It'll turn your camera into an instant vocabulary assistant.I don't know.After taking pictures, Gemini It detects objects in the image. Mark it in the target language. And more descriptive words.I don't know.
-**Practice-**Practice-
-Turn on the cell phone cam. Take a picture of the object. The system will identify the items and give them.**Name of foreign languageTranslationUse a sentence.**Name of foreign languageTranslationUse a sentence.I don't know.
-**Technology realization-**Technology realization-
+##3 **Word Cam: Scrubbing through lenses **
+Sometimes you just want to know what the target language is. You might say "window," but do you know what "window" or "brows" means?
+Word Cam turns your camera into an instant vocabulary assistant. When you take a picture, Gemini detects the objects in the image, labels them in the target language and provides more descriptive terms.
+** Practice:**
+Open the cell phone camera and film the object, and the system will identify the object and give them ** foreign language names, translations, sentences**.
+** Technological realization:**
 
-- Use Gemini The visual ability to perform**Target recognition**Target recognitionObject detectionI'm not sure what I'm talking about.
+- Target identification** (object detection) using Gemini's visual ability
 
-- Caption structure includes:-
-Description of all objects in the imageTranslationCoordinate Position
+- The letter structure consists of:
+Description, translation, coordinates of all objects in the image
 
-- An object that is then clicked on by the user.“At the end of the day,Description Vocabulary + Example sentence + TranslationIt's not a good idea, it's not a good idea.
+- Generate "Description Vocabulary + Example Sentence + Translation" for an object that the user clicks on
 
-The experiment relied on Gemini It's visual. It's a target test.I don't know.We send pictures to models Requesting them to identify the boundary coordinates of each object in the image.-
-Please analyze the objects in the picture. Returned JSON Object should contain a key "objects"I don't know.
-"objects" value is a array of objects Each object contains four keys-"name"Name."transliteration"Audio translation."translation"Translation."coordinates"CoordinatesI'm sorry, I don't know.
-"coordinates" is integer array Represents border frame coordinates [ymin, xmin, ymax, xmax]
-...After the user selects an object We'll trim its image and send it again. Gemini Generate a detailed description of the object-
-Please specify the object according to the image Generate Description VocabularyI don't know.Returned JSON Object should contain a key "descriptors"I don't know.
-"descriptors" _Other Organiser Each object includes-"descriptor"Description."transliteration"Audio translation."translation"Translation."exampleSentence"Example sentence."exampleSentenceTransliteration"EXPERIMENTAL."exampleSentenceTranslation"Example TranslationI'm not sure what I'm talking about.
-...
-## 🔊 Integrator of other functions
-All three of the experimental products have been added to the voice-playing system. Help users hear the natural pronunciation of the target language
+The experiment relies on Gemini's visual features for target testing. We send pictures to models requesting them to identify the boundary coordinates of each object in the image:
+Please analyse the object in the picture. The returned JSON object should contain a key "objects".
+The value of "objects" is a array of objects, each with four keys: "name" (name), "translation", "translation" (translation), "coordinates" (coordinate).
+"coordinates" is an integer array representing the border frame coordinates [ymin, xmin, ymax, xmax]
+...when the user selects an object, we crop its image and send it again to Gemini, generating a detailed description of the object:
+Please specify the object according to the image and generate a description vocabulary. The returned JSON object should contain a key "descriptors".
+"descriptors" is a array of objects, each of which includes: "descriptor"; "translation"; "examplesession" (examples); "example CouncilTranslation" (examples); "example CouncilTranslation" (examples)
+I don't know.
+#  Integration of other functions
+All three experimental products have been added to voice playback to help users hear the natural pronunciation of the target language.
 
-- **Voice Speak**Voice Speak-This function passes through Cloud Text-to-Speech API Achieved Overwrite Main Language But there's less support for small languages.I don't know.There's a limited match to the regional accent. Sometimes it doesn't match the dialects the user chooses.I don't know.
+- ** Voice Speak**: This function is achieved through Claude Text-to-Speech API, covering mainstream languages, but less supportive of small languages. Regional accents are also limited and sometimes inconsistent with the dialects chosen by the user.
 
-- **Attention.**Attention.-
-There's a limit to some language accents.Dialects do not cover enough.I'm not sure what I'm talking about.
+- ** Attention**:
+Some language accents are limited (influence of dialects is insufficient)
 
 - Lack of high-quality sound models in some minority languages
 
-## 🔮 The meaning of the project and prospects for the future
-The experiment shows.**AI New possibilities in personalized language learning**AI New possibilities in personalized language learning-
+# Project meaning and future outlook
+The experiment shows the new possibilities of **AI in personalized language learning**:
 
-- It's based on“At the end of the day,OrganisationIt's not a good idea, it's not a good idea.Make instantaneous content
+- The ability to generate content instantaneously based on the "situation of the user"
 
-- It helps shape.“At the end of the day,Fragmentation + Life.It's not a good idea, it's not a good idea.Learning Paths
+- A learning path that helps to form "fragmentation + living"
 
-- Available for early learningMedium-term phase It's especially suitable for enhancement.**Actual expression capacity**Actual expression capacity
+- Can be applied in the early and medium learning stages, especially for enhancing the ability to express themselves in practice**
 

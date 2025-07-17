@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Firecrawl Introduction of new functionality /search -Searchable from backstage + Fetch Web Contents And backMarkdownHTMLI'll wait for the screenshot.AI
+title: Firecrawl introduces new functionality /search-search + fetch web content from backstage and return to Markdown, HTML, screenshot, etc. to AI
 date: 2025-06-20 12:00:00 +0800
 category: Frontier Trends
 thumbnail: /style/image/firecrawl-search-markdown-html-ai_1.jpg
@@ -9,90 +9,90 @@ icon: game
 * content
 {:toc}
 
-Firecrawl Introduction of new functionality /search It's for developers and for developers. AI Cannot initialise Evolution's mail component.I don't know.Users can do it once. API Requesting access to search results and their full content Back Format Support MarkdownHTMLScreenshot et cetera To facilitate the use of large modelsI don't know.
-**Function Highlights-**Function Highlights-
+Firecrawl introduces a new feature /search, a web search and capture interface specially designed for developers and AI agents. Users can request the search results and their full contents in an API request and return format support Markdown, HTML, screenshots, etc. to facilitate the use of large models.
+**Focus: **
 
-- **Once. API Call to enable search + Fetch Web Contents**Once. API Call to enable search + Fetch Web ContentsI don't know.
+- **API call to enable search + fetch web content**.
 
-- Run natural language queries directly on backend Do not need a browser or a third-party search serviceI don't know.
+- Direct operation of natural language queries at the back end without the need for a browser or a third-party search service.
 
-- Return content format support-**MarkdownHTMLPure LinkWeb Screenshot**MarkdownHTMLPure LinkWeb ScreenshotI don't know.
+- Return to content format support: **Markdown, HTML, pure link, web screenshot**.
 
-- Output Results Right LLMLarge-language modelI'm not sure what I'm talking about.Friendly. Easy. AI Process web contentI don't know.
+- The output is friendly to the LLM (large language model) and allows AI to process web content.
 
-**Let me give you an example.-**Let me give you an example.-
-You want one? AI Search the Internet.“At the end of the day,Latest AI TechnologyI'm not sure what I'm going to do.I'm also going to have to extract and analyze the content of each of the results.I don't know.You used to have to take two steps.-
-Search with API Get the search results.
+** For example:**
+You want an AI to search for the latest AI technology online, and you'll have to extract the content of each result from the web page for analysis. You may need to take two steps before:
+Search API for search results
 Retrieve content separately for each site
-Now all we need to do is... **Call one time. /search Interface**Call one time. /search Interface I can.-
+Now just **call/search interface** to be able to:
 
-- Search keywords
+- Search keywords.
 
-- Automatically fetch web content for each result
+- Automatically retrieve web content for each result
 
-- Obtaining formatting standardsFit AI Data usedLike what? MarkdownI'm not sure what I'm talking about.
+- Get formatting standards, appropriate data for AI (e.g. Markdown)
 
-## 📌 Core Functions
-**Integrated Search + Capture Operation**Integrated Search + Capture Operation
+# The core function #
+**Integration search + grab operation**
 
-- Use /search End A web search can be conducted during a call and selects to capture the page contents of the search resultsI don't know.
+- Using /search endpoints, you can search the network during a call and select to capture the page contents of the search results.
 
-**Flexible results format**Flexible results format
+** Flexible results format**
 
-- Whether you're building it or not. AI ProxyAI agents.Conducting in-depth researchLooking for potential clientsleadsThis is the first time I've ever seen you.It's still programming. You all need it.**Quick access to appropriate web data**Quick access to appropriate web dataI don't know.
-Use /search Interface You can get it once and for all.-
-markdown-It's structured. Markdown Format Contents;
+- Whether you're building AI agents, carrying out in-depth research, looking for potential clients, or programming, you need to have quick access to appropriate web data**.
+With /search interface, you can get one-time:
+Markdown: Structured Markdown format contents;
 
-- html-After processing HTML;
+- html: processed HTML;
 
-- rawHtml-Original HTML;
+- RawHtml: original HTML;
 
-- links-Links extracted from the page;
+- Links: links extracted from the page;
 
-- screenshot / screenshot@fullPage-Web ScreenshotFull Page or Part);
+- Screenshot / Screenshot@fullPage: Web screenshot (full-page or partial);
 
-- extract-Structured data extractionI don't know.
+- Extract: Structured data extraction.
 
-Through a video Presentation /search  Pass.MCPHow do you use it?
-**Search parameters can be customised**Search parameters can be customised
+Shows how /search uses MCP through a video
+** Search parameters are customized**
 
-- Support search language through parameter settingshlI'm not sure what I'm talking about.with the Stategl);
+- Support for search language (hl) and country (gl) through parameter setting;
 
-- Time filter supports the following particle sizesUse tbs Parameters:
-qdr:h-Get over there.1Hours
+- Time filter supports the following particles (using tbs parameters):
+qdr:h: past 1 hour
 
-- qdr:d-Get over there.24Hours
+- qdr:d: The last 24 hours
 
-- qdr:w-The last week.
+- qdr:w: The past week
 
-- qdr:m-The last month.
+- qdr:m: The past month
 
-- qdr:y-Over the past year
+- qdr:y: The past year
 
-Support the setting of time limits for searchingI don't know.
-**Example of response structure**Example of response structure
+Supports the setting of time limits for searching.
+** Example of response structure**
 {
-"success": true,
-"data": [
+"Success": true,
+"data": [ Chuckles ]
 {
-"title": "Firecrawl - The Ultimate Web Scraping API",
-"description": "Firecrawl is a powerful web scraping API...",
-"url": "https://firecrawl.dev/",
-"markdown": "...",
-"links": [...],
-"metadata": {
-"title": "...",
-"description": "...",
-"sourceURL": "...",
+"Title": "Firecrawl - The Ultimate Web Scraping API",
+"Firecrawl is a powerful web crashing API..."
+"url": "https://firecrawl.dev/"
+"Markdown": "...",
+"Links": [...],
+"Metadata": {
+"Title": "..."
+"Description": "...",
+"Sourceurl": "...",
 "statusCode": 200
-}
-}
-]
-}
+{\bord0\shad0\alphaH3D}
+{\bord0\shad0\alphaH3D}
+[Original: English]
+{\bord0\shad0\alphaH3D}
 
-### 🚀 Applied scene
+# # # where the scene is # # # where the scene is # # # where it's going to be # # # where it's going to be # # # where it's going to be # # # # where it's going to be # # # # where it's going to be # # # # where it's going to be # # # # # where it's going to be # # # # where it's going to be # # # #
 
-- Automated knowledge extraction
+- Automate knowledge extraction
 
 - Structured integration of search results
 
@@ -102,59 +102,59 @@ Support the setting of time limits for searchingI don't know.
 
 - AI Training data construction
 
-Detailed Document-https://docs.firecrawl.dev/features/search
+Detailed documents: https://docs.firecrawl.dev/features/search
 
-## Firesearch-AI A driver-driven research tool for in-depth networks
-To demonstrate the ability of this new function, Firecrawl And an open source application has been developed. **Firesearch**Firesearch It's a research tool. Show me how to use it. /search To build a complete research productI don't know.
-**Firesearch**Firesearch It's a combination. Firecrawl /search APIand OpenAI GPT-4o Constructed Smart Search Tool Multiple rounds can take place.Multi-source Web Info FetchAnalysis and integration Research and question and answer scenes applicable to complex issuesI don't know.
-![](https://assets-v2.circle.so/z2xprmkyz1zkcm89jsd2lbkbn7b3)
-### 🔧 Function Highlights
-**✅ Smart search processStructure DismantlingI'm not sure what I'm talking about.**✅ Smart search processStructure DismantlingI'm not sure what I'm talking about.
-**Query Decomposition**Query DecompositionDismantling complex issues into smaller onesManageable sub-issues
-**Multi-Search via Firecrawl**Multi-Search via FirecrawlConduct an independent search for each sub-issue Generate up to 12 Search request
-**Content Extraction**Content ExtractionExtract from each result page Markdown ContentsUse scrapeOptionsI'm not sure what I'm talking about.
-**Answer Validation**Answer ValidationDetermining whether page contents are“At the end of the day,Really answered the question.I'm not sure what I'm going to do.Confidence threshold is 0.7+
-**Retry Mechanism**Retry MechanismAutomatically replace keywords when hitAdjust semantic reQueryTry again at most 2 Number of timesI'm not sure what I'm talking about.
-**Answer Synthesis**Answer SynthesisGPT-4o Combining all hits into combined answers with referenced sources
-**📌 Advanced Features Overview**📌 Advanced Features Overview
+#Firesearch: A deep network research tool driven by AI
+To demonstrate the ability of this new function, Firecrawl has also developed an open source application **Firesearch**, which is a research tool showing how /search can be used to construct a complete research product.
+**Firesearch** is a smart search tool built in conjunction with Firecrawl /search API and OpenAI GPT-4o, which allows multi-wheel, multi-source web-based information capture, analysis and integration and applies to research and question-and-answer scenarios on complex issues.
+(https://assets-v2.circle.so/z2xprmkyz1zkcm89jsd2lbkbn7b3)
+♪ ♪ ♪ ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh
+**Intelligent search process (structure dismantling)**
+**Query Decomposition** Dismantling complex issues into smaller, manageable sub-issues
+**Multi-Search via Firecrawl** conducts independent searches for each sub-issue and generates up to 12 search requests
+**Concent Exchange** extracts Markdown content from each result page (using scrapeOptions)
+**Answer Valiation** determines whether page content is “real answer to questions”, with a confidence threshold of 0.7+
+**Retry Mechanism** Automatically replace keywords and adjust semantic reQuery when missed (up to 2 retry)
+**Answer Synthesis**GPT-4o integrates all hits into a combined answer from the referenced source
+** An overview of advanced properties**
 
-- ✅ Search progress updates in real time
+-  Real-time search progress update
 
-- 🔁 Automatic Retry Policy-Variation of keywordsSynonym replacementQuery Restructure
+-  Auto-retry strategy: keyword conversion, synonym replacement, query re-engineering
 
-- 📎 Full citation-Each answer with the original web link
+-  Full citation: each answer with the original web link
 
-- 🧠 Sessional memory-Support context queries and multiple rounds of queries
+-  Session memory: support context follow-up and multiple rounds of queries
 
-- ⚙️ Configureable ParametersIf maximum number of queriesMinimum content lengthTimeout waitingI'm not sure what I'm talking about.
+-  Configureable parameters (e.g. maximum number of queries, minimum content length, overtime, etc.)
 
-### 🧠 Core technical components
-![](https://assets-v2.circle.so/53krff3ol3pyue4r4rngefiuqosx)GitHub-https://github.com/mendableai/firesearch 
+# # Core technical components #
+(https://assets-v2.circle.so/53krff3ol3pyue4r4rngefiuqosx) GitHub: https://github.com/mendableai/firesearch
 
-## Deep Job Researcher 
-**Deep Job Researcher**Deep Job Researcher It's based on **Next.js**Next.js Development of a full-store application Helping job seekers to upload curricula vitae Smart matches job information on the InternetI don't know.It's a combination. **Firecrawl**Firecrawl It's... it's... it's... /search Web capture capabilities and **OpenAI**OpenAI synonyms for synonyms Provide in-depth personalized job referralsI don't know.
+# Deep Job Researcher
+**Deep Job Researcher** is a full-store application based on **Next.js** developed to help job-seekers to match job information on the Internet by uploading their resumes. It also combines /search web-capability with **Firecrawl** synonyms for **OpenAI** and provides in-depth individualized job references.
 
-### 🚀 Core Functions
-**Diagnosis of curricula vitae**Diagnosis of curricula vitae
+# # # core function #
+** Resumed on résumé**
 
-- User Upload PDF Curricula vitae;
+- User-to-peer PDF curriculum vitae;
 
-- System pass. OpenAI Model extraction skillsKey information such as experience and educational backgroundI don't know.
+- The system extracts key information such as skills, experience and educational background through the OpenAI model.
 
-**Job Matching**Job Matching
+** Job matching**
 
-- Use Firecrawl API We're going to do a web reptiles. Fetch real job information;
+- Use Firecrawl API for web-based reptiles to capture real job information;
 
-- OpenAI Parsing job descriptions And score with the résumé.I don't know.
+- OpenAI analyzes the job description and scores it against the curriculum vitae.
 
-**Match Ratings and Explanations**Match Ratings and Explanations
+** Matching rating and explanation**
 
-- Matching scoring per position;
+- Matching ratings for each position;
 
-- Provide a natural language explanation as to why the post is suitableOr not.I'm not sure what I'm talking about.UserI don't know.
+- Provide explanations in natural languages as to why the position is suitable (or inappropriate) for users.
 
-**Advanced Filter**Advanced Filter
+** Advanced filter**
 
-- Users by job typeRegionSalary scaleEmpirical requirements for sieve results etc.I don't know.
+- Users can screen results by job type, region, pay range, experience requirements, etc.
 
-GitHub-https://github.com/mendableai/firecrawl-app-examples/tree/main/deep-job-researcher
+GitHub: https://github.com/mendableai/firecrawl-app-examples/tree/main/deep-job-researcher
