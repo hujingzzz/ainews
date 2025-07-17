@@ -75,13 +75,13 @@ AI will explain the results in graph + language, just like you're talking to a *
 -  Automatic collection of data on American medical start-up companies
  
 We're looking for a list of family SUVs under $40,000.
-(https://assets-v2.circle.so/7w3a7z6jgvgyramdx4bir5deb1f)
+![](https://assets-v2.circle.so/7w3a7z6jjgvgyramdx4bir5deb1f)
 - Analysis of the performance of marketing activities and visualization of results
  
 A mass-generated promotional poster for Stanley Cups.
  
 
 # Who's fit for use?
-(https://assets-v2.circle.so/429lh0u3d1rvn77f3iyef1lp5pyj)
+![](https://assets-v2.circle.so/429lh0u3d1rvn77f3iyef1lp5pyj)
 # Let's wrap it up and say:
 ** Genspark AI Sheets transformed the spreadsheet into a “talking autoanalyst” to help you break the manual search, copy paste and formulae to complete the entire data task from the beginning of a sentence.**

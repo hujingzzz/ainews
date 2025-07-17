@@ -20,10 +20,10 @@ S1 has:
 
 Its training data exceed **2 million hours of audio**, with model parameters as high as **4 billion (S1)**, a landmark product.
 ** Model version**
-(https://assets-v2.circle.so/mn0l9us6san94gdshu33xfjpe2us) both support all functions such as emotions, tone labels, sculption control, etc. The difference is mainly between quality and performance.
+![](https://assets-v2.circle.so/mn0l9us6san94gdshu33xfjpe2us)两者都支持情绪、语气标签、拟声控制等全部功能，差异主要在于质量与性能权衡。
 
 # Main functional characteristics
-(https://assets-v2.circle.so/tmn0pikgdjqw84n0bgptwsipps82)
+![](https://assets-v2.circle.so/tmn0pikgdjqw84n0bgptwsipps82)
 # Maximum light: act like a sounding actor
 The greatest innovation of S1 is that it understands and plays “** the emotions and tone of the person who speaks**”, just like a professional voicewriter.
 ♪ How did it do it? ♪
@@ -37,7 +37,7 @@ OpenAudio first trained a self-researched **Stt)** to automatically recognize vo
 
 Then, using these voice tags, **more than 100,000 hours of voice data** was marked as S1 training input.
 ** Supported voice control tag:**
-S1 (https://assets-v2.circle.so/2j383de2jg7tqv6dsoa02nifzo5u) is the most prominent capability of its **rich voice expression control tag system**, including:
+![](https://assets-v2.circle.so/2j383de2jg7tqv6dsoa02nifzo5u)S1 最突出的能力是其**丰富的语音表达控制标签系统**，包括：
 1. Emotional Markers:
 e. g. (angry) (sad) (joyful) (sarcastic) (empathetic) et al.
 2. Tone Markers:
@@ -75,7 +75,7 @@ S1 high performance from the following key designs:
 - Optimizing technology: Optimizing voice performance using online RLHF for enhanced learning (based on GRPO strategy)
 
 # ** Multiple indicators lead the world: **
-!" (https://assets-v2.circle.so/7zmmgi0hwprli2xab50oki71ta5)
+![](https://assets-v2.circle.so/7zmgi0hwrwprli2xab50oki71ta5)
 - Hugging Face TTS-Arena-V2 ranking 1 (human subjective rating)
 
 - Word Error Rate: **0.008**, far better than industry models
@@ -84,7 +84,7 @@ S1 high performance from the following key designs:
 
 - A very low level of pseudo-verbals, miswords, misrepresentations, common TTS problems.
 
-S1 (https://assets-v2.circle.so/wmdrgycb38ykikg36wh5u83d5fri) even exceeds the existing model across the board in terms of voice expression, voice clarity, speech consistency.
+![](https://assets-v2.circle.so/wmdrgycb38ykikg36wh5u83d5fri)S1 甚至在语音表达、语音清晰度、语者一致性等方面全面超越现有模型。
 
 # The price is very low, available to everyone
 S1 is the most high-quality TTS model in the current market:
@@ -95,7 +95,7 @@ S1 is the most high-quality TTS model in the current market:
 
 - significantly below the market mainstream (e.g. ElevenLabs, PlayHT, etc.)
 
-Developmenters of [https://assets-v2.circle.so/wveop82lo8wc01cx45m4dl6myg3q) can deploy large-scale voice applications at very low cost, including passenger robots, podcast generation, AI role mix, etc.
+![](https://assets-v2.circle.so/wveop82lo8wc01cx45m4dl6myg3q)开发者可以用非常低的成本部署大规模语音应用，包括客服机器人、播客生成、AI 角色配音等。
 
 # How do you experience it?
 You can experience the voice effects of the model online through OpenAudio's voice platform **Fish Audio Playgroup** (TTS currently available only, future support for TT, TextQA, AudioQA, etc.).

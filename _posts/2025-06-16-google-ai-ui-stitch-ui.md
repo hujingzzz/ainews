@@ -21,7 +21,7 @@ One sentence creates the full UI.
 -  Export clean code directly developed
 
 Deep integration Gemini, Google Labs Ecology
-(https://assets-v2.circle.so/5j4ocreok9w3r2v6qzmxbe3hn4e)
+![](https://assets-v2.circle.so/5jj4ocreok9w3r2v6qzmxbe3hn4e)
 
 # What do you think Stitch can do?
 
@@ -69,5 +69,5 @@ Upon completion of the design, the user may:
 - **Galileo AI has been officially acquired by Google**
 
 - Founder Arnaud Benard joined Google to build Stitch with Gemini team.
-(https://assets-v2.circle.so/64ybh3a8yovodxemltc0zbz019hv)
+![](https://assets-v2.circle.so/64ybh3a8yovodxemltc0zbz019hv)
 Visited: https://stitch.withgoogle.com/

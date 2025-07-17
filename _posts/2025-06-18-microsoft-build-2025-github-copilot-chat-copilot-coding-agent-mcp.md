@@ -25,9 +25,9 @@ Microsoft claims that AI's agent, thanks to the breakthroughs in reasoning and m
 
 - Publication **NLWeb Project**: Make the website as HTML accessible to AI proxy semantic access and interaction.
 
-(https://assets-v2.circle.so/h8dp8ggrnwr9h3wico5fipw4gh5k)
+![](https://assets-v2.circle.so/h8dp8ggrnwr9h3wico5fipw4gh5k)
 # Microsoft Strategic Vision:
-!" (https://assets-v2.circle.so/923txpuv0mq998faq217tqk7sgpe)
+![](https://assets-v2.circle.so/923txpuv0mq998faq217tqk7sgpe)
 #1 Reshaping software development process: AI is no longer just "accompanied" but "participant"
 
 - **GitHub Copilot upgrades to "code agent"** are no longer just smart completions, but rather development partners with contextual memory, mission planning, and ante-step execution capabilities. For example, you can set targets in GitHub, which will help you analyse problems, generate codes, deploy, and do code reviews.
@@ -35,7 +35,7 @@ Microsoft claims that AI's agent, thanks to the breakthroughs in reasoning and m
 - The chat function of the **Copilot Chat open source integrated into VS Code**GitHub Copilot is now integrated into VS Code as an open source project with the participation of the developers' community in customization and expansion, reflecting Microsoft's commitment to “open development”.
 
 - **Windows AI Foundation ** provides a unified platform to support local training, fine-tuning, deployment, and compatibility with open-source and private large models. Developers can easily run visual, language models without complex configurations.
-!" (https://assets-v2.circle.so/cg3yciz2gyx4yvfax13rhm60id1g)
+![](https://assets-v2.circle.so/cg3yciz2gyx4yvfax13rhm60id1g)
 
 ##2 Build a powerful, controlled AI proxy ecology
 
@@ -58,7 +58,7 @@ Microsoft claims that AI's agent, thanks to the breakthroughs in reasoning and m
 - NLWeb project: Like HTML on the web page, NLWeb on the new open code published by AI interactive Microsoft, which allows web sites to expose interfaces in natural language plus in a structured way, and the AI model allows for a more accurate understanding of and interaction with web intent and promotes the development of the “semantic Internet”.
 
 - GitHub and Microsoft joined the **MCP standard-setting committee** to promote industry standardization.
-(https://assets-v2.circle.so/qm3vnsp9sbjppk5mjaz3y4228uc)
+![](https://assets-v2.circle.so/qqm3vnsp9sbjppk5mjaz3y4228uc)
 
 #5 AI + Scientific research: Microsoft Discory platform
 
@@ -66,7 +66,7 @@ Microsoft claims that AI's agent, thanks to the breakthroughs in reasoning and m
 
 # Open source GitHub Copilot Chat
 Microsoft announced the opening of **GitHub Copilot Chat*** plugin** and the gradual integration of AI capabilities into the core of the **VS Code editor**. This marked the formal move of VS Code towards a new phase of “**Open Source AI programming environment**”.
-(https://assets-v2.circle.so/3eclbeabc9149hh10r6bunc9cupz)
+![](https://assets-v2.circle.so/3eclbeabc9149hh10r6bunc9cupz)
 # The background and motivation #
 The Microsoft team summarized several key current changes in AI development and community feedback as a basis for decision-making to advance open sources:
 ** Large model capabilities evolved to reduce reliance on the "problem " **
@@ -119,7 +119,7 @@ The meaning of the whole AI programming ecology.
 - Promote the new era of AI programming from "product trials" to "Developers' custom-based tool chains".
 
 # New programming agent: Copilot Coding Agency
-_ (https://assets-v2.circle.so/5wphr565bksnigvu2x7xhf3xik) while Microsoft has issued a new Copilot CodeAgent, an AI agent ** that can be assigned tasks, automatically submit codes and integrate CI/CD processes** with autonomous coding, analysis and iterative capabilities.
+![](https://assets-v2.circle.so/5wphr565bksrnigfvu2x7xhf3xik)同时微软发布了新的Copilot Coding Agent，一个**可被分配任务、自动提交代码、并集成 CI/CD 流程**的 AI 代理，具备自主编码、分析和迭代的能力。
 It is no longer just an auxiliary writing code, but rather an “AI Agent” that can take the initiative** to perform development tasks**.
 
 # Core competencies and workflows
@@ -154,7 +154,7 @@ Activate Secure Virtual Environments (based on GitHub Actions)
 # Security and access control mechanisms
 In order to ensure the security of the team code library, Copilot Agent designed a set of strict protection strategies:
 
-!" (https://assets-v2.circle.so/n5y5zpp7mvdl75ewellapzxbz7wm)
+![](https://assets-v2.circle.so/n5y5zpp7mvdl75ewellapzxbz7wm)
 # Use the scene and the applicable boundary
 • Applicable task type:
 
@@ -184,4 +184,4 @@ Not applicable:
 - ** Since 4 June 2025**, each Agent request will be counted as one **Advanced Copilot request** for billing purposes
 
 The difference between the traditional Copilot
-<[https://assets-v2.circle.so/xuhvb513p8guq9c3yq4vhgswy443> More Microsoft Build 2025 conference content: https://blogs.windows.com/windowsdeveloper/2025/05/19/advancing-windows-for-ai-development-new-platform-capabilities-and-tools-introduced-at-buld-2025/
+![](https://assets-v2.circle.so/xuhvb513p8guq9c3yq4vhgswy543)更多Microsoft Build 2025 大会内容：https://blogs.windows.com/windowsdeveloper/2025/05/19/advancing-windows-for-ai-development-new-platform-capabilities-and-tools-introduced-at-build-2025/

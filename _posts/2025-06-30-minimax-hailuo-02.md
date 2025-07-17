@@ -17,12 +17,12 @@ MiniMax released its latest AI video production model, Hailuo 02 (code “Kangar
 
 
 # Generate effect capabilities and properties
-(https://assets-v2.circle.so/xw121amve9oy1kipjkn3brajngqi)** high-resolution output**:
+![](https://assets-v2.circle.so/xw121umve9oy1kipjkn3brajngqi)**高分辨率输出**：
 
 - Support ** original 1080p** (1920 x 1080) resolution with a frame rate of 24-30fps, providing professional visual effects suitable for social media, advertising prototypes or short film creation.
 
 - An additional 768 p option is available to support 6 or 10 seconds of video, with flexibility to accommodate different needs.
-!" (https://assets-v2.circle.so/6j9c6ctpj93qkkkkpodr2cdkbrmoy)
+![](https://assets-v2.circle.so/6j9c6ctpj93qzkkpodr2cdkbrmoy)
 ** Video duration**:
 
 - Maximum generation of **10 seconds** videos suitable for short format content, such as short social media videos, promotional segments or storyboard animations, up from the previous generation of Hailuo 01 (6 seconds).
@@ -48,7 +48,7 @@ MiniMax released its latest AI video production model, Hailuo 02 (code “Kangar
 - ** Image-to-Video (I2V)**: Animation of static images, preservation of art style or details, applicable to the conversion of illustrations or photographs into dynamic content.
 
 - ** Subject-to-Vision (S2V)**: Role-consistency based on reference images, suitable for multiple lenses or continuous scenes.
-!" (https://assets-v2.circle.so/xzwzn830cpmcnsh3fq4s1iexwuw7)
+![](https://assets-v2.circle.so/xzwzn830cpmcnsh3fq4s1iexwuw7)
 
 # Cost strategy:
 
@@ -60,7 +60,7 @@ MiniMax released its latest AI video production model, Hailuo 02 (code “Kangar
 Pricing is highly competitive, generating video costs of approximately US$ **0.28-0.56 per second for 5-10 seconds **, 1080 p video about US$ **0.08 per second **, which is more economical than many international competitors (e.g. Seadance 1.0 Pro).
 The generation time is approximately **30-60 seconds** (depending on complexity), and some platforms (e.g. GoEnhance) claim to deliver high-resolution videos within the fastest 90 seconds.
 Official commitment:** There are no high threshold restrictions on the use of creators** and technology should be inclusive.
-(https://assets-v2.circle.so/anwc5kiiapb1fajvlagbiri4aywu)
+![](https://assets-v2.circle.so/anwc5kiiapb1fajvlagbiri4aywu)
 # Technological innovation
 The release of Hailuo 02 is not just an upgrade of a simple version, but a technological leap across multiple dimensions.
 
@@ -78,7 +78,7 @@ Outcomes:
 - Models with a larger number of operational parameters under equivalent hardware resources;
 
 - Provide sufficient room for further reasoning optimization,** which could still be accelerated in the future**
-(https://assets-v2.circle.so/5frtvtg32m4sfvmymyupdu7wym9)
+![](https://assets-v2.circle.so/5frtvtcg32m4sfvmymyupdu7wym9)
 
 ##2 Model size: ** Arguments expanded to 3 times the previous generation**
 

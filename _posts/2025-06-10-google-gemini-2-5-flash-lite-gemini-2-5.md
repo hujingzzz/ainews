@@ -17,7 +17,7 @@ This is the fastest-response and least-cost model in the Gemini 2.5 series.
 - Particularly applicable to practical applications where low-delayed and efficient responses are required.
 
 # A comparative overview of the three models
-!" (https://assets-v2.circle.so/atma49ws12l6nf8imj9whcz7ix1d)
+![](https://assets-v2.circle.so/atma49ws12l6nf8imj9whcz7ix1d)
 #  Details of Gemini 2.5 Flash-Lite
 
 1. The most cost-effective and fastest.
@@ -70,10 +70,10 @@ Although not pro-version, it still has the full range of original multi-model su
 - Obtaining higher scores in baseline tests such as coding, mathematics, science, reasoning and multimodules.
 
 - Delays and costs are lower and are one of the most valuable models at present.
-(https://assets-v2.circle.so/g0nd23e7nkk8vkk6mr29s1iha75) [https://assets-v2.circle.so/juibapguef7s0olejpqasr0b7mwm]
+![](https://assets-v2.circle.so/g0nd23e7nkk8vko6lmr29s1iha75)![](https://assets-v2.circle.so/juibapguef7s0olejpqasr0b7mwm)
 
 # # "**Who's the most cost-effective of the AI model**"
-(https://assets-v2.circle.so/j7dkgvtyqrbuor6rf72elormfrk)
+![](https://assets-v2.circle.so/j7dkgvtyqrbuor6rf72elormfwrk)
 - **The Gemini 2.5 series significantly increased the upper limit of value for money** and pushed Pareto as a whole to the top right corner.
 
 - **Flash-Lite is currently one of the most cost-effective models**, especially for budget-sensitive applications that still require strong modelling capacity.
@@ -110,9 +110,9 @@ Gemini 2.5 Flash-Lite (new release!)
 
 - It is represented by the “top right corner” in the figure:** the cheaper the right, the smarter the higher and the better the better.**
 
-This map (https://assets-v2.circle.so/9c1icq6gsx7nuzwv1d7ceadibspj) shows:
+![](https://assets-v2.circle.so/9c1icq6gsx7nuzwv1d7ceadibspj)这张图显示的是：
 The comparison of the AI models ** "Explosion Speed"** -- that is, ** How fast the text is generated**
-!" (https://assets-v2.circle.so/xyurg9n8yctml17mtmrf6bb9qrau)
+![](https://assets-v2.circle.so/xyurg9n8yctml17mtmrf6bb9qrau)
 # **Application case demonstration**:
 
 - A research prototype: After the user uploads large PDF files, the Flash-Lite model can be converted into an interactive Web application in real time to facilitate understanding and synthesizing complex content.

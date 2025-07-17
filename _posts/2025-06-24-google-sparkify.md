@@ -32,7 +32,7 @@ It is based on the latest Gemini and Veo models of Google and supports users to 
 - Origin of drink (e.g. tea, komp, pearl tea)
 
 - Origin of food (e.g. glorification, sushi, ice cream)
-!" (https://assets-v2.circle.so/1sc537dl03njf3cy4pzy4jhke3hi)
+![](https://assets-v2.circle.so/1sc537dl03njf3cy4pzy4jhke3hi)
 - Origin of the concept (e.g. lunch, soap, eight-hour working system)
 
 ** Art and culture**

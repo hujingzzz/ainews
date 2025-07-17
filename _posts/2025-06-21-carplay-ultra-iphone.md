@@ -32,15 +32,15 @@ CarPlay Ultra provides the following key features through deep integration of ve
 - ** Performance settings**: manage vehicle-specific functions, such as driving patterns or sound configurations.
 
 ** Multi-input method**: Support screen touch control, physical buttons and Siri voice control, Siri can handle simple tasks (e.g. adjust temperature) and answer complex questions (but cannot directly access the vehicle manual) through Apple Intelligence integration ChatGPT.
-_ (https://assets-v2.circle.so/xskl6nmm1ckt8c2whtvkf5okv4)** seamless switch**: For functions not directly supported by CarPlay Ultra (e.g., advanced sound or massage seats), they can be performed through a supermixing system interface without total withdrawal from CarPlay.
-(https://assets-v2.circle.so/e7a1cll7vvc1nhmydrjg1t0m9mvn1)** Personalization and branding**
+![](https://assets-v2.circle.so/xskl6nmm1ckt8c2whshtvkf5okv4)**无缝切换**：对于 CarPlay Ultra 未直接支持的功能（如高级音响或按摩座椅），可通过叠加原生系统界面操作，无需完全退出 CarPlay。
+![](https://assets-v2.circle.so/e7a1cll7vc1nhmydrjg1t0m9mvn1)**个性化与品牌定制**
 
 - ** Self-defined theme**: Apple works with car manufacturers to design brand exclusive topics and preserve brand identity. For example, Aston Martin's theme includes the name of the brand logo and the words “Handbuilt in Great Britain”.
 
 - ** User personalization**: Drivers can customise dashboard colours, wallpapers and layouts (although layout options are fixed and may be expanded in the future through OTA updates).
-!" (https://assets-v2.circle.so/2wgpzkq3yv8oj39a03j12cdtjk8a)
+![](https://assets-v2.circle.so/2wgpzkq3yv8oj39a03j12cdtjk8a)
 - ** Multiple instrumentary styles**: Provide design from traditional to ultra-simplified dashboards to meet the needs of different aesthetics.
-!" (https://assets-v2.circle.so/43a38izmyu2ldqbdfhi5nzpe2uq)
+![](https://assets-v2.circle.so/43a38izmyu2ldqbddfhi5nzpe2uq)
 **Widgets**
 
 - Introduction of small components in iPhone style, suitable for inside screens, displaying information on calendar events, weather, fetal pressure, etc.
@@ -77,4 +77,4 @@ _ (https://assets-v2.circle.so/xskl6nmm1ckt8c2whtvkf5okv4)** seamless switch**: 
 - ** Schedule**: Except for Aston Martin, specific rollout times for other brands have not been announced and may vary according to model and screen configuration.
 
 # Compared to traditional CarPlay
-(https://assets-v2.circle.so/5ge9580ocxtznc1w1562konp4k1h)
+![](https://assets-v2.circle.so/5ge9580ocxtznc1w1562konp4k1h)

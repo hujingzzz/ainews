@@ -11,7 +11,7 @@ icon: design
 
 ** Gemini Code Assist** is a Google-initiated **AI programming support plugin**, mainly run in Visual Studio Code.
 It relies on Google's own Gemini Large Language Model (LLM) to provide real-time assistance in the development of codes, including code generation, debugging, test writing, document reference and infrastructure management.
-The latest update (https://assets-v2.circle.so/1r6v04tnsdsmrsresk4vg4ky37ka) includes support for Gemini 2.5, stronger personalization and better context management!
+![](https://assets-v2.circle.so/1r6v04tnsdsmsrresk4vg4ky37ka)最新更新包括支持 Gemini 2.5、更强的个性化以及更好的上下文管理！
 
 - ** Multilingual support**: applies to any mainstream programming language.
 
@@ -115,5 +115,5 @@ Multi-session support:
 - Support schema perception, query interpretation, etc.
 
 # Different versions of comparison (for different users)
-https://assets-v2.circle.so/28yihula0w8t6fx4gbvukcidgay: https://codeassist.google/
+![](https://assets-v2.circle.so/28yihula0w8t6fx4gbvukcibdgay)官网：https://codeassist.google/
 Visualstudio plugin download: https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist

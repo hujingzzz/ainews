@@ -27,7 +27,7 @@ Detailed description of function:
 
 - ** pattern fill (pattern fill)**: maintain pattern consistency and do not need to be copied.
 
-(https://assets-v2.circle.so/gpogtmhvbyidf69564xrm1pqyvmk)
+![](https://assets-v2.circle.so/gpogtmhvbyidf69564xrm1pqyvmk)🔍 适用场景：
 
 - Prototype sketching
 
@@ -57,7 +57,7 @@ Detailed description of function:
 
 - ** Fully customized grid rules**: number of columns, column width, spacing, margin, fit screen size, etc.
 
-(https://assets-v2.circle.so/qii0tl9v76udlwn2u2049hpa30y0) Example code snippet (Dev Mode visible):
+![](https://assets-v2.circle.so/qii0tl9v76udlwn2u2049hpa30y0)📦 示例代码片段（Dev Mode 可见）：
 I don't know what you're talking about, but I don't know what you're talking about.
 grid-template-colomns: repeat(3,1fr);
 Gap: 24px;
@@ -89,7 +89,7 @@ Detailed description of function:
 
 - ** Issued to the whole team**: one key will be posted to the entire team or organization.
 
-(https://assets-v2.circle.so/fzs0ukml3nb8iwet87dlvv057aw8)
+![](https://assets-v2.circle.so/fzs0ukml3nb8iwet87dlvv057aw8)🔍 适用场景：
 
 - Rapid production of social media templates, advertising banners
 
@@ -117,7 +117,7 @@ Detailed description of function:
 
 - ** Web site online without code writing**: one-key deployment without development.
 
-(https://assets-v2.circle.so/rl28o0g4pwp9g10gojco8mtvhdz)
+![](https://assets-v2.circle.so/rl28o0g4pwp9g10gojco8mtpvhdz)🔍 适用场景：
 
 - Collections/personal homepages
 
@@ -150,7 +150,7 @@ Enter, for example, " Create a task management application " , which automatical
 - Enter " Let the chart show the data when it is suspended " . Make automatically adds an interactive logic.
 
 **3D, animated, responsive layout** all supported.
-!" (https://assets-v2.circle.so/zpdb2zhjnle049trab50lywkakfr) Example:
+![](https://assets-v2.circle.so/zpdb2zhjnle049trab50lywkakfr)🧪 示例 Prompt：
 "Create a music player with play buttons and volume controls, style reference Apple Music."
 Applicable scene:
 

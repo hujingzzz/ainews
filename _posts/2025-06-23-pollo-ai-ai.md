@@ -18,8 +18,8 @@ icon: note
 The images and videos generated also support AI editing
 
 - There's an infinite canvas that brings together AI's image generation + editor + canvas.
-(https://assets-v2.circle.so/5fit6knlg31jzz4ds9stmn0z1wda)
-#[] (https://assets-v2.circle.so/lo65ommq4hn6wi3xpfn7pmk9d8jb) [] (https://assets-v2.circle.so/2nacyx3jvz7smfkqz7kd8s2wjrel)
+![](https://assets-v2.circle.so/5fit6knlg31jzz4ds9stmn0z1wda)
+![](https://assets-v2.circle.so/lo65ommq4hn6wi3xpfn7pmk9d8jb)![](https://assets-v2.circle.so/2nacyx3jvz7smfkqz7kd8s2wjrel)
 
 #  Main functional characteristics
 
@@ -51,13 +51,13 @@ The images and videos generated also support AI editing
 
 # Support API access and commercial applications
 Pollo AI also launched a **API platform**, which brings together a unified interface system for global leading image and video generation models, allowing developers, content platforms, AI tool integrators to support flexible, low-cost deployments through an API access that includes **Google Veo 3**,**Kling AI**,**Runway**,**DALL E**StableDiffusion**.
-!" (https://assets-v2.circle.so/no9pnatlpkx17cobqwgia4o10uud)
+![](https://assets-v2.circle.so/no9pnatlpkx17cobqwgia4o10uud)
 - To provide a unified API platform to support enterprises in fast-tracking access to products or platforms with multi-model capabilities;
 
 - More flexible pricing and more comprehensive model support than Fal.ai and Replicate, Pollo.
 
 - Supported video models
-!" (https://assets-v2.circle.so/pjf735sh1udjrhg79acs0ujr60k5)
+![](https://assets-v2.circle.so/pjf735sh1udjrhg79acs0ujr60k5)
 - Image generation model support:
 **DALL E**,**Imogen**,**Stable Diffusion**,**Ideogram**,**Recraft**,**FLUX series** et cetera;
 
@@ -81,8 +81,8 @@ Pollo AI also launched a **API platform**, which brings together a unified inter
 - Support for the integration of enterprise-level systems from entry-level developers to enterprise-level ones.
 
 # #  Price system (API Credit)
-] (https://assets-v2.circle.so/uxis95kybr1709ur16zpiul2j0im) Different credit for each model, e.g. Kling 1.6 produces 5s video only about 3.5 credits (approximately $0.21), ** significantly below peer prices**.
-Pollo AI (https://assets-v2.circle.so/6bcgnn0p8kvx93pt211pw0eak8gt) is also a few platforms** authorized to cooperate with Google Cloud to provide a Veo 3 model API call. Veo 3 can be achieved:
+![](https://assets-v2.circle.so/uxis95kybr1709ur16zpiul2j0im)每个模型的调用消耗 credit 不同，例如 Kling 1.6 生成 5s 视频仅需约 3.5 credits（约 $0.21），**显著低于同行价格**。
+![](https://assets-v2.circle.so/6bcgnn0p8kvx93pt211pw0eak8gt)Pollo AI 还是少数**获得 Google Cloud 合作授权的平台**，提供 Veo 3 模型 API 调用。Veo 3 可实现：
 
 - Inclusion of personal dialogue and synchronized sound in the video;
 

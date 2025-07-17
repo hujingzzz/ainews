@@ -38,10 +38,10 @@ You just have to enter a descriptive text that allows the system to produce the 
 - ** Generate voice**:
 Looks like it's just me and you left..."
 
-[] (https://assets-v2.circle.so/vijiutr3y6vtx0je0j3ck76slvc) it can interpret the information in Prompt about ** emotions, tone, age, background, accent** and so produce a humanized voice.
+![](https://assets-v2.circle.so/vijiutr3y6vtx0je0jj3ck76slvc)它可以解析Prompt 中涉及的**情绪、语气、年龄、背景、口音**等信息，从而生成拟人化语音。
 2. Highly modifiable parameters
 The user can customise the following speech features:
-(https://assets-v2.circle.so/ju51ik2e8hzybd29ehyf5n1rdj) [] [https://assets-v2.circle.so/pv2uwy79y1zs7okohoodymer 4vpw) 3.
+![](https://assets-v2.circle.so/ju51ik2e8hzybvd29eehyf5n1rdj)![](https://assets-v2.circle.so/pv2uwy79y1zs7okoh09dymer4vpw)🧠 3. 模型支持的角色风格
 Voice Design supports the creation of a variety of voice styles, whether written or imagined:
 
 - Real style:
@@ -57,7 +57,7 @@ Role style:
 
 4. Use of Guides and Reminders
 To help users better design their voice, Steven Labs provides a special **tip writing guide**, which includes dozens of style templates, building techniques, best practices, and allows newcomers to start writing easily.
-(https://assets-v2.circle.so/y5394wxjbt17g7upokw399jw09zu) 5. Voice Design API (Developer function)
+![](https://assets-v2.circle.so/y5394wxjbt17g7upokw399jw09zu)⚙️ 5. 语音设计 API（开发者功能）
 Voice Design provides an API interface (currently Alpha phase, limited to the Console):
 
 - ** Generate interface**: Enter prompt and text to return a sound preview.
@@ -65,7 +65,7 @@ Voice Design provides an API interface (currently Alpha phase, limited to the Co
 - **Save interface**: Save the resulting voice in the user voice library.
 
 For developers such as product integration, automated creation, personalized content generation, etc.
-!" (https://assets-v2.circle.so/bj7x3ksmmxmm5id5qxw86xk99m3t2)
+![](https://assets-v2.circle.so/bj7x3ksmmxm5id5qxw86xk99m3t2)
 # ** Example Voice Design v3:**
 ** Sound reminder: **A calm, tough and gruff old cowboy with an deaf, grively, loud American accent.
 ** Sound reminder:**

@@ -18,7 +18,7 @@ It is open to subscribers to the Google AI Pro and Ultra schemes.
 Visit:low.google
 
 # # Behind the three AI engines: co-drive the creation process
-These models form a synergetic network (https://assets-v2.circle.so/zoyb4vh5btje8htfxh4qmps7rikf) to enable Flow to achieve the following core competencies:
+![](https://assets-v2.circle.so/zoyb4vh5btje8htfxh4qmps7rikf)这些模型形成协同网络，让 Flow 能实现如下核心能力：
 
 - Generate roles and scenes with text descriptions;
 
@@ -126,7 +126,7 @@ Veo 3 for details: https://deepmind.google/models/veo/
 - ** Use of platforms**: Gemini App, Whisk, Workspace (Docs, Slides, Vids) and Vertex AI;
 
 - **incoming **: Imogen 4 flash, generating 10 times the Imogen 3 speed.
-] [https://assets-v2.circle.so/mv0pughh5kp4dz2v0jnctvlyfc8z] [https://assets-v2.circle.so/xgisuk7hixyt80rr3ti332bcm6] [https://assets-v2.circle.so/ii3hfw9e1elr2h3k1rl0q68zueo] [https://assets-v2.circle.so/buhal37tsv9wbnqo95wiqeflgbn]
+![](https://assets-v2.circle.so/mv0pughh5kp4dz2v0jnctvlyfc8z)![](https://assets-v2.circle.so/xgisuk7nhixyt80rr3ti3532bcm6)![](https://assets-v2.circle.so/woi3hfw9e1elr2h3k1rl0q68zueo)![](https://assets-v2.circle.so/buhal37tsv9wbnqo95wiqefnlgbn)
 
 #  **Lyria 2: Real-time music generation and control**
 **Lyria 2** is the latest release of Google Deepmind ** Music Generation Model**. The objective is to generate ** high-security, professional-level audio** covering a variety of musical styles, structured music songs and creative tool applications.

@@ -24,9 +24,9 @@ Its main features are:
 
 # What can Dopl do?
 ** At any time **: You see a nice outfit in social media or you find someone's clothes in the street that you can upload to Dopl and try it right now.
-(https://assets-v2.circle.so/4tjlf3vvvqk77u07immaxg452so6a)** Generates animated effects**: Dopp not only display static images, but also make the mix effect short video via AI technology to show the dynamic properties of clothes as they move in the body, such as fabric swings, changes in overall contours, etc.
-(https://assets-v2.circle.so/qvub5fq5idpozy9wwcnigi6tier)** Record and share your style**: if you try to wear a satisfactory pattern, you can either save it or share it directly with your friends for information.
-!" (https://assets-v2.circle.so/6htv7je2cle6jbk9fgh1xpqf1ck4)
+![](https://assets-v2.circle.so/4tjlf3vvqk77u07immaxg452so6a)**生成动画效果**：Doppl 不仅展示静态图片，还能通过 AI 技术把穿搭效果做成短视频，让你看到衣服在身体移动时的动态质感，比如布料摆动、整体轮廓变化等。
+![](https://assets-v2.circle.so/qvub5fq5idpozy9wnwcnigi6tier)**记录与分享你的风格**：如果你试穿出一个满意的造型，可以保存下来，或者直接分享给朋友参考。
+![](https://assets-v2.circle.so/6htv7je2cle6jbk9fgh1xpqf1ck4)
 # How is it different from the previous virtual dress?
 Google was already online in Google Shopping in 2024, but it was characterized by a commercial product and static images. The Doppler is now a further upgrade, which introduced several important changes:
 
@@ -65,4 +65,4 @@ Doppl is still in the experimental phase, so there are some limitations:
 
 - **Auxiliary decision-making**: Dates, photographs, travels can be selected using Doppl's first set of models.
 
-Dopl (https://assets-v2.Circle.so/4f0as19nyxocfffff35vsi1bnva9b) is now online on iOS and Android platforms in the United States.
+![](https://assets-v2.circle.so/4f0as19nyxocffnf35vsi1bnva9b)Doppl 现已在美国的 iOS 和 Android 平台上线。

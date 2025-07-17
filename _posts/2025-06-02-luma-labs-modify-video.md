@@ -57,7 +57,7 @@ The key is that:** there is no need for green curtains, no need for framework-by
 
 # ** Three preset styles**
 "Modify Video" provides three different preset models for conversion that allow users to adjust the degree of freedom of creation of the video to suit their needs. These models are:
-** (https://assets-v2.circle.so/9rshz3lgfan0b28h3j1v71bea2fo)**Adhere** the model is minimally modified on the basis of maintaining the original video structure, mainly for the ** style and texture** of the scene. For example, you can change the background colour or texture in the video, but the person's movements, emotics and lenses remain essentially the same. This model is well suited for projects that require restoration or consistency at a later stage, such as consistency in visual style between multiple lenses.
+![](https://assets-v2.circle.so/9rshz3lgfan0b28h3j1v71bea2fo)**Adhere（贴合模式）**这个模式在保持原始视频结构的基础上进行最小的修改，主要针对场景的**风格和纹理**进行调整。例如，你可以改变视频中的背景颜色或纹理，但人物的动作、表情和镜头角度基本保持不变。这个模式非常适合那些需要在后期修复或保持一致性的项目，比如在多个镜头之间保持视觉风格的一致性。
 **Flex (flexible model)** While retaining key elements (e.g., character moves, facial expressions, etc.), the model allows for more creative adjustments. This is a balanced model that allows creative re-engineering while maintaining input integrity. For example, you can change the original scene slightly to another style, or replace people’s clothing, props, etc., for cases where there is a need for a rapid shift between multiple creative options, such as a quick preview of different styles for clients.
 **Reimagine** This is the most creative model that allows you to completely re-engineer the scene or the role and even transform the person into a non-human form (e.g. a monster or an illusional creature). This model prioritizes ** freedom of creativity** and is suitable for projects that require bold re-engineering, such as artistic creation, short-conceptive films or special-effect production. Under this model, you can completely change the appearance of a scene or role, creating imaginative and more realistic effects.
 
@@ -76,7 +76,7 @@ Unlike the traditional "tips generate video" or static filters, the key to Modif
 - ** Results of output are more consistent**, especially with regard to face, body movement, time continuity;
 
 - Official tests show that Modify Video is better than Runway 's V2V tool for visual authenticity and action consistency.
-_ (https://assets-v2.circle.so/0udra1xvnlkugw713tcinmo57c23) _ (https://assets-v2.circle.so/frdre9bymerfb91mxldyudm668li)
+![](https://assets-v2.circle.so/0udra1xvnlkugw713tcinmo57c23)![](https://assets-v2.circle.so/frdre9bymerfb91mxldyudm668li)
 
 # How to use
 Modify Video has been integrated into **Luma Dream Machine: Ray 2** for video clips of up to **10 seconds**.

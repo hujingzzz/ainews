@@ -39,7 +39,7 @@ Forecasts the next word (token) sequentially, one after the other.
 
 - Be able to achieve content construction faster and to correct errors during generation.
 
-!" (https://assets-v2.circle.so/4zhk4403d7hrdz94va677utgcq9h)
+![](https://assets-v2.circle.so/4zhk4403d7hrdz94va677utgcq9h)
 # The main advantage #
 
 - Methods of work: After adding a “complete text expression” to noise damage, the training model is gradually “noise” and restored to a reasonable text.
@@ -62,7 +62,7 @@ Mathematics and code processing skills.
 
 - For example, mathematical expressions, program codes that satisfy syntax correctness and logical consistency, and diffusion models are better at such “editorial generation”.
 
-(https://assets-v2.circle.so/7mpk1mdhiceh2l8uulzibi9chrj)
+![](https://assets-v2.circle.so/7mpk1mdhiceh2l8ouulzibi9chrj)
 # Case demonstration
 
 # 1. **The programming scene was excellent**

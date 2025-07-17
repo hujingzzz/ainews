@@ -62,7 +62,7 @@ Compared to the 29 languages in v2, **v3 currently supports more than 70 languag
 - Small regional languages (Sanjaro, Kyrgyz, Urdu, etc.)
 
 Use: Non-English podcast, global sounding, localised audio content generation.
-!" (https://assets-v2.circle.so/oip0q3rh4t0m30zen48zsw7btzj4)
+![](https://assets-v2.circle.so/oip0q3rh4t0m30zen48zsw7btzj4)
 # 4. ** Text to Dialogue New Mode**
 This is one of the most powerful capabilities in v3:
 
@@ -74,7 +74,7 @@ This is one of the most powerful capabilities in v3:
 
 
 # v2 versus v3
-!" (https://assets-v2.circle.so/o6z3wxmbhc7u7e8ysxwhy9bzkn24)
+![](https://assets-v2.circle.so/o6z3wxmbhc7u7e8ysxwhy9bzkn24)
 # ** Which labels do you support?**
 
 - Emotions: [ANGRY], [LAUGHS], [WHISPERS]

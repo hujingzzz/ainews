@@ -30,7 +30,7 @@ Mariner's name comes from the name of the navigator, the symbol of AI's ability 
 The user describes the task in a natural language, and the system converts it into an implementable plan. For example:
 “Please help me find the three university websites offering the AI course in 2023 and collate the course names, tuition fees and web links.”
 The system does not require step-by-step user guidance, but rather an autonomous understanding of the mission structure and the planning of the implementation process**.
-!" (https://assets-v2.circle.so/iiidzbbb2btziubmdr1xu0kp7ajk7)
+![](https://assets-v2.circle.so/iidzbbb2btziubmdr1xu0kp7ajk7)
 ##2. ** Virtual browser operating environment**
 
 - All task operations are carried out in virtual browsers by simulation of real user behaviour;

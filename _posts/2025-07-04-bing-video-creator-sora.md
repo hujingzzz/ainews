@@ -29,7 +29,7 @@ Apply bottom menu click on "Video Creator"
 - Videos generated** with a storage period of 90 days**
 
 - Options ** Download, Share Link, Mail or Social Platform Launch**
-(https://assets-v2.circle.so/7l66wkj80prxoloo7t0v5593abat)
+![](https://assets-v2.circle.so/7l66wkj80prxoloo7t0v5593abat)
 ** Payment mechanism**
 
 - Free user: **Fest Mode **
@@ -46,7 +46,7 @@ Click on the lower right corner menu > Select "Video Creator"
 Enter text description (Prompt), suggested as detailed as possible
 Click "Create" to start generating
 Notifications are sent when the system is generated and the user can view and download
-!" (https://assets-v2.circle.so/yf70ypcvalqx6i1g4570ri9jzgur)
+![](https://assets-v2.circle.so/yf70ypcvalqx6i1g4570ri9jzgur)
 # # prompting advice:
 Example for high quality Prompt:
 In a busy Italian pizza rehabilitation, a small hour works as a chef and wears a chef's hat and an aron, he kneads the doughs with his paws and is surrounded by another pizza effect.

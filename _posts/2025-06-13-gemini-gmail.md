@@ -22,7 +22,7 @@ Gemini can now be used in Gmail.
 
 - Direct** view calendar activities**, or even create a calendar.
 
-(https://assets-v2.circle.so/uzllrt0sl6hvatdoj80heurgi84i)
+![](https://assets-v2.circle.so/uzllrt0sl6hvatdoj80heurgi84i)
 
 #  usage method (computer end):
 Login to Gmail.
@@ -35,7 +35,7 @@ In the Gemini panel on the right, can:
 
 Waiting for Gemini to automatically generate a response or recommendation.
 The option is to insert a “copy recommendation” in the mail or otherwise.
-(https://assets-v2.circle.so/qv28gv4uekduahaxbecpled81ml)
+![](https://assets-v2.circle.so/qv28gv4uekduahaxbecplfed81ml)
 # In Android's cell phone, Gemini in Gmail:
 
 # # Step notes:
@@ -52,7 +52,7 @@ The Gemini panel will be ejected below the screen, and you can:
 
 ** (optional) Clear historical records**
 If you do not want to keep a chat record with Gemini, you can point the top right corner of the "Clean History".
-!" (https://assets-v2.circle.so/rzhtyoni0c4dylhqavfjueu4s)
+![](https://assets-v2.circle.so/rzhtyoni0c4dylhqaivfjueu4i4s)
 # Ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh
 
 - ** Your historical records won't be saved **
@@ -77,7 +77,7 @@ There's a Gemini icon next to the search box, click in.
 
 ** (optional) Clear historical records**
 Do you want to clear Gemini's logs? The top right corner of the "Clean History".
-!" (https://assets-v2.circle.so/j5uuzzdc45ivpvzmhrj7coog6sy0)
+![](https://assets-v2.circle.so/j5uuzzdc45ivpvzmhrj7coog6sy0)
 # Watch out for something:
 
 - ** Dialogue history will not be preserved**:

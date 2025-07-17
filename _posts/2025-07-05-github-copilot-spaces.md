@@ -12,7 +12,7 @@ icon: image
 GitHub introduces a new feature **Copilot Spaches**, which enhances Copilot's ability to understand the project context. This feature allows developers** to centrally manage the project context**, thus allowing GitHub Copilot to provide more **relevant and intelligent code advice and support**.
 Engineering teams often face a fundamental problem: ** Knowledge fragmentation**. Information such as codes, documents, design descriptions, development decisions etc. is spread across multiple locations (or within the brain of team members) to make it difficult for developers to move quickly to a project or to collaborate efficiently.
 **Copilot Spaches is designed to solve this problem. It provides more precise, relevant advice and support by ** constructing the context centre (context hub)** to give GitHub Copilot a deeper and systematic understanding of the project.
-!" (https://assets-v2.circle.so/lhncn2wqo6nz8dzla0dzla0w7xo9wwaa)
+![](https://assets-v2.circle.so/lhncn2wqo6nz8ddzla0w7xo9wwaa)
 # Core function
 
 # 1. ** Context perception: let Copilot understand "What are you doing"?**
@@ -26,7 +26,7 @@ Copilot Spaces allows you to combine the following elements in a "Space":
 
 - Custom Commands
 
-In this way (https://assets-v2.circle.so/2pbmx4i7bw384a4i9utmo5v44o28), Copilot is no longer “simple guessing” but, like an in-house developer who knows everything about the project, can answer:
+![](https://assets-v2.circle.so/2pbmx4i7bw384a4i9utmo5v44o28)这样，Copilot 不再“孤立地猜测”，而是像一个对项目了如指掌的内部开发者，能回答：
 
 - What does this module do?
 
@@ -57,7 +57,7 @@ You don't need to copy paste files, you just need to ** bind the warehouse**, Co
 - Keep an accurate understanding of the current state
 
 This ensures that Copilot always responds to questions on the basis of “up-to-date, real” projects.
-(https://assets-v2.circle.so/f5xvhuhqyj5irlrn0s91rk5wqsii)
+![](https://assets-v2.circle.so/f5xvhuhqyj5irlrn0s91rk5wqsii)
 # Billing and permission description
 
 - **Online**: Full opening since 4 June

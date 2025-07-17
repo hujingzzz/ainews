@@ -18,8 +18,8 @@ This trend suggests that even if computing resources are not as good as OpenAI, 
 # Here's the translation of its contents
 Artificial Analysis (@ArtificialAnlys) published on May 29:
 DeepSeek's R1 goes beyond xAI, Meta and Anthropic to become the world's second largest AI laboratory with Google, while sitting on the top of the open-source weight model.
-!" (https://assets-v2.Circle.so/78l5r9w5d3a67sk8v2jl9patritsnd) DeepSeek R1 0528 out of seven major assessments that we run independently, the score was raised from 60 to 68. This increase is equal to the difference between OpenAI ' s o1 and o3 (from 62 to 70).
-! (https://assets-v2.circle.so/npitb7r53ehu0c1q6gb1j5myzszk) This makes DeepSeek R1 smarter than xAI's Grok 3 Mini (high profile), NVIDIA's Llama Nemotron Ultra, Meta's Llama 4 Maverick, Qwen 3 253 in Alibaba and is equal to Google's Gemini 2.5 Pro.
+![](https://assets-v2.circle.so/78l5r9w5d3a67sk8v2jl9patrsnd)DeepSeek R1 0528 在我们独立运行的 7 项主要评估组成的 Artificial Analysis Intelligence Index 中得分从 60 提升至 68。这个涨幅相当于 OpenAI 的 o1 与 o3（从 62 到 70）之间的差距。
+![](https://assets-v2.circle.so/npitb7r53ehu0c1q6gb1j5myzszk)这使得 DeepSeek R1 智能水平高于 xAI 的 Grok 3 mini（高配版）、NVIDIA 的 Llama Nemotron Ultra、Meta 的 Llama 4 Maverick、阿里巴巴的 Qwen 3 253，并与 Google 的 Gemini 2.5 Pro 持平。
 ** The details of the model upgrades are as follows:**
 
 - Comprehensive upgrading of intelligence: this is particularly evident in AIME 2024 (competing mathematics, +21 points), LiveCodeBench (code generation, +15 points), GPQA Diamond (science reasoning, +10 points), Humanity's Last Exam (sense and knowledge, +6 points).
@@ -29,7 +29,7 @@ DeepSeek's R1 goes beyond xAI, Meta and Anthropic to become the world's second l
 - Significant increase in programming capacity: R1 is now at the same level as Gemini 2.5 Pro in the manual analysis of programming indices and lags behind only o4-mini (high match) and o3.
 
 - A significant increase in the use of Token: R1-0528 used 99 million tokens in the assessment, 40 per cent more than the original R1 71 million. That is, the new version, “Thougher Thinking.” This is still not the highest, but the number of tokens used by Gemini 2.5 Pro is 30 per cent more than R1-0528.
-(https://assets-v2.circle.so/e40vlyqua7rz62mco7417jynhaz1)
+![](https://assets-v2.circle.so/e40vlyqu7rz62meco7417jynhaz1)
 ** Some conclusions on AI:**
 
 - The gap between open-source and closed-source models has narrowed unprecedentedly: open-source weight models can still maintain smart growth comparable to proprietary models. DeepSeek R1 has returned to the same position since January, when he first took the second largest position in the world.
@@ -37,5 +37,5 @@ DeepSeek's R1 goes beyond xAI, Meta and Anthropic to become the world's second l
 -  The Chinese-American technological axiom: The model of the AI lab in China has almost evened the American counterpart. This release continues this trend again. DeepSeek is now leading the AI smartness index of Anthropic and Meta.
 
 - Strengthening learning for intellectual advancement: DeepSeek has demonstrated the critical role of RL in the reasoning model through training (especially intensive learning) without changing its structure and pre-training. OpenAI has expanded the RL by 10 times between o1 and o3, while DeepSeek has demonstrated its ability to keep up with this rhythm. The expansion of RL requires fewer computing resources, more efficient and more conducive to an AI laboratory with limited resources than pre-training.
-(https://assets-v2.circle.so/oi8dus0jw2vvfjgy2okw0cscff)
+![](https://assets-v2.circle.so/oi8dus0jw2vvfjgy2okw0c6cscff)
 Detailed report: https://artificialanalysis.ai/models/deepseek-r1/providers

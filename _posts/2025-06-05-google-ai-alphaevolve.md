@@ -48,7 +48,7 @@ It has been used in:
 It solved a problem that nobody had improved for more than 50 years -- how best to do the "4x4 Matrix Multiply." The old method took 49 times, and it found a new way to use only 48 times.
 
 # AlphaEvolve is fundamentally different from the previous AI system
-(https://assets-v2.circle.so/h2nns3bbkqxbdlgsr905q3mgz5xy)** General **:
+![](https://assets-v2.circle.so/h2nns3bbkqxbdlgsr905q3mgz5xy)**通用性**： 
 
 Unlike AlphaFold before DeepMind (for protein folding) or AlphaTensor (for matrix multiplying), AlphaEvolve is common AI and can be applied to any problem that can be expressed as code and can be evaluated automatically.
 
@@ -56,7 +56,7 @@ Unlike AlphaFold before DeepMind (for protein folding) or AlphaTensor (for matri
 
 # Detailed working mechanisms
 AlphaEvolve does not simply rely on a single language model to complete its task, but is a ** multi-component, multi-stage combined system** containing the following core modules:
-(https://assets-v2.circle.so/qtvapq4duz6hbd36utghclgpbi)
+![](https://assets-v2.circle.so/qtvapq4duz6hexbd36utghclgpbi)
 # System structure
 AlphaEvolve's overall process consists of multiple modules, which together construct a **Evoltic Automated Algorithm Design System**:
 **1. Input phase**
@@ -132,14 +132,14 @@ AlphaEvolve is no longer just studying prototypes, but is already ** deployed in
 - The problem of “grounding resources” has been resolved (e.g. depleted memory but CPU is still available).
 
 - Generated codes that are simple and human-readable to facilitate the calibration and deployment of engineers.
-!" (https://assets-v2.circle.so/j9nc9a8ewjzqd1miq145xkjb0817)
+![](https://assets-v2.circle.so/j9nc9a8ewjzqd1miq145xkjb0817)
 
 # AI Chip Design Synergy (Verilog Level)
 
 - Rewrite the Verilog level of a matrix Multiplication Circuit in Google TPU, remove redundancies and maintain functional correctness;
 
 - This proposal has been adopted into the future generation chip design process, resulting in significant savings in area and energy consumption.
-!" (https://assets-v2.circle.so/t1b7kmis84mjantvb6ttego7lzz8)
+![](https://assets-v2.circle.so/t1b7kmis84mjantvb6ttego7lzz8)
 
 # AI model training acceleration (including Gemini itself)
 
@@ -150,9 +150,9 @@ AlphaEvolve is no longer just studying prototypes, but is already ** deployed in
 # # Mathematics and algorithms found #
 
 - In 50 tests for mathematics questions (covering geometry, combination mathematics, etc.), AlphaEvolve recreated the best solution known in 75% of cases and found a new solution better than the one already solved in 20% of cases.
-!" (https://assets-v2.circle.so/xatol7vw96fyyo3u9puf852we)
+![](https://assets-v2.circle.so/xatol7vw96fyyyo3u9phpuf852we)
 - ** Contact ball problems**: In the 11-dimensional space, the lower limit of exposure (the number of non-overlapping units of sphere that can be simultaneously exposed to the central sphere) was raised from 592 to 593, breaking the existing record (upline 868).
-(https://assets-v2.circle.so/3qlxo3a8gljxk5ujnhnibwt6n3rp)
+![](https://assets-v2.circle.so/3qlxo3a8gljxk5ujnhnibwt6n3rp)
 - ** Matrix Multiply**: A more efficient 4x4 complex matrix multiplier than the 1969 Strassen algorithm was found, reducing the number of marker multipliers and increasing the computational efficiency.
 
 

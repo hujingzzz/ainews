@@ -49,7 +49,7 @@ Handoffs: task relay and transfer between multi-agents guardrails: behavioral se
 - The developers of the Web and Node.js ecosystems are more friendly.
 
 - Easy to integrate into JavaScript applications, such as browser-end voice assistants, web-smart customer service, etc.
-(https://assets-v2.circle.so/gdishg1qd400xq3406xlph17wgv)
+![](https://assets-v2.circle.so/gdishg1cqd400xq3406xlph17wgv)
 
 ##  2. Support for the Human Review** (Human-in-the-lop) mechanism**
 **Note**:
@@ -92,7 +92,7 @@ Tool Call (fundaction calling)
 - Allow developers to define voice agents like build text agents.
 
 - Create applications such as AI telephone service, voice search assistants, voice role playing, etc.
-!" (https://assets-v2.circle.so/80bug2ystk2lzhe9qr4531km9gyq)
+![](https://assets-v2.circle.so/80bug2ystk2lzhe9qr4531km9gyq)
 
 ## **4. Traces dashboard upgrade: support voice session visualization**
 **Note**:

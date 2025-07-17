@@ -18,7 +18,7 @@ The AI Notebook software Granola announced $43 million in round B financing, val
 - **Strategic vision**: Create Granola as an “intelligent collaborative platform based on a real-time business context” that not only supports work, but also supports thinking
 
 Granola 2.0 is not a mere meeting recording tool, but** integrates the meeting transcription, AI analysis and team knowledge management** and builds a ** “interactive conference knowledge system”**.
-(https://assets-v2.circle.so/wwp68vmgj1he55qu2llnuuh9cz) Its objective is to:** keep the daily dialogue in the organization from losing away, but be systematically captured, structured and used to support team decision-making and collaboration.**
+![](https://assets-v2.circle.so/wwp68vmgj1he55qu2llnuuh9cnxz)它的目标是：**让组织中每天发生的对话不再流失，而是被系统性捕捉、结构化整理，并用于支持团队决策和协作。**
 Could:
 
 - Auto-record the content of the meeting
@@ -39,7 +39,7 @@ Could:
 - The contents in the folder support full-text search dialogue with AI and access and query without the member having an account number
 
 - Retain references to all information and enhance transparency of information and the credibility of decision-making
-!" (https://assets-v2.circle.so/7boy3iwz58v5hqs58g3v9nuh72e)
+![](https://assets-v2.circle.so/7boey3iwz58v5hqs58g3v9nuh72e)
 Examples of scenarios: product managers can ask directly “What is the most recent user complaints function?” and the system automatically summarizes and identifies relevant session segments.
 
 ##2 Project collaboration folder: Agile response to important scenes
@@ -49,7 +49,7 @@ Examples of scenarios: product managers can ask directly “What is the most rec
 - Key business nodes applicable to financing preparation, release planning, customer follow-up, etc.
 
 - Full consistency of content seen by everyone, saving time for redundant communication and replication of paste
-!" (https://assets-v2.circle.so/wvsus96h5f8wvlllddlkn0jgq25)
+![](https://assets-v2.circle.so/wvsus96h5f8wvlhlcddlkn0jgq25)
 
 #3 “Dialogue-type” knowledge analysis: an intelligent cross-chamber question-and-answer session
 
@@ -58,7 +58,7 @@ Examples of scenarios: product managers can ask directly “What is the most rec
 - The answer is linked to the context and can be transferred directly to the original dialogue position of the meeting
 
 - Roles (e.g. products, sales, recruitment, etc.) that need to identify trends, summarize patterns from multiple meetings
-!" (https://assets-v2.circle.so/7i0xwfs9ck6aotqdgmaeeap5n1j)
+![](https://assets-v2.circle.so/7i0xwfs9ck6aotqtdgmaeeap5n1j)
 
 ##4 Multi-model support: reasoning is of higher quality and can switch autonomously
 
@@ -67,7 +67,7 @@ Examples of scenarios: product managers can ask directly “What is the most rec
 - Users can select models depending on the nature of the task, or they can authorize Granola to choose the best automatically
 
 - Increased capacity for integration and reasoning of ** multi-session content** and improved accuracy of analysis of complex issues
-(https://assets-v2.circle.so/473ev6if023tn3ew56tkwrbqswxr)
+![](https://assets-v2.circle.so/473ev6if023tn3ew56tkwrbqswxr)
 
 ##5 Enterprise-level directory browsing: Increased teamwork across teams
 
@@ -91,11 +91,11 @@ Brief summary
 - “Linkable dialogue session”
 
 Even if members do not use Granola, they can keep abreast of the outcome of the meeting and engage in further collaboration
-(https://assets-v2.circle.so/8ezb7znajr19bkixkzhba2kn4l0)
+![](https://assets-v2.circle.so/8ezb7znaajr19bkixkzhba2kn4l0)
 ##8 Template start support: Quick-starter harmonized collaborative processes
 
 - Provide predefined templates such as “user interview” “sale cycle” “interview process”
 
 - Includes structure, permission configuration and AI dialogue tips, which can be used efficiently by the team on the first day
-!" (https://assets-v2.circle.so/8e5worldxkrmi8xami4bwbmrgj79ol)
+![](https://assets-v2.circle.so/8e5wolxkrmi8xami4bwbmrgj79ol)
 Website: https://www.granola.ai/

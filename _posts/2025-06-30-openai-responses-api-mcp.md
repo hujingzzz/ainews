@@ -12,7 +12,7 @@ icon: web
 OpenAI announced a major functional extension of **Responses API** to open up more modular capabilities to developers, making AI applications to construct multi-model, complex task chains easier, more manageable and stronger.
 Responses API is used mainly for **building intelligent applications, i.e. intelligent applications with the ability to "think for themselves + call for tools".
 ** What's the difference between it and the tradition ChatGPT API?**
-(https://assets-v2.circle.so/8ugtnecd6as5d6n7fuyln3hbxkvl)
+![](https://assets-v2.circle.so/8ugtnecd6as5d6n7fuyln3hbxkvl)
 # What can it do?
 ** Basic function**
 
@@ -63,7 +63,7 @@ You just call the API once, it'll automatically phase out all the tasks.
 - OpenAI also joined MCP's steering committee to push the deal forward.
 
 - MCP suppliers supported include: Cloudflare, Stripe, Twilio, Shopify, PayPal, Zapier, etc.
-_ (https://assets-v2.circle.so/d8ahy7o3kc02n7qgjkvekmk08flf) _ (https://assets-v2.circle.so/kvuse3ufh4ro1kyr16xukbw133d)
+![](https://assets-v2.circle.so/d8ahy7o3kc02n7qgjcvekmm08flf)![](https://assets-v2.circle.so/kvuse3uufh4ro1kyr16xukbw133d)
 
 ##2.  ** Image Generations Access Responses API**
 
@@ -114,5 +114,5 @@ View file search examples
 - **Encryped Reasoning Items** allows cross-requesting re-use of reasoning in ZDR (Zero Data Retion)
 
 # Prices and availability
-[] (https://assets-v2.Circle.so/5d3nio1529mzyc1mvy8wlya65rlw) support models: GPS-4o series, GPS-4.1 series, OpenAI o1/ o3/o4-mini series. Image generation functions are supported only in o3.
+![](https://assets-v2.circle.so/5d3nio1529mzyc1mvy8wlya65rlw)支持模型：GPT-4o 系列、GPT-4.1 系列、OpenAI o1/o3/o4-mini 系列。图像生成功能仅在 o3 中支持。
 Official presentation: https://openai.com/index/new-tools-and-features-in-the-responses-api/

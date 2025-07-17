@@ -20,15 +20,15 @@ Mistral AI announced the launch of its first linguistic model focused on reasoni
 - ** Lack of chain-based thinking support (Chain-of-thought, COT)** which makes complex issues difficult to solve.
 
 Magistral is trying to construct an AI that “** can think like humans**” - with the ability to be structured, verifiable and progressively reasoned, while supporting multilingual use.
-(https://assets-v2.circle.so/1ktkb1h1bolve7kykg6lziw7jov1)** Model version**
+![](https://assets-v2.circle.so/1ktkb1h1bolve7kykg6lziw7jov1)**模型版本**
 
 - Open source version of the **Magistral Small**:24B parameter (Apache 2.0 protocol), which can be downloaded on Hugging Face.
 
 - **Magistral Media**: A more powerful version of the business, accessible through Le Chat, La Plateforme API, Amazon SageMaker, will be on line in the future, IBM WatsonX, Azure AI and Google Cloud.
-!" (https://assets-v2.circle.so/d9isxzj5h8mg9stwlq2byyztu1hv)
+![](https://assets-v2.circle.so/d9isxzj5h8mg9stwlq2byyztu1hv)
 Most votes (majority voting @64) provide the most consistent answer through multiple generation versions, indicating the ability to balance diversity and consistency.
 The Medium model achieved an accuracy rate of **90 per cent**, close to the level of the top closed-source model GPT-4 Turbo, particularly in professional assignments.
-!" (https://assets-v2.circle.so/n8dfxejaje6qu3aic4d6fkane9)
+![](https://assets-v2.circle.so/n8dfxejaje6qu3aic4d6o4fkane9)
 - Distinguished in the context of ** complex logical tasks, cross-cutting questions and answers, and interpretible reasoning**;
 
 - Operationalization in ** professional scenes (law, science and technology, academia)**;
@@ -89,6 +89,6 @@ You should first show inner monologue and give a clear summary of the answer.
 Your answer must be in the same language as the user.
 Please use Markdown format for output.
 # Apply recommended scenes
-(https://assets-v2.circle.so/sfrhxje1qvzfh4rdqxk11zeym1k)
+![](https://assets-v2.circle.so/sfrhxje1qvzfh4rdqcxk11zeym1k)官方介绍：https://mistral.ai/news/magistral
 Model downloads: https://huggingface.co/mistralai/Magistral-Small-2506
 Online experience: https://chat.mistral.ai/chat

@@ -23,7 +23,7 @@ The latest Gemini 2.5 Pro model has made significant progress in several authori
 
 - At the same time, the highest levels are shown in rigorous comprehensive assessments, such as **GPQA** and **Humanity's Last Exam (HLE)**, which mainly examine the capabilities of the models in the fields of mathematics, science, common sense and reasoning**.
 
-[x] (https://assets-v2.circle.so/drllippcjmppgb3h6k9iukyujl][x] (https://assets-v2.circle.so/xjse0mvpj45vvp7w8abqf4xa7lx]
+![](https://assets-v2.circle.so/drlliplpcjmppqgb3h6k9iukyujl)![](https://assets-v2.circle.so/xjse0mvpj45lcvp7w8abqf4xa7lx)
 - **LMARENA I)
 
 - ** Web programming and front-end development capability** (WebDevArena I)
@@ -57,4 +57,4 @@ The developers now have access to Gemini 2.5 Pro in two ways:
 **Google AI Studio**
 **Vertex AI (Google Cloud)**
 Gemini 2.5 Pro integrated **Gemini application (Android / iOS / Web)**
-(https://assets-v2.circle.so/x6a3ob35ljvtttoygqkki9wpdvjb)
+![](https://assets-v2.circle.so/x6a3ob35ljvpttoygqgki9wpdvjb)

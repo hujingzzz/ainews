@@ -16,7 +16,7 @@ It is the first preview of the model architecture optimized for mobile devices**
 
 - Support of patterns: text, images, audio (voice recognition and translation), video (to be opened)
 
-!" (https://assets-v2.circle.so/hnczcohntm5qbb9qlgslbwgln)
+![](https://assets-v2.circle.so/hnczcohntm5qbb9qlgsrlcbwgcln)
 # Core bright spot function (compatibility of performance, efficiency and privacy)
 
 # # 1. Extremely light and quick response
@@ -57,10 +57,10 @@ Mobile hardware platforms such as Qualcomm, MediaTek, Samsung, etc.
 
 # Multi-module capacity has increased
 Gemma 3n is one of the most advanced currently Google **movable multimodule open source models** and its range of support includes:
-(https://assets-v2.circle.so/cpksy3sc0xplnt493agu9jpuq523)
+![](https://assets-v2.circle.so/cpksy3sc0xplnt493agu9jpuq523)
 # Model use: building the next generation of "accidental intelligence experience"
 Expected application scenario
-!" (https://assets-v2.circle.so/g7c93o6x5jnbec10e85xlig94a8f)
+![](https://assets-v2.circle.so/g7c93o6x5jnbec10e85xlig94a8f)
 # How's it going?
 Natural language mission**
 Google describes its model as “high ahead” in Chatbot Arena’s ranking, and in the user preference rating:
@@ -77,8 +77,8 @@ Google describes its model as “high ahead” in Chatbot Arena’s ranking, and
 
 - This suggests that it is superior to many Western-led models in terms of the adaptability of international markets.
 
-(https://assets-v2.circle.so/q3gqwbs882gpmx3zb9py5cjm05n7)** compared to the same model**
-(https://assets-v2.circle.so/m7wgcgosr55t605rfggtwzbn1x93)
+![](https://assets-v2.circle.so/q3gqwbs882gpmx3zb9py5cjm05n7)**与同类模型对比**
+![](https://assets-v2.circle.so/m7wgcgosr55t605rfggtwzbn1x93)
 # Core technical detail
 One of the key technical bright spots for Gemma 3n is ** a significant reduction in memory occupancy while running**, which is achieved in three ways:
 
@@ -135,7 +135,7 @@ This structure has the following advantages:
 
 - Improve energy consumption control capabilities and adapt to high-end low-end equipment.
 
-!" (https://assets-v2.circle.so/feusty2yr9s1s7qcz5dzvsw6tmy9)
+![](https://assets-v2.circle.so/feusty2yr9s1s7qcz5dzvsw6tmy9)
 # How to use Gemma 3n?
 Google has opened up two ways for different groups of people:
 Mode I: **AI Studio (web version)**

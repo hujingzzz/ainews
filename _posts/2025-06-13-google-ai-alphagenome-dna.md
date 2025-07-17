@@ -19,7 +19,7 @@ We know:
 
 AlphaGenome is a new AI model that aims to predict more accurately and comprehensively the effects of individual DNA variations on genetic regulation processes, with particular attention to the regulatory function of non-coded areas (98 per cent of the genome).
 ** It provides a more accurate picture of the functioning of these non-coded areas and their performance in different cells, as well as the possible consequences of variation**
-!" (https://assets-v2.circle.so/k10qs8x4lxf6x4905802yz2cq8eb) You can imagine it as a "genetic control radar" capable of scanning millions of DNA sequences and telling you:
+![](https://assets-v2.circle.so/k10qs8x4lxf6x4905802yz2cq8eb)你可以想象它像一个 “基因调控雷达”，能扫描百万级别的DNA序列，告诉你：
 
 - Does a mutation cause an accidental activation of a cancer gene?
 
@@ -68,7 +68,7 @@ These include:
 - ** Efficient training**: Using TPU clusters, it takes only 4 hours to calculate half of the resources from the previous Enformer
 
 AlphaGenome uses advanced technology in several AI fields:
-(https://assets-v2.circle.so/xo0mz5avlik88bsflzzrp6m3jrin)** Model performance and validation**
+![](https://assets-v2.circle.so/xo0mz5avlik88bsflzzrp6m3jrin)**模型表现与验证**
 
 - Of the 24 DNA sequence prediction missions,** AlphaGenome exceeded the current optimal model by 22**;
 
@@ -77,7 +77,7 @@ AlphaGenome uses advanced technology in several AI fields:
 - A model for the first single model for all predictive models;
 
 - Support for **API call** to provide scientists with the capability to predict trans-modular integration.
-!" (https://assets-v2.circle.so/sapyrb9qm11yjrlsww123wduz2b)
+![](https://assets-v2.circle.so/sapyrb9qm11yjqrlsww123wduz2b)
 
 # Practical application scene
 AlphaGenome is not just a theoretical tool, it has a strong application value:
@@ -98,7 +98,7 @@ AlphaGenome is not just a theoretical tool, it has a strong application value:
 
 # Why is it a breakthrough?
 It addresses several key constraints:
-AlphaGenome (https://assets-v2.circle.so/9jncqcluw5uuxrvcp2zjawyeit10) out of 24 prediction missions, 22 are above current best models and feature prominently in variant predictions.
+![](https://assets-v2.circle.so/9jncqcluw5uuxrvcp2zjawyeit10)AlphaGenome 在 24 个预测任务中有 22 个超越当前最佳模型，在变异效应预测上也表现突出。
 
 # Limits and future development
 Despite the remarkable progress made, AlphaGenome is not "one-size-fits-all":

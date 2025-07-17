@@ -83,7 +83,7 @@ The high quality of the output** prompted the team to change its strategic direc
 - “Direct action type” tasks (e.g. SQL queries) may not be as flexible as basic models.
 
 # Model comparison: different from the same model
-!" (https://assets-v2.circle.so/k0oefebl4utvowv1p19jp80dmyid)
+![](https://assets-v2.circle.so/k0oefebl4utvowv1p19jp80dmyid)
 # OpenAI's walking vertically reinforced learning path
 
 - OpenAI not only teaches the model "How to Call Tools" but also "When to Call Tools";
@@ -118,7 +118,7 @@ This post is part of our special coverage Egypt Protests 2011.
 As stated in Leakage, OpenAI has today reduced the price of o3 by **80%** (from $10/$40 per million token to $2/$8 — equal to GPT-4.1!) to pave the way for the introduction of **o3-pro** ($20/$80), which supports an unverified community theory that the pro variant is a 10-fold call for the base model and uses a majority voting mechanism (referred to in the OpenAI paper and in our Chai programme).
 O3-Pro defeated o3 in human tests with **64% ** and slightly outnumbered 4 reliability benchmark tests. But, as Sam Altman pointed out, the actual experience becomes real when you test it in a "different way" .
 In the past week, I've gained an early access to o3 pro. Here are some of my (early) thoughts:
-(https://assets-v2.circle.so/1tcuzssoggjxr9qk0pf55qlhis8)
+![](https://assets-v2.circle.so/1ttcuzssoggjxr9qk0pf55qlhis8)
 # It's the era of mission-specific models.
 On the one hand, we have "normal" models like GPT-3.5 Sonnet and GPT-4o -- talking like friends, helping us write, answering everyday questions.
 On the other hand, we have the large, slow, expensive and intellectually motivated models that specialize in in-depth analysis, one-off solutions to complex problems and explore purely intelligent boundaries.
@@ -163,14 +163,14 @@ O3 Pro really jumped into this:
 
 # o3 pro (left) vs o3 (right):
 The o3 pro on the left is clearly stronger in understanding where he is.
-!" (https://assets-v2.circle.so/q9mcubstrvot607cpygfvk3er)
+![](https://assets-v2.circle.so/q9mcuubsttrmvot607cpygfvk3er)
 # From early use:
 If you don't give it a context, it'll have a tendency to think too much.
 It is good at analysing and using tools, but it is not good at doing it directly**.
 I think it's an excellent “organizer”.
 For example, there are some Clickhouse SQL problems, o3 doing better than o3Pro.
 The results may vary from one person to another.
-(https://assets-v2.circle.so/fwq5yja3sl3sj14n236vqk7pxelg)
+![](https://assets-v2.circle.so/fwq5yja3sl3sj14n236vqk7pxelg)
 The difference between #o3Pro and Opus, Gemini 2.5 Pro:
 
 - Claude Opus looked "very strong," but never showed me evidence of it.

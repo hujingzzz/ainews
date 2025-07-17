@@ -24,7 +24,7 @@ It is currently being launched in the form of an “AI Mode experiment” among 
 
 - Presenting links to relevant web pages** for further browsing;
 
-!" (https://assets-v2.circle.so/77qt7jogrlw97j8aqfwy71gndqei)
+![](https://assets-v2.circle.so/77qt7jogrlw97j8aqfwy71gndqei)
 Example scene: How do you use it in reality?
 ** When packing, **: "How do I take the saliva to be unwrinkled?" ** AI directs the voice response and gives the web link.
 ** When I was cooking **: "What's the quickest way to go with the tomatoes and the eggs in the fridge?" ** Cooking and listening to advice and reading the recipe page.

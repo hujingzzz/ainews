@@ -26,7 +26,7 @@ Jules is not just giving you advice, but ** carrying out the full development ta
 - Provide audio changelog
 
 # Six key features of Jules
-!" (https://assets-v2.circle.so/me9jkesuw292h6fo3mgi3boqfoim)
+![](https://assets-v2.circle.so/me9jkesuw292h6fo3mgi3boqfoim)
 # 1.  ** Real code library processing**
 
 - ** Unlike sandbox tools**, Jules has access to existing real projects, read the global context, cross-document/module architecture, dependency and logical structure;
@@ -38,28 +38,28 @@ Jules is not just giving you advice, but ** carrying out the full development ta
 - All tasks run on Google Cloud VM;
 
 - Support** for parallel execution of multiple requests** and significant acceleration of multitask processing, applicable to the CI/CD, re-engineering, etc. heavy load process.
-!" (https://assets-v2.circle.so/wyououl0oxk38phzwo7tln0tvkbq17)
+![](https://assets-v2.circle.so/wyoul0oxk38phzwo7tln0tvkbq17)
 
 #3.  ** Visualized workflow**
 
 - Prior to implementation, Jules will present the developers with his plan (the logic of the plan + the reason for the change);
 
 - Users may first assess their operational motives to ensure that the quality of the code is not affected by “black box decision-making”.
-(https://assets-v2.circle.so/hjmf5woud54chstuxif1p9wv06zi)
+![](https://assets-v2.circle.so/hjmf5woud54chstuxif1p9wv06zi)
 
 ## 4.  **GitHub seamlessly**
 
 - Jules is embedded in the GitHub workflow and does not require platform login or additional configuration;
 
 - can trigger AI assistant operations directly against the context of PR, committee, issue etc.
-!" (https://assets-v2.circle.so/l9j3dj9gv4izrm8fo8g9h3v77bwi)
+![](https://assets-v2.circle.so/l9j3dj9gv4izrm8fo8g9h3v77bwi)
 
 #5. **User Steelability**
 
 - Developers may ** freely adjust the content, modalities or results of the implementation of AI in the pre-medium and post-stages**;
 
 - Ensure that the ownership of the code remains in human hands and meets the needs of team compliance/review.
-!" (https://assets-v2.circle.so/ddagzgzbt9lt41kawg49uk3xundt)
+![](https://assets-v2.circle.so/ddagzgzbt9lt41kawg49uk3xundt)
 
 #6.  **Audio Summeries**
 

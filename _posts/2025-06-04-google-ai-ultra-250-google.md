@@ -17,7 +17,7 @@ The program not only provides early and complete access to Google's strongest AI
 - ** Price**: $249.99/month (five discounts for the first three months)
 
 - **Region**: currently limited to the United States and will be extended to more countries in the future
-!" (https://assets-v2.circle.so/iygyphxorgvb59synsyih0uob5m)
+![](https://assets-v2.circle.so/iygyphxorgmvb59synsyih0uob5m)
 
 # The core rights are explained #
 1. **Gemini 2.5 Pro: top AI model access**
@@ -67,7 +67,7 @@ The program not only provides early and complete access to Google's strongest AI
 - Users can schedule all tasks in a single dashboard and view the execution status.
 
 # Accompanying service interests
-(https://assets-v2.circle.so/jcios36c8jtv15hwfrmwjfdonfm)
+![](https://assets-v2.circle.so/jcios36c8jtv15hwvfrmwjfdonfm)
 # I'll be right back #
 
 - ** Former AI Premium changed its name to Google AI Pro**;

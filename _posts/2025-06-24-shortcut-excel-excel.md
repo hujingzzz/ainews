@@ -30,9 +30,9 @@ It solves the case of Excel and the Financial Model World Cup at ten times the s
 Shortcut functions are almost identical to Excel, and you can open existing Excel files to operate or export them, and you can do most of the work with one key and then come back to see the results.
 
 # Main function
-(https://assets-v2.circle.so/3d6kdcnj74ko3j6mi 700xambx)
+![](https://assets-v2.circle.so/3d6kdkcnj74ko3j6xmi700x5ambx)
 # Compared to the traditional Excel usage
-!" (https://assets-v2.circle.so/u0gpaocurz5thhobj60x62d1zuv39)
+![](https://assets-v2.circle.so/u0gpaocurz5thobj60x62d1zuv39)
 # Use process
 Step 1: Entering the interface
 Access tryshortcut.ai
@@ -65,4 +65,4 @@ You see the table changes instantaneously, the calculations are complete, the ch
 # Case:
 Shortcut was able to complete a full day of work by professional lawyers in less than 10 minutes, cleaning, editing and analysing data faster than humans.
 By analysing 5,000 rows of CSV data from all Y Combinator companies, it not only quickly provided insights, but also created charts and dashboards. Research shows that most companies are still operating, mainly B2B, but consumer markets are more successful. Shortcut is now up to 80% of human work on Excel, and its capacity is constantly improving.
-See https://assets-v2.circle.so/vlvt1bs0b2a6kbnsapqdzhh7pvs: https://www.tryshortcut.ai/shortcut?file-id=1751519340590-yc-companies.xx
+![](https://assets-v2.circle.so/vlvt1bs0b2a6kbnsapqdzkhh7pvs)案例查看：https://www.tryshortcut.ai/shortcut?file-id=1751519340590-yc-companies.xlsx

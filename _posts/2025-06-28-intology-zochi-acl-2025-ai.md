@@ -10,7 +10,7 @@ icon: note
 {:toc}
 
 AI Research announced that the system of “ artificial scientists” developed by them **Zochi**,** has been independently completed from topic selection to experiment to complete scientific process of writing and contributing** and that its results - a research paper on multiple rounds of escape attacks - have been officially accepted by the ACL 2025 conference**.
-The incident (https://assets-v2.circle.so/iqmhe8bzdwazhi1fva62l5wmw47wwwwwwwwww) is not only a technological breakthrough in the automation of scientific research, but is more likely to be a turning point in the scientific paradigm**: artificial intelligence can not only “assist” in scientific research,** it has “leaded” scientific research**.
+![](https://assets-v2.circle.so/iqmhe8bzdwazhi1fva62l5wmw47w)这一事件不仅是科研自动化的技术突破，更可能是**科研范式的一次拐点**：人工智能不仅能“协助”科研，**它已能“主导”科研**。
 
 - **Zochi is a system of artificial scientists developed by Intology** and became the first AI system** to adopt the ACL draft autonomously**.
 
@@ -58,7 +58,7 @@ Zochi is not a non-traditional “AI assistant” but an independent agent (agen
 
 - Zochi is not listed as author, only uses the system in the thanks component
 
-(https://assets-v2.circle.so/ga5fk65ft02jnnwmr2vwnnqzmx)
+![](https://assets-v2.circle.so/ga5fk65ft02jnnwhmr2vwnnqzxmx)
 # Overview of the contents of this published paper (ACL 2025)
 
 # # Thesis title:
@@ -69,10 +69,10 @@ How to design a more efficient ** multi-cycle escape method (multi-turn Jailbrea
 
 ## Method: Tempest (tree search + dialogue optimization)
 Zochi proposed a new approach called **Tempest**:
-(https://assets-v2.circle.so/78gmhdgixby1g8cuzpenr85iymg5)  In short, Tempest “closing” the security limitations of the language model with multiple stages of questioning is more effective than the traditional “one-word attack” .
+![](https://assets-v2.circle.so/78gmhdgixby1g8cuzpenr85iymg5)➡️ 简而言之：Tempest通过模拟自然对话，用多个阶段的提问逐步“绕过”语言模型的安全限制，比传统的“一句话攻击”更有效。
 
 # The results of the experiment:
-(https://assets-v2.circle.so/7d9yic8cy0k9x2533oigczvhnga0)
+![](https://assets-v2.circle.so/7d9yic8cy0k9x2533oigczvhnga0)
 - Tempest is not only more successful** but also less efficient** using fewer queries;
 
 - Experimental methods are complete and rigorous and include comparison experiments, digestion experiments and multi-model tests.
@@ -86,7 +86,7 @@ Zochi proposed a new approach called **Tempest**:
 - The provision of a methodological framework to help design stronger defence mechanisms.
 
 **Paper:**https://arxiv.org/pdf/2503.10619** dissertations:**https://arxiv.org/pdf/2503.10619
-!" (https://assets-v2.circle.so/spqj223r60mdz8w215snmzqwg39b)
+![](https://assets-v2.circle.so/spqj223r60mdz8w215snmzqwg39b)
 # Why is this a landmark breakthrough?
 ** For the first time, AI independently adopted the A* conference manuscript**
 

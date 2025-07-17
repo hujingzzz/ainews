@@ -67,7 +67,7 @@ In the area of image generation, Google has launched an upgraded model **Imagen 
 - The visual performance of people ' s faces, clothing textures, background drawings, etc. have reached new heights.
 
 Imogen 4 is now open for free use by all Gemini users and allows for high-quality image creation without subscription.
-<[https://assets-v2.circle.so/hpj1anz8lcsjb3wka0hav3opssvv5] [https://assets-v2.circle.so/dm2q7t27e3urnxk0c4sipv34ksl7] [https://assets-v2.circle.so/iz5vx7j7zblgsc5xlg6gelu28dea] [https://assets-v2.circle.so/ql7bmtx4qvbw38gbua9b8sphbs]
+![](https://assets-v2.circle.so/hpj1anz8lcsjb3wka0hav3opssv5)![](https://assets-v2.circle.so/dm2q7t27e3urnxk0c4sipv34ksl7)![](https://assets-v2.circle.so/iz5vx7j7zblgsc5xlg6gelu28dea)![](https://assets-v2.circle.so/ql7bmtx4qvbw38gfbbua9b8sphbs)
 # **VII, Veo 3: Toward film-grade video generation**
 In addition to the images, Google has released a completely new video-generation model **Veo 3**:
 
@@ -92,7 +92,7 @@ Higher frequency of use and context length
 - Testing of state-of-the-art models such as Veo 3, Imagen 4 in advance
 
 Ultra clearly shows the ambition of Google at the high end of the AI market against the pro-paying user of ChatGPT of OpenAI.
-!" (https://assets-v2.circle.so/tjprijy4o1yt70vxlg2y93lp1z1x)
+![](https://assets-v2.circle.so/tjprijy4o1yt70vxlg2y93lp1z1x)
 # **Gemini is becoming an "AI operating system"**
 This Google Gemini upgrade is no longer limited to talking questions and answers or web helpers, but is moving towards a comprehensive integration of vision, language, content, tools, behavioral “AI at work”.
 Gemini not only “to answer questions”, but also “to deal with tasks”, “to integrate context”, “to produce results”, “to make recommendations” may become “AI executives” in personal work streams in the future.

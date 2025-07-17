@@ -24,7 +24,7 @@ Android XR smart glasses do.
 - Integration with Gemini, real visual assistant.
 
 Google demonstrated at the I/O Congress **the realistic use of Android XR devices**, covering the following capabilities:
-(https://assets-v2.circle.so/6rfq2nt67ub4pa5bf6z4c2nc6)
+![](https://assets-v2.circle.so/6rfq2nt67ub4pa4se5bf6z4c2nc6)实时翻译
 Map Navigator
 Real-time access to information and responses
 Photos and videos
@@ -43,4 +43,4 @@ Google also disclosed the key hardware specifications of the current prototype o
 -  ** Working with mobile phones**: The glasses themselves are not stand-alone equipment, and data processing and display are separated by pairing Bluetooth/Wi-Fi with Android mobile phones.
 
 To ensure that glasses are fashionable and wearable, Google is working with several brands:
-!" (https://assets-v2.circle.so/9wj1custf3udt3dge3173an459m)
+![](https://assets-v2.circle.so/9wj1custf3udxt3dge3173an459m)

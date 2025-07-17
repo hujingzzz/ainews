@@ -35,7 +35,7 @@ With Gemini, Google can build ** more intelligent, interactive and contextually 
 - Focus on the application scene. Let's do it now.
 
 - contributes to the development of language-reaction habits**
-!" (https://assets-v2.circle.so/5fn7myjc6chx2anx7ljz8kjgchl)
+![](https://assets-v2.circle.so/5fn7myjc6chx2anx7ljz8kjjgchl)
 
 #2 Slang Hang - Learn tunnels and slang
 ** Function**: Generates ** Simulation dialogue in real context** to help you master slang and oral expression, such as: “Th's lit!” (I'm down for it.)
@@ -46,7 +46,7 @@ With Gemini, Google can build ** more intelligent, interactive and contextually 
 - Studying non-textual expressions
 
 - Upgrades of hearing and natural expression
-!" (https://assets-v2.circle.so/pzy38vx15qrl2myfzvfudbvoy165)
+![](https://assets-v2.circle.so/pzy38vx15qrl2myfzvfudbvoy165)
 
 #3 Word Cam - Use camera word recognition tool
 **Function**: Open cell phone cameras, target the item and the system will immediately identify and provide the foreign language name and related usage of the item.
@@ -63,7 +63,7 @@ With Gemini, Google can build ** more intelligent, interactive and contextually 
 - Fits for visual learners.
 
 - To strengthen the connection between a word's memory and life.
-(https://assets-v2.circle.so/1rnfngicjw2xtckccdc6zf7mfkfz)
+![](https://assets-v2.circle.so/1rnfngicjw2xtckccdc6zf7mfkfz)
 
 # Ideas: supplement traditional learning, not substitute
 Google made it clear that “Little Language Lessons” is not a substitute for textbooks or systems, but rather:
@@ -91,7 +91,7 @@ Particularly suitable for “** non-compulsory learning**” or “** interest-d
 
 # Let's wrap it up and say:
 Little Language Lessons, through Gemini AI, has made language learning lighter, more interesting and more up-to-date, and has made it possible for "every coffee, text, photo" to become a learning opportunity.
-!" (https://assets-v2.circle.so/5y3gszjpj0jvsoegr8emo5frkgy6)
+![](https://assets-v2.circle.so/5y3gszjpj0jvsoegr8emo5frkgy6)
 # How did Little Language Lessons do it?
 A pilot system for personalized language learning based on the Gemini model
 ** The original purpose of the project is to make language learning “situative, practical” as a programming exercise**

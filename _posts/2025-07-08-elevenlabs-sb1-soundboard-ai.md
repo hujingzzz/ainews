@@ -32,7 +32,7 @@ The user can generate sound effects through a description of the text, for examp
 - Support for multilingual descriptions, including in English, Japanese (e.g., “synthetic linguization”) and so on, which enhances the accessibility of users worldwide.
 
 - Sound generated can be played in real time, looped or saved as preset to facilitate reuse.
-!" (https://assets-v2.circle.so/06st8cd6923a18i13opwh9kuayzy)
+![](https://assets-v2.circle.so/06st8cd6923a18i13opwh9kuayzy)
 - **Advantages:**
 There is no need for manual search for materials;
 
@@ -49,7 +49,7 @@ There is no need for manual search for materials;
 - **Round and edit**: Sound can be continuously played by switching loop buttons and overlaying existing sound through editing buttons to generate new custom effects.
 
 - Support the simultaneous play of multiple audio effects suitable for stacking or grouping; for example, you can put "rain" and "wind" and "birds" on different buttons, trigger one key, and create a forest climate.
-(https://assets-v2.circle.so/sghql05fi0p46rv8xq40xkt9fem)
+![](https://assets-v2.circle.so/sghql05fi0p46rv8xeq40xkt9fem)
 ** Drummers and environmental noise generation**
 
 - SB-1 is not limited to a single sound, but can also generate rhythm drums (drum machine) and persistent environmental sound (e.g. white noise, forest sound) as ideal tools for music production or video sounding.
@@ -69,7 +69,7 @@ Environmental class (Ambient): sound of rain, thunder, flame, wind, bug, etc.;
 - Animals (Animals): Dogs, cats, birds, etc.
 
 ** Custom Presets**: You personally upload, edit or use an AI-generated exclusive sound library that can be named and grouped to facilitate management and call.
-(https://assets-v2.circle.so/n54odhvhagfg3xy56erf8n93gm)**
+![](https://assets-v2.circle.so/n54odhvhagcfg3xyy56erf8n93gm)**跨平台兼容性**
 
 - SB-1 compatible with a variety of platforms and software, including Discord, Zoom, TeamSpeak, CS: GO, Fortnité, Valorant, etc., suitable for play, chat and content creation.
 

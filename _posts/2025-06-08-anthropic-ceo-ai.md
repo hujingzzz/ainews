@@ -99,7 +99,7 @@ Automatically programmed, read and explained long documents
 Mark Zuckerberg (Meta) predicts that since 2025 a large number of mid-level engineer posts will be replaced by AI Agent.**
 
 # Reality proof: Retrenchment has started
-!" (https://assets-v2.circle.so/fdsnyg9uewro0lccjccaf0le90ph) Before approving the new post, some companies have asked managers to state: “Why can't this post be done by AI?”
+![](https://assets-v2.circle.so/fdsnyg9uewro0lccjccaf0le90ph)一些公司在批准新岗位前，已经要求管理者说明：“为什么这个岗位不能由AI来做？”
 
 # White collar "occupational path" fault risk
 Aneesh Raman (LinkedIn Economist) writes:
@@ -193,7 +193,7 @@ Most Americans are indifferent to the power of AI and its threats. It's also hap
 ** Then,** Almost overnight, corporate leaders saw the cost advantage of replacing labour with AI, leading to large-scale action: to stop new jobs, to stop replacing separated staff, and then to replace humanity with proxy (agents) or related automation programmes.
 
 - The public will only notice when it is too late.
-(https://assets-v2.circle.so/si7g9k45t0an01jbgpf33526bv8a)
+![](https://assets-v2.circle.so/si7g9k45t0an01jbgpf33526bv8a)
 Anthropic CEO Dario Amodei released the Claude 4 model at the company's first developers' congress in San Francisco last week. Photo: Don Feria/ AP for Anthropic
 ** On the other side:** Amodei left OpenAI and founded Anthropic; he was Vice-President of Research at OpenAI. His former boss, OpenAI CEO Sam Altman, gave realistic optimism based on the history of technology.
 

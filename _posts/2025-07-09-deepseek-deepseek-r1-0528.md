@@ -16,7 +16,7 @@ DeepSeek released **DeepSeek R1-0528 update,** which was communicated last night
 # 1. Increased ability to think in depth
 DeepSeek-R1-0528 Still uses the DeepSeek V3 Base model, published in December 2024, as the base, but has invested more in the subsequent training and has significantly increased the depth of thinking and reasoning of the model.
 The updated R1 model has achieved the highest performance of all current models in the country in several baseline assessments, such as mathematics, programming and common logic, and is close to other international best models in overall performance, such as o3 and Gemini-2.5-Pro.
-(https://assets-v2.circle.so/vuglp8rxg0u64wag0atvqle7cbo)
+![](https://assets-v2.circle.so/vuglp8rxg0u64wag0atpvqle7cbo)
 - ** Technical background**: Although still based on DeepSeek V3 Base, significant enhancement of the model in the reasoning chain** was achieved this time through arithmetic resource input in the post-enhanced training process.
 
 - **AIME 2025 Results of the evaluation**:
@@ -38,7 +38,7 @@ Qwen3-8B Base, obtained by distilling DeepSeek-R1-0528-Qwen3-8B. The 8B model is
 - The new model is better than Qwen3-8B in AIME 2024, close to Qwen3-235B.
 
 - Demonstrate the high academic and industrial value of the “think chain” after distillation.
-(https://assets-v2.circle.so/4cexjbe4m88sxtx2f6vsuy500ix)
+![](https://assets-v2.circle.so/4cexjbe4m88sxtx2f6vvsuy500ix)
 
 #3. Increased ability to write
 
@@ -47,7 +47,7 @@ Qwen3-8B Base, obtained by distilling DeepSeek-R1-0528-Qwen3-8B. The 8B model is
 - Support long text output that is more structured and more closely aligned with humans.
 
 - Substantive increase in output capacity, especially for complex literatures such as ** papers, novels, essays, etc.
-(https://assets-v2.circle.so/6mzro4d69k59nldzrm3ifow3qg3s)
+![](https://assets-v2.circle.so/6mzro4d69k59nldzrm3ifow3qg3s)
 
 ## 4. Error control and hallucination rate drop
 
@@ -77,8 +77,8 @@ Airline 53.5%
 
 - Horizontally close to OpenAI o1-high, but slightly lower than O3-high, Claude 4 Sonnet.
 
-(https://assets-v2.circle.so/e1l6gsyx43pif5lhj3zgsj4dvc0w)** front-end code generation capability enhancement** and performance in complex multi-cycle dialogue tasks such as “role play”.
-!" (https://assets-v2.circle.so/bxpxjz9ciei6lh55cubt38kevpxp)
+![](https://assets-v2.circle.so/e1l6gsyx43pif5lhj3zgsj4dvc0w)**前端代码生成能力提升**，并提升在“角色扮演”等多轮对话复杂任务中的表现。
+![](https://assets-v2.circle.so/bxpxjz9ciei6lh55cubt38kevpxp)
 # # 6 ** Problem repair and optimization**
 
 - Frequent problems in repairing the early R1 model:
@@ -91,7 +91,7 @@ Airline 53.5%
 Output is more standardized and ** suitable for use in professional settings**.
 
 # Multitask capability excellence
-(https://assets-v2.circle.so/gtq5ems4nbbww7fel57rexhbefe)
+![](https://assets-v2.circle.so/gtq5ems4nbbww7f0el57rexhbefe)
 - **Benchmark evaluation**: In the assessment of **LiveCodeBench** code generation developed by UC Berkeley, MIT and Cornell:
 R1-0528 is comparable to front-line model performances such as **OpenAI ' s o3** and slightly less than **o4 mini**, especially in mathematics, programming and complex reasoning tasks.
 
@@ -99,7 +99,7 @@ R1-0528 is comparable to front-line model performances such as **OpenAI ' s o3**
 
 The reasoning is more deliberate, the chain-based reasoning (Chain-of-Thought, CT) is more structured and the output format is more natural.
 This achievement further enhances the influence of DeepSeek in the technological competition of AI in Central America.
-(https://assets-v2.Circle.so/io4j1766fe2nu4razu7azekgbtz0) DeepSeek has uploaded R1-0528 to Hugging Face, but no public description or model description has yet been published.
+![](https://assets-v2.circle.so/io4j1766fe2nu4razu7azekgbtz0)DeepSeek已将 R1-0528 上传至 Hugging Face，但尚未发布公开说明或模型描述。
 
 # **API Update*** * **
 API has been synchronized and the interfaces and calls remain unchanged. The new R1 API still supports the reflection process of viewing models, with additional support for Action Calling and JsonOutput.

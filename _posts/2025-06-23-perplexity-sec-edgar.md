@@ -39,7 +39,7 @@ In the past, individual investors used to rely on second-hand financial news, bl
 - It's difficult to conduct further in-depth studies.
 
 In contrast, the SEC integration of Perplexity has the following advantages:
-(https://assets-v2.circle.so/2lfx8571oydte9c1fsiiwajatfyb)
+![](https://assets-v2.circle.so/2lfx8571oydte9c1fsiiwajatfyb)
 # Who's best suited to use this function?
 
 - **General investors**: it is possible to independently judge the value of companies without relying on intermediaries

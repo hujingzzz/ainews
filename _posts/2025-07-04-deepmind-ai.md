@@ -19,9 +19,9 @@ Deepmind has launched a new generation of Gemini Robotics On-Device robot AI mod
 - ** Achieving universal operating capability and rapid adaptation to new tasks**  Improving robotic interoperability.
 
 ** Gemini Robotics robotic model ** first launched in March 2025, based on the Gemini model, incorporating the operational reasoning of the physical world in combination with the capabilities of vision, language and motion (VLA).
-(https://assets-v2.circle.so/0p2ci3src0jg5k3qdfecah25n)
+![](https://assets-v2.circle.so/0p2ci3src0jg5k3qdfecah25nkhn)
 # Model capacity: What can it do?
-!" (https://assets-v2.circle.so/dgiokkn48zb7b75r6y954a4preh)
+![](https://assets-v2.circle.so/dgiokkn48zb7b75r6y954a4prehh)
 # Technical characteristics
 1. Optimization of local deployment
 
@@ -43,15 +43,15 @@ Deepmind has launched a new generation of Gemini Robotics On-Device robot AI mod
 In many tests, performance was better than that of existing models:
 
 - ** Higher mission completion rate**: In particular, in missions or new environments not previously seen, the model demonstrates a stronger generalization capability.
-!" (https://assets-v2.circle.so/gfm4bayqbl47ft4fk5i614p8u2n2)
+![](https://assets-v2.circle.so/gfm4bayqbl47ft4fk5i614p8u2n2)
 - ** Directive follows:** More challenging extra-distributive tasks and complex multi-step directives are superior to other local alternatives.
-!" (https://assets-v2.circle.so/zaxjzqrcht2tv6j648oiajud96j2)
+![](https://assets-v2.circle.so/zaxjzqrcht2tv6j648oiajud96j2)
 - ** Response is faster**: benefits from local operations, no need to wait for cloud to return results.
 
 - ** More stable implementation**: high levels of consistency can also be maintained on different robotic platforms.
 
 ** Examples of experimental missions:**
-!" (https://assets-v2.circle.so/mjbfvr6hf0e52znqr5wee7ngr3b0)
+![](https://assets-v2.circle.so/mjbfvr6hf0e52znqr5wee7ngr3b0)
 Fitness: not only running, but also crossing the platform
 
 - After training on the ALOHA platform, move to:
@@ -60,9 +60,9 @@ Fitness: not only running, but also crossing the platform
 - **Apollo Emulator**: Operation of natural language in family/service-type environments.
 
 It is worth noting that such cross-platform migration** does not require re-training models** and requires minor adjustments to use the same intelligence capabilities.
-(https://assets-v2.circle.so/dfl0wl73hm3c5nr9330vnrj0zcva)
+![](https://assets-v2.circle.so/dfl0wl73hm3c5nr9330vnrj0zcva)
 # Developer supports: How to engage and use it?
-(https://assets-v2.circle.so/pgc6wk4pzcdxm0qj7v157acafob3)
+![](https://assets-v2.circle.so/pgc6wk4pzcdxm0qj7v157acafob3)MuJoCo
 Gemini Robotics SDK
 Gemini Robots tech report
 ** Gemini Robotics On-Device marks the new phase of robot AI into “available”, “deploymentable” and “widening”.**

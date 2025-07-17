@@ -107,7 +107,7 @@ Detailed documents: https://docs.firecrawl.dev/features/search
 #Firesearch: A deep network research tool driven by AI
 To demonstrate the ability of this new function, Firecrawl has also developed an open source application **Firesearch**, which is a research tool showing how /search can be used to construct a complete research product.
 **Firesearch** is a smart search tool built in conjunction with Firecrawl /search API and OpenAI GPT-4o, which allows multi-wheel, multi-source web-based information capture, analysis and integration and applies to research and question-and-answer scenarios on complex issues.
-(https://assets-v2.circle.so/z2xprmkyz1zkcm89jsd2lbkbn7b3)
+![](https://assets-v2.circle.so/z2xprmkyz1zkcm89jsd2lbkbn7b3)
 ♪ ♪ ♪ ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh
 **Intelligent search process (structure dismantling)**
 **Query Decomposition** Dismantling complex issues into smaller, manageable sub-issues
@@ -129,7 +129,7 @@ To demonstrate the ability of this new function, Firecrawl has also developed an
 -  Configureable parameters (e.g. maximum number of queries, minimum content length, overtime, etc.)
 
 # # Core technical components #
-(https://assets-v2.circle.so/53krff3ol3pyue4r4rngefiuqosx) GitHub: https://github.com/mendableai/firesearch
+![](https://assets-v2.circle.so/53krff3ol3pyue4r4rngefiuqosx)GitHub：https://github.com/mendableai/firesearch 
 
 # Deep Job Researcher
 **Deep Job Researcher** is a full-store application based on **Next.js** developed to help job-seekers to match job information on the Internet by uploading their resumes. It also combines /search web-capability with **Firecrawl** synonyms for **OpenAI** and provides in-depth individualized job references.

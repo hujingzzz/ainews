@@ -32,7 +32,7 @@ This means:** You can use a flexible mix of business models (image/video/multi-m
 ComfyUI Adds primary access support to the following **11 model series** totals **65 nodes** covering multi-model tasks such as image, video, text-to-video, image-to-video.
 
 # #
-(https://assets-v2.circle.so/fgk399zgqypd1otehvj7m3scovy5) [https://assets-v2.circle.so/djh9a87lxny63szj5i4t73g3n0k] Users can call the models by dragging and dropping no separate login from each platform to support the combination call.
+![](https://assets-v2.circle.so/fgk399zgqypd1otehvj7m3scovy5)![](https://assets-v2.circle.so/djh9a87lxsny63szj5i4t73g3n0k)👉 用户通过拖放这些节点即可调用模型，无需单独登录每个平台，支持组合调用。
 
 # Details of how to use the workflow
 
@@ -41,7 +41,7 @@ ComfyUI Adds primary access support to the following **11 model series** totals 
 Login / Register account, purchase or bind API fractions of an existing platform
 Open: Workflow  BrowseTemplates  Image API / Video API
 Select template to run directly
-<[https://assets-v2.circle.so/w3dmoa9s88gak2vnoqi070mqzvt0] [https://assets-v2.circle.so/cfgflq6zmy347pryiq08kkkf4nvd][https://assets-v2.circle.so/w3dmoa9s88gak2vnoqi0qvt0kz0] [https://assets-v2.circle.so/cffffffllq6zmy347pryiq08kf4nvd] [https://assets-v2.v2.circle.so/kb8nw7vju3mwkbbieca] [https://assets-assets-v2.hu57jp17kz].
+![](https://assets-v2.circle.so/w3dmoa9s88gak2vnoqi070mqzvt0)![](https://assets-v2.circle.so/cfgfllq6zmy347pryiq08kkf4nvd)![](https://assets-v2.circle.so/k37s4gj8nita6onhu57j0p17q4kz)![](https://assets-v2.circle.so/kb8nww6lez7evajyu3mwkbbieoca)✅ 你也可以使用“**Bring Your Own API Key（自带 Key）**”模式，绑定自己在其他平台已有的 API 凭证，例如你在 Pika、Luma、OpenAI 上已有订阅或额度。
 
 # #
 When calling multiple external APIs (e.g. image+video+subtitles), ComfyUI automatically executes different nodes in parallel, significantly increasing overall generation speed.
@@ -55,7 +55,7 @@ Luma Photon, plus real sense of light.
 
 - Video + Description Pika Generate Animated White Camera
 
-(https://assets-v2.circle.so/3rx51q3s60o55mkr9u5njpwr)
+![](https://assets-v2.circle.so/3rx51q3es60o55mkr9xu5n9ajpwr)
 # First introduction of VIDEO type native support
 This is the first time that ComfyUI supports a "video generation" type of node (VIDEO type), meaning that:
 
@@ -75,7 +75,7 @@ In addition to technical upgrades, ComfyUI has officially launched a brand-new v
 - ** fonts and colours: ** joined 90-year kinetic style + Y2K digital sense;
 
 - ** Expression of ideas: ** Retains the community spirit of “free, accessible, hacking”, emphasizing that instrumentality coexists with open creativity.
-(https://assets-v2.circle.so/5zfppon56jnchf08pte3hpn295m)
+![](https://assets-v2.circle.so/5zfpponn56jnchf08pte3hpn295m)
 Officially, “What we want to convey is that ComfyUI is still free and open, but it has also become a powerful tool that can really be used in the production process.”
 
 # What's the point of summing up?

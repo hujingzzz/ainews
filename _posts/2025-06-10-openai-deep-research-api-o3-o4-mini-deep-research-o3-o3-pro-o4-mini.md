@@ -24,12 +24,12 @@ Deep Research API is an advanced API interface provided by OpenAI to support com
 - Multiple-step mission tracking;
 
 It is a “Agentic Research Pipeline” that provides far more research control than ChatGPT.
-(https://assets-v2.circle.so/cbn4lqh4wotyraksqz4xptvq6wtk) OpenAI also launched two API models specifically designed to optimize in-depth research missions
+![](https://assets-v2.circle.so/cbn4lqh4wotyraksqz4xptvq6wtk)OpenAI 还推出了两款专为深度研究任务优化的 API 模型
 
 - **o3-deep-research (06-25)**: Based on o3 models, for tasks requiring in-depth analysis and high-quality output, at a slower pace. Pricing is $10 per million in a currency, at $40 per 1 million output.
-(https://assets-v2.circle.so/qnvinzyitibihf7d8vqueadc3yo5)
+![](https://assets-v2.circle.so/qnvinzyitibihf7d8vqueadc3yo5)
 - **o4-mini-deep-research (06-25)**: Based on the o4-mini model, provide faster and more economical options suitable for a delayed-sensitive application. Pricing is $2 per million input, at $8 per 1 million output.
-(https://assets-v2.circle.so/70w78ynchkh16ngkavly9ala39ggu)
+![](https://assets-v2.circle.so/70w78ynckh16ngkavly9ala39ggu)
 These two models allow for automatic planning of sub-problems, using tools such as web search and code enforcement to generate structured and referenced reports that apply to areas such as finance, scientific research and policy analysis.
 These models are later training versions of the o3 and o4-mini models used in the ChatGPT in-depth research function. They support advanced functions such as MCP (search/access), code interpreter, and can synthesize information from user data imported through the Internet or through the MCP connector. They specialize in complex multi-step task design.
 Details:
@@ -65,6 +65,6 @@ Further details: https://platform.openai.com/docs/guides/webbooks
 OpenAI DevDay 2025 is scheduled to take place in San Francisco on 6 October 2025.
 The event is considered the largest to date and is expected to involve more than 1,500 developers.
 The event will include live opening keynote addresses, hands-on build-up with up-to-date models and tools, multistage presentations and more presentations.
-https://assets-v2.circle.so/1e71n5fut684tx0a0hu1oe719clm)
+![](https://assets-v2.circle.so/1e71n5fut684tx0a0hu1oe719cln)报名：https://www.devday.openai.com/
 
 # I'll be right back #

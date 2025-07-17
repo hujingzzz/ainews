@@ -12,7 +12,7 @@ icon: web
 OpenAI officially announced today the acquisition of AI Reference Systems Inc. **Crossing Minds**, whose entire team has joined OpenAI.
 **Crossing Minds** A pioneer start-up company focusing on e-commerce A.I.'s referral system. This time, it's not a direct “buy-up company” but it's integrating its core members into OpenAI.
 The acquisition was aimed at strengthening the capacity of OpenAI in key areas such as personalization referral, retrieval enhancement (RAG) and real-time user modelling, and accelerating the landing of General Artificial Intelligence (AGI) in practical applications.
-!" (https://assets-v2.circle.so/k2bihhppnld7s9yjhy5rclimh)
+![](https://assets-v2.circle.so/k2bihhhpptnld7s9yjhy5rcklimh)
 # Crossing Minds Introduction
 
 - Focus on the development of ** behavioral data-based recommended systems for electronics platforms**

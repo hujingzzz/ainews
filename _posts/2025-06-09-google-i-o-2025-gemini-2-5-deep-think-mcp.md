@@ -21,7 +21,7 @@ At the Google I/O 2025 Congress, Google announced **Gemini 2.5 Pro and Flash fun
 
 - Security and development experience optimization
 
-!" (https://assets-v2.circle.so/hv5w2hc9u8evu8kqrqmj59qejmeg)
+![](https://assets-v2.circle.so/hv5w2hc9u8evu8kqrqmj59qejmeg)
 #Gemini 2.5 Pro: A fully upgraded general model
 
 ♪ ♪ ooh ooh ooh ooh ooh ♪ ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh
@@ -57,7 +57,7 @@ Take the highest ELO rating 1415 (website development task) in **WebDev Arena** 
 
 - **MMMU** (multimodular reasoning): Accuracy **84.0%**.
 
-(https://assets-v2.circle.so/pvfua0ppm3ghplamfcigqotdl1)
+![](https://assets-v2.circle.so/pvfua0ppm3ghplallmfcigqotdl1)
 # The current state #
 
 - To “trusted developers” only;
@@ -74,7 +74,7 @@ Take the highest ELO rating 1415 (website development task) in **WebDev Arena** 
 
 - Token use reduction **20-30%**, significantly reducing reasoning costs.
 
-!" (https://assets-v2.circle.so/82gsc6ceven2s72axe1yb4qvmgg5)
+![](https://assets-v2.circle.so/82gsc6ceven2s72axe1yb4qvmgg5)
 # # Use the channel #
 
 - Developmenters and the public have been made available through Google AI Studio, Vertex AI and Gemini App.

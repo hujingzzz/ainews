@@ -17,7 +17,7 @@ These updates have significantly enhanced the ability of developers to build tex
 ** Multi-modular input enhancement (video understanding, etc.)**
 ** Development of tools and API structural updates (e.g., thoughts summary, browser control, astroactivity call)**
 ** More efficient and economical model access for developers (e.g. batch API)**
-(https://assets-v2.circle.so/kv57tyr4qmzos3g0w0zuwddvnt3o)
+![](https://assets-v2.circle.so/kv57tyr4qmzos3g0w0zuwddvnt3o)
 # Model update and capacity development
 
 # # 1. Gemini 2.5 Flash Preview new model

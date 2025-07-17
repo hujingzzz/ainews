@@ -24,7 +24,7 @@ It allows you to use historical information, dialogue style, preferences and pro
 It can be understood that:** for the first time your A.I. personal assistant has a truly “you” permanent memory module, which can also be called back and forth between various AIs, while ensuring that privacy and control are in the hands of users**.
 
 #  Core function bright spot
-!" (https://assets-v2.circle.so/c2kddhw25aoawk35g2ztlbe6m3)
+![](https://assets-v2.circle.so/c2kddhw25aoawk3535g2ztlbe6m3)
 # # Typical Uses
 ** Project context transmission**
 
@@ -52,15 +52,15 @@ Local priority (Local-First):
 - All data are only available locally by default and can be operated without network connections;
 
 - There will be no automatic synchronization to clouds unless the user takes the initiative to export or share the operation.
-!" (https://assets-v2.circle.so/zb6tbl7mw5it1fpvr6whl4xz4y)
+![](https://assets-v2.circle.so/zb6ttbl7mw5it1fpvr6whl4cxz4y)
 • Auditable (Permission-Based Access):
 
 - Each AI tool reading/writing memory requires explicit authorization;
 
 - Users can view detailed access logs and data uses.
 
-(https://assets-v2.circle.so/w2qwxjwu8bbzm2uej8ieq276rpf) MCP Clients (client tool) supports:
+![](https://assets-v2.circle.so/w2qwxjwu8bbzqm2uej8ieq276rpf)🧩 MCP Clients（客户端工具）支持：
 Currently compatible with Claude, Cursor, Windsurf, etc., can expand access to more LLM clients.
-!" (https://assets-v2.circle.so/uhhoeescu85f2kuu52t07wy6pd 696h)
+![](https://assets-v2.circle.so/uhoiecu85f2kuu52t07wy6pd696h)
 # To be published and planned functionality
-https://assets-v2.circle.so/1qjl69xw1p9vzq4pl55tl2ud4y6m)
+![](https://assets-v2.circle.so/1qjl69xw1p9vzq4pl55tl2ud4y6m)访问：https://mem0.ai/openmemory-mcp

@@ -59,11 +59,11 @@ More reliable function call capability (Function Calling):
 - ** Error rate drops, trigger rate increases** and developers can more easily construct a "Agentic Workflow" based on a combination of multi-step functions;
 
 - Developers of Gemini API access do not need to migrate and the system is automatically switched to a new version.
-!" (https://assets-v2.circle.so/stwlwumgauuv5eg4mt3yjmvu57o)
+![](https://assets-v2.circle.so/stwflwumgauuv5eg4mt3yjmvu57o)
 
 ##2.  Front-end development support for overall enhancement**
 Gemini 2.5 Pro has leapfroged to **WebDev Arena's number one ** in the front-end development field (the ranking for measuring human preferences).
-!" (https://assets-v2.circle.so/0k7vhicgwgv2nwefdl3g8e644ctg) can be used for the following typical tasks:
+![](https://assets-v2.circle.so/0k7vhicgwgv2nwefdl3g8e644ctg)可用于以下典型任务：
 
 - Conversion of the design to the actual web component (HTML + CSS + JS);
 

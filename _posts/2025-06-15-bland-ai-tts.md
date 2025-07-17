@@ -66,7 +66,7 @@ It's like, "You tell it what it says, it makes a voice out of the tone and emoti
 # # A breakthrough at the data level: a thousand times higher
 The bottom of any generation system is data quality. The Bland team believes that public voice data is not enough, especially for real dialogue modelling.
 They constructed a large-scale voice data set for **the industry,** with the following characteristics:
-(https://assets-v2.circle.so/b3zzwwqduz6nfhx1fgvjfxgmrq)
+![](https://assets-v2.circle.so/b3zzwwxqduz6nfhx1fgvjfxgmxrq)
 # Technology architecture core: from text LLM to voice LLM
 
 # # The common thinking of LLM #

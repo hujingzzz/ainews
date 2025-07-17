@@ -11,8 +11,8 @@ icon: note
 
 MiniMax released **MiniMax-M1,** the first global ** Open Source** large-scale mixed attention reasoning language model**. The main features of this model are the integration of **Mode (MoE)** and efficient **Lighting Attention** mechanisms, which have significant advantages in the speed of reasoning, long text processing and performance of complex tasks.
 In most missions, MiniMax-M1 ** is significantly superior to other open-source large models (e.g. Qwen3, DeepSeek-R1)** and is approaching or even partially exceeding commercial closed-source models.
-** (https://assets-v2.circle.so/1f5mzuq76ohtvlbhf36puu1t) The model is based on an earlier-generation model ** MiniMax-Text-01** developed with a total parameter size of **456 billion**, with each token activation parameter of **459 billion**, supporting context input for a maximum of **1 million tokens** (approximately eight times as high as DeepSeek R1).
-(https://assets-v2.circle.so/ffdi8r1a1kq2do0llguv07zzpsx1)
+![](https://assets-v2.circle.so/1f5mbmzuq76ohtvlbhfnh36puu1t)该模型基于前代模型 **MiniMax-Text-01** 开发，总参数规模为 **4560亿**，每个token激活参数为 **45.9亿**，支持最长 **100万tokens** 的上下文输入（约为 DeepSeek R1 的8倍）。
+![](https://assets-v2.circle.so/ffdi8r1a1kq2do0llguv07zzpsx1)
 # # Model version
 MiniMax-M1-40K: Context: 1 million
 MiniMax-M1-80K: Context: 1 million
@@ -40,10 +40,10 @@ MiniMax-M1-80K: Context: 1 million
 - ** Total cost is only $5.35 million**
 
 # MiniMax-M1 Performance
-(https://assets-v2.circle.so/xnnendtc6s9lodor6ie8rqa05joh)
+![](https://assets-v2.circle.so/xnnendtc6s9lodor6ie8rqa05joh)
 # I'll be right back #
 
-!" (https://assets-v2.circle.so/mvnoptmeh5yg8kshk0inqc2h)
+![](https://assets-v2.circle.so/mvnopfctmexh5yg8kshk0inqxc2h)
 # 1. ** Mathematical and logical reasoning**
 
 - High score in AIME 2024 competition **86.0%**

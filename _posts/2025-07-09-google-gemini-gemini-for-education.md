@@ -23,7 +23,7 @@ It is ** free** and can be used as long as schools use Google Worksspace for Edu
 
 # What can it do?
 ** Features useful to teachers:**
-(https://assets-v2.circle.so/q5appj1elsvfz3hbvruswj8d26r)** Quick Write Teaching Plan: ** A few minutes to generate the curriculum without starting it.
+![](https://assets-v2.circle.so/q5appj1elksvfz3hbvruswj8d26r)**快速写教学计划**：几分钟就能生成课程计划，不用从头写。
 ** Personalized content**: For example, different educational materials are produced for students at different levels.
 ** Automatic examination papers and operations**: also self-responsive.
 ** Learning inspiration**: You can ask it, "How to make math classes more interesting," and it will give you advice.
@@ -38,9 +38,9 @@ Creates a quick 8-second short video using Veo 3 (AI video generation tool for G
 - Convert a Word, PPT or PDF key into a form.
 
 - Savings of time by completing the results of the automated matrix.
-(https://assets-v2.circle.so/5v0gkf7hi4zgyuhkuvzphxhu7nxe)
+![](https://assets-v2.circle.so/5v0gkf7hi4zgyuhkuvzphxhu7nxe)
 ** Features useful to students:**
-(https://assets-v2.circle.so/tbrg8bz1j58lu2i90yfupcpta26j) Writing, refreshing, researching information: writing for you, taking notes and preparing the priorities of the examination.
+![](https://assets-v2.circle.so/tbrg8bz1j58lu2i90yfupcpta26j)写作、复习、查资料：帮你写作文、做学习笔记、整理考试重点。
 Turning learning materials into voice podcasts: they can be heard as they walk, as they are listening to podcasts.
 Voice chats: asking questions and explaining problems like chats.
 Gemini Canvas automatically generates tests and visual interpretation.

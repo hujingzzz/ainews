@@ -33,7 +33,7 @@ It's about:
 
 - **Role consistency, local editing, style migration, etc.**
 
-(https://assets-v2.circle.so/rgixc9ist6r5iybm8t6v5gk8bbiz)
+![](https://assets-v2.circle.so/rgixc9ist6r5iybm8t6v5gk8bbiz)
 # Kontext, what's the bright spot?
 **Coherence of roles**: Consistency of persons or elements can be maintained in multiple scenarios
 ** Partial editing**: editing only specific parts of the image, without prejudice to other regions
@@ -41,7 +41,7 @@ It's about:
 ** Rapid interaction**: rapid rotation, extremely low delay
 
 # Model version:
-!" (https://assets-v2.circle.so/o3ypo0yuueuvboee3ktkd0p4fqbm1)
+![](https://assets-v2.circle.so/o3ypo0yueuvboee3ktkd0p4fqbm1)
 - **FLUX.1 Kontext [pro]** Fits for fast-track iterative editing to support continuous editing, maintaining consistency of roles, identities, styles and features in multiple scenarios
 
 - **FLUX.1 Kontext [max]** High-performance version with greater ability to follow hints, better layout performance and consistency
@@ -52,8 +52,8 @@ It's about:
 
 ##  1. Text + Image Prompt
 Images can be generated not only by text, but also by uploading images and modifying them with text.
-!" (https://assets-v2.circle.so/8ba8rqxwqxaec0mfmfmptr5o0563)
-(https://assets-v2.circle.so/miiwix7vpuucq6gzrj3018dod67r)
+![](https://assets-v2.circle.so/8ba8rqxwqxaec0mfmbpxtr5o0563)
+![](https://assets-v2.circle.so/miiwix7vpuucq6gzrj3018dod67r)
 ##  2. Local Edition
 
 - It can be ** accurate to modify a part of the image** without affecting the overall style or other area.
@@ -61,7 +61,7 @@ Images can be generated not only by text, but also by uploading images and modif
 - There is no need for masking, stratification or image labelling.
 
 This means that:** You can, like a mechanic, just "move wherever you want."**
-(https://assets-v2.circle.so/pxbjoiptu5i3m09saytcuxig78oy)** left chart:** input image;** medium chart: ** edited according to input: “Replace `YOU HAD ME AT BEER' with `YOU HAD ME AT CONTEXT'”,** right figure: ** “Replace the scene to a nightclub”
+![](https://assets-v2.circle.so/pxbjoiptu5i3m09saytcuxig78oy)**左图：** 输入图像；** 中图 **：根据输入编辑：“将‘YOU HAD ME AT BEER’改为‘YOU HAD ME AT CONTEXT’”，** 右图：** “将场景改为夜总会”
 
 #3 3. Consistency between character and style (Character & Style Consistency)
 
@@ -70,8 +70,8 @@ This means that:** You can, like a mechanic, just "move wherever you want."**
 - A uniform expression of style (e.g., cartoons, writings, water colours) can also be maintained.
 
 The visual content used to construct continuous content (e.g. comic characters, virtual spokespersons) is very valuable.
-(https://assets-v2.circle.so/9zeemiyp08z2hnmne91ny2pvpc33) [] (https://assets-v2.circle.so/yvo2psmzrkd0utcn38z2l6mvvvgb)
-(https://assets-v2.circle.so/2ao6j32x4odz72vrcun6yz7izlv)
+![](https://assets-v2.circle.so/9zeemiyp08z2hnmne91ny2pvpc33)![](https://assets-v2.circle.so/yvo2psmzrkd0utcn38z2l6mvhvgb)
+![](https://assets-v2.circle.so/2ao6j32x4odz72vvrcun6yz7izlv)
 # #  4. Iterative Edition
 
 - You can change it over and over again to the same figure: "Let her laugh first, then put on the sunglasses, then change the background, then change the clothes."
@@ -79,7 +79,7 @@ The visual content used to construct continuous content (e.g. comic characters, 
 - Each step of change is based on the retention of the previous round.
 
 This is the first model system that allows multiple rounds of natural language to drive visual modification.
-(https://assets-v2.circle.so/dv035pl7xxxypwhjbcz8dtttl9158k)** left chart: ** Enter image; ** medium chart: ** Edited by input: “Stick her head towards the lens”,** right figure: ** “Let her laugh”
+![](https://assets-v2.circle.so/dv035pl7xxypwhjbcz8dttl9158k)**左图：** 输入图像；** 中图 **：根据输入编辑：“将她的头朝向镜头倾斜”，** 右图：** “让她笑”
 
 # # 5. Low Latency Infence
 
@@ -97,7 +97,7 @@ Black Forest Labs has proposed a new test set: **KontextBnch** to measure the mo
 ** Speed of response and efficiency of reasoning**
 The results showed that:
 
-(https://assets-v2.circle.so/cxabocmyo9w3lx4sj7p0tw56zw9g) **FLUX.1 Kontext [pro] is one of the best models of current performance on the core tasks of “role coherence” and “text editing accuracy”.**
+![](https://assets-v2.circle.so/cxabocmyo9w3lx4sj7p0tw56zw9g)✅ **FLUX.1 Kontext [pro] 在“角色一致性”和“文本编辑精度”两个核心任务上是当前表现最好的模型之一。**
 
 # They've also launched an interactive interface
 

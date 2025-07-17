@@ -11,7 +11,7 @@ icon: chat
 
 ** Kyutai STT** is an open source model developed by the Kyutai team for the optimization of the scene ** real-time speech-to-text**, with the main features of ** low delay, high accuracy, strong co-processing capacity**.
 ** Kyutai STT** Not only can be written with low delay, but also designed specifically for high-synchronous and real applications (e.g. voice dialogue systems) with ** semantic-level speech activity detection** capability.
-!" (https://assets-v2.circle.so/sg3ndph2svwjkmu83c480zonm33q) currently has two versions of the model:
+![](https://assets-v2.circle.so/sg3ndph2svwjkmu83c480zonm33q)目前开源了两个版本的模型：
 
 - kyutai/stt-1b-en_fr: English + French, low delay, suitable for interactive applications.
 
@@ -31,7 +31,7 @@ Kyutai STT supports ** real fluid voice recognition**, i.e.:
 - Accuracy of identification in comparison with non-current models (e.g. Whisper) can still be maintained at low delay.
 
 This is critical for real-time voice assistants, live caption generation, meeting transcription, etc.
-(https://assets-v2.circle.so/cqcutjipb078unn6sjfm30cfghp8)
+![](https://assets-v2.circle.so/cqcutjipb078unn6sjfm30cfghp8)
 ##2. Semantic VAD
 ** Background to the question:** The traditional dialogue system must judge “the user has spoken for a while”, which is usually judged by testing whether it has been “silent for some time”. But this method is unreliable — humans often talk with pauses (such as thinking) and are prone to miscalculation.
 **Kyutai solution:**Kyutai STT has a **semantic speech activity detection module** which not only reproduces text, but also predicts whether the speech is over.
@@ -66,7 +66,7 @@ Moshi is particularly suitable for large-scale deployment, with the core advanta
 - Supportable on **NVIDIA H100 GPU** **400 simultaneous voice flow processing**
 
 - Much more efficient than traditional models such as Whisper, which requires complex collage (e.g. Whisper-Streaming) and does not support batching, which has a low capacity for vomiting
-!" (https://assets-v2.circle.so/39bxzzbsx2au9nivdqet9uxnam2)
+![](https://assets-v2.circle.so/39bxzzbsx2au9nivdqet9uxnalm2)
 
 ##5. Multiplatform support
 Kyutai provided several platforms to adapt to different use scenarios:

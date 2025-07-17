@@ -13,7 +13,7 @@ OpenAI announced the introduction of two core functions that enable business use
 **Connectors (Connectors)**: Connects the in-house knowledge sources (e.g. GitHub, Dropbox, SharePoint, etc.) to ChatGPT for intelligent retrieval and analysis of private domain knowledge.
 **Record Mode (Record Mode)** Automatic recording, transcription, summary of meeting content to transform oral communication into searchable structured knowledge.
 Through a completely new **connector system**, users can access ChatGPT to key tools such as Outlook, Google Drive, and Gmail, as well as real-time contextual information within the limits of the permissions. For enterprise-level users, access to services such as SharePoint, Dropbox, Box etc. is also supported.
-!" (https://assets-v2.circle.so/9efqgovr4x9vaafak6j3jtkenj7)
+![](https://assets-v2.circle.so/9efqgovr4x9va0afak6j3jtkenj7)
 - **ChhatGPT enhanced connectivity to third-party applications**, allowing direct access to real-time context content.
 
 - All connectors** follow existing user privileges** and do not overstep access data.
@@ -21,7 +21,7 @@ Through a completely new **connector system**, users can access ChatGPT to key t
 - The new functionality is opened in stages, with different privileges and applications for users.
 
 - Most connectors are used mainly for in-depth research functions.
-!" (https://assets-v2.circle.so/mcjr3gqoo5l7z9kq73byte6l2ytp)
+![](https://assets-v2.circle.so/mcjr3gqoo5l7z9kq73byte6l2ytp)
 
 # Connectors
 
@@ -88,7 +88,7 @@ Additional connector** (Team, Enterprise, Edu only):
 - Dropbox.
 
 - Box.
-(https://assets-v2.circle.so/dqkpdkve13zutnoo86r4vbi7k0p0)
+![](https://assets-v2.circle.so/dqkpdkve13zutnoo86r4vbi7k0p0)
 
 # I'll be right back #
 
@@ -106,7 +106,7 @@ Voice to Text
 
 Currently only Team users on macos
 ** To be extended to: **Plus, Pro, Enterprise, Edu users
-(https://assets-v2.circle.so/1hppttypekok0qfdmq0vu554mwd)
+![](https://assets-v2.circle.so/1hpppttypekok0qfdmq0vu554mwd)
 # # # core function #
 
 - **Auto-reproduced + Structured Summary**:

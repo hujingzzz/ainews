@@ -16,7 +16,7 @@ Once this length is exceeded, what has been said will be cut off and lost, resul
 
 - User experience is declining. Robot reaction is "forgetting."
 
-** (https://assets-v2.circle.so/vplpxb7gbqtpx5l83tpup7139vn)**Supermemory **Infinite Chat API**, which expands the context length of any model. It allows your chatting to be “long-term memory” and does not need to rewrite any application logic.
+![](https://assets-v2.circle.so/vplpxb7gbqtpxx5l83tpup7139vn)**Supermemory **为了解决这个问题， 推出 **Infinite Chat API**，可扩展任何模型的上下文长度。它可以让你的聊天应用“拥有长期记忆”，而且无需重写任何应用逻辑。
 It is transparently integrated as an agent (proxy) at the front end of the existing LLM (large language model) API, and does not need to change the application logic to support the ultra-long dialogue.
 
 - claims that ** saves 90% token and costs**, while also enhancing model performance.

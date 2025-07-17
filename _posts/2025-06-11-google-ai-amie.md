@@ -15,7 +15,7 @@ icon: lock
 ** Think like a doctor**: A dialogue process for class doctors has been built to support ** staged state perception reasoning.** It will judge what is missing from the information currently available and then automatically ask questions or request images, such as, "Please upload your skin photos."
 ** The dialogue is more like a real-life consultation**: the entire exchange is structured: first, then diagnosis, and finally advice or follow-up.
 ** AMIE multi-model upgrade means that AAI is evolving from a “linguist” to a “dialogue doctor's assistant”** with a basic diagnostic reasoning to interact with human machines and may become a core support tool in the health system in the future.
-!" (https://assets-v2.circle.so/xlfobgorxsuft4pdkl4c2r17o1v9)
+![](https://assets-v2.circle.so/xlfobgorxsuft4pdkl4c2r17o1v9)
 # AMIE 's Visual Brain: Multimodular + State Perception Logic Structure
 AMIE ' s multi-model capacity was developed through fine-tuning Gemini 2.0 Flash using diverse medical data (including images (e.g. dermatological photographs), time series data (e.g. electrocardiograms) and table data (e.g. laboratory results). This enabled AMIE to process a wide range of clinical inputs as a more common tool in diagnostic dialogue.
 ** Core mechanism: Status-Aware Dialogue**
@@ -26,8 +26,8 @@ AMIE simulator ' s consultation strategy has the following capabilities:
 ** Explain visual information and adjust diagnostic thinking**
 ** Multiple question-and-answer rounds to guide further examination or decision-making**
 
-(https://assets-v2.circle.so/unr7bvvxlre21lsp9xpbikb83gk)**
-!" (https://assets-v2.circle.so/ijjs3j9bwfhzq00yadauhld7nvgw)
+![](https://assets-v2.circle.so/unr7bvvxlre21lsp9xxpbikb83gk)**📌 三阶段对话结构：**
+![](https://assets-v2.circle.so/ijjs3j9bwfhzq00yadauhld7nvgw)
 # How does it train and test?
 Google has built a simulated medical environment:
 
@@ -39,13 +39,13 @@ Google has built a simulated medical environment:
 
 To efficiently validate the quality of the system, Google constructed ** a complete dialogue simulation assessment framework**:
 
-(https://assets-v2.circle.so/x90ro26bmwfa7acyuyxlb5sct4j1) ** Simulation process:**
+![](https://assets-v2.circle.so/x90ro26bmwfa7acyuyxlb5sct4j1)**🧰 模拟流程：**
 ** Patient simulator** produces virtual patient files (with visual information)
 **AMIE** Multicycle multimodel dialogue with virtual patients
 ** Evaluation agent (auto-rater)** Ratings based on standard indicators:
-!" (https://assets-v2.circle.so/q363nxyat6lumykw5k67p77nz01u)
+![](https://assets-v2.circle.so/q363nxyat6lumykw5k67p77nz01u)
 # I'll be right back #
-(https://assets-v2.circle.so/pcj52x2hbghuc5t2ehisiqpd2axp)
+![](https://assets-v2.circle.so/pcj52x2hbghuc5t2ehisiqpd2axp)
 # What about the test results?
 AMIE is in many ways more than even a real junior doctor:
 
@@ -71,13 +71,13 @@ Using medical education standards for evaluation: ** Simulation of structured cl
 
 - Blind scoring by dermatology/hearts/minors
 
-(https://assets-v2.circle.so/gq41addk84wqgmiqok87v84uri)**
-(https://assets-v2.circle.so/es4v9d3xqaftbirr4jrjr9hvnzr) Experts generally agree that AMIE is more systematic, sensitive and articulate, especially in handling image information than most PCPs.
-(https://assets-v2.circle.so/0voq7nusgb86s0wzk5i1tg0lafz)
+![](https://assets-v2.circle.so/gq41adfk84wqgcmiqqok87v84uri)**🏆 实验结果：**
+![](https://assets-v2.circle.so/es4v9dr3xqaftbirr4jrja9hvnzr)专家普遍认为：AMIE 更系统、敏锐、表达更清晰，尤其在处理图像信息时表现优于多数 PCP。
+![](https://assets-v2.circle.so/0voq7qnusgb86s0wzk5i1tg0lafz)
 ## Bottom model upgrade experiment: Gemini 2.0 Flash 2.5 Flash
 Preliminary assessment results (automated simulation):
-(https://assets-v2.circle.so/ab5ld1pth29lxgxuf5z1r0aohq0z)
-(https://assets-v2.circle.so/5le1smrubmx7qcw63nujmj8pg4s2) ** Meaning**: Basic model upgrades the level of direct-led dialogue intelligence  continuous iterative value.
+![](https://assets-v2.circle.so/ab5ld1pth29lxgxuf5z1r0aohq0z)
+![](https://assets-v2.circle.so/5le1smrubmx7qcw63nujmj8pg4s2)📌 **意义**：基础模型提升直接带动对话智能水平 → 持续迭代价值巨大。
 Google says:
 
 - These results are currently only being tested in the simulated environment and need to be further tested in real hospitals.

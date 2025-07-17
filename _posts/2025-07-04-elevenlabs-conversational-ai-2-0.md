@@ -63,7 +63,7 @@ Automatic Notification Sending
 Strengths: More efficient, harmonized information and reduced labour burden.
 
 # Enterprise-level trust mechanisms and compliance design
-(https://assets-v2.circle.so/sn2shopl78svw39s7bk7rpo2bh)** Enterprise level deployment security**
+![](https://assets-v2.circle.so/sn2shappl78svw39vs7bk7rpo2bh)**企业级部署保障**
 
 - Complete **HIPAA Compliance** (Support medical data application)
 

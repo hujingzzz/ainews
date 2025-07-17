@@ -39,13 +39,13 @@ Multiverse redesigned the structure to fit multiple scenes:
 
 - ** Parallel top sampler**: two low-resolution frames are sampled separately, but consistent image style and dynamic information.
 
-(https://assets-v2.circle.so/80znrdzd1n63gccprglqjzf18nku) ** Critical ** In a multi-faceted scene, AI must generate two visions at the same time, but the content must be the same. ** That is, ** When you see the crash, I must also see it **.
+![](https://assets-v2.circle.so/80znrdzd1n63gccprglqjzf18nku)📌 **关键问题**：多人场景下，AI 必须同时生成两个视角的画面，但画面内容必须对齐。也就是说，**你看到车撞过来，我也必须看到车撞过来**。
 
 #  Enter data structure design: the way the visual perspective is integrated
 In order to achieve shared perception, the team has tried two ways of visual integration:
 **Split-screen**: As with traditional split-screen games, two images are collated up and down.
 ** Channel Track integration**: stacks two frames of images along the RGB channel dimensions (i.e., converts each pixel into six channels).
-(https://assets-v2.circle.so/o8n0dy5sqijflf8mxg84uj9p) shows that:** the axis of the channel is better integrated**, as this way allows the U-Net network to process information from both angles in all volume layers at the same time and enhance the logic of the image.
+![](https://assets-v2.circle.so/o8n0dy5soppsqijflf8mxg84uj9p)结果表明：**通道轴融合更优**，因为这种方式可以让 U-Net 网络在所有卷积层中同时处理两个视角的信息，提升画面逻辑一致性。
 
 #  Long time sequence modelling and context optimization
 
@@ -55,7 +55,7 @@ In order to achieve shared perception, the team has tried two ways of visual int
 
 - ** Long-term interactions (e.g., overcarriage, collisions)**: 0.5 to 1 second or even longer span is required.
 
-!" (https://assets-v2.circle.so/9x06ka6sn2e7wfb92ows1179jj2)
+![](https://assets-v2.circle.so/9x06ka6sn2e7wfb92qows1179jj2)
 ## Solution: ** Frog time sampling + tier prediction**
 
 - Use the most recent 4 frames + take 1 frame per 4 frames (8 frames in total) to get a longer sense without increasing the visible pressure.
@@ -91,6 +91,6 @@ In order to achieve shared perception, the team has tried two ways of visual int
 - Introduction of efficient training strategies and replicable data pipelines to support the opening up of community recovery and validation.
 
 Potential applications:
-https://assets-v2.circle.so/Rolivejo1gd7ku1747rkbzxfwfbh) official presentation: https://enigma-labs.io/blog
+![](https://assets-v2.circle.so/rolivejo1gd7ku1747rkbzxfwfbh)官方介绍：https://enigma-labs.io/blog 
 GitHub: https://github.com/EnigmaLabsAI/multiverse
 Models: https://huggingface.co/Enigma-AI

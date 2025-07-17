@@ -40,7 +40,7 @@ Enables/disables search (search_parameters.mode).
 
 - **Developer Innovation**: Build AI applications based on real-time data, such as chat robots or information aggregation tools.
 
-(https://assets-v2.circle.so/t3d3bramkgact4ubme7f00pr0yv)
+![](https://assets-v2.circle.so/t3d3brramkgact4ubme7f00pr0yv)
 # Working mechanisms
 
 # # The core advantage #
@@ -56,12 +56,12 @@ Add fields to the chat requests:
 "Search_parameters": {
 "mode": "on" / "auto" / "off"
 } [] (https://assets-v2.circle.so/roc5lmfiu4eazyhex4o6rll0d6ei)  Available data source type (as specified by source field)
-Example < [https://assets-v2.circle.so/zbgvky8i40gicgmor357yibhyquq: Allow models to find news+X platform content:
+![](https://assets-v2.circle.so/zbgvky8i40gicgmor357yibhyquq)示例：允许模型查找新闻+X 平台内容：
 "sources": [ Chuckles ]
 {"type": "news"}
 {"type": "x"}
 Advanced Parameter Configuration Support
-(https://assets-v2.circle.so/9hclggg6ilg9c8ooouica1jkl9c)
+![](https://assets-v2.circle.so/9hclggzg6ilg9c8ooouica1jkl9c)
 #  out of behavioral description
 
 - In streaming responses, the fields return only in the last (chunk);

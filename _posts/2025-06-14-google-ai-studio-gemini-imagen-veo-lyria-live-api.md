@@ -59,7 +59,7 @@ Google officially launched a new upgrade on I/O 2025** for the developers to pro
 
 - **URL Context experimental function** Models can read the content of web links for summary, match, research and verification.
 
-(https://assets-v2.circle.so/7h2iek5iq7e3bb4vqubbq5pc1 )
+![](https://assets-v2.circle.so/7h2iek5iq7e3bb4vqubbq5pc1fsp)
 # 1. **New "Build" tab: extremely simple generation from prompt to App**
 
 - The new Build panel set up as a **Gemini 2.5 Pro** model
@@ -111,7 +111,7 @@ One-stop call multi-module modeling, adapted to applications of creativity, educ
 - Access to open source tools and third-party frameworks
 
 - Provision of standard interfaces for the construction of complex dialogue systems or multi-model interactive applications
-!" (https://assets-v2.circle.so/lkl85uvcozqx72jom8h20w3l4vql)
+![](https://assets-v2.circle.so/lkl85uvcozqx72jom8h20w3l4vql)
 Example screenshot display: Colosseum query side by side with code view
 
 # 6. ** Experimental function: URL Context, let model read web page**

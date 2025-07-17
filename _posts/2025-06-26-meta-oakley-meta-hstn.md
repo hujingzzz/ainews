@@ -45,7 +45,7 @@ Query for real-time information, such as weather, wind speed, wave state or game
 3. ** Strong visual experience**:
 
 - **PrizMTM Lens technology**: These glasses are uniquely owned by Oakley **PrizMTM mirror technology** that enhances color contrasts and visual clarity. Especially under different light or weather conditions, this technology helps you see more details and reacts more quickly. For example, little details on the field or ice reflections during skiing.
-!" (https://assets-v2.circle.so/kh9r8ueqbloocw6gyqcxaij32nw9)
+![](https://assets-v2.circle.so/kh9r8ueqbloocw6gyqcxaij32nw9)
 - **12MP ultra wide-angle camera**
 **Resolution**: Supports video recording up to 3K (2880 x 1620), significantly better than Ray-Ban Meta's 1080p (1920 x 1080).
 
@@ -75,18 +75,18 @@ Query for real-time information, such as weather, wind speed, wave state or game
 - **19-hour waiting period**: even if not used, glasses can be held for **19 hours**.
 
 - ** Quick charge**: charge **50% in 20 minutes so you can quickly restore the power and continue to use it.
-!" (https://assets-v2.circle.so/cbth9m9igksjexm52zp6855ml98)
+![](https://assets-v2.circle.so/cbth9m9igksjexm52zp68555ml98)
 
 # #  ** Product sales and pricing**:
 
 - ** Restricted version** Oakley Meta HSTN will be ready for sale on ** 11 July** at a price of **499 United States dollars**.
 
 - The start-up price for the generic version is **$399**, which will be available later in several regions, including the United States, Canada and Europe.
-(https://assets-v2.circle.so/284jjjzhwpsrifjbe4qvov2z1h)
+![](https://assets-v2.circle.so/284jjjzhzwpssrifjbe4qvov2z1h)
 ** Distinction from Ray-Ban Meta**:
 
 - Higher resolution cameras (3K vs 1080p), longer batteries (8 hours vs 4 hours), larger capacity charge boxes (48 hours vs 36 hours).
 
 - More mobile design, oriented towards performance and durability.
-!" (https://assets-v2.circle.so/r0needq8cxji3bgenfp9aq8zq2m4)
+![](https://assets-v2.circle.so/r0needq8cxji3bgenfp9aq8zq2m4)
 Web site: https://www.meta.com/ai-glasses/oakley-meta-hstn/

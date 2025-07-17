@@ -34,7 +34,7 @@ Claude Artifacts is an interactive AI application construction module launched b
 - All Artifact projects can be **'fork'** - i.e. copied and personalized.
 
 - Includes a variety of templates, such as games, flashcards, programming tools, creative exercises, etc. (see screenshots and videos).
-(https://assets-v2.circle.so/6l66pijrzdswmikwl0jidklo6an)
+![](https://assets-v2.circle.so/6l66pijrmzdswmikwl0jidklo6an)
 
 - ** Use of scene**
 Educational applications: generating interactive learning tools
@@ -121,13 +121,13 @@ Claude's Artifact currently supports **text completion logic** suitable for AI a
 Claude supports artifacts not only as tools, but also as creative works. You can start in these directions:
 
 - ** Teaching Assistant**: For example, interactive mentors or learning partners understand the context of user learning needs. For example: a code review assistant who can provide detailed feedback based on predefined styles and best practices; or a language learning tool that allows you to talk and practice in the preferred language.
-(https://assets-v2.circle.so/m5w4dl6kn6gieaxu56tthzppruku)
+![](https://assets-v2.circle.so/m5w4dl6kn6gieaxu56tthzppruku)
 - ** Content generation tool**: help with brainstorms, help with the development and refinement of content creation, and reduce duplication of effort. For example, organize internal Slack posts into files suitable for sending to LinkedIn, or convert input into a page of product demand documents (PRD).
-(https://assets-v2.circle.so/dekzeq80o34it77xblftos5ktuy3)
+![](https://assets-v2.circle.so/dekzeq80o34it77xblftos5ktuy3)
 - **Analysis and decision support tools**: Smart tools to process user data and support decision-making through dialogue to enhance organizational efficiency. For example, help teams to deepen their analysis of issues based on the " Why " framework.
-!" (https://assets-v2.circle.so/y5p6rwenwvx2bauebt0k6r2oizhk)
+![](https://assets-v2.circle.so/y5p6rwenwvx2bauebt0k6r2oizhk)
 - **Incentives**: The best applications often come from wonders and unique perspectives. For example, a dream machine, a love book generator, a film name recommendation machine... your brain hole is big enough for Claude to help you land.
-(https://assets-v2.circle.so/0cp1x13e8eqgcpyyyyygyrraxkv)
+![](https://assets-v2.circle.so/0cp1x13e8eqgcpyfyygngyrarxkv)
 
 # Step three: publish and share your AI application
 Claude artifacts is a "prototype design" that doesn't require you to board a server or register API key, click "Publish" and you can generate a link that can be sent to friends, colleagues and even posted on social platforms.
@@ -137,7 +137,7 @@ Claude artifacts is a "prototype design" that doesn't require you to board a ser
 - The other party can copy and adapt without affecting your original code;
 
 - You can cancel sharing or managing shared works at any time.
-(https://assets-v2.circle.so/azlyd3b9hlbzv4chbl4xvjppe)
+![](https://assets-v2.circle.so/azlyd3b9hlbcbzv4chb0l4xvjppe)
 Click "Public" to publish applications
 The Artifact panel has a "Publish " button at the upper right corner, which generates the only access link.
 2. Sharing links to be tested by others
@@ -166,7 +166,7 @@ Copy code for enhanced development in your familiar development environment (e.g
 
 Claude Code Help
 Use the Claude Code model to assist you in the engineering of code structure optimization, functional development, Bug restoration, etc.
-The prototype (https://assets-v2.circle.so/mgvk31nnql6d6skrvvvvvvzncko) has been developed, thought out, tested and passed, and the rest is engineering.
+![](https://assets-v2.circle.so/mgvk31nnql6d6skrvzwvivxzncko)原型有了、思路清晰了、测试通过了，剩下的就是工程化的事了。
 
 # How to build Claude's application efficiently?
 There are practical techniques that can make you more rapid:
